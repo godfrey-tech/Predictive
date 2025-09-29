@@ -1,0 +1,47 @@
+Goteborg vs Degerfors: Home Win - High Risk
+Home:47,93% vs Away:29,09% vs Draw:22,98% Diff: 18,84%
+Home Av Gls: 1,15 vs Away Av Gls: 1,14
+Home Historical Av Gls: 1,38 vs Away Historical Av Gls: 1,11
+Over 1 Gls: 53,36% 
+Over 2 Gls: 26,62% 
+Results: 3:0
+
+Hearts vs Aberdeen: Away Win - No bet
+Home:40,26% vs Away:42,19% vs Draw:17,54% Diff: 1,93%
+Home Av Gls: 1,44 vs Away Av Gls: 1,28
+Home Historical Av Gls: 1,33 vs Away Historical Av Gls: 1,4
+Over 1 Gls: 42,17% 
+Over 2 Gls: 17,61% 
+Results: 2:0
+
+Athlone vs UC Dublin: Draw - Moderate Risk
+Home:0% vs Away:42,62% vs Draw:57,38% Diff: 42,62%
+Home Av Gls: 0 vs Away Av Gls: 0,53
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 0,7
+Over 1 Gls: 1,89% 
+Over 2 Gls: 0,13% 
+Results: 1:2
+
+Cobh Ramblers vs Wexford: Draw - No bet
+Home:NaN% vs Away:NaN% vs Draw:NaN% Diff: NaN%
+Home Av Gls: 0 vs Away Av Gls: 0
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 0,94
+Over 1 Gls: 0,68% 
+Over 2 Gls: 0,03% 
+Results: 4:0
+
+Dundalk vs Longford: Home Win - Moderate Risk
+Home:59,89% vs Away:6,27% vs Draw:33,84% Diff: 53,62%
+Home Av Gls: 1,14 vs Away Av Gls: 0
+Home Historical Av Gls: 1,71 vs Away Historical Av Gls: 0,84
+Over 1 Gls: 9,45% 
+Over 2 Gls: 1,55% 
+Results: 4:1
+
+Finn Harps vs Bray: Away Win - Very High Risk
+Home:33,73% vs Away:38,74% vs Draw:27,54% Diff: 5,01%
+Home Av Gls: 0 vs Away Av Gls: 1
+Home Historical Av Gls: 0,92 vs Away Historical Av Gls: 1,1
+Over 1 Gls: 7,23% 
+Over 2 Gls: 1,02% 
+Results: 2:2

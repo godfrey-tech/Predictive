@@ -1,0 +1,42 @@
+Sevilla vs Elche: Home Win - High Risk
+Home:42,34% vs Away:31,41% vs Draw:26,25% Diff: 10,93%
+Home Av Gls: 1,31 vs Away Av Gls: 0,81
+Home Historical Av Gls: 1,43 vs Away Historical Av Gls: 0,91
+Over 1 Gls: 37,72% 
+Over 2 Gls: 14,55% 
+
+Leverkusen vs Ein Frankfurt: Home Win - Moderate Risk
+Home:58,44% vs Away:24,28% vs Draw:17,28% Diff: 34,16%
+Home Av Gls: 2,32 vs Away Av Gls: 1,5
+Home Historical Av Gls: 1,9 vs Away Historical Av Gls: 1,47
+Over 1 Gls: 67,41% 
+Over 2 Gls: 40,97% 
+
+Marseille vs Lorient: Home Win - Moderate Risk
+Home:51,87% vs Away:27,63% vs Draw:20,5% Diff: 24,25%
+Home Av Gls: 1,64 vs Away Av Gls: 1,2
+Home Historical Av Gls: 1,59 vs Away Historical Av Gls: 1,21
+Over 1 Gls: 50,37% 
+Over 2 Gls: 24,02% 
+
+Ipswich vs Sheffield United: Home Win - No bet
+Home:45,7% vs Away:42,08% vs Draw:12,22% Diff: 3,62%
+Home Av Gls: 2 vs Away Av Gls: 1,42
+Home Historical Av Gls: 1,23 vs Away Historical Av Gls: 1,46
+Over 1 Gls: 35,02% 
+Over 2 Gls: 12,83% 
+
+Bohemians vs Derry City: Home Win - Very High Risk
+Home:44,09% vs Away:37,17% vs Draw:18,74% Diff: 6,92%
+Home Av Gls: 1,27 vs Away Av Gls: 1,4
+Home Historical Av Gls: 1,28 vs Away Historical Av Gls: 1,41
+Over 1 Gls: 33,84% 
+Over 2 Gls: 12,11% 
+
+Bodo/Glimt vs Kristiansund: Home Win - Moderate Risk
+Home:52,3% vs Away:29,94% vs Draw:17,77% Diff: 22,36%
+Home Av Gls: 2,52 vs Away Av Gls: 1,09
+Home Historical Av Gls: 2,19 vs Away Historical Av Gls: 1,4
+Over 1 Gls: 68,12% 
+Over 2 Gls: 41,8% 
+

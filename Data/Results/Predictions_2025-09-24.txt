@@ -1,0 +1,28 @@
+Getafe vs Alaves: Away Win - High Risk
+Home:28,94% vs Away:41,46% vs Draw:29,6% Diff: 12,52%
+Home Av Gls: 1 vs Away Av Gls: 0,95
+Home Historical Av Gls: 1,02 vs Away Historical Av Gls: 0,97
+Over 1 Gls: 21,2% 
+Over 2 Gls: 5,6% 
+
+Ath Madrid vs Vallecano: Home Win - Low Risk
+Home:60% vs Away:22,17% vs Draw:17,82% Diff: 37,83%
+Home Av Gls: 1,88 vs Away Av Gls: 0,89
+Home Historical Av Gls: 1,66 vs Away Historical Av Gls: 1,01
+Over 1 Gls: 57,98% 
+Over 2 Gls: 30,93% 
+
+Sociedad vs Mallorca: Home Win - Very High Risk
+Home:43,71% vs Away:34,48% vs Draw:21,81% Diff: 9,24%
+Home Av Gls: 1,34 vs Away Av Gls: 0,94
+Home Historical Av Gls: 1,4 vs Away Historical Av Gls: 0,96
+Over 1 Gls: 33,52% 
+Over 2 Gls: 11,92% 
+
+AZ Alkmaar vs Zwolle: Home Win - Moderate Risk
+Home:55,89% vs Away:26,05% vs Draw:18,07% Diff: 29,84%
+Home Av Gls: 2,05 vs Away Av Gls: 1,32
+Home Historical Av Gls: 2,02 vs Away Historical Av Gls: 1,24
+Over 1 Gls: 56,17% 
+Over 2 Gls: 29,2% 
+

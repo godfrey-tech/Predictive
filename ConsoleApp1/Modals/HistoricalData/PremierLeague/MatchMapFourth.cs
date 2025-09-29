@@ -1,0 +1,80 @@
+﻿using CsvHelper.Configuration;
+using CsvHelper.TypeConversion;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1.Modals.HistoricalData.PremierLeague
+{
+    public class MatchMapFourth : ClassMap<HistoricalMatchFromCSVFileFourth>
+    {
+        public MatchMapFourth()
+        {
+            Map(m => m.Div);
+            Map(m => m.Date).TypeConverterOption.Format("dd/MM/yyyy"); // Specify the correct date format
+            Map(m => m.HomeTeam);
+            Map(m => m.AwayTeam);
+            Map(m => m.FTHG);
+            Map(m => m.FTAG);
+            Map(m => m.FTR);
+            Map(m => m.HTHG);//TypeConverter<NullableIntConverter>();
+            Map(m => m.HTAG);///.TypeConverter<NullableIntConverter>();
+            Map(m => m.HTR);
+            Map(m => m.Referee);
+            Map(m => m.HS).TypeConverter<NullableIntConverter>();
+            Map(m => m.AS).TypeConverter<NullableIntConverter>();
+            Map(m => m.HST);
+            Map(m => m.AST);
+            Map(m => m.HF);
+            Map(m => m.AF);
+            Map(m => m.HC);
+            Map(m => m.AC);
+            Map(m => m.HY);
+            Map(m => m.AY);
+            Map(m => m.HR);
+            Map(m => m.AR);
+            Map(m => m.B365H);
+            Map(m => m.B365D);
+            Map(m => m.B365A);
+            Map(m => m.BWH);
+            Map(m => m.BWD);
+            Map(m => m.BWA);
+            Map(m => m.IWH);
+            Map(m => m.IWD);
+            Map(m => m.IWA);
+            Map(m => m.PSH);
+            Map(m => m.PSD);
+            Map(m => m.PSA);
+            Map(m => m.WHH);
+            Map(m => m.WHD);
+            Map(m => m.WHA);
+            Map(m => m.VCH);
+            Map(m => m.VCD);
+            Map(m => m.VCA);
+            Map(m => m.Bb1X2);
+            Map(m => m.BbMxH);
+            Map(m => m.BbAvH);
+            Map(m => m.BbMxD);
+            Map(m => m.BbAvD);
+            Map(m => m.BbMxA);
+            Map(m => m.BbAvA);
+            Map(m => m.BbOU);
+            Map(m => m.BbMxGreaterThan2_5).Name("BbMx>2.5");
+            Map(m => m.BbAvGreaterThan2_5).Name("BbAv>2.5");
+            Map(m => m.BbMxLessThan2_5).Name("BbMx<2.5");
+            Map(m => m.BbAvLessThan2_5).Name("BbAv<2.5");
+            Map(m => m.BbAH);
+            Map(m => m.BbAHh);
+            Map(m => m.BbMxAHH);
+            Map(m => m.BbAvAHH);
+            Map(m => m.BbMxAHA);
+            Map(m => m.BbAvAHA);
+            Map(m => m.PSCH);
+            Map(m => m.PSCD);
+            Map(m => m.PSCA);
+        }
+    }
+
+}

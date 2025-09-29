@@ -1,0 +1,119 @@
+Bolton vs AFC Wimbledon: Away Win - High Risk
+Home:19,45% vs Away:49,36% vs Draw:31,19% Diff: 29,9%
+Home Av Gls: 0 vs Away Av Gls: 1,21
+Home Historical Av Gls: 1,28 vs Away Historical Av Gls: 1,22
+Over 1 Gls: 10,11% 
+Over 2 Gls: 1,72% 
+
+Doncaster vs Bradford: Home Win - Moderate Risk
+Home:52,25% vs Away:33,1% vs Draw:14,65% Diff: 19,14%
+Home Av Gls: 1,42 vs Away Av Gls: 1,35
+Home Historical Av Gls: 1,51 vs Away Historical Av Gls: 1,24
+Over 1 Gls: 38,67% 
+Over 2 Gls: 15,18% 
+
+Plymouth vs Stockport: Away Win - Low Risk
+Home:17,74% vs Away:60,03% vs Draw:22,24% Diff: 42,29%
+Home Av Gls: 0 vs Away Av Gls: 1,84
+Home Historical Av Gls: 1,59 vs Away Historical Av Gls: 1,75
+Over 1 Gls: 18,56% 
+Over 2 Gls: 4,52% 
+
+Port Vale vs Leyton Orient: Home Win - No bet
+Home:39,25% vs Away:38,23% vs Draw:22,51% Diff: 1,02%
+Home Av Gls: 1,41 vs Away Av Gls: 1,17
+Home Historical Av Gls: 1,22 vs Away Historical Av Gls: 1,23
+Over 1 Gls: 24,93% 
+Over 2 Gls: 7,3% 
+
+Wycombe vs Mansfield: Away Win - Moderate Risk
+Home:15,95% vs Away:56,21% vs Draw:27,83% Diff: 40,26%
+Home Av Gls: 0 vs Away Av Gls: 1,8
+Home Historical Av Gls: 1,49 vs Away Historical Av Gls: 1,46
+Over 1 Gls: 17,26% 
+Over 2 Gls: 4,02% 
+
+Newport County vs Bristol Rvs: Home Win - High Risk
+Home:45,47% vs Away:23,8% vs Draw:30,73% Diff: 21,67%
+Home Av Gls: 1,26 vs Away Av Gls: 0
+Home Historical Av Gls: 1,21 vs Away Historical Av Gls: 1,54
+Over 1 Gls: 11,04% 
+Over 2 Gls: 1,98% 
+
+Barnet vs Shrewsbury: Draw - No bet
+Home:NaN% vs Away:NaN% vs Draw:NaN% Diff: NaN%
+Home Av Gls: 0 vs Away Av Gls: 0
+Home Historical Av Gls: 1,12 vs Away Historical Av Gls: 0
+Over 1 Gls: 0,23% 
+Over 2 Gls: 0,01% 
+
+Barrow vs Swindon: Away Win - No bet
+Home:36,84% vs Away:38,31% vs Draw:24,85% Diff: 1,47%
+Home Av Gls: 1,15 vs Away Av Gls: 1,54
+Home Historical Av Gls: 1,12 vs Away Historical Av Gls: 1,52
+Over 1 Gls: 32,68% 
+Over 2 Gls: 11,42% 
+
+Cambridge vs Oldham: Draw - No bet
+Home:NaN% vs Away:NaN% vs Draw:NaN% Diff: NaN%
+Home Av Gls: 0 vs Away Av Gls: 0
+Home Historical Av Gls: 1,21 vs Away Historical Av Gls: 1,31
+Over 1 Gls: 1,11% 
+Over 2 Gls: 0,06% 
+
+Cheltenham vs Accrington: Home Win - No bet
+Home:40,77% vs Away:37,52% vs Draw:21,71% Diff: 3,24%
+Home Av Gls: 1,3 vs Away Av Gls: 1,26
+Home Historical Av Gls: 1,3 vs Away Historical Av Gls: 1,36
+Over 1 Gls: 34,39% 
+Over 2 Gls: 12,45% 
+
+Colchester vs Crewe: Away Win - No bet
+Home:35,31% vs Away:35,6% vs Draw:29,09% Diff: 0,3%
+Home Av Gls: 1,16 vs Away Av Gls: 1,24
+Home Historical Av Gls: 1,2 vs Away Historical Av Gls: 1,32
+Over 1 Gls: 32,2% 
+Over 2 Gls: 11,15% 
+
+Harrogate vs Crawley Town: Away Win - No bet
+Home:39,53% vs Away:39,73% vs Draw:20,74% Diff: 0,19%
+Home Av Gls: 1,21 vs Away Av Gls: 1,36
+Home Historical Av Gls: 1,21 vs Away Historical Av Gls: 1,24
+Over 1 Gls: 33,95% 
+Over 2 Gls: 12,18% 
+
+Milton Keynes Dons vs Grimsby: Home Win - High Risk
+Home:44,6% vs Away:33,51% vs Draw:21,89% Diff: 11,09%
+Home Av Gls: 1,47 vs Away Av Gls: 1,22
+Home Historical Av Gls: 1,49 vs Away Historical Av Gls: 1,1
+Over 1 Gls: 35,62% 
+Over 2 Gls: 13,2% 
+
+Notts County vs Fleetwood Town: Home Win - Very High Risk
+Home:41,59% vs Away:35,14% vs Draw:23,27% Diff: 6,45%
+Home Av Gls: 1,71 vs Away Av Gls: 1,3
+Home Historical Av Gls: 1,43 vs Away Historical Av Gls: 1,3
+Over 1 Gls: 47,9% 
+Over 2 Gls: 21,98% 
+
+Salford vs Tranmere: Away Win - Very High Risk
+Home:36,7% vs Away:42,91% vs Draw:20,39% Diff: 6,21%
+Home Av Gls: 1,5 vs Away Av Gls: 1,14
+Home Historical Av Gls: 1,37 vs Away Historical Av Gls: 1,19
+Over 1 Gls: 38,54% 
+Over 2 Gls: 15,09% 
+
+Walsall vs Chesterfield: Away Win - High Risk
+Home:33,86% vs Away:44,79% vs Draw:21,35% Diff: 10,93%
+Home Av Gls: 1,4 vs Away Av Gls: 1,59
+Home Historical Av Gls: 1,21 vs Away Historical Av Gls: 1,3
+Over 1 Gls: 51,13% 
+Over 2 Gls: 24,66% 
+
+Bromley vs Gillingham: Home Win - No bet
+Home:40,01% vs Away:39,53% vs Draw:20,46% Diff: 0,48%
+Home Av Gls: 1,39 vs Away Av Gls: 0,96
+Home Historical Av Gls: 1,39 vs Away Historical Av Gls: 0,89
+Over 1 Gls: 44,29% 
+Over 2 Gls: 19,17% 
+

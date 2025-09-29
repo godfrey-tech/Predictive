@@ -1,0 +1,105 @@
+Stockport vs Bolton: Home Win - Moderate Risk
+Home:54,5% vs Away:30,59% vs Draw:14,91% Diff: 23,92%
+Home Av Gls: 1,57 vs Away Av Gls: 1,61
+Home Historical Av Gls: 1,57 vs Away Historical Av Gls: 1,45
+Over 1 Gls: 57,47% 
+Over 2 Gls: 30,44% 
+Results: 2:0
+
+Djurgarden vs Halmstad: Home Win - Moderate Risk
+Home:53,78% vs Away:29,88% vs Draw:16,34% Diff: 23,9%
+Home Av Gls: 1,3 vs Away Av Gls: 1,01
+Home Historical Av Gls: 1,57 vs Away Historical Av Gls: 0,93
+Over 1 Gls: 28,89% 
+Over 2 Gls: 9,3% 
+Results: 1:1
+
+Hacken vs Elfsborg: Away Win - Moderate Risk
+Home:31,6% vs Away:57,22% vs Draw:11,18% Diff: 25,62%
+Home Av Gls: 1,99 vs Away Av Gls: 1,89
+Home Historical Av Gls: 1,79 vs Away Historical Av Gls: 1,7
+Over 1 Gls: 62,49% 
+Over 2 Gls: 35,51% 
+Results: 1:2
+
+Sirius vs Oster: Home Win - High Risk
+Home:45,18% vs Away:31,6% vs Draw:23,22% Diff: 13,58%
+Home Av Gls: 1,58 vs Away Av Gls: 0,86
+Home Historical Av Gls: 1,36 vs Away Historical Av Gls: 0,86
+Over 1 Gls: 22,8% 
+Over 2 Gls: 6,31% 
+Results: 1:1
+
+Dundee vs Hibernian: Away Win - High Risk
+Home:28,14% vs Away:48,54% vs Draw:23,31% Diff: 20,4%
+Home Av Gls: 1,38 vs Away Av Gls: 1,52
+Home Historical Av Gls: 1,1 vs Away Historical Av Gls: 1,39
+Over 1 Gls: 40,7% 
+Over 2 Gls: 16,57% 
+Results: 1:2
+
+Celtic vs St Mirren: Home Win - Moderate Risk
+Home:56,44% vs Away:31,56% vs Draw:12% Diff: 24,89%
+Home Av Gls: 2,73 vs Away Av Gls: 1,26
+Home Historical Av Gls: 2,49 vs Away Historical Av Gls: 1,04
+Over 1 Gls: 66,75% 
+Over 2 Gls: 40,2% 
+Results: 1:0
+
+HamKam vs Bodo/Glimt: Away Win - Moderate Risk
+Home:30,5% vs Away:52,49% vs Draw:17,01% Diff: 21,99%
+Home Av Gls: 1,1 vs Away Av Gls: 2,52
+Home Historical Av Gls: 1,1 vs Away Historical Av Gls: 2,2
+Over 1 Gls: 41,59% 
+Over 2 Gls: 17,19% 
+Results: 1:3
+
+KFUM Oslo vs Rosenborg: Away Win - Moderate Risk
+Home:23,06% vs Away:57,25% vs Draw:19,68% Diff: 34,19%
+Home Av Gls: 1,08 vs Away Av Gls: 1,61
+Home Historical Av Gls: 1,08 vs Away Historical Av Gls: 1,84
+Over 1 Gls: 44,99% 
+Over 2 Gls: 19,7% 
+Results: 4:1
+
+Molde vs Bryne: Home Win - Very High Risk
+Home:48,17% vs Away:39,35% vs Draw:12,48% Diff: 8,83%
+Home Av Gls: 2,03 vs Away Av Gls: 1,5
+Home Historical Av Gls: 2,11 vs Away Historical Av Gls: 1,5
+Over 1 Gls: 61,48% 
+Over 2 Gls: 34,45% 
+Results: 2:0
+
+Stromsgodset vs Haugesund: Home Win - High Risk
+Home:43,48% vs Away:32,85% vs Draw:23,68% Diff: 10,63%
+Home Av Gls: 1,21 vs Away Av Gls: 0,99
+Home Historical Av Gls: 1,43 vs Away Historical Av Gls: 1,3
+Over 1 Gls: 35,82% 
+Over 2 Gls: 13,33% 
+Results: 2:0
+
+Valerenga vs Sandefjord: Away Win - Very High Risk
+Home:36,95% vs Away:43,46% vs Draw:19,59% Diff: 6,51%
+Home Av Gls: 1,25 vs Away Av Gls: 1,53
+Home Historical Av Gls: 1,45 vs Away Historical Av Gls: 1,33
+Over 1 Gls: 42,82% 
+Over 2 Gls: 18,08% 
+Results: 2:1
+
+Waterford vs St. Patricks: Away Win - High Risk
+Home:36,63% vs Away:48,52% vs Draw:14,86% Diff: 11,89%
+Home Av Gls: 1,14 vs Away Av Gls: 1,52
+Home Historical Av Gls: 1,18 vs Away Historical Av Gls: 1,35
+Over 1 Gls: 38,17% 
+Over 2 Gls: 14,85% 
+Results: 0:2
+
+Shamrock Rovers vs Derry City: Home Win - High Risk
+Home:46,66% vs Away:34,7% vs Draw:18,64% Diff: 11,96%
+Home Av Gls: 1,65 vs Away Av Gls: 1,4
+Home Historical Av Gls: 1,65 vs Away Historical Av Gls: 1,4
+Over 1 Gls: 44% 
+Over 2 Gls: 18,95% 
+Results: 2:0
+
+

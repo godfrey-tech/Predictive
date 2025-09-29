@@ -1,0 +1,122 @@
+﻿using CsvHelper.Configuration;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1.Modals.HistoricalData.PremierLeague
+{
+    public class MatchMap : ClassMap<HistoricalMatchFromCSVFile>
+    {
+        public MatchMap()
+        {
+            Map(m => m.Div);
+            Map(m => m.Date).TypeConverterOption.Format("dd/MM/yyyy"); // Specify the date format
+            Map(m => m.Time);
+            Map(m => m.HomeTeam);
+            Map(m => m.AwayTeam);
+            Map(m => m.FTHG);
+            Map(m => m.FTAG);
+            Map(m => m.FTR);
+            Map(m => m.HTHG);
+            Map(m => m.HTAG);
+            Map(m => m.HTR);
+            Map(m => m.Referee);
+            Map(m => m.HS);
+            Map(m => m.AS);
+            Map(m => m.HST);
+            Map(m => m.AST);
+            Map(m => m.HF);
+            Map(m => m.AF);
+            Map(m => m.HC);
+            Map(m => m.AC);
+            Map(m => m.HY);
+            Map(m => m.AY);
+            Map(m => m.HR);
+            Map(m => m.AR);
+            Map(m => m.B365H);
+            Map(m => m.B365D);
+            Map(m => m.B365A);
+            Map(m => m.BWH);
+            Map(m => m.BWD);
+            Map(m => m.BWA);
+            Map(m => m.IWH);
+            Map(m => m.IWD);
+            Map(m => m.IWA);
+            Map(m => m.PSH);
+            Map(m => m.PSD);
+            Map(m => m.PSA);
+            Map(m => m.WHH);
+            Map(m => m.WHD);
+            Map(m => m.WHA);
+            Map(m => m.VCH);
+            Map(m => m.VCD);
+            Map(m => m.VCA);
+            Map(m => m.MaxH);
+            Map(m => m.MaxD);
+            Map(m => m.MaxA);
+            Map(m => m.AvgH);
+            Map(m => m.AvgD);
+            Map(m => m.AvgA);
+            Map(m => m.B365Over25).Name("B365>2.5");
+            Map(m => m.B365Under25).Name("B365<2.5");
+            Map(m => m.POver25).Name("P>2.5");
+            Map(m => m.PUnder25).Name("P<2.5");
+            Map(m => m.MaxOver25).Name("Max>2.5");
+            Map(m => m.MaxUnder25).Name("Max<2.5");
+            Map(m => m.AvgOver25).Name("Avg>2.5");
+            Map(m => m.AvgUnder25).Name("Avg<2.5");
+            Map(m => m.AHh);
+            Map(m => m.B365AHH);
+            Map(m => m.B365AHA);
+            Map(m => m.PAHH);
+            Map(m => m.PAHA);
+            Map(m => m.MaxAHH);
+            Map(m => m.MaxAHA);
+            Map(m => m.AvgAHH);
+            Map(m => m.AvgAHA);
+            Map(m => m.B365CH);
+            Map(m => m.B365CD);
+            Map(m => m.B365CA);
+            Map(m => m.BWCH);
+            Map(m => m.BWCD);
+            Map(m => m.BWCA);
+            Map(m => m.IWCH);
+            Map(m => m.IWCD);
+            Map(m => m.IWCA);
+            Map(m => m.PSCH);
+            Map(m => m.PSCD);
+            Map(m => m.PSCA);
+            Map(m => m.WHCH);
+            Map(m => m.WHCD);
+            Map(m => m.WHCA);
+            Map(m => m.VCCH);
+            Map(m => m.VCCD);
+            Map(m => m.VCCA);
+            Map(m => m.MaxCH);
+            Map(m => m.MaxCD);
+            Map(m => m.MaxCA);
+            Map(m => m.AvgCH);
+            Map(m => m.AvgCD);
+            Map(m => m.AvgCA);
+            Map(m => m.B365COver25).Name("B365C>2.5");
+            Map(m => m.B365CUnder25).Name("B365C<2.5");
+            Map(m => m.PCOver25).Name("PC>2.5");
+            Map(m => m.PCUnder25).Name("PC<2.5");
+            Map(m => m.MaxCOver25).Name("MaxC>2.5");
+            Map(m => m.MaxCUnder25).Name("MaxC<2.5");
+            Map(m => m.AvgCOver25).Name("AvgC>2.5");
+            Map(m => m.AvgCUnder25).Name("AvgC<2.5");
+            Map(m => m.AHCh);
+            Map(m => m.B365CAHH);
+            Map(m => m.B365CAHA);
+            Map(m => m.PCAHH);
+            Map(m => m.PCAHA);
+            Map(m => m.MaxCAHH);
+            Map(m => m.MaxCAHA);
+            Map(m => m.AvgCAHH);
+            Map(m => m.AvgCAHA);
+        }
+    }
+}

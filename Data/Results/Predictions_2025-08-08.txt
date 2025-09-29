@@ -1,0 +1,42 @@
+Birmingham vs Ipswich: Away Win - Moderate Risk
+Home:30,6% vs Away:51,65% vs Draw:17,75% Diff: 21,05%
+Home Av Gls: 1,05 vs Away Av Gls: 2
+Home Historical Av Gls: 1,06 vs Away Historical Av Gls: 1,24
+Over 1 Gls: 43,3% 
+Over 2 Gls: 18,43% 
+
+For Sittard vs Go Ahead Eagles: Away Win - High Risk
+Home:32,24% vs Away:42,83% vs Draw:24,93% Diff: 10,59%
+Home Av Gls: 1,09 vs Away Av Gls: 1,34
+Home Historical Av Gls: 1,23 vs Away Historical Av Gls: 1,19
+Over 1 Gls: 23,13% 
+Over 2 Gls: 6,46% 
+
+Derry City vs Cork City: Home Win - High Risk
+Home:48,19% vs Away:26,29% vs Draw:25,52% Diff: 21,9%
+Home Av Gls: 1,4 vs Away Av Gls: 1,04
+Home Historical Av Gls: 1,4 vs Away Historical Av Gls: 1,41
+Over 1 Gls: 42,03% 
+Over 2 Gls: 17,51% 
+
+Drogheda vs Waterford: Away Win - High Risk
+Home:32,31% vs Away:43,16% vs Draw:24,53% Diff: 10,85%
+Home Av Gls: 1,19 vs Away Av Gls: 1,14
+Home Historical Av Gls: 1,09 vs Away Historical Av Gls: 1,18
+Over 1 Gls: 35,42% 
+Over 2 Gls: 13,08% 
+
+Graafschap vs VVV Venlo: Draw - No bet
+Home:NaN% vs Away:NaN% vs Draw:NaN% Diff: NaN%
+Home Av Gls: 0 vs Away Av Gls: 0
+Home Historical Av Gls: 1,13 vs Away Historical Av Gls: 1,16
+Over 1 Gls: 0,94% 
+Over 2 Gls: 0,04% 
+
+Dordrecht vs Cambuur: Away Win - Low Risk
+Home:0% vs Away:66,93% vs Draw:33,07% Diff: 66,93%
+Home Av Gls: 0 vs Away Av Gls: 0,78
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1,1
+Over 1 Gls: 3,99% 
+Over 2 Gls: 0,41% 
+

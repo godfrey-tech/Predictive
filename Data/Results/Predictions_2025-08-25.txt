@@ -1,0 +1,50 @@
+Newcastle vs Liverpool: Away Win - Moderate Risk
+Home:35,92% vs Away:52,37% vs Draw:11,71% Diff: 16,45%
+Home Av Gls: 2 vs Away Av Gls: 2,22
+Home Historical Av Gls: 1,42 vs Away Historical Av Gls: 2,19
+Over 1 Gls: 55,06% 
+Over 2 Gls: 28,17% 
+
+Ath Bilbao vs Vallecano: Home Win - Moderate Risk
+Home:52,5% vs Away:24,22% vs Draw:23,28% Diff: 28,28%
+Home Av Gls: 1,38 vs Away Av Gls: 0,89
+Home Historical Av Gls: 1,26 vs Away Historical Av Gls: 1,09
+Over 1 Gls: 36,32% 
+Over 2 Gls: 13,64% 
+
+Sevilla vs Getafe: Home Win - High Risk
+Home:41,64% vs Away:28,83% vs Draw:29,52% Diff: 12,81%
+Home Av Gls: 1,31 vs Away Av Gls: 1
+Home Historical Av Gls: 1,43 vs Away Historical Av Gls: 1,01
+Over 1 Gls: 28,72% 
+Over 2 Gls: 9,22% 
+
+Udinese vs Verona: Home Win - Very High Risk
+Home:37,04% vs Away:30,94% vs Draw:32,02% Diff: 6,1%
+Home Av Gls: 1 vs Away Av Gls: 0,91
+Home Historical Av Gls: 1,15 vs Away Historical Av Gls: 1,08
+Over 1 Gls: 28,96% 
+Over 2 Gls: 9,34% 
+
+Inter vs Torino: Home Win - Moderate Risk
+Home:52,5% vs Away:29,42% vs Draw:18,07% Diff: 23,08%
+Home Av Gls: 2,11 vs Away Av Gls: 1,03
+Home Historical Av Gls: 1,93 vs Away Historical Av Gls: 1,31
+Over 1 Gls: 50,18% 
+Over 2 Gls: 23,86% 
+
+GAIS vs Mjallby: Home Win - No bet
+Home:41,4% vs Away:40,61% vs Draw:18% Diff: 0,79%
+Home Av Gls: 1,21 vs Away Av Gls: 1,4
+Home Historical Av Gls: 1,21 vs Away Historical Av Gls: 1,33
+Over 1 Gls: 37,62% 
+Over 2 Gls: 14,49% 
+
+
+Oster vs Norrkoping: Away Win - High Risk
+Home:29,88% vs Away:48,19% vs Draw:21,93% Diff: 18,3%
+Home Av Gls: 0,86 vs Away Av Gls: 1,41
+Home Historical Av Gls: 0,86 vs Away Historical Av Gls: 1,65
+Over 1 Gls: 47,94% 
+Over 2 Gls: 22,01% 
+

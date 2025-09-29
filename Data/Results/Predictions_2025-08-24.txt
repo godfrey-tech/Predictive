@@ -1,0 +1,190 @@
+Haugesund vs Valerenga: Away Win - High Risk
+Home:29,86% vs Away:45,19% vs Draw:24,95% Diff: 15,32%
+Home Av Gls: 0,99 vs Away Av Gls: 1,25
+Home Historical Av Gls: 1,3 vs Away Historical Av Gls: 1,46
+Over 1 Gls: 30,88% 
+Over 2 Gls: 10,39% 
+
+Bryne vs Stromsgodset: Home Win - Moderate Risk
+Home:50,49% vs Away:33,78% vs Draw:15,73% Diff: 16,71%
+Home Av Gls: 1,5 vs Away Av Gls: 1,21
+Home Historical Av Gls: 1,5 vs Away Historical Av Gls: 1,44
+Over 1 Gls: 45,25% 
+Over 2 Gls: 19,9% 
+
+Molde vs Tromso: Away Win - No bet
+Home:42,84% vs Away:45,31% vs Draw:11,85% Diff: 2,46%
+Home Av Gls: 2,03 vs Away Av Gls: 1,44
+Home Historical Av Gls: 2,12 vs Away Historical Av Gls: 1,34
+Over 1 Gls: 53,69% 
+Over 2 Gls: 26,91% 
+
+Famalicao vs Gil Vicente: Home Win - No bet
+Home:38,97% vs Away:37,05% vs Draw:23,97% Diff: 1,92%
+Home Av Gls: 1,17 vs Away Av Gls: 1,14
+Home Historical Av Gls: 1,26 vs Away Historical Av Gls: 1,14
+Over 1 Gls: 36,94% 
+Over 2 Gls: 14,05% 
+
+Porto vs Casa Pia: Home Win - Low Risk
+Home:64,44% vs Away:24,69% vs Draw:10,88% Diff: 39,75%
+Home Av Gls: 1,98 vs Away Av Gls: 1,02
+Home Historical Av Gls: 2,17 vs Away Historical Av Gls: 1,01
+Over 1 Gls: 46,67% 
+Over 2 Gls: 21% 
+
+
+Midtjylland vs Silkeborg: Home Win - Moderate Risk
+Home:56,88% vs Away:28,03% vs Draw:15,09% Diff: 28,85%
+Home Av Gls: 1,92 vs Away Av Gls: 1,41
+Home Historical Av Gls: 1,9 vs Away Historical Av Gls: 1,39
+Over 1 Gls: 55,35% 
+Over 2 Gls: 28,43% 
+
+Sonderjyske vs Brondby: Away Win - No bet
+Home:38,68% vs Away:42,95% vs Draw:18,37% Diff: 4,27%
+Home Av Gls: 1,47 vs Away Av Gls: 1,78
+Home Historical Av Gls: 1,28 vs Away Historical Av Gls: 1,69
+Over 1 Gls: 42,53% 
+Over 2 Gls: 17,87% 
+
+Aarhus vs Vejle: Away Win - No bet
+Home:35% vs Away:36,27% vs Draw:28,73% Diff: 1,27%
+Home Av Gls: 1,47 vs Away Av Gls: 1,08
+Home Historical Av Gls: 1,38 vs Away Historical Av Gls: 1,09
+Over 1 Gls: 42,55% 
+Over 2 Gls: 17,89% 
+
+Crystal Palace vs Nott'm Forest: Away Win - No bet
+Home:35,59% vs Away:39,26% vs Draw:25,15% Diff: 3,67%
+Home Av Gls: 1,3 vs Away Av Gls: 1,36
+Home Historical Av Gls: 1,21 vs Away Historical Av Gls: 1,27
+Over 1 Gls: 29,56% 
+Over 2 Gls: 9,66% 
+
+Everton vs Brighton: Away Win - High Risk
+Home:31,05% vs Away:42,16% vs Draw:26,8% Diff: 11,11%
+Home Av Gls: 1 vs Away Av Gls: 1,67
+Home Historical Av Gls: 1,19 vs Away Historical Av Gls: 1,24
+Over 1 Gls: 39,52% 
+Over 2 Gls: 15,75% 
+
+Fulham vs Man United: Away Win - No bet
+Home:40,67% vs Away:41,28% vs Draw:18,05% Diff: 0,61%
+Home Av Gls: 1,42 vs Away Av Gls: 1,4
+Home Historical Av Gls: 1,19 vs Away Historical Av Gls: 1,59
+Over 1 Gls: 34,52% 
+Over 2 Gls: 12,52% 
+
+Osasuna vs Valencia: Home Win - No bet
+Home:39,05% vs Away:35,25% vs Draw:25,7% Diff: 3,8%
+Home Av Gls: 1,08 vs Away Av Gls: 1
+Home Historical Av Gls: 1,06 vs Away Historical Av Gls: 1,3
+Over 1 Gls: 25,09% 
+Over 2 Gls: 7,38% 
+
+Sociedad vs Espanol: Home Win - High Risk
+Home:48,05% vs Away:27,62% vs Draw:24,32% Diff: 20,43%
+Home Av Gls: 1,34 vs Away Av Gls: 1,42
+Home Historical Av Gls: 1,38 vs Away Historical Av Gls: 1,1
+Over 1 Gls: 52,81% 
+Over 2 Gls: 26,13% 
+
+Villarreal vs Girona: Away Win - High Risk
+Home:35,38% vs Away:49,72% vs Draw:14,9% Diff: 14,34%
+Home Av Gls: 1,72 vs Away Av Gls: 1,98
+Home Historical Av Gls: 1,51 vs Away Historical Av Gls: 1,51
+Over 1 Gls: 49,38% 
+Over 2 Gls: 23,19% 
+
+Oviedo vs Real Madrid: Away Win - Low Risk
+Home:0% vs Away:81,03% vs Draw:18,97% Diff: 81,03%
+Home Av Gls: 0 vs Away Av Gls: 2,08
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 2,21
+Over 1 Gls: 18,66% 
+Over 2 Gls: 4,56% 
+
+M'gladbach vs Hamburg: Home Win - High Risk
+Home:45,67% vs Away:13,98% vs Draw:40,35% Diff: 31,69%
+Home Av Gls: 1,57 vs Away Av Gls: 0
+Home Historical Av Gls: 1,66 vs Away Historical Av Gls: 0,99
+Over 1 Gls: 14,09% 
+Over 2 Gls: 2,91% 
+
+Cagliari vs Fiorentina: Away Win - Moderate Risk
+Home:22,7% vs Away:54,94% vs Draw:22,36% Diff: 32,25%
+Home Av Gls: 1,11 vs Away Av Gls: 1,58
+Home Historical Av Gls: 1,11 vs Away Historical Av Gls: 1,45
+Over 1 Gls: 35,47% 
+Over 2 Gls: 13,11% 
+
+Juventus vs Parma: Home Win - Low Risk
+Home:69,76% vs Away:8,37% vs Draw:21,87% Diff: 61,39%
+Home Av Gls: 1,44 vs Away Av Gls: 0
+Home Historical Av Gls: 1,84 vs Away Historical Av Gls: 1,19
+Over 1 Gls: 13,49% 
+Over 2 Gls: 2,71% 
+
+Lorient vs Rennes: Away Win - High Risk
+Home:32,04% vs Away:46,16% vs Draw:21,8% Diff: 14,12%
+Home Av Gls: 1,2 vs Away Av Gls: 1,59
+Home Historical Av Gls: 1,22 vs Away Historical Av Gls: 1,49
+Over 1 Gls: 45,65% 
+Over 2 Gls: 20,21% 
+
+Le Havre vs Lens: Away Win - Moderate Risk
+Home:22,54% vs Away:52,64% vs Draw:24,82% Diff: 30,1%
+Home Av Gls: 1 vs Away Av Gls: 1,54
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 1,55
+Over 1 Gls: 29,33% 
+Over 2 Gls: 9,54% 
+
+Toulouse vs Brest: Away Win - High Risk
+Home:31,81% vs Away:45,82% vs Draw:22,37% Diff: 14,01%
+Home Av Gls: 1,25 vs Away Av Gls: 1,41
+Home Historical Av Gls: 1,07 vs Away Historical Av Gls: 1,31
+Over 1 Gls: 32,57% 
+Over 2 Gls: 11,36% 
+
+Strasbourg vs Nantes: Home Win - Very High Risk
+Home:38,3% vs Away:32,33% vs Draw:29,37% Diff: 5,97%
+Home Av Gls: 1,27 vs Away Av Gls: 0,88
+Home Historical Av Gls: 1,32 vs Away Historical Av Gls: 1,08
+Over 1 Gls: 38,13% 
+Over 2 Gls: 14,82% 
+
+Lille vs Monaco: Away Win - Moderate Risk
+Home:32,8% vs Away:51,72% vs Draw:15,48% Diff: 18,92%
+Home Av Gls: 1,56 vs Away Av Gls: 1,92
+Home Historical Av Gls: 1,39 vs Away Historical Av Gls: 1,87
+Over 1 Gls: 42,74% 
+Over 2 Gls: 18,02% 
+
+Heerenveen vs Twente: Away Win - Moderate Risk
+Home:27,36% vs Away:54,24% vs Draw:18,4% Diff: 26,88%
+Home Av Gls: 1,5 vs Away Av Gls: 2,02
+Home Historical Av Gls: 1,44 vs Away Historical Av Gls: 1,54
+Over 1 Gls: 53,29% 
+Over 2 Gls: 26,56% 
+
+Utrecht vs Excelsior: Home Win - High Risk
+Home:47,07% vs Away:27,72% vs Draw:25,21% Diff: 19,35%
+Home Av Gls: 1,55 vs Away Av Gls: 1,2
+Home Historical Av Gls: 1,64 vs Away Historical Av Gls: 1,21
+Over 1 Gls: 39,81% 
+Over 2 Gls: 15,95% 
+
+Nijmegen vs NAC Breda: Home Win - Moderate Risk
+Home:57,07% vs Away:8,75% vs Draw:34,17% Diff: 48,32%
+Home Av Gls: 1,75 vs Away Av Gls: 0
+Home Historical Av Gls: 1,29 vs Away Historical Av Gls: 1,03
+Over 1 Gls: 15,3% 
+Over 2 Gls: 3,32% 
+
+Ajax vs Heracles: Home Win - Moderate Risk
+Home:55,53% vs Away:24,85% vs Draw:19,62% Diff: 30,68%
+Home Av Gls: 2,14 vs Away Av Gls: 1,21
+Home Historical Av Gls: 2,68 vs Away Historical Av Gls: 1,37
+Over 1 Gls: 66,88% 
+Over 2 Gls: 40,36% 
+

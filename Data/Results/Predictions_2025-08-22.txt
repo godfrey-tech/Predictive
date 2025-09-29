@@ -1,0 +1,71 @@
+West Ham vs Chelsea: Away Win - Moderate Risk
+Home:26,53% vs Away:54,68% vs Draw:18,79% Diff: 28,15%
+Home Av Gls: 1,34 vs Away Av Gls: 1,6
+Home Historical Av Gls: 1,36 vs Away Historical Av Gls: 1,74
+Over 1 Gls: 39,53% 
+Over 2 Gls: 15,76% 
+
+Betis vs Alaves: Home Win - Very High Risk
+Home:40,5% vs Away:34,95% vs Draw:24,56% Diff: 5,55%
+Home Av Gls: 1,22 vs Away Av Gls: 0,95
+Home Historical Av Gls: 1,27 vs Away Historical Av Gls: 0,97
+Over 1 Gls: 24,27% 
+Over 2 Gls: 6,98% 
+
+Bayern Munich vs RB Leipzig: Home Win - Very High Risk
+Home:48,04% vs Away:41,88% vs Draw:10,08% Diff: 6,16%
+Home Av Gls: 2,64 vs Away Av Gls: 2,12
+Home Historical Av Gls: 2,71 vs Away Historical Av Gls: 1,99
+Over 1 Gls: 63,52% 
+Over 2 Gls: 36,61% 
+
+Paris SG vs Angers: Home Win - Low Risk
+Home:69,79% vs Away:15,33% vs Draw:14,88% Diff: 54,46%
+Home Av Gls: 2,27 vs Away Av Gls: 0,76
+Home Historical Av Gls: 2,52 vs Away Historical Av Gls: 1,05
+Over 1 Gls: 49,75% 
+Over 2 Gls: 23,5% 
+
+Derby vs Bristol City: Home Win - Very High Risk
+Home:42,03% vs Away:32,81% vs Draw:25,16% Diff: 9,22%
+Home Av Gls: 1,05 vs Away Av Gls: 1,2
+Home Historical Av Gls: 1,21 vs Away Historical Av Gls: 1,25
+Over 1 Gls: 34,95% 
+Over 2 Gls: 12,79% 
+
+Bohemians vs Cork City: Home Win - Moderate Risk
+Home:53,87% vs Away:24,9% vs Draw:21,23% Diff: 28,97%
+Home Av Gls: 1,27 vs Away Av Gls: 1,04
+Home Historical Av Gls: 1,29 vs Away Historical Av Gls: 1,41
+Over 1 Gls: 43,35% 
+Over 2 Gls: 18,47% 
+
+Drogheda vs St. Patricks: Away Win - Moderate Risk
+Home:28,38% vs Away:50,02% vs Draw:21,6% Diff: 21,64%
+Home Av Gls: 1,19 vs Away Av Gls: 1,52
+Home Historical Av Gls: 1,09 vs Away Historical Av Gls: 1,35
+Over 1 Gls: 31,96% 
+Over 2 Gls: 11,01% 
+
+Galway vs Derry City: Away Win - High Risk
+Home:31,37% vs Away:43,12% vs Draw:25,51% Diff: 11,75%
+Home Av Gls: 1 vs Away Av Gls: 1,4
+Home Historical Av Gls: 1,16 vs Away Historical Av Gls: 1,4
+Over 1 Gls: 30,73% 
+Over 2 Gls: 10,31% 
+
+Waterford vs Sligo Rovers: Home Win - High Risk
+Home:45,78% vs Away:33,65% vs Draw:20,57% Diff: 12,14%
+Home Av Gls: 1,14 vs Away Av Gls: 1,09
+Home Historical Av Gls: 1,18 vs Away Historical Av Gls: 1,14
+Over 1 Gls: 32,85% 
+Over 2 Gls: 11,53% 
+
+
+KFUM Oslo vs HamKam: Away Win - High Risk
+Home:28,65% vs Away:42,68% vs Draw:28,67% Diff: 14,04%
+Home Av Gls: 1,08 vs Away Av Gls: 1,1
+Home Historical Av Gls: 1,08 vs Away Historical Av Gls: 1,1
+Over 1 Gls: 28,92% 
+Over 2 Gls: 9,32% 
+

@@ -1,0 +1,70 @@
+Girona vs Espanol: Home Win - Moderate Risk
+Home:57,01% vs Away:24,6% vs Draw:18,38% Diff: 32,41%
+Home Av Gls: 1,98 vs Away Av Gls: 1,42
+Home Historical Av Gls: 1,51 vs Away Historical Av Gls: 1,11
+Over 1 Gls: 51,55% 
+Over 2 Gls: 25,03% 
+
+Bayern Munich vs Werder Bremen: Home Win - Moderate Risk
+Home:54,08% vs Away:33,55% vs Draw:12,37% Diff: 20,54%
+Home Av Gls: 2,64 vs Away Av Gls: 1,39
+Home Historical Av Gls: 2,7 vs Away Historical Av Gls: 1,42
+Over 1 Gls: 66,19% 
+Over 2 Gls: 39,57% 
+
+Strasbourg vs Marseille: Away Win - Moderate Risk
+Home:27,03% vs Away:51,98% vs Draw:20,99% Diff: 24,95%
+Home Av Gls: 1,27 vs Away Av Gls: 1,64
+Home Historical Av Gls: 1,32 vs Away Historical Av Gls: 1,59
+Over 1 Gls: 41,72% 
+Over 2 Gls: 17,29% 
+
+West Brom vs Leicester: Away Win - High Risk
+Home:33,05% vs Away:49,36% vs Draw:17,59% Diff: 16,31%
+Home Av Gls: 1,31 vs Away Av Gls: 1,93
+Home Historical Av Gls: 1,41 vs Away Historical Av Gls: 1,93
+Over 1 Gls: 43,35% 
+Over 2 Gls: 18,47% 
+
+Twente vs For Sittard: Home Win - Moderate Risk
+Home:56,28% vs Away:24,71% vs Draw:19% Diff: 31,57%
+Home Av Gls: 2,02 vs Away Av Gls: 1,09
+Home Historical Av Gls: 1,55 vs Away Historical Av Gls: 1,23
+Over 1 Gls: 54,06% 
+Over 2 Gls: 27,25% 
+
+Benfica vs Gil Vicente: Home Win - Low Risk
+Home:60,09% vs Away:27,72% vs Draw:12,19% Diff: 32,37%
+Home Av Gls: 2,28 vs Away Av Gls: 1,14
+Home Historical Av Gls: 2,35 vs Away Historical Av Gls: 1,14
+Over 1 Gls: 58,71% 
+Over 2 Gls: 31,64% 
+
+Drogheda vs Derry City: Away Win - High Risk
+Home:29,48% vs Away:44,21% vs Draw:26,31% Diff: 14,72%
+Home Av Gls: 1,19 vs Away Av Gls: 1,4
+Home Historical Av Gls: 1,09 vs Away Historical Av Gls: 1,42
+Over 1 Gls: 35,2% 
+Over 2 Gls: 12,95% 
+
+Galway vs Cork City: Home Win - Very High Risk
+Home:39,57% vs Away:29,74% vs Draw:30,69% Diff: 9,83%
+Home Av Gls: 1 vs Away Av Gls: 1,04
+Home Historical Av Gls: 1,16 vs Away Historical Av Gls: 1,42
+Over 1 Gls: 37,22% 
+Over 2 Gls: 14,23% 
+
+Shelbourne vs Waterford: Home Win - No bet
+Home:39,87% vs Away:37,43% vs Draw:22,7% Diff: 2,45%
+Home Av Gls: 1,15 vs Away Av Gls: 1,14
+Home Historical Av Gls: 1,09 vs Away Historical Av Gls: 1,18
+Over 1 Gls: 31,95% 
+Over 2 Gls: 11% 
+
+Shamrock Rovers vs Bohemians: Home Win - Very High Risk
+Home:44,62% vs Away:39,37% vs Draw:16,01% Diff: 5,26%
+Home Av Gls: 1,65 vs Away Av Gls: 1,27
+Home Historical Av Gls: 1,67 vs Away Historical Av Gls: 1,28
+Over 1 Gls: 45,01% 
+Over 2 Gls: 19,72% 
+

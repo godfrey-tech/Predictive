@@ -1,0 +1,35 @@
+Bodo/Glimt vs Sandefjord: Home Win - High Risk
+Home:49,43% vs Away:36,04% vs Draw:14,53% Diff: 13,39%
+Home Av Gls: 2,52 vs Away Av Gls: 1,53
+Home Historical Av Gls: 2,2 vs Away Historical Av Gls: 1,33
+Over 1 Gls: 63,9% 
+Over 2 Gls: 37,02% 
+
+Fredrikstad vs Molde: Away Win - Very High Risk
+Home:38,6% vs Away:47,23% vs Draw:14,17% Diff: 8,63%
+Home Av Gls: 1,33 vs Away Av Gls: 2,03
+Home Historical Av Gls: 1,33 vs Away Historical Av Gls: 2,11
+Over 1 Gls: 40,49% 
+Over 2 Gls: 16,42% 
+
+Goteborg vs Elfsborg: Away Win - Moderate Risk
+Home:28,91% vs Away:57,7% vs Draw:13,4% Diff: 28,79%
+Home Av Gls: 1,15 vs Away Av Gls: 1,89
+Home Historical Av Gls: 1,39 vs Away Historical Av Gls: 1,7
+Over 1 Gls: 40,63% 
+Over 2 Gls: 16,52% 
+
+Malmo FF vs Norrkoping: Home Win - Moderate Risk
+Home:51,07% vs Away:32,69% vs Draw:16,24% Diff: 18,38%
+Home Av Gls: 2,01 vs Away Av Gls: 1,41
+Home Historical Av Gls: 1,93 vs Away Historical Av Gls: 1,65
+Over 1 Gls: 58,84% 
+Over 2 Gls: 31,78% 
+
+Sligo Rovers vs Derry City: Away Win - High Risk
+Home:30,31% vs Away:46,39% vs Draw:23,3% Diff: 16,08%
+Home Av Gls: 1,09 vs Away Av Gls: 1,4
+Home Historical Av Gls: 1,14 vs Away Historical Av Gls: 1,41
+Over 1 Gls: 32,3% 
+Over 2 Gls: 11,2% 
+

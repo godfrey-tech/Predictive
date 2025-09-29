@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1.Modals
+{
+    public class FullTime
+    {
+        public int? Home { get; set; } // Using nullable int for scores
+        public int? Away { get; set; }
+    }
+}

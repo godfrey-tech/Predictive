@@ -1,0 +1,203 @@
+Aston Villa vs Fulham: Home Win - High Risk
+Home:47,6% vs Away:36,47% vs Draw:15,93% Diff: 11,12%
+Home Av Gls: 1,75 vs Away Av Gls: 1,42
+Home Historical Av Gls: 1,47 vs Away Historical Av Gls: 1,19
+Over 1 Gls: 51,32% 
+Over 2 Gls: 24,83% 
+
+Newcastle vs Arsenal: Away Win - No bet
+Home:42,12% vs Away:44,47% vs Draw:13,41% Diff: 2,35%
+Home Av Gls: 2 vs Away Av Gls: 2,16
+Home Historical Av Gls: 1,42 vs Away Historical Av Gls: 1,89
+Over 1 Gls: 49,36% 
+Over 2 Gls: 23,17% 
+
+Vallecano vs Sevilla: Away Win - High Risk
+Home:30,4% vs Away:41,27% vs Draw:28,33% Diff: 10,88%
+Home Av Gls: 0,89 vs Away Av Gls: 1,31
+Home Historical Av Gls: 1,01 vs Away Historical Av Gls: 1,43
+Over 1 Gls: 32,82% 
+Over 2 Gls: 11,5% 
+
+Elche vs Celta: Away Win - High Risk
+Home:30,88% vs Away:41,4% vs Draw:27,72% Diff: 10,52%
+Home Av Gls: 0,81 vs Away Av Gls: 1,19
+Home Historical Av Gls: 0,91 vs Away Historical Av Gls: 1,28
+Over 1 Gls: 17,79% 
+Over 2 Gls: 4,22% 
+
+Barcelona vs Sociedad: Home Win - Moderate Risk
+Home:57,72% vs Away:30,33% vs Draw:11,94% Diff: 27,39%
+Home Av Gls: 1,88 vs Away Av Gls: 1,34
+Home Historical Av Gls: 2,28 vs Away Historical Av Gls: 1,4
+Over 1 Gls: 46,51% 
+Over 2 Gls: 20,88% 
+
+Betis vs Osasuna: Home Win - Very High Risk
+Home:41,86% vs Away:33,96% vs Draw:24,18% Diff: 7,91%
+Home Av Gls: 1,22 vs Away Av Gls: 1,08
+Home Historical Av Gls: 1,31 vs Away Historical Av Gls: 1,06
+Over 1 Gls: 39,64% 
+Over 2 Gls: 15,84% 
+
+Freiburg vs Hoffenheim: Away Win - High Risk
+Home:32,89% vs Away:48% vs Draw:19,11% Diff: 15,1%
+Home Av Gls: 1,39 vs Away Av Gls: 1,71
+Home Historical Av Gls: 1,38 vs Away Historical Av Gls: 1,7
+Over 1 Gls: 52,1% 
+Over 2 Gls: 25,51% 
+
+FC Koln vs Stuttgart: Away Win - Moderate Risk
+Home:21,83% vs Away:57,53% vs Draw:20,64% Diff: 35,71%
+Home Av Gls: 1,02 vs Away Av Gls: 1,93
+Home Historical Av Gls: 1,24 vs Away Historical Av Gls: 1,42
+Over 1 Gls: 32,67% 
+Over 2 Gls: 11,42% 
+
+Union Berlin vs Hamburg: Home Win - Moderate Risk
+Home:59,08% vs Away:12,84% vs Draw:28,08% Diff: 46,24%
+Home Av Gls: 1,12 vs Away Av Gls: 0
+Home Historical Av Gls: 1,32 vs Away Historical Av Gls: 0,99
+Over 1 Gls: 8,9% 
+Over 2 Gls: 1,41% 
+
+Sassuolo vs Udinese: Away Win - Very High Risk
+Home:31,2% vs Away:37,87% vs Draw:30,93% Diff: 6,68%
+Home Av Gls: 1,19 vs Away Av Gls: 1
+Home Historical Av Gls: 1,39 vs Away Historical Av Gls: 1,15
+Over 1 Gls: 35,86% 
+Over 2 Gls: 13,36% 
+
+Pisa vs Fiorentina: Away Win - Low Risk
+Home:0% vs Away:71,61% vs Draw:28,39% Diff: 71,61%
+Home Av Gls: 0 vs Away Av Gls: 1,58
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1,44
+Over 1 Gls: 11,64% 
+Over 2 Gls: 2,15% 
+
+Roma vs Verona: Home Win - High Risk
+Home:48,01% vs Away:28,57% vs Draw:23,42% Diff: 19,44%
+Home Av Gls: 1,57 vs Away Av Gls: 0,91
+Home Historical Av Gls: 1,8 vs Away Historical Av Gls: 1,09
+Over 1 Gls: 40,55% 
+Over 2 Gls: 16,46% 
+
+Lecce vs Bologna: Away Win - High Risk
+Home:25,01% vs Away:45,56% vs Draw:29,43% Diff: 20,56%
+Home Av Gls: 0,88 vs Away Av Gls: 1,46
+Home Historical Av Gls: 1,03 vs Away Historical Av Gls: 1,23
+Over 1 Gls: 30,86% 
+Over 2 Gls: 10,38% 
+
+Milan vs Napoli: Home Win - No bet
+Home:41,9% vs Away:40,46% vs Draw:17,65% Diff: 1,44%
+Home Av Gls: 1,8 vs Away Av Gls: 1,59
+Home Historical Av Gls: 1,65 vs Away Historical Av Gls: 1,98
+Over 1 Gls: 55,77% 
+Over 2 Gls: 28,82% 
+
+Nice vs Paris FC: Home Win - Low Risk
+Home:64,39% vs Away:0% vs Draw:35,61% Diff: 64,39%
+Home Av Gls: 1,27 vs Away Av Gls: 0
+Home Historical Av Gls: 1,3 vs Away Historical Av Gls: 0
+Over 1 Gls: 8,37% 
+Over 2 Gls: 1,28% 
+
+Angers vs Brest: Away Win - Moderate Risk
+Home:19,74% vs Away:55,2% vs Draw:25,06% Diff: 35,46%
+Home Av Gls: 0,76 vs Away Av Gls: 1,41
+Home Historical Av Gls: 1,06 vs Away Historical Av Gls: 1,31
+Over 1 Gls: 20,01% 
+Over 2 Gls: 5,11% 
+
+Metz vs Le Havre: Home Win - No bet
+Home:35,13% vs Away:32,82% vs Draw:32,05% Diff: 2,31%
+Home Av Gls: 1,03 vs Away Av Gls: 1
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 1
+Over 1 Gls: 22,17% 
+Over 2 Gls: 6,03% 
+
+Lille vs Lyon: Away Win - Moderate Risk
+Home:32,72% vs Away:52,38% vs Draw:14,9% Diff: 19,67%
+Home Av Gls: 1,56 vs Away Av Gls: 1,56
+Home Historical Av Gls: 1,4 vs Away Historical Av Gls: 1,87
+Over 1 Gls: 55,06% 
+Over 2 Gls: 28,16% 
+
+Rennes vs Lens: Away Win - Very High Risk
+Home:37,75% vs Away:44,29% vs Draw:17,96% Diff: 6,55%
+Home Av Gls: 1,59 vs Away Av Gls: 1,54
+Home Historical Av Gls: 1,48 vs Away Historical Av Gls: 1,55
+Over 1 Gls: 38,6% 
+Over 2 Gls: 15,14% 
+
+Nijmegen vs AZ Alkmaar: Away Win - High Risk
+Home:33,84% vs Away:48,52% vs Draw:17,64% Diff: 14,67%
+Home Av Gls: 1,75 vs Away Av Gls: 2,05
+Home Historical Av Gls: 1,3 vs Away Historical Av Gls: 2,02
+Over 1 Gls: 46,29% 
+Over 2 Gls: 20,7% 
+
+Utrecht vs Heerenveen: Home Win - High Risk
+Home:44,81% vs Away:32,16% vs Draw:23,03% Diff: 12,65%
+Home Av Gls: 1,55 vs Away Av Gls: 1,5
+Home Historical Av Gls: 1,63 vs Away Historical Av Gls: 1,45
+Over 1 Gls: 43,57% 
+Over 2 Gls: 18,63% 
+
+Alverca vs Guimaraes: Away Win - Low Risk
+Home:0% vs Away:77,42% vs Draw:22,58% Diff: 77,42%
+Home Av Gls: 0 vs Away Av Gls: 1,31
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1,36
+Over 1 Gls: 8,85% 
+Over 2 Gls: 1,4% 
+
+Sp Braga vs Nacional: Home Win - Low Risk
+Home:77% vs Away:7,44% vs Draw:15,56% Diff: 69,57%
+Home Av Gls: 2,09 vs Away Av Gls: 0
+Home Historical Av Gls: 1,78 vs Away Historical Av Gls: 0,92
+Over 1 Gls: 19,9% 
+Over 2 Gls: 5,06% 
+
+Famalicao vs Rio Ave: Home Win - Very High Risk
+Home:37,94% vs Away:31,74% vs Draw:30,32% Diff: 6,19%
+Home Av Gls: 1,17 vs Away Av Gls: 1,05
+Home Historical Av Gls: 1,26 vs Away Historical Av Gls: 1,17
+Over 1 Gls: 32,27% 
+Over 2 Gls: 11,19% 
+
+Brann vs Fredrikstad: Home Win - No bet
+Home:44,21% vs Away:39,55% vs Draw:16,24% Diff: 4,66%
+Home Av Gls: 1,83 vs Away Av Gls: 1,33
+Home Historical Av Gls: 1,5 vs Away Historical Av Gls: 1,33
+Over 1 Gls: 44,17% 
+Over 2 Gls: 19,08% 
+
+Bryne vs Kristiansund: Home Win - High Risk
+Home:46,63% vs Away:32,76% vs Draw:20,61% Diff: 13,88%
+Home Av Gls: 1,5 vs Away Av Gls: 1,09
+Home Historical Av Gls: 1,5 vs Away Historical Av Gls: 1,4
+Over 1 Gls: 35,21% 
+Over 2 Gls: 12,95% 
+
+HamKam vs Rosenborg: Away Win - Moderate Risk
+Home:30,97% vs Away:51,48% vs Draw:17,55% Diff: 20,51%
+Home Av Gls: 1,1 vs Away Av Gls: 1,61
+Home Historical Av Gls: 1,1 vs Away Historical Av Gls: 1,85
+Over 1 Gls: 27,6% 
+Over 2 Gls: 8,63% 
+
+Tromso vs Stromsgodset: Home Win - Moderate Risk
+Home:56,56% vs Away:28,88% vs Draw:14,57% Diff: 27,68%
+Home Av Gls: 1,44 vs Away Av Gls: 1,21
+Home Historical Av Gls: 1,35 vs Away Historical Av Gls: 1,42
+Over 1 Gls: 35,54% 
+Over 2 Gls: 13,16% 
+
+Molde vs Valerenga: Home Win - Moderate Risk
+Home:51,48% vs Away:32,11% vs Draw:16,41% Diff: 19,37%
+Home Av Gls: 2,03 vs Away Av Gls: 1,25
+Home Historical Av Gls: 2,14 vs Away Historical Av Gls: 1,47
+Over 1 Gls: 52,21% 
+Over 2 Gls: 25,6% 
+

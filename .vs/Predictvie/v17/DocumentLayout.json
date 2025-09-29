@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Godfrey.Masha\\source\\repos\\Predictvie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1909C225-102B-460B-BBB3-62D1609694B5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\godfrey.masha\\source\\repos\\predictvie\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1909C225-102B-460B-BBB3-62D1609694B5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1909C225-102B-460B-BBB3-62D1609694B5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\godfrey.masha\\source\\repos\\predictvie\\consoleapp1\\services\\eplhistoricalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1909C225-102B-460B-BBB3-62D1609694B5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\services\\eplhistoricalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1909C225-102B-460B-BBB3-62D1609694B5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\godfrey.masha\\source\\repos\\predictvie\\consoleapp1\\implementations\\headtoheadstatsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1909C225-102B-460B-BBB3-62D1609694B5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\implementations\\headtoheadstatsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Investec Codes\\rsk-grc-registry-forex\\src\\Investec.GRC.Registry.Forex\\Services\\Storage\\BlobStorageForexService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1909C225-102B-460B-BBB3-62D1609694B5}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\godfrey.masha\\source\\repos\\predictvie\\consoleapp1\\interfaces\\iheadtoheadstatsservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1909C225-102B-460B-BBB3-62D1609694B5}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\iheadtoheadstatsservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlobStorageForexService.cs",
+              "DocumentMoniker": "C:\\Investec Codes\\rsk-grc-registry-forex\\src\\Investec.GRC.Registry.Forex\\Services\\Storage\\BlobStorageForexService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Investec Codes\\rsk-grc-registry-forex\\src\\Investec.GRC.Registry.Forex\\Services\\Storage\\BlobStorageForexService.cs",
+              "ToolTip": "C:\\Investec Codes\\rsk-grc-registry-forex\\src\\Investec.GRC.Registry.Forex\\Services\\Storage\\BlobStorageForexService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Investec Codes\\rsk-grc-registry-forex\\src\\Investec.GRC.Registry.Forex\\Services\\Storage\\BlobStorageForexService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:53:52.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeadToHeadStatsService.cs",
+              "DocumentMoniker": "C:\\Users\\Godfrey.Masha\\source\\repos\\Predictvie\\ConsoleApp1\\Implementations\\HeadToHeadStatsService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Implementations\\HeadToHeadStatsService.cs",
+              "ToolTip": "C:\\Users\\Godfrey.Masha\\source\\repos\\Predictvie\\ConsoleApp1\\Implementations\\HeadToHeadStatsService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Implementations\\HeadToHeadStatsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:12:17.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EPLHistoricalService.cs",
+              "DocumentMoniker": "C:\\Users\\Godfrey.Masha\\source\\repos\\Predictvie\\ConsoleApp1\\Services\\EPLHistoricalService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Services\\EPLHistoricalService.cs",
+              "ToolTip": "C:\\Users\\Godfrey.Masha\\source\\repos\\Predictvie\\ConsoleApp1\\Services\\EPLHistoricalService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Services\\EPLHistoricalService.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwIIAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T18:50:06.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Godfrey.Masha\\source\\repos\\Predictvie\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Godfrey.Masha\\source\\repos\\Predictvie\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAHwBAAAAAAAAAAAkwIQBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:40:28.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IHeadToHeadStatsService.cs",
+              "DocumentMoniker": "C:\\Users\\Godfrey.Masha\\source\\repos\\Predictvie\\ConsoleApp1\\Interfaces\\IHeadToHeadStatsService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\IHeadToHeadStatsService.cs",
+              "ToolTip": "C:\\Users\\Godfrey.Masha\\source\\repos\\Predictvie\\ConsoleApp1\\Interfaces\\IHeadToHeadStatsService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interfaces\\IHeadToHeadStatsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:31:16.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

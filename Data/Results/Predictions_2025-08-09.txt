@@ -1,0 +1,35 @@
+Charlton vs Watford: Away Win - Moderate Risk
+Home:11,67% vs Away:50,95% vs Draw:37,38% Diff: 39,28%
+Home Av Gls: 0 vs Away Av Gls: 1,19
+Home Historical Av Gls: 0,97 vs Away Historical Av Gls: 1,24
+Over 1 Gls: 9,35% 
+Over 2 Gls: 1,52% 
+
+Coventry vs Hull: Home Win - Very High Risk
+Home:42,65% vs Away:34% vs Draw:23,35% Diff: 8,65%
+Home Av Gls: 1,42 vs Away Av Gls: 1,12
+Home Historical Av Gls: 1,32 vs Away Historical Av Gls: 1,23
+Over 1 Gls: 37,72% 
+Over 2 Gls: 14,55% 
+
+Peterboro vs Luton: Home Win - Moderate Risk
+Home:52,26% vs Away:24,36% vs Draw:23,37% Diff: 27,9%
+Home Av Gls: 1,65 vs Away Av Gls: 0
+Home Historical Av Gls: 1,66 vs Away Historical Av Gls: 1,96
+Over 1 Gls: 17,07% 
+Over 2 Gls: 3,95% 
+
+Reading vs Huddersfield: Home Win - Very High Risk
+Home:43,72% vs Away:36,88% vs Draw:19,41% Diff: 6,84%
+Home Av Gls: 1,48 vs Away Av Gls: 1,26
+Home Historical Av Gls: 1,48 vs Away Historical Av Gls: 1,26
+Over 1 Gls: 36,51% 
+Over 2 Gls: 13,77% 
+
+Nijmegen vs Excelsior: Home Win - High Risk
+Home:46,28% vs Away:27,94% vs Draw:25,77% Diff: 18,34%
+Home Av Gls: 1,75 vs Away Av Gls: 1,2
+Home Historical Av Gls: 1,28 vs Away Historical Av Gls: 1,21
+Over 1 Gls: 54,48% 
+Over 2 Gls: 27,63% 
+

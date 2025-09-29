@@ -1,0 +1,42 @@
+Verona vs Cremonese: Home Win - No bet
+Home:35,32% vs Away:33,57% vs Draw:31,11% Diff: 1,74%
+Home Av Gls: 0,91 vs Away Av Gls: 1,04
+Home Historical Av Gls: 1,08 vs Away Historical Av Gls: 0,95
+Over 1 Gls: 30,47% 
+Over 2 Gls: 10,16% 
+
+Como vs Genoa: Away Win - Moderate Risk
+Home:0% vs Away:59,72% vs Draw:40,28% Diff: 59,72%
+Home Av Gls: 0 vs Away Av Gls: 1,18
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1,06
+Over 1 Gls: 7,15% 
+Over 2 Gls: 1% 
+
+Espanol vs Mallorca: Away Win - High Risk
+Home:30,17% vs Away:41,76% vs Draw:28,08% Diff: 11,59%
+Home Av Gls: 1,42 vs Away Av Gls: 0,94
+Home Historical Av Gls: 1,11 vs Away Historical Av Gls: 0,96
+Over 1 Gls: 39,66% 
+Over 2 Gls: 15,85% 
+
+AIK vs Brommapojkarna: Home Win - Moderate Risk
+Home:55,94% vs Away:25,22% vs Draw:18,84% Diff: 30,71%
+Home Av Gls: 1,33 vs Away Av Gls: 1,38
+Home Historical Av Gls: 1,46 vs Away Historical Av Gls: 1,21
+Over 1 Gls: 42,99% 
+Over 2 Gls: 18,21% 
+
+Hacken vs Goteborg: Home Win - No bet
+Home:42,8% vs Away:38,59% vs Draw:18,61% Diff: 4,2%
+Home Av Gls: 1,99 vs Away Av Gls: 1,15
+Home Historical Av Gls: 1,8 vs Away Historical Av Gls: 1,36
+Over 1 Gls: 54,56% 
+Over 2 Gls: 27,7% 
+
+Rakow vs Gornik Zabrze: Home Win - High Risk
+Home:48,69% vs Away:34,88% vs Draw:16,43% Diff: 13,81%
+Home Av Gls: 1,63 vs Away Av Gls: 1,31
+Home Historical Av Gls: 1,6 vs Away Historical Av Gls: 1,31
+Over 1 Gls: 34,71% 
+Over 2 Gls: 12,64% 
+

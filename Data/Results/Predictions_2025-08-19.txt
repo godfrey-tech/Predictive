@@ -1,0 +1,49 @@
+Luton vs AFC Wimbledon: Away Win - Moderate Risk
+Home:17,28% vs Away:53,97% vs Draw:28,75% Diff: 36,69%
+Home Av Gls: 0 vs Away Av Gls: 1,21
+Home Historical Av Gls: 1,78 vs Away Historical Av Gls: 1,22
+Over 1 Gls: 11,11% 
+Over 2 Gls: 2% 
+
+Blackpool vs Stevenage: Away Win - Low Risk
+Home:12,06% vs Away:61,26% vs Draw:26,68% Diff: 49,19%
+Home Av Gls: 0 vs Away Av Gls: 1,28
+Home Historical Av Gls: 1,5 vs Away Historical Av Gls: 1,14
+Over 1 Gls: 11,02% 
+Over 2 Gls: 1,97% 
+
+Bradford vs Wycombe: Home Win - Moderate Risk
+Home:58,84% vs Away:15,93% vs Draw:25,23% Diff: 42,91%
+Home Av Gls: 1,36 vs Away Av Gls: 0
+Home Historical Av Gls: 1,26 vs Away Historical Av Gls: 1,49
+Over 1 Gls: 12,12% 
+Over 2 Gls: 2,29% 
+
+Burton vs Mansfield: Away Win - Low Risk
+Home:0% vs Away:66,53% vs Draw:33,47% Diff: 66,53%
+Home Av Gls: 0 vs Away Av Gls: 1,8
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1,46
+Over 1 Gls: 14,03% 
+Over 2 Gls: 2,89% 
+
+Doncaster vs Exeter: Home Win - Low Risk
+Home:71,13% vs Away:12,65% vs Draw:16,22% Diff: 58,48%
+Home Av Gls: 1,47 vs Away Av Gls: 0
+Home Historical Av Gls: 1,52 vs Away Historical Av Gls: 1,45
+Over 1 Gls: 13,67% 
+Over 2 Gls: 2,77% 
+
+Stockport vs Bolton: Home Win - Low Risk
+Home:60,85% vs Away:16,22% vs Draw:22,93% Diff: 44,63%
+Home Av Gls: 1,84 vs Away Av Gls: 0
+Home Historical Av Gls: 1,75 vs Away Historical Av Gls: 1,28
+Over 1 Gls: 17,88% 
+Over 2 Gls: 4,25% 
+
+Gillingham vs Chesterfield: Away Win - High Risk
+Home:35,68% vs Away:47,59% vs Draw:16,73% Diff: 11,91%
+Home Av Gls: 0,94 vs Away Av Gls: 1,59
+Home Historical Av Gls: 0,89 vs Away Historical Av Gls: 1,4
+Over 1 Gls: 33,12% 
+Over 2 Gls: 11,68% 
+

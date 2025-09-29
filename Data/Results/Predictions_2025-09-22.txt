@@ -1,0 +1,70 @@
+Napoli vs Pisa: Home Win - Low Risk
+Home:70,04% vs Away:0% vs Draw:29,96% Diff: 70,04%
+Home Av Gls: 1,59 vs Away Av Gls: 0
+Home Historical Av Gls: 1,98 vs Away Historical Av Gls: 0
+Over 1 Gls: 12,91% 
+Over 2 Gls: 2,53% 
+
+Millwall vs Watford: Home Win - High Risk
+Home:45,28% vs Away:31,14% vs Draw:23,58% Diff: 14,14%
+Home Av Gls: 1,04 vs Away Av Gls: 1,19
+Home Historical Av Gls: 1,1 vs Away Historical Av Gls: 1,24
+Over 1 Gls: 37,65% 
+Over 2 Gls: 14,51% 
+
+Marseille vs Paris SG: Away Win - High Risk
+Home:36,54% vs Away:51,06% vs Draw:12,4% Diff: 14,53%
+Home Av Gls: 1,64 vs Away Av Gls: 2,27
+Home Historical Av Gls: 1,59 vs Away Historical Av Gls: 2,52
+Over 1 Gls: 43,55% 
+Over 2 Gls: 18,62% 
+
+Sp Lisbon vs Moreirense: Home Win - High Risk
+Home:53,22% vs Away:38,55% vs Draw:8,23% Diff: 14,66%
+Home Av Gls: 2,56 vs Away Av Gls: 1,06
+Home Historical Av Gls: 2,08 vs Away Historical Av Gls: 1,07
+Over 1 Gls: 58,12% 
+Over 2 Gls: 31,07% 
+
+Drogheda vs Shelbourne: Away Win - High Risk
+Home:29,15% vs Away:41,43% vs Draw:29,42% Diff: 12,27%
+Home Av Gls: 1,19 vs Away Av Gls: 1,15
+Home Historical Av Gls: 1,09 vs Away Historical Av Gls: 1,09
+Over 1 Gls: 32,46% 
+Over 2 Gls: 11,3% 
+
+Galway vs Sligo Rovers: Home Win - No bet
+Home:38,12% vs Away:34,37% vs Draw:27,5% Diff: 3,75%
+Home Av Gls: 1 vs Away Av Gls: 1,09
+Home Historical Av Gls: 1,15 vs Away Historical Av Gls: 1,14
+Over 1 Gls: 25,02% 
+Over 2 Gls: 7,34% 
+
+St. Patricks vs Cork City: Home Win - Moderate Risk
+Home:54,75% vs Away:25,34% vs Draw:19,91% Diff: 29,41%
+Home Av Gls: 1,52 vs Away Av Gls: 1,04
+Home Historical Av Gls: 1,35 vs Away Historical Av Gls: 1,41
+Over 1 Gls: 46,07% 
+Over 2 Gls: 20,53% 
+
+Waterford vs Shamrock Rovers: Away Win - Moderate Risk
+Home:33,19% vs Away:50,36% vs Draw:16,45% Diff: 17,17%
+Home Av Gls: 1,14 vs Away Av Gls: 1,65
+Home Historical Av Gls: 1,18 vs Away Historical Av Gls: 1,67
+Over 1 Gls: 38,84% 
+Over 2 Gls: 15,29% 
+
+Varnamo vs Halmstad: Away Win - No bet
+Home:36,1% vs Away:39,13% vs Draw:24,78% Diff: 3,03%
+Home Av Gls: 1,11 vs Away Av Gls: 1,01
+Home Historical Av Gls: 1,12 vs Away Historical Av Gls: 0,93
+Over 1 Gls: 27,93% 
+Over 2 Gls: 8,8% 
+
+Norrkoping vs AIK: Away Win - High Risk
+Home:33,61% vs Away:49,3% vs Draw:17,09% Diff: 15,69%
+Home Av Gls: 1,41 vs Away Av Gls: 1,33
+Home Historical Av Gls: 1,64 vs Away Historical Av Gls: 1,46
+Over 1 Gls: 49,04% 
+Over 2 Gls: 22,91% 
+

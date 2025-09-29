@@ -1,0 +1,77 @@
+Elche vs Levante: Home Win - High Risk
+Home:46,69% vs Away:15,9% vs Draw:37,42% Diff: 30,79%
+Home Av Gls: 0,81 vs Away Av Gls: 0
+Home Historical Av Gls: 0,91 vs Away Historical Av Gls: 1,3
+Over 1 Gls: 5,97% 
+Over 2 Gls: 0,76% 
+
+Valencia vs Getafe: Home Win - Very High Risk
+Home:37,89% vs Away:30,68% vs Draw:31,44% Diff: 7,21%
+Home Av Gls: 1 vs Away Av Gls: 1
+Home Historical Av Gls: 1,31 vs Away Historical Av Gls: 1,02
+Over 1 Gls: 21,06% 
+Over 2 Gls: 5,54% 
+
+Cremonese vs Sassuolo: Away Win - No bet
+Home:34,74% vs Away:35,96% vs Draw:29,3% Diff: 1,22%
+Home Av Gls: 1,04 vs Away Av Gls: 1,19
+Home Historical Av Gls: 0,95 vs Away Historical Av Gls: 1,39
+Over 1 Gls: 38,79% 
+Over 2 Gls: 15,26% 
+
+Lecce vs Milan: Away Win - Moderate Risk
+Home:23,04% vs Away:52,4% vs Draw:24,56% Diff: 29,36%
+Home Av Gls: 0,88 vs Away Av Gls: 1,8
+Home Historical Av Gls: 1,03 vs Away Historical Av Gls: 1,65
+Over 1 Gls: 35,62% 
+Over 2 Gls: 13,2% 
+
+Lens vs Brest: Home Win - No bet
+Home:41,62% vs Away:39,4% vs Draw:18,98% Diff: 2,22%
+Home Av Gls: 1,54 vs Away Av Gls: 1,41
+Home Historical Av Gls: 1,55 vs Away Historical Av Gls: 1,31
+Over 1 Gls: 41,98% 
+Over 2 Gls: 17,47% 
+
+Leicester vs Birmingham: Home Win - Moderate Risk
+Home:54,68% vs Away:30,91% vs Draw:14,4% Diff: 23,77%
+Home Av Gls: 1,93 vs Away Av Gls: 1,05
+Home Historical Av Gls: 1,93 vs Away Historical Av Gls: 1,05
+Over 1 Gls: 52,07% 
+Over 2 Gls: 25,48% 
+
+Groningen vs Heracles: Away Win - High Risk
+Home:24,15% vs Away:46,89% vs Draw:28,96% Diff: 22,75%
+Home Av Gls: 0,77 vs Away Av Gls: 1,21
+Home Historical Av Gls: 1,23 vs Away Historical Av Gls: 1,37
+Over 1 Gls: 18,43% 
+Over 2 Gls: 4,47% 
+
+Cork City vs Waterford: Away Win - High Risk
+Home:29,74% vs Away:48,41% vs Draw:21,86% Diff: 18,67%
+Home Av Gls: 1,04 vs Away Av Gls: 1,14
+Home Historical Av Gls: 1,42 vs Away Historical Av Gls: 1,18
+Over 1 Gls: 32,89% 
+Over 2 Gls: 11,55% 
+
+Derry City vs St. Patricks: Away Win - Very High Risk
+Home:37,71% vs Away:44,39% vs Draw:17,9% Diff: 6,68%
+Home Av Gls: 1,4 vs Away Av Gls: 1,52
+Home Historical Av Gls: 1,41 vs Away Historical Av Gls: 1,35
+Over 1 Gls: 41,99% 
+Over 2 Gls: 17,48% 
+
+Salford vs Cheltenham: Home Win - No bet
+Home:41,07% vs Away:36,93% vs Draw:22% Diff: 4,15%
+Home Av Gls: 1,47 vs Away Av Gls: 1,3
+Home Historical Av Gls: 1,37 vs Away Historical Av Gls: 1,3
+Over 1 Gls: 41,13% 
+Over 2 Gls: 16,87% 
+
+Gil Vicente vs Moreirense: Away Win - Moderate Risk
+Home:27,92% vs Away:55,86% vs Draw:16,22% Diff: 27,93%
+Home Av Gls: 1,14 vs Away Av Gls: 1,06
+Home Historical Av Gls: 1,14 vs Away Historical Av Gls: 1,06
+Over 1 Gls: 29,17% 
+Over 2 Gls: 9,46% 
+
