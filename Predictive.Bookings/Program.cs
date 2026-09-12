@@ -16,7 +16,8 @@ var historicalService = new EPLHistoricalService();
 var championshipData = historicalService.LoadAndProcessCompetitionData("Championship");
 List<SeasonMatchRecord> seasonMatches = MatchMapper.MapToSeasonMatchRecords(championshipData);
 
-var bookingsEngine = new BookingsEngine(seasonMatches);
+var refereeService = new RefereeService(seasonMatches);
+var bookingsEngine = new BookingsEngine(seasonMatches, refereeService);
 
 var todaysFixtures = new List<(string homeTeam, string awayTeam)>
 {

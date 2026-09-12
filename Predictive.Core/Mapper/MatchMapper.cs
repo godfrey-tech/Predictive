@@ -1008,8 +1008,14 @@ namespace ConsoleApp1.Mapper
                 HomeBookings = (historicalMatch.HY ?? 0) + (historicalMatch.HR ?? 0),
                 AwayBookings = (historicalMatch.AY ?? 0) + (historicalMatch.AR ?? 0),
                 HomeHalfTimeBookings = historicalMatch.HY ?? 0, // Assuming same as HomeBookings for half-time
-                AwayHalfTimeBookings = historicalMatch.AY ?? 0  // Assuming same as AwayBookings for half-time
-            }; 
+                AwayHalfTimeBookings = historicalMatch.AY ?? 0,  // Assuming same as AwayBookings for half-time
+                Referee = historicalMatch.Referee,
+                AvgHomeOdds = historicalMatch.AvgH,
+                AvgDrawOdds = historicalMatch.AvgD,
+                AvgAwayOdds = historicalMatch.AvgA,
+                AvgOver25Odds = historicalMatch.AvgOver25,
+                AvgUnder25Odds = historicalMatch.AvgUnder25
+            };
         }
 
         public static List<SeasonMatchRecord> MapToSeasonMatchRecords(List<HistoricalMatchFromCSVFile> historicalMatches)

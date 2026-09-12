@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using ConsoleApp1.Modals;
+using Predictive.Bookings.Interfaces;
 
 // ============================================================
 //  BookingsEngine.cs — Predictive.Bookings/Implementations/
@@ -17,10 +18,15 @@ namespace Predictive.Bookings.Implementations
     public class BookingsEngine
     {
         private readonly List<SeasonMatchRecord> _data;
+        private readonly IRefereeService? _refereeService;
         private const int RECENT_MONTHS = 20;
         private const int MIN_SAMPLE = 6;
 
-        public BookingsEngine(List<SeasonMatchRecord> data) { _data = data; }
+        public BookingsEngine(List<SeasonMatchRecord> data, IRefereeService? refereeService = null)
+        {
+            _data = data;
+            _refereeService = refereeService;
+        }
 
         // Signal emoji based on percentage
         private string S(double pct)
@@ -31,7 +37,18 @@ namespace Predictive.Bookings.Implementations
             return "🔴";
         }
 
-        public string Analyse(string homeTeam, string awayTeam)
+        // Applies a bias multiplier to a hit-rate percentage via an odds-ratio shift
+        // (odds = p/(1-p), scaled, converted back) rather than naive multiplication,
+        // so a card-happy referee can never push a rate past 100%.
+        private static double AdjustRateForBias(double pct, double biasMultiplier)
+        {
+            if (biasMultiplier == 1.0) return pct;
+            double p = Math.Clamp(pct / 100.0, 0.001, 0.999);
+            double odds = p / (1 - p) * biasMultiplier;
+            return odds / (1 + odds) * 100.0;
+        }
+
+        public string Analyse(string homeTeam, string awayTeam, string? referee = null)
         {
             var now = DateTime.Now;
             var recentFrom = now.AddMonths(-RECENT_MONTHS);
@@ -41,28 +58,35 @@ namespace Predictive.Bookings.Implementations
             var am = GetMatches(awayTeam, recentFrom, now);
             var h2h = GetH2H(homeTeam, awayTeam, histFrom, now);
 
+            // Referee bias: known referee + a service to look it up shifts every card
+            // number below; unknown referee (the common case pre-SportMonks, since
+            // upcoming fixtures rarely have a confirmed referee) leaves them unchanged.
+            double refereeBias = (!string.IsNullOrEmpty(referee) && _refereeService != null)
+                ? _refereeService.GetRefereeBiasMultiplier(referee)
+                : 1.0;
+
             // ── Card averages ─────────────────────────────
-            double homeCardAvg = AvgCards(homeTeam, hm, asHome: true);
-            double awayCardAvg = AvgCards(awayTeam, am, asHome: false);
+            double homeCardAvg = AvgCards(homeTeam, hm, asHome: true) * refereeBias;
+            double awayCardAvg = AvgCards(awayTeam, am, asHome: false) * refereeBias;
             double totalCardAvg = homeCardAvg + awayCardAvg;
             double h2hCardAvg = h2h.Count >= 3
-                ? h2h.Average(m => m.HomeBookings + m.AwayBookings) : 0;
+                ? h2h.Average(m => m.HomeBookings + m.AwayBookings) * refereeBias : 0;
 
             // ── Total match card rates ────────────────────
-            double ft_o3 = TotalCardRate(hm, am, t: 2);  // Over 3 = 3+ cards
-            double ft_o4 = TotalCardRate(hm, am, t: 3);  // Over 4 = 4+ cards
-            double ft_o5 = TotalCardRate(hm, am, t: 4);  // Over 5 = 5+ cards
-            double ft_o6 = TotalCardRate(hm, am, t: 5);  // Over 6 = 6+ cards
+            double ft_o3 = AdjustRateForBias(TotalCardRate(hm, am, t: 2), refereeBias);  // Over 3 = 3+ cards
+            double ft_o4 = AdjustRateForBias(TotalCardRate(hm, am, t: 3), refereeBias);  // Over 4 = 4+ cards
+            double ft_o5 = AdjustRateForBias(TotalCardRate(hm, am, t: 4), refereeBias);  // Over 5 = 5+ cards
+            double ft_o6 = AdjustRateForBias(TotalCardRate(hm, am, t: 5), refereeBias);  // Over 6 = 6+ cards
 
             // ── Home card rates ───────────────────────────
-            double h_o1 = CardRate(homeTeam, hm, asHome: true, t: 0);
-            double h_o2 = CardRate(homeTeam, hm, asHome: true, t: 1);
-            double h_o3 = CardRate(homeTeam, hm, asHome: true, t: 2);
+            double h_o1 = AdjustRateForBias(CardRate(homeTeam, hm, asHome: true, t: 0), refereeBias);
+            double h_o2 = AdjustRateForBias(CardRate(homeTeam, hm, asHome: true, t: 1), refereeBias);
+            double h_o3 = AdjustRateForBias(CardRate(homeTeam, hm, asHome: true, t: 2), refereeBias);
 
             // ── Away card rates ───────────────────────────
-            double a_o1 = CardRate(awayTeam, am, asHome: false, t: 0);
-            double a_o2 = CardRate(awayTeam, am, asHome: false, t: 1);
-            double a_o3 = CardRate(awayTeam, am, asHome: false, t: 2);
+            double a_o1 = AdjustRateForBias(CardRate(awayTeam, am, asHome: false, t: 0), refereeBias);
+            double a_o2 = AdjustRateForBias(CardRate(awayTeam, am, asHome: false, t: 1), refereeBias);
+            double a_o3 = AdjustRateForBias(CardRate(awayTeam, am, asHome: false, t: 2), refereeBias);
 
             // ── Corner averages ───────────────────────────
             double homeCornerAvg = AvgCorners(homeTeam, hm, asHome: true);
@@ -82,6 +106,8 @@ namespace Predictive.Bookings.Implementations
             var sb = new System.Text.StringBuilder();
 
             sb.AppendLine("🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)");
+            if (!string.IsNullOrEmpty(referee) && refereeBias != 1.0)
+                sb.AppendLine($"Referee: {referee}  (bias x{refereeBias:F2})");
             sb.AppendLine();
 
             // Cards section

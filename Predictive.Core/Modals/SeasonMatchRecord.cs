@@ -24,5 +24,15 @@ namespace ConsoleApp1.Modals
         public int AwayBookings { get; set; }
         public int HomeHalfTimeBookings { get; set; }
         public int AwayHalfTimeBookings { get; set; }
+
+        // Referee and match-result/goals odds are already parsed out of the CSVs
+        // upstream (see HistoricalMatchFromCSVFile) but were being dropped here.
+        // Null when the source CSV variant doesn't carry them (e.g. Extra Leagues).
+        public string? Referee { get; set; }
+        public double? AvgHomeOdds { get; set; }
+        public double? AvgDrawOdds { get; set; }
+        public double? AvgAwayOdds { get; set; }
+        public double? AvgOver25Odds { get; set; }
+        public double? AvgUnder25Odds { get; set; }
     }
 }
