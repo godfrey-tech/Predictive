@@ -17,7 +17,24 @@ var championshipData = historicalService.LoadAndProcessCompetitionData("Champion
 List<SeasonMatchRecord> seasonMatches = MatchMapper.MapToSeasonMatchRecords(championshipData);
 
 var refereeService = new RefereeService(seasonMatches);
-var bookingsEngine = new BookingsEngine(seasonMatches, refereeService);
+
+bool RUN_BOOKINGS_BACKTEST = false;
+Dictionary<string, ConfidenceCalibrator>? calibrators = null;
+
+if (RUN_BOOKINGS_BACKTEST)
+{
+    var backtester = new BookingsBacktester(seasonMatches);
+    var summary = backtester.Run(new DateTime(2022, 8, 1), new DateTime(2024, 6, 1));
+    Console.WriteLine(summary.Report);
+
+    string backtestPath = Path.Combine("Data", "Results", $"BookingsBacktest_{DateTime.Now:yyyy-MM-dd}.txt");
+    Directory.CreateDirectory(Path.GetDirectoryName(backtestPath)!);
+    await File.WriteAllTextAsync(backtestPath, summary.Report);
+
+    calibrators = summary.Calibrators;
+}
+
+var bookingsEngine = new BookingsEngine(seasonMatches, refereeService, oddsProvider: null, calibrators: calibrators);
 
 var todaysFixtures = new List<(string homeTeam, string awayTeam)>
 {
