@@ -39,6 +39,11 @@ var bookingsEngine = new BookingsEngine(seasonMatches, refereeService, oddsProvi
 var todaysFixtures = new List<(string homeTeam, string awayTeam)>
 {
     ("Birmingham", "Ipswich"),
+    ("Charlton", "Watford"),
+    ("Coventry", "Hull"),
+    ("Southampton", "Wrexham"),
+    ("Middlesbrough", "Swansea"),
+    ("Norwich", "Millwall"),
 };
 
 string currentDate = DateTime.Now.ToString("yyyy-MM-dd");
@@ -50,4 +55,26 @@ foreach (var (homeTeam, awayTeam) in todaysFixtures)
     string output = $"{homeTeam} vs {awayTeam}\n" + bookingsEngine.Analyse(homeTeam, awayTeam) + "\n";
     Console.WriteLine(output);
     await File.AppendAllTextAsync(outputPath, output);
+}
+
+bool RUN_CARD_ACCUMULATORS = false;
+if (RUN_CARD_ACCUMULATORS)
+{
+    var accumulatorBuilder = new CardAccumulatorBuilder(bookingsEngine);
+    var topAccumulators = accumulatorBuilder.BuildTopAccumulators(todaysFixtures);
+
+    var sb = new System.Text.StringBuilder();
+    sb.AppendLine("CARD ACCUMULATORS");
+    foreach (var acc in topAccumulators)
+    {
+        sb.AppendLine(string.Join(" + ", acc.Legs.Select(l => $"{l.HomeTeam} v {l.AwayTeam}: {l.Market} ({l.Probability * 100:F1}%)")));
+        string oddsText = acc.CombinedOdds.HasValue ? $"@{acc.CombinedOdds:F2}" : "(no odds available)";
+        string evText = acc.ExpectedValue.HasValue ? $"EV {acc.ExpectedValue * 100:F1}%, Kelly {acc.KellyFraction * 100:F1}% bankroll" : "";
+        sb.AppendLine($"  Combined: {acc.CombinedProbability * 100:F1}% {oddsText} {evText}");
+        sb.AppendLine();
+    }
+
+    string accumulatorOutput = sb.ToString();
+    Console.WriteLine(accumulatorOutput);
+    await File.AppendAllTextAsync(outputPath, accumulatorOutput);
 }
