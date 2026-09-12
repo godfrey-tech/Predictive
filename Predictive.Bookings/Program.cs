@@ -12,6 +12,30 @@ using Predictive.Bookings.Implementations;
 //  SportMonks) this project is meant to grow into.
 // ============================================================
 
+// Resolves Data/Results relative to the repo root by walking up from the running
+// assembly — same fix as EPLHistoricalService.ResolveDataRoot(), so output lands in
+// the right place (C:\Predictive - Version2\Data\Results) regardless of whether this
+// runs via `dotnet run`, Visual Studio, or a published exe, instead of wherever the
+// current working directory happens to be.
+static string ResolveResultsPath(string fileName)
+{
+    var dir = new DirectoryInfo(AppContext.BaseDirectory);
+    while (dir != null)
+    {
+        // Anchor on Data/England Football specifically (same signal EPLHistoricalService
+        // uses) rather than a bare "Data" folder — a bare check can false-positive on a
+        // stray Data/Results directory a previous buggy run left behind in bin output.
+        if (Directory.Exists(Path.Combine(dir.FullName, "Data", "England Football")))
+        {
+            var resultsDir = Path.Combine(dir.FullName, "Data", "Results");
+            Directory.CreateDirectory(resultsDir);
+            return Path.Combine(resultsDir, fileName);
+        }
+        dir = dir.Parent;
+    }
+    throw new DirectoryNotFoundException($"Could not locate 'Data/England Football' by walking up from {AppContext.BaseDirectory}");
+}
+
 var historicalService = new EPLHistoricalService();
 var championshipData = historicalService.LoadAndProcessCompetitionData("Championship");
 List<SeasonMatchRecord> seasonMatches = MatchMapper.MapToSeasonMatchRecords(championshipData);
@@ -27,8 +51,7 @@ if (RUN_BOOKINGS_BACKTEST)
     var summary = backtester.Run(new DateTime(2022, 8, 1), new DateTime(2024, 6, 1));
     Console.WriteLine(summary.Report);
 
-    string backtestPath = Path.Combine("Data", "Results", $"BookingsBacktest_{DateTime.Now:yyyy-MM-dd}.txt");
-    Directory.CreateDirectory(Path.GetDirectoryName(backtestPath)!);
+    string backtestPath = ResolveResultsPath($"BookingsBacktest_{DateTime.Now:yyyy-MM-dd}.txt");
     await File.WriteAllTextAsync(backtestPath, summary.Report);
 
     calibrators = summary.Calibrators;
@@ -38,17 +61,16 @@ var bookingsEngine = new BookingsEngine(seasonMatches, refereeService, oddsProvi
 
 var todaysFixtures = new List<(string homeTeam, string awayTeam)>
 {
-    ("Birmingham", "Ipswich"),
-    ("Charlton", "Watford"),
-    ("Coventry", "Hull"),
-    ("Southampton", "Wrexham"),
-    ("Middlesbrough", "Swansea"),
-    ("Norwich", "Millwall"),
+    ("Blackburn", "Millwall"),
+    ("Charlton", "Portsmouth"),
+    //("Coventry", "Hull"),
+    //("Southampton", "Wrexham"),
+    //("Middlesbrough", "Swansea"),
+    //("Norwich", "Millwall"),
 };
 
 string currentDate = DateTime.Now.ToString("yyyy-MM-dd");
-string outputPath = Path.Combine("Data", "Results", $"BookingsPredictions_{currentDate}.txt");
-Directory.CreateDirectory(Path.GetDirectoryName(outputPath)!);
+string outputPath = ResolveResultsPath($"BookingsPredictions_{currentDate}.txt");
 
 foreach (var (homeTeam, awayTeam) in todaysFixtures)
 {
