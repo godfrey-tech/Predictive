@@ -1,0 +1,175 @@
+Crystal Palace vs Man City: Away Win - Moderate Risk
+Home:24.78% vs Away:56.88% vs Draw:18.34% Diff: 32.11%
+Home Av Gls: 1.26 vs Away Av Gls: 2.24
+Home Historical Av Gls: 1.18 vs Away Historical Av Gls: 2.41
+CEG: 3.51 | CEG+: 4.4
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 44.88% 
+Over 2 Gls: 19.61% 
+
+GOALS UNDERS
+Combined Avg: 3.53/game  (Home: 1.23  Away: 2.30)  CEG: 3.51  CEG+: 4.40
+Under 1.5: 13.5%  🔴 SKIP
+Under 2.5: 31.9%  🔴 SKIP
+Under 3.5: 53.4%  🔴 SKIP
+Under 4.5: 72.4%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.00/game  |  Away Avg: 1.76/game  |  Combined: 3.76/game  |  H2H Avg: 3.00/game (9 matches)
+Total Match Cards:
+  Over 3: 🟢75.7%   Over 4: 🟠64.9%   Over 5: 🔴40.5%   Over 6: 🔴16.2%
+Crystal Palace Cards:
+  Over 1: 🟢79.4%   Over 2: 🟡66.7%   Over 3: 🟠50.8%
+Man City Cards:
+  Over 1: 🟢85.7%   Over 2: 🟠55.6%   Over 3: 🔴25.4%
+
+CORNERS
+Home Avg: 4.13/game  |  Away Avg: 6.17/game  |  Combined: 10.30/game  |  H2H Avg: 7.78/game (9 matches)
+  Over 7:  🟢86.5%   Over 8:  🟢75.7%   Over 9:  🟠62.2%   Over 10: 🟠52.7%   Over 11: 🔴40.5%
+
+═══════════════════════════════════════════════════════════
+
+Alaves vs Villarreal: Away Win - Moderate Risk
+Home:31.69% vs Away:50.11% vs Draw:18.2% Diff: 18.42%
+Home Av Gls: 1.09 vs Away Av Gls: 1.93
+Home Historical Av Gls: 0.99 vs Away Historical Av Gls: 1.61
+CEG: 3.01 | CEG+: 3.67
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 39.25% 
+Over 2 Gls: 15.57% 
+
+GOALS UNDERS
+Combined Avg: 2.87/game  (Home: 1.06  Away: 1.81)  CEG: 3.01  CEG+: 3.67
+Under 1.5: 19.8%  🔴 SKIP
+Under 2.5: 42.1%  🔴 SKIP
+Under 3.5: 64.5%  🔴 SKIP
+Under 4.5: 81.4%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.58/game  |  Away Avg: 2.08/game  |  Combined: 4.65/game  |  H2H Avg: 4.17/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢79.7%   Over 4: 🟡66.2%   Over 5: 🔴47.3%   Over 6: 🔴33.8%
+Alaves Cards:
+  Over 1: 🟢92.5%   Over 2: 🟡72.5%   Over 3: 🔴47.5%
+Villarreal Cards:
+  Over 1: 🟢90.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 5.10/game  |  Away Avg: 4.42/game  |  Combined: 9.52/game  |  H2H Avg: 11.00/game (6 matches)
+  Over 7:  🟢83.8%   Over 8:  🟡68.9%   Over 9:  🟠60.8%   Over 10: 🟠50.0%   Over 11: 🔴39.2%
+
+═══════════════════════════════════════════════════════════
+
+Milan vs Venezia: Home Win - Low Risk
+Home:65.19% vs Away:6.28% vs Draw:28.53% Diff: 58.91%
+Home Av Gls: 2.07 vs Away Av Gls: 0
+Home Historical Av Gls: 1.69 vs Away Historical Av Gls: 0.89
+CEG: 2.07 | CEG+: 2.72
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 19.43% 
+Over 2 Gls: 4.87% 
+
+GOALS UNDERS
+Combined Avg: 2.25/game  (Home: 1.94  Away: 0.31)  CEG: 2.07  CEG+: 2.72
+Under 1.5: 38.7%  🔴 SKIP
+Under 2.5: 65.8%  🟢 STRONG
+Under 3.5: 84.4%  🟢 STRONG
+Under 4.5: 94.1%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 1.90/game  |  Combined: 3.80/game
+Total Match Cards:
+  Over 3: 🟢76.0%   Over 4: 🟠56.0%   Over 5: 🔴37.0%   Over 6: 🔴22.0%
+Milan Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+Venezia Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.50/game  |  Combined: 9.00/game
+  Over 7:  🟢80.0%   Over 8:  🟡69.0%   Over 9:  🟠57.0%   Over 10: 🔴47.0%   Over 11: 🔴38.0%
+
+═══════════════════════════════════════════════════════════
+
+Lille vs Paris SG: Away Win - High Risk
+Home:36.11% vs Away:50.72% vs Draw:13.17% Diff: 14.61%
+Home Av Gls: 1.55 vs Away Av Gls: 2.28
+Home Historical Av Gls: 1.44 vs Away Historical Av Gls: 2.46
+CEG: 3.83 | CEG+: 4.8
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 48.37% 
+Over 2 Gls: 22.36% 
+
+GOALS UNDERS
+Combined Avg: 3.85/game  (Home: 1.51  Away: 2.34)  CEG: 3.83  CEG+: 4.80
+Under 1.5: 10.5%  🔴 SKIP
+Under 2.5: 26.4%  🔴 SKIP
+Under 3.5: 46.7%  🔴 SKIP
+Under 4.5: 66.2%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.47/game  |  Away Avg: 1.12/game  |  Combined: 3.59/game  |  H2H Avg: 3.50/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡68.2%   Over 4: 🔴45.5%   Over 5: 🔴28.8%   Over 6: 🔴15.2%
+Lille Cards:
+  Over 1: 🟢94.1%   Over 2: 🟡67.6%   Over 3: 🟠55.9%
+Paris SG Cards:
+  Over 1: 🟡70.6%   Over 2: 🔴26.5%   Over 3: 🔴8.8%
+
+CORNERS
+Home Avg: 5.71/game  |  Away Avg: 6.35/game  |  Combined: 12.06/game  |  H2H Avg: 9.38/game (8 matches)
+  Over 7:  🟢81.8%   Over 8:  🟡68.2%   Over 9:  🟠54.5%   Over 10: 🔴43.9%   Over 11: 🔴34.8%
+
+═══════════════════════════════════════════════════════════
+
+Wrexham vs Birmingham: Home Win - No bet
+Home:40.75% vs Away:36.31% vs Draw:22.95% Diff: 4.44%
+Home Av Gls: 1.5 vs Away Av Gls: 1.17
+Home Historical Av Gls: 1.5 vs Away Historical Av Gls: 1.06
+CEG: 2.67 | CEG+: 3.31
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 30.78% 
+Over 2 Gls: 10.33% 
+
+GOALS UNDERS
+Combined Avg: 2.63/game  (Home: 1.50  Away: 1.13)  CEG: 2.67  CEG+: 3.31
+Under 1.5: 25.4%  🔴 SKIP
+Under 2.5: 50.1%  🔴 SKIP
+Under 3.5: 72.1%  🟡 SIGNAL
+Under 4.5: 86.7%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.59/game  |  Away Avg: 1.91/game  |  Combined: 3.50/game
+Total Match Cards:
+  Over 3: 🟡68.9%   Over 4: 🟠50.0%   Over 5: 🔴32.2%   Over 6: 🔴17.8%
+Wrexham Cards:
+  Over 1: 🟢76.1%   Over 2: 🔴45.7%   Over 3: 🔴26.1%
+Birmingham Cards:
+  Over 1: 🟢87.0%   Over 2: 🟠52.2%   Over 3: 🔴32.6%
+
+CORNERS
+Home Avg: 4.48/game  |  Away Avg: 5.76/game  |  Combined: 10.24/game
+  Over 7:  🟢85.6%   Over 8:  🟢76.7%   Over 9:  🟠60.0%   Over 10: 🟠50.0%   Over 11: 🔴38.9%
+
+═══════════════════════════════════════════════════════════
+

@@ -1,0 +1,70 @@
+Bournemouth vs Man City: Away Win - Moderate Risk
+Home:34.31% vs Away:52.06% vs Draw:13.62% Diff: 17.75%
+Home Av Gls: 1.62 vs Away Av Gls: 2.27
+Home Historical Av Gls: 1.33 vs Away Historical Av Gls: 2.42
+CEG: 3.89 | CEG+: 4.83
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 48.69% 
+Over 2 Gls: 22.62% 
+
+GOALS UNDERS
+Combined Avg: 3.84/game  (Home: 1.52  Away: 2.32)  CEG: 3.89  CEG+: 4.83
+Under 1.5: 10%  🔴 SKIP
+Under 2.5: 25.5%  🔴 SKIP
+Under 3.5: 45.5%  🔴 SKIP
+Under 4.5: 65%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.39/game  |  Away Avg: 1.77/game  |  Combined: 4.16/game  |  H2H Avg: 3.33/game (6 matches)
+Total Match Cards:
+  Over 3: 🟡74.6%   Over 4: 🟠63.4%   Over 5: 🔴40.8%   Over 6: 🔴23.9%
+Bournemouth Cards:
+  Over 1: 🟢90.2%   Over 2: 🟢77.0%   Over 3: 🔴49.2%
+Man City Cards:
+  Over 1: 🟢85.2%   Over 2: 🟠55.7%   Over 3: 🔴26.2%
+
+CORNERS
+Home Avg: 5.62/game  |  Away Avg: 6.13/game  |  Combined: 11.75/game  |  H2H Avg: 12.33/game (6 matches)
+  Over 7:  🟢90.1%   Over 8:  🟢80.3%   Over 9:  🟡69.0%   Over 10: 🟠59.2%   Over 11: 🔴47.9%
+
+═══════════════════════════════════════════════════════════
+
+Chelsea vs Tottenham: Away Win - No bet
+Home:39.25% vs Away:40.51% vs Draw:20.24% Diff: 1.25%
+Home Av Gls: 1.81 vs Away Av Gls: 1.53
+Home Historical Av Gls: 1.71 vs Away Historical Av Gls: 1.79
+CEG: 3.34 | CEG+: 4.21
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 52.57% 
+Over 2 Gls: 25.91% 
+
+GOALS UNDERS
+Combined Avg: 3.39/game  (Home: 1.78  Away: 1.62)  CEG: 3.34  CEG+: 4.21
+Under 1.5: 15.4%  🔴 SKIP
+Under 2.5: 35.1%  🔴 SKIP
+Under 3.5: 57.2%  🔴 SKIP
+Under 4.5: 75.5%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.49/game  |  Away Avg: 2.61/game  |  Combined: 5.10/game  |  H2H Avg: 4.12/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢77.5%   Over 4: 🟡69.0%   Over 5: 🟠54.9%   Over 6: 🔴31.0%
+Chelsea Cards:
+  Over 1: 🟢96.7%   Over 2: 🟡72.1%   Over 3: 🔴42.6%
+Tottenham Cards:
+  Over 1: 🟢86.9%   Over 2: 🟢82.0%   Over 3: 🟠60.7%
+
+CORNERS
+Home Avg: 6.11/game  |  Away Avg: 5.41/game  |  Combined: 11.52/game  |  H2H Avg: 11.50/game (8 matches)
+  Over 7:  🟢85.9%   Over 8:  🟢76.1%   Over 9:  🟡67.6%   Over 10: 🟠60.6%   Over 11: 🔴46.5%
+
+═══════════════════════════════════════════════════════════
+

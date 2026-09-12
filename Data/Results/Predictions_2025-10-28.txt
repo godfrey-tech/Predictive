@@ -1,0 +1,49 @@
+Lecce vs Napoli: Away Win - Moderate Risk
+Home:23,69% vs Away:51,89% vs Draw:24,43% Diff: 28,2%
+Home Av Gls: 0,88 vs Away Av Gls: 1,59
+Home Historical Av Gls: 1,03 vs Away Historical Av Gls: 1,98
+Over 1 Gls: 27,99% 
+Over 2 Gls: 8,83% 
+
+Atalanta vs Milan: Home Win - No bet
+Home:43,83% vs Away:40,93% vs Draw:15,24% Diff: 2,91%
+Home Av Gls: 1,88 vs Away Av Gls: 1,8
+Home Historical Av Gls: 1,85 vs Away Historical Av Gls: 1,66
+Over 1 Gls: 50,68% 
+Over 2 Gls: 24,29% 
+
+Cobh Ramblers vs Treaty United: Draw - No bet
+Home:NaN% vs Away:NaN% vs Draw:NaN% Diff: NaN%
+Home Av Gls: 0 vs Away Av Gls: 0
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 1
+Over 1 Gls: 0,72% 
+Over 2 Gls: 0,03% 
+
+Bray vs UC Dublin: Draw - No bet
+Home:31,16% vs Away:29,39% vs Draw:39,45% Diff: 1,78%
+Home Av Gls: 1 vs Away Av Gls: 0,53
+Home Historical Av Gls: 1,1 vs Away Historical Av Gls: 0,7
+Over 1 Gls: 11,86% 
+Over 2 Gls: 2,21% 
+
+Sp Lisbon vs Alverca: Home Win - Low Risk
+Home:89,28% vs Away:0% vs Draw:10,72% Diff: 89,28%
+Home Av Gls: 2,56 vs Away Av Gls: 0
+Home Historical Av Gls: 2,08 vs Away Historical Av Gls: 0
+Over 1 Gls: 23,86% 
+Over 2 Gls: 6,79% 
+
+Bradford vs Lincoln: Away Win - High Risk
+Home:16,22% vs Away:49,93% vs Draw:33,85% Diff: 33,71%
+Home Av Gls: 0 vs Away Av Gls: 1,29
+Home Historical Av Gls: 1,22 vs Away Historical Av Gls: 1,3
+Over 1 Gls: 10,93% 
+Over 2 Gls: 1,95% 
+
+Mansfield vs Plymouth: Away Win - Moderate Risk
+Home:29,86% vs Away:58,71% vs Draw:11,43% Diff: 28,85%
+Home Av Gls: 1,3 vs Away Av Gls: 1,67
+Home Historical Av Gls: 1,3 vs Away Historical Av Gls: 1,38
+Over 1 Gls: 29,95% 
+Over 2 Gls: 9,88% 
+

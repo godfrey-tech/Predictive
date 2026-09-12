@@ -1,0 +1,70 @@
+Nott'm Forest vs Aston Villa: Away Win - High Risk
+Home:34.48% vs Away:48.68% vs Draw:16.85% Diff: 14.2%
+Home Av Gls: 1.19 vs Away Av Gls: 1.53
+Home Historical Av Gls: 1.12 vs Away Historical Av Gls: 1.44
+CEG: 2.72 | CEG+: 3.36
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 39.44% 
+Over 2 Gls: 15.7% 
+
+GOALS UNDERS
+Combined Avg: 2.66/game  (Home: 1.16  Away: 1.50)  CEG: 2.72  CEG+: 3.36
+Under 1.5: 24.5%  🔴 SKIP
+Under 2.5: 48.9%  🔴 SKIP
+Under 3.5: 71%  🔴 SKIP
+Under 4.5: 86%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.50/game  |  Away Avg: 1.53/game  |  Combined: 3.03/game  |  H2H Avg: 4.00/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡71.9%   Over 4: 🟠51.6%   Over 5: 🔴29.7%   Over 6: 🔴12.5%
+Nott'm Forest Cards:
+  Over 1: 🟢79.3%   Over 2: 🔴39.7%   Over 3: 🔴19.0%
+Aston Villa Cards:
+  Over 1: 🟢81.0%   Over 2: 🟠51.7%   Over 3: 🔴20.7%
+
+CORNERS
+Home Avg: 5.38/game  |  Away Avg: 5.24/game  |  Combined: 10.62/game  |  H2H Avg: 8.43/game (7 matches)
+  Over 7:  🟢87.5%   Over 8:  🟢84.4%   Over 9:  🟢76.6%   Over 10: 🟠64.1%   Over 11: 🔴46.9%
+
+═══════════════════════════════════════════════════════════
+
+Bodo/Glimt vs Start: Home Win - Low Risk
+Home:72.67% vs Away:8.86% vs Draw:18.47% Diff: 63.81%
+Home Av Gls: 2.52 vs Away Av Gls: 0.83
+Home Historical Av Gls: 2.29 vs Away Historical Av Gls: 1.02
+CEG: 3.36 | CEG+: 4.18
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 35.73% 
+Over 2 Gls: 13.27% 
+
+GOALS UNDERS
+Combined Avg: 3.34/game  (Home: 2.44  Away: 0.90)  CEG: 3.36  CEG+: 4.18
+Under 1.5: 15.1%  🔴 SKIP
+Under 2.5: 34.8%  🔴 SKIP
+Under 3.5: 56.7%  🔴 SKIP
+Under 4.5: 75.2%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game
+Total Match Cards:
+  Over 3: 🔴0.0%   Over 4: 🔴0.0%   Over 5: 🔴0.0%   Over 6: 🔴0.0%
+Bodo/Glimt Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+Start Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+
+CORNERS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game
+  Over 7:  🔴0.0%   Over 8:  🔴0.0%   Over 9:  🔴0.0%   Over 10: 🔴0.0%   Over 11: 🔴0.0%
+
+═══════════════════════════════════════════════════════════
+

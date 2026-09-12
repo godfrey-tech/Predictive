@@ -1,0 +1,105 @@
+Chelsea vs Luton: Home Win - Moderate Risk
+Home:54.6% vs Away:19.5% vs Draw:25.89% Diff: 35.1%
+Home Av Gls: 1.8 vs Away Av Gls: 1.54
+Home Historical Av Gls: 1.71 vs Away Historical Av Gls: 1.37
+CEG: 3.34 | CEG+: 4.11
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 100/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 59% 
+Over 2 Gls: 31.93% 
+
+GOALS UNDERS
+Combined Avg: 3.25/game  (Home: 1.77  Away: 1.48)  CEG: 3.34  CEG+: 4.11
+Under 1.5: 15.4%  🔴 SKIP
+Under 2.5: 35.1%  🔴 SKIP
+Under 3.5: 57.2%  🔴 SKIP
+Under 4.5: 75.5%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.51/game  |  Away Avg: 1.90/game  |  Combined: 4.41/game
+Total Match Cards:
+  Over 3: 🟡73.7%   Over 4: 🟡71.1%   Over 5: 🟠57.9%   Over 6: 🔴31.6%
+Chelsea Cards:
+  Over 1: 🟢96.8%   Over 2: 🟡73.0%   Over 3: 🔴42.9%
+Luton Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 6.08/game  |  Away Avg: 4.50/game  |  Combined: 10.58/game
+  Over 7:  🟢89.5%   Over 8:  🟢78.9%   Over 9:  🟢76.3%   Over 10: 🟡68.4%   Over 11: 🟠52.6%
+
+═══════════════════════════════════════════════════════════
+
+Celta vs Osasuna: Home Win - High Risk
+Home:47.14% vs Away:27.21% vs Draw:25.65% Diff: 19.92%
+Home Av Gls: 1.34 vs Away Av Gls: 1.16
+Home Historical Av Gls: 1.29 vs Away Historical Av Gls: 1.08
+CEG: 2.51 | CEG+: 3.1
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 44.71% 
+Over 2 Gls: 19.49% 
+
+GOALS UNDERS
+Combined Avg: 2.46/game  (Home: 1.33  Away: 1.13)  CEG: 2.51  CEG+: 3.10
+Under 1.5: 28.5%  🔴 SKIP
+Under 2.5: 54.1%  🔴 SKIP
+Under 3.5: 75.5%  🟡 SIGNAL
+Under 4.5: 89%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.00/game  |  Away Avg: 2.50/game  |  Combined: 4.50/game  |  H2H Avg: 3.71/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢89.2%   Over 4: 🟡67.6%   Over 5: 🔴44.6%   Over 6: 🔴35.1%
+Celta Cards:
+  Over 1: 🟢92.5%   Over 2: 🟠55.0%   Over 3: 🔴35.0%
+Osasuna Cards:
+  Over 1: 🟢97.5%   Over 2: 🟢80.0%   Over 3: 🔴42.5%
+
+CORNERS
+Home Avg: 3.92/game  |  Away Avg: 3.65/game  |  Combined: 7.57/game  |  H2H Avg: 8.14/game (7 matches)
+  Over 7:  🟢75.7%   Over 8:  🟠58.1%   Over 9:  🔴43.2%   Over 10: 🔴29.7%   Over 11: 🔴20.3%
+
+═══════════════════════════════════════════════════════════
+
+Barcelona vs Ath Bilbao: Home Win - Moderate Risk
+Home:57.47% vs Away:30.85% vs Draw:11.69% Diff: 26.62%
+Home Av Gls: 2.34 vs Away Av Gls: 1.34
+Home Historical Av Gls: 2.3 vs Away Historical Av Gls: 1.22
+CEG: 3.69 | CEG+: 4.57
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 53.38% 
+Over 2 Gls: 26.63% 
+
+GOALS UNDERS
+Combined Avg: 3.63/game  (Home: 2.33  Away: 1.30)  CEG: 3.69  CEG+: 4.57
+Under 1.5: 11.7%  🔴 SKIP
+Under 2.5: 28.7%  🔴 SKIP
+Under 3.5: 49.6%  🔴 SKIP
+Under 4.5: 68.9%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.60/game  |  Away Avg: 2.17/game  |  Combined: 3.77/game  |  H2H Avg: 4.00/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡74.3%   Over 4: 🟠56.8%   Over 5: 🔴43.2%   Over 6: 🔴28.4%
+Barcelona Cards:
+  Over 1: 🟢80.0%   Over 2: 🔴45.0%   Over 3: 🔴15.0%
+Ath Bilbao Cards:
+  Over 1: 🟢77.5%   Over 2: 🟡65.0%   Over 3: 🔴40.0%
+
+CORNERS
+Home Avg: 6.97/game  |  Away Avg: 5.80/game  |  Combined: 12.77/game  |  H2H Avg: 7.57/game (7 matches)
+  Over 7:  🟢86.5%   Over 8:  🟢79.7%   Over 9:  🟢75.7%   Over 10: 🟠59.5%   Over 11: 🔴47.3%
+
+═══════════════════════════════════════════════════════════
+

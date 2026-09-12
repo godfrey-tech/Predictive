@@ -1,0 +1,1049 @@
+GOALS PREDICTIONS — 2026-03-14
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Burnley  vs  Bournemouth
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.54  |  Away 1.79  |  Total 3.33
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 4 matches | Avg goals 2.25 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  96.4%
+  Over 1.5:  84.5%   |  Under 1.5: 15.5%
+  Over 2.5:  64.7%   |  Under 2.5: 35.3%
+  Over 3.5:  42.7%
+  BTTS Yes:  65.5%
+  Burnley to Score: 78.6%
+  Bournemouth to Score: 83.4%
+  Either Team To Score: 83.4%
+  Draw:      22.7%   |  DNB Home: 43.2%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 96.4%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.33
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 84.5%  [High Value]
+       ↳ Very likely with combined xG=3.33
+  🟢🟢 [STRONG_YES  ] Bournemouth To Score           82.6%  [High Value]
+       ↳ AwayXG=1.79 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           81.8%  [High Value]
+       ↳ HomeBlankRate=35% AwayBlankRate=19% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Burnley To Score               73.1%  [High Value]
+       ↳ HomeXG=1.54 | Historical score rate included
+  🟢   [YES         ] BTTS - Yes                     62.7%  [Fair]
+       ↳ HomeXG=1.54 AwayXG=1.79 | HomeBTTS=57% AwayBTTS=67% H2H-BTTS=75%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 96.4% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Sunderland  vs  Brighton
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.84  |  Away 0.68  |  Total 2.52
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 2 matches | Avg goals 0 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  92.0%
+  Over 1.5:  71.7%   |  Under 1.5: 28.3%
+  Over 2.5:  46.2%   |  Under 2.5: 53.8%
+  Over 3.5:  24.7%
+  BTTS Yes:  41.5%
+  Sunderland to Score: 84.2%
+  Brighton to Score: 49.2%
+  Either Team To Score: 84.2%
+  Draw:      21.7%   |  DNB Home: 83.3%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 92.0%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.52
+  🟢🟢 [STRONG_YES  ] Either Team To Score           78.5%  [High Value]
+       ↳ HomeBlankRate=33% AwayBlankRate=20% H2H-ETTS=0%
+  🟢🟢 [STRONG_YES  ] Sunderland To Score            77.2%  [High Value]
+       ↳ HomeXG=1.84 | Historical score rate included
+  🟢   [YES         ] Over 1.5 Goals                 71.7%  [High Value]
+       ↳ Very likely with combined xG=2.52
+  🟢   [YES         ] DNB - Sunderland               63.4%  [Fair]
+       ↳ HomeWinProb=65.2% | HomeWinRate(home)=56%
+  🟢   [YES         ] Brighton To Score              61.4%  [Fair]
+       ↳ AwayXG=0.68 | Historical score rate included
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 92.0% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Arsenal  vs  Everton
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.62  |  Away 0.59  |  Total 2.21
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 10 matches | Avg goals 2.4 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  89.0%
+  Over 1.5:  64.7%   |  Under 1.5: 35.3%
+  Over 2.5:  37.9%   |  Under 2.5: 62.1%
+  Over 3.5:  18.2%
+  BTTS Yes:  35.6%
+  Arsenal to Score: 80.2%
+  Everton to Score: 44.4%
+  Either Team To Score: 80.2%
+  Draw:      24.2%   |  DNB Home: 82.6%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 89.0%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.21
+  🟢🟢 [STRONG_YES  ] Either Team To Score           85.9%  [High Value]
+       ↳ HomeBlankRate=11% AwayBlankRate=30% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Arsenal To Score               83.8%  [High Value]
+       ↳ HomeXG=1.62 | Historical score rate included
+  🟢   [YES         ] Over 1.5 Goals                 64.7%  [Fair]
+       ↳ Very likely with combined xG=2.21
+  🟢   [YES         ] BTTS - No                      61.3%  [Fair]
+       ↳ Low scoring match signal | Either team may blank
+  🟢   [YES         ] DNB - Arsenal                  61.3%  [Fair]
+       ↳ HomeWinProb=62.6% | HomeWinRate(home)=77%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 89.0% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Chelsea  vs  Newcastle
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.56  |  Away 0.89  |  Total 2.45
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 10 matches | Avg goals 2.9 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  91.4%
+  Over 1.5:  70.2%   |  Under 1.5: 29.8%
+  Over 2.5:  44.3%   |  Under 2.5: 55.7%
+  Over 3.5:  23.2%
+  BTTS Yes:  46.5%
+  Chelsea to Score: 79.0%
+  Newcastle to Score: 58.8%
+  Either Team To Score: 79.0%
+  Draw:      25.4%   |  DNB Home: 71.4%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 91.4%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.45
+  🟢🟢 [STRONG_YES  ] Either Team To Score           86.9%  [High Value]
+       ↳ HomeBlankRate=9% AwayBlankRate=28% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Chelsea To Score               83.7%  [High Value]
+       ↳ HomeXG=1.56 | Historical score rate included
+  🟢   [YES         ] Over 1.5 Goals                 70.2%  [High Value]
+       ↳ Very likely with combined xG=2.45
+  🟢   [YES         ] Newcastle To Score             64.2%  [Fair]
+       ↳ AwayXG=0.89 | Historical score rate included
+  🟡   [BORDERLINE  ] DNB - Chelsea                  55.4%  [Poor]
+       ↳ HomeWinProb=53.2% | HomeWinRate(home)=44%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 91.4% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ West Ham  vs  Man City
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.93  |  Away 2.5  |  Total 3.43
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 10 matches | Avg goals 3.1 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  96.8%
+  Over 1.5:  85.7%   |  Under 1.5: 14.3%
+  Over 2.5:  66.6%   |  Under 2.5: 33.4%
+  Over 3.5:  44.9%
+  BTTS Yes:  55.5%
+  West Ham to Score: 60.5%
+  Man City to Score: 91.8%
+  Either Team To Score: 91.8%
+  Draw:      16.4%   |  DNB Home: 14.3%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 96.8%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.43
+  🟢🟢 [STRONG_YES  ] Man City To Score              89.2%  [High Value]
+       ↳ AwayXG=2.50 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 85.7%  [High Value]
+       ↳ Very likely with combined xG=3.43
+  🟢🟢 [STRONG_YES  ] Either Team To Score           83.6%  [High Value]
+       ↳ HomeBlankRate=33% AwayBlankRate=15% H2H-ETTS=100%
+  🟢   [YES         ] Over 2.5 Goals                 64.6%  [Fair]
+       ↳ xG=0.93+2.50=3.43 | HomeOver25Rate=67% AwayOver25Rate=61% H2H=80%
+  🟢   [YES         ] DNB - Man City                 63.5%  [Fair]
+       ↳ AwayWinProb=71.6% | AwayWinRate(away)=48%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 96.8% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Burnley vs Bournemouth  →  Over 0.5 Goals [STRONG_YES]  96.4% conf
+  • Burnley vs Bournemouth  →  Over 1.5 Goals [STRONG_YES]  84.5% conf
+  • Sunderland vs Brighton  →  Over 0.5 Goals [STRONG_YES]  92.0% conf
+  • Sunderland vs Brighton  →  Either Team To Score [STRONG_YES]  78.5% conf
+  • Arsenal vs Everton  →  Over 0.5 Goals [STRONG_YES]  89.0% conf
+  • Arsenal vs Everton  →  Either Team To Score [STRONG_YES]  85.9% conf
+  • Chelsea vs Newcastle  →  Over 0.5 Goals [STRONG_YES]  91.4% conf
+  • Chelsea vs Newcastle  →  Either Team To Score [STRONG_YES]  86.9% conf
+  • West Ham vs Man City  →  Over 0.5 Goals [STRONG_YES]  96.8% conf
+  • West Ham vs Man City  →  Man City To Score [STRONG_YES]  89.2% conf
+Burnley vs Bournemouth: Away Win - High Risk
+Home:24.44% vs Away:45.41% vs Draw:30.15% Diff: 20.97%
+Home Av Gls: 1.1 vs Away Av Gls: 1.61
+Home Historical Av Gls: 1.02 vs Away Historical Av Gls: 1.32
+CEG: 2.71 | CEG+: 3.29
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 45/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 32.27% 
+Over 2 Gls: 11.18% 
+
+Sunderland vs Brighton: Home Win - Very High Risk
+Home:38.81% vs Away:31.09% vs Draw:30.1% Diff: 7.72%
+Home Av Gls: 1.11 vs Away Av Gls: 1.28
+Home Historical Av Gls: 0.97 vs Away Historical Av Gls: 1.22
+CEG: 2.39 | CEG+: 2.94
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – fragile structure (likely scores: 1–1 → 2–1 / 1–2; 2–2 or 3–1 if triggered)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 22.17% 
+Over 2 Gls: 6.02% 
+
+Arsenal vs Everton: Home Win - Moderate Risk
+Home:54.28% vs Away:33.7% vs Draw:12.03% Diff: 20.58%
+Home Av Gls: 2.1 vs Away Av Gls: 1.1
+Home Historical Av Gls: 1.9 vs Away Historical Av Gls: 1.2
+CEG: 3.19 | CEG+: 3.97
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 45.04% 
+Over 2 Gls: 19.74% 
+
+Chelsea vs Newcastle: Home Win - Very High Risk
+Home:45.95% vs Away:36.99% vs Draw:17.06% Diff: 8.96%
+Home Av Gls: 1.94 vs Away Av Gls: 1.63
+Home Historical Av Gls: 1.74 vs Away Historical Av Gls: 1.37
+CEG: 3.57 | CEG+: 4.35
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 54.03% 
+Over 2 Gls: 27.23% 
+
+West Ham vs Man City: Away Win - Moderate Risk
+Home:30.19% vs Away:55.54% vs Draw:14.27% Diff: 25.35%
+Home Av Gls: 1.32 vs Away Av Gls: 2.27
+Home Historical Av Gls: 1.35 vs Away Historical Av Gls: 2.42
+CEG: 3.59 | CEG+: 4.53
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 42.18% 
+Over 2 Gls: 17.62% 
+
+GOALS PREDICTIONS — 2026-03-14
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Leverkusen  vs  Bayern Munich
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.2  |  Away 2.08  |  Total 3.28
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 10 matches | Avg goals 3.6 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  96.2%
+  Over 1.5:  83.9%   |  Under 1.5: 16.1%
+  Over 2.5:  63.7%   |  Under 2.5: 36.3%
+  Over 3.5:  41.5%
+  BTTS Yes:  61.1%
+  Leverkusen to Score: 69.8%
+  Bayern Munich to Score: 87.5%
+  Either Team To Score: 87.5%
+  Draw:      20.9%   |  DNB Home: 27.0%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 96.2%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.28
+  🟢🟢 [STRONG_YES  ] Bayern Munich To Score         92.5%  [High Value]
+       ↳ AwayXG=2.08 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           92.4%  [High Value]
+       ↳ HomeBlankRate=16% AwayBlankRate=0% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 83.9%  [High Value]
+       ↳ Very likely with combined xG=3.28
+  🟢🟢 [STRONG_YES  ] Leverkusen To Score            75.5%  [High Value]
+       ↳ HomeXG=1.20 | Historical score rate included
+  🟢   [YES         ] Over 2.5 Goals                 69.5%  [Fair]
+       ↳ xG=1.20+2.08=3.28 | HomeOver25Rate=56% AwayOver25Rate=100% H2H=80%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 96.2% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Ein Frankfurt  vs  Heidenheim
+═══════════════════════════════════════════════════════════
+  xG:  Home 2.49  |  Away 0.7  |  Total 3.19
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 3 matches | Avg goals 2.33 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  95.9%
+  Over 1.5:  82.8%   |  Under 1.5: 17.2%
+  Over 2.5:  61.8%   |  Under 2.5: 38.2%
+  Over 3.5:  39.5%
+  BTTS Yes:  46.3%
+  Ein Frankfurt to Score: 91.7%
+  Heidenheim to Score: 50.5%
+  Either Team To Score: 91.7%
+  Draw:      15.2%   |  DNB Home: 90.0%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 95.9%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.19
+  🟢🟢 [STRONG_YES  ] Ein Frankfurt To Score         90.2%  [High Value]
+       ↳ HomeXG=2.49 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 82.8%  [High Value]
+       ↳ Very likely with combined xG=3.19
+  🟢🟢 [STRONG_YES  ] Either Team To Score           79.8%  [High Value]
+       ↳ HomeBlankRate=12% AwayBlankRate=40% H2H-ETTS=100%
+  🟢   [YES         ] DNB - Ein Frankfurt            69.7%  [Fair]
+       ↳ HomeWinProb=76.2% | HomeWinRate(home)=50%
+  🟢   [YES         ] Over 2.5 Goals                 60.8%  [Fair]
+       ↳ xG=2.49+0.70=3.19 | HomeOver25Rate=64% AwayOver25Rate=68% H2H=33%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 95.9% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Dortmund  vs  Augsburg
+═══════════════════════════════════════════════════════════
+  xG:  Home 2.68  |  Away 0.82  |  Total 3.5
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 9 matches | Avg goals 3.33 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  97.0%
+  Over 1.5:  86.4%   |  Under 1.5: 13.6%
+  Over 2.5:  67.9%   |  Under 2.5: 32.1%
+  Over 3.5:  46.3%
+  BTTS Yes:  52.3%
+  Dortmund to Score: 93.1%
+  Augsburg to Score: 56.1%
+  Either Team To Score: 93.1%
+  Draw:      14.4%   |  DNB Home: 89.4%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 97.0%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.50
+  🟢🟢 [STRONG_YES  ] Dortmund To Score              95.9%  [High Value]
+       ↳ HomeXG=2.68 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           89.8%  [High Value]
+       ↳ HomeBlankRate=0% AwayBlankRate=28% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 86.4%  [High Value]
+       ↳ Very likely with combined xG=3.50
+  🟢   [YES         ] DNB - Dortmund                 71.9%  [High Value]
+       ↳ HomeWinProb=76.4% | HomeWinRate(home)=75%
+  🟢   [YES         ] Augsburg To Score              62.5%  [Fair]
+       ↳ AwayXG=0.82 | Historical score rate included
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 97.0% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Hoffenheim  vs  Wolfsburg
+═══════════════════════════════════════════════════════════
+  xG:  Home 2.76  |  Away 1.1  |  Total 3.86
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 9 matches | Avg goals 3.56 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  97.9%
+  Over 1.5:  89.7%   |  Under 1.5: 10.3%
+  Over 2.5:  74.0%   |  Under 2.5: 26.0%
+  Over 3.5:  53.8%
+  BTTS Yes:  62.4%
+  Hoffenheim to Score: 93.7%
+  Wolfsburg to Score: 66.7%
+  Either Team To Score: 93.7%
+  Draw:      15.3%   |  DNB Home: 85.2%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 97.9%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.86
+  🟢🟢 [STRONG_YES  ] Hoffenheim To Score            89.8%  [High Value]
+       ↳ HomeXG=2.76 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 89.7%  [High Value]
+       ↳ Very likely with combined xG=3.86
+  🟢🟢 [STRONG_YES  ] Either Team To Score           86.9%  [High Value]
+       ↳ HomeBlankRate=16% AwayBlankRate=20% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Over 2.5 Goals                 73.1%  [High Value]
+       ↳ xG=2.76+1.10=3.86 | HomeOver25Rate=68% AwayOver25Rate=72% H2H=100%
+  🟢   [YES         ] Wolfsburg To Score             72.0%  [High Value]
+       ↳ AwayXG=1.10 | Historical score rate included
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 97.9% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Hamburg  vs  FC Koln
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.68  |  Away 0.77  |  Total 2.45
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 1 matches | Avg goals 5 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  91.4%
+  Over 1.5:  70.2%   |  Under 1.5: 29.8%
+  Over 2.5:  44.3%   |  Under 2.5: 55.7%
+  Over 3.5:  23.1%
+  BTTS Yes:  43.7%
+  Hamburg to Score: 81.3%
+  FC Koln to Score: 53.7%
+  Either Team To Score: 81.3%
+  Draw:      24.0%   |  DNB Home: 77.7%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 91.3%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.45
+  🟢🟢 [STRONG_YES  ] Either Team To Score           79.4%  [High Value]
+       ↳ HomeBlankRate=36% AwayBlankRate=16% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Hamburg To Score               74.4%  [High Value]
+       ↳ HomeXG=1.68 | Historical score rate included
+  🟢   [YES         ] Over 1.5 Goals                 70.2%  [High Value]
+       ↳ Very likely with combined xG=2.45
+  🟢   [YES         ] FC Koln To Score               65.8%  [Fair]
+       ↳ AwayXG=0.77 | Historical score rate included
+  🟡   [BORDERLINE  ] DNB - Hamburg                  57.0%  [Poor]
+       ↳ HomeWinProb=59.0% | HomeWinRate(home)=38%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 91.3% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Leverkusen vs Bayern Munich  →  Over 0.5 Goals [STRONG_YES]  96.2% conf
+  • Leverkusen vs Bayern Munich  →  Bayern Munich To Score [STRONG_YES]  92.5% conf
+  • Ein Frankfurt vs Heidenheim  →  Over 0.5 Goals [STRONG_YES]  95.9% conf
+  • Ein Frankfurt vs Heidenheim  →  Ein Frankfurt To Score [STRONG_YES]  90.2% conf
+  • Dortmund vs Augsburg  →  Over 0.5 Goals [STRONG_YES]  97.0% conf
+  • Dortmund vs Augsburg  →  Dortmund To Score [STRONG_YES]  95.9% conf
+  • Hoffenheim vs Wolfsburg  →  Over 0.5 Goals [STRONG_YES]  97.9% conf
+  • Hoffenheim vs Wolfsburg  →  Hoffenheim To Score [STRONG_YES]  89.8% conf
+  • Hamburg vs FC Koln  →  Over 0.5 Goals [STRONG_YES]  91.3% conf
+  • Hamburg vs FC Koln  →  Either Team To Score [STRONG_YES]  79.4% conf
+Leverkusen vs Bayern Munich: Away Win - Moderate Risk
+Home:33.7% vs Away:58.91% vs Draw:7.4% Diff: 25.21%
+Home Av Gls: 2.2 vs Away Av Gls: 3.04
+Home Historical Av Gls: 1.92 vs Away Historical Av Gls: 2.82
+CEG: 5.24 | CEG+: 6.43
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 67.12% 
+Over 2 Gls: 40.63% 
+
+Ein Frankfurt vs Heidenheim: Home Win - High Risk
+Home:45.41% vs Away:23.21% vs Draw:31.37% Diff: 22.2%
+Home Av Gls: 1.74 vs Away Av Gls: 1.22
+Home Historical Av Gls: 1.56 vs Away Historical Av Gls: 1.25
+CEG: 2.96 | CEG+: 3.66
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 65/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 43.42% 
+Over 2 Gls: 18.52% 
+
+Dortmund vs Augsburg: Home Win - Moderate Risk
+Home:53.7% vs Away:29.68% vs Draw:16.62% Diff: 24.01%
+Home Av Gls: 2.02 vs Away Av Gls: 1.26
+Home Historical Av Gls: 2.25 vs Away Historical Av Gls: 1.25
+CEG: 3.28 | CEG+: 4.16
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 54.52% 
+Over 2 Gls: 27.67% 
+
+Hoffenheim vs Wolfsburg: Home Win - Moderate Risk
+Home:52.76% vs Away:25.33% vs Draw:21.91% Diff: 27.43%
+Home Av Gls: 1.98 vs Away Av Gls: 1.24
+Home Historical Av Gls: 1.78 vs Away Historical Av Gls: 1.39
+CEG: 3.22 | CEG+: 4.01
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 54.59% 
+Over 2 Gls: 27.73% 
+
+Hamburg vs FC Koln: Home Win - High Risk
+Home:43.85% vs Away:24.24% vs Draw:31.91% Diff: 19.61%
+Home Av Gls: 1.12 vs Away Av Gls: 1.1
+Home Historical Av Gls: 0.99 vs Away Historical Av Gls: 1.27
+CEG: 2.22 | CEG+: 2.78
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – fragile structure (likely scores: 1–1 → 2–1 / 1–2; 2–2 or 3–1 if triggered)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 29.55% 
+Over 2 Gls: 9.66% 
+
+GOALS PREDICTIONS — 2026-03-14
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Girona  vs  Ath Bilbao
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.36  |  Away 1.36  |  Total 2.72
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 5 matches | Avg goals 3.4 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  93.4%
+  Over 1.5:  75.6%   |  Under 1.5: 24.4%
+  Over 2.5:  51.2%   |  Under 2.5: 48.8%
+  Over 3.5:  29.1%
+  BTTS Yes:  55.3%
+  Girona to Score: 74.3%
+  Ath Bilbao to Score: 74.5%
+  Either Team To Score: 74.5%
+  Draw:      25.7%   |  DNB Home: 49.8%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 93.4%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.72
+  🟢🟢 [STRONG_YES  ] Either Team To Score           80.0%  [High Value]
+       ↳ HomeBlankRate=28% AwayBlankRate=31% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 75.6%  [High Value]
+       ↳ Very likely with combined xG=2.72
+  🟢🟢 [STRONG_YES  ] Girona To Score                73.6%  [High Value]
+       ↳ HomeXG=1.36 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Ath Bilbao To Score            72.3%  [High Value]
+       ↳ AwayXG=1.36 | Historical score rate included
+  🟢   [YES         ] BTTS - Yes                     60.3%  [Fair]
+       ↳ HomeXG=1.36 AwayXG=1.36 | HomeBTTS=62% AwayBTTS=52% H2H-BTTS=100%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 93.4% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Ath Madrid  vs  Getafe
+═══════════════════════════════════════════════════════════
+  xG:  Home 2.1  |  Away 0.7  |  Total 2.8
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 10 matches | Avg goals 2.8 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  93.9%
+  Over 1.5:  76.9%   |  Under 1.5: 23.1%
+  Over 2.5:  53.1%   |  Under 2.5: 46.9%
+  Over 3.5:  30.9%
+  BTTS Yes:  44.3%
+  Ath Madrid to Score: 87.8%
+  Getafe to Score: 50.5%
+  Either Team To Score: 87.8%
+  Draw:      18.9%   |  DNB Home: 86.1%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 93.9%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.80
+  🟢🟢 [STRONG_YES  ] Ath Madrid To Score            87.1%  [High Value]
+       ↳ HomeXG=2.10 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           81.3%  [High Value]
+       ↳ HomeBlankRate=14% AwayBlankRate=38% H2H-ETTS=90%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 76.9%  [High Value]
+       ↳ Very likely with combined xG=2.80
+  🟢   [YES         ] DNB - Ath Madrid               64.7%  [Fair]
+       ↳ HomeWinProb=69.8% | HomeWinRate(home)=80%
+  🟡   [BORDERLINE  ] BTTS - No                      58.7%  [Fair]
+       ↳ Low scoring match signal | Either team may blank
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 93.9% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Oviedo  vs  Valencia
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.52  |  Away 0.72  |  Total 1.23
+  Zone: LOW_GOALS 🔒 (Under 1.5 likely)
+  H2H: 1 matches | Avg goals 3 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  70.8%
+  Over 1.5:  34.9%   |  Under 1.5: 65.1%
+  Over 2.5:  12.8%   |  Under 2.5: 87.2%
+  Over 3.5:  3.7%
+  BTTS Yes:  20.6%
+  Oviedo to Score: 40.4%
+  Valencia to Score: 51.1%
+  Either Team To Score: 51.1%
+  Draw:      41.0%   |  DNB Home: 39.4%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢   [YES         ] Over 0.5 Goals                 70.8%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=1.23
+  🟢   [YES         ] Under 2.5 Goals                69.4%  [Fair]
+       ↳ Low xG scenario | HomeLowRate=62% AwayLowRate=59%
+  🟢   [YES         ] BTTS - No                      69.2%  [Fair]
+       ↳ Low scoring match signal | Either team may blank
+  🟢   [YES         ] Either Team To Score           66.7%  [Fair]
+       ↳ HomeBlankRate=62% AwayBlankRate=24% H2H-ETTS=100%
+  🟢   [YES         ] Valencia To Score              61.0%  [Fair]
+       ↳ AwayXG=0.72 | Historical score rate included
+  🔴   [NO          ] DNB - Valencia                 41.1%  [Poor]
+       ↳ AwayWinProb=35.8% | AwayWinRate(away)=14%
+
+  ⭐ TOP BET: Over 0.5 Goals (YES) — 70.8% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Real Madrid  vs  Elche
+═══════════════════════════════════════════════════════════
+  xG:  Home 2.9  |  Away 0.61  |  Total 3.51
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 7 matches | Avg goals 3.29 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  97.0%
+  Over 1.5:  86.5%   |  Under 1.5: 13.5%
+  Over 2.5:  68.1%   |  Under 2.5: 31.9%
+  Over 3.5:  46.5%
+  BTTS Yes:  43.2%
+  Real Madrid to Score: 94.5%
+  Elche to Score: 45.8%
+  Either Team To Score: 94.5%
+  Draw:      11.2%   |  DNB Home: 94.1%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 97.0%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.51
+  🟢🟢 [STRONG_YES  ] Real Madrid To Score           92.6%  [High Value]
+       ↳ HomeXG=2.90 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           90.1%  [High Value]
+       ↳ HomeBlankRate=10% AwayBlankRate=14% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 86.5%  [High Value]
+       ↳ Very likely with combined xG=3.51
+  🟢🟢 [STRONG_YES  ] DNB - Real Madrid              83.9%  [High Value]
+       ↳ HomeWinProb=83.3% | HomeWinRate(home)=86%
+  🟢   [YES         ] Over 2.5 Goals                 63.1%  [Fair]
+       ↳ xG=2.90+0.61=3.51 | HomeOver25Rate=59% AwayOver25Rate=55% H2H=86%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 97.0% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Girona vs Ath Bilbao  →  Over 0.5 Goals [STRONG_YES]  93.4% conf
+  • Girona vs Ath Bilbao  →  Either Team To Score [STRONG_YES]  80.0% conf
+  • Ath Madrid vs Getafe  →  Over 0.5 Goals [STRONG_YES]  93.9% conf
+  • Ath Madrid vs Getafe  →  Ath Madrid To Score [STRONG_YES]  87.1% conf
+  • Oviedo vs Valencia  →  Over 0.5 Goals [YES]  70.8% conf
+  • Oviedo vs Valencia  →  Under 2.5 Goals [YES]  69.4% conf
+  • Real Madrid vs Elche  →  Over 0.5 Goals [STRONG_YES]  97.0% conf
+  • Real Madrid vs Elche  →  Real Madrid To Score [STRONG_YES]  92.6% conf
+Girona vs Ath Bilbao: Away Win - Very High Risk
+Home:36.7% vs Away:43.18% vs Draw:20.12% Diff: 6.47%
+Home Av Gls: 1.59 vs Away Av Gls: 1.38
+Home Historical Av Gls: 1.43 vs Away Historical Av Gls: 1.22
+CEG: 2.96 | CEG+: 3.63
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 41.69% 
+Over 2 Gls: 17.27% 
+
+Ath Madrid vs Getafe: Home Win - High Risk
+Home:50.9% vs Away:36% vs Draw:13.1% Diff: 14.9%
+Home Av Gls: 1.63 vs Away Av Gls: 1
+Home Historical Av Gls: 1.66 vs Away Historical Av Gls: 1.01
+CEG: 2.63 | CEG+: 3.3
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 46.62% 
+Over 2 Gls: 20.96% 
+
+Oviedo vs Valencia: Away Win - Moderate Risk
+Home:13.09% vs Away:56.98% vs Draw:29.93% Diff: 43.88%
+Home Av Gls: 0.59 vs Away Av Gls: 1.02
+Home Historical Av Gls: 0.59 vs Away Historical Av Gls: 1.29
+CEG: 1.6 | CEG+: 2.07
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 30.77% 
+Over 2 Gls: 10.33% 
+
+Real Madrid vs Elche: Home Win - Low Risk
+Home:65.93% vs Away:15.36% vs Draw:18.7% Diff: 50.57%
+Home Av Gls: 2.21 vs Away Av Gls: 1.28
+Home Historical Av Gls: 2.11 vs Away Historical Av Gls: 0.99
+CEG: 3.49 | CEG+: 4.26
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 53.24% 
+Over 2 Gls: 26.51% 
+
+GOALS PREDICTIONS — 2026-03-14
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Inter  vs  Atalanta
+═══════════════════════════════════════════════════════════
+  xG:  Home 2.11  |  Away 0.81  |  Total 2.92
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 10 matches | Avg goals 2.7 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  94.6%
+  Over 1.5:  78.8%   |  Under 1.5: 21.2%
+  Over 2.5:  55.8%   |  Under 2.5: 44.2%
+  Over 3.5:  33.5%
+  BTTS Yes:  48.7%
+  Inter to Score: 87.9%
+  Atalanta to Score: 55.4%
+  Either Team To Score: 87.9%
+  Draw:      19.4%   |  DNB Home: 83.7%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 94.6%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.92
+  🟢🟢 [STRONG_YES  ] Inter To Score                 89.9%  [High Value]
+       ↳ HomeXG=2.11 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           88.4%  [High Value]
+       ↳ HomeBlankRate=7% AwayBlankRate=18% H2H-ETTS=90%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 78.8%  [High Value]
+       ↳ Very likely with combined xG=2.92
+  🟢   [YES         ] DNB - Inter                    67.3%  [Fair]
+       ↳ HomeWinProb=67.5% | HomeWinRate(home)=79%
+  🟢   [YES         ] Atalanta To Score              66.1%  [Fair]
+       ↳ AwayXG=0.81 | Historical score rate included
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 94.6% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Napoli  vs  Lecce
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.91  |  Away 0.49  |  Total 2.4
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 5 matches | Avg goals 2 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  90.9%
+  Over 1.5:  69.1%   |  Under 1.5: 30.9%
+  Over 2.5:  43.0%   |  Under 2.5: 57.0%
+  Over 3.5:  22.1%
+  BTTS Yes:  33.1%
+  Napoli to Score: 85.1%
+  Lecce to Score: 38.9%
+  Either Team To Score: 85.1%
+  Draw:      19.8%   |  DNB Home: 89.2%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 90.9%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.40
+  🟢🟢 [STRONG_YES  ] Napoli To Score                82.5%  [High Value]
+       ↳ HomeXG=1.91 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           73.5%  [High Value]
+       ↳ HomeBlankRate=21% AwayBlankRate=50% H2H-ETTS=80%
+  🟢   [YES         ] Over 1.5 Goals                 69.1%  [Fair]
+       ↳ Very likely with combined xG=2.40
+  🟢   [YES         ] DNB - Napoli                   68.7%  [Fair]
+       ↳ HomeWinProb=71.5% | HomeWinRate(home)=69%
+  🟢   [YES         ] BTTS - No                      62.4%  [Fair]
+       ↳ Low scoring match signal | Either team may blank
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 90.9% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Udinese  vs  Juventus
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.98  |  Away 1.69  |  Total 2.67
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 10 matches | Avg goals 2.7 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  93.1%
+  Over 1.5:  74.6%   |  Under 1.5: 25.4%
+  Over 2.5:  49.9%   |  Under 2.5: 50.1%
+  Over 3.5:  27.9%
+  BTTS Yes:  50.9%
+  Udinese to Score: 62.3%
+  Juventus to Score: 81.6%
+  Either Team To Score: 81.6%
+  Draw:      24.1%   |  DNB Home: 28.6%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 93.1%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.67
+  🟢🟢 [STRONG_YES  ] Either Team To Score           84.9%  [High Value]
+       ↳ HomeBlankRate=21% AwayBlankRate=21% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Juventus To Score              80.4%  [High Value]
+       ↳ AwayXG=1.69 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 74.6%  [High Value]
+       ↳ Very likely with combined xG=2.67
+  🟢   [YES         ] Udinese To Score               68.8%  [Fair]
+       ↳ HomeXG=0.98 | Historical score rate included
+  🟡   [BORDERLINE  ] DNB - Juventus                 51.2%  [Poor]
+       ↳ AwayWinProb=54.2% | AwayWinRate(away)=43%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 93.1% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Inter vs Atalanta  →  Over 0.5 Goals [STRONG_YES]  94.6% conf
+  • Inter vs Atalanta  →  Inter To Score [STRONG_YES]  89.9% conf
+  • Napoli vs Lecce  →  Over 0.5 Goals [STRONG_YES]  90.9% conf
+  • Napoli vs Lecce  →  Napoli To Score [STRONG_YES]  82.5% conf
+  • Udinese vs Juventus  →  Over 0.5 Goals [STRONG_YES]  93.1% conf
+  • Udinese vs Juventus  →  Either Team To Score [STRONG_YES]  84.9% conf
+Inter vs Atalanta: Home Win - High Risk
+Home:51.24% vs Away:36.64% vs Draw:12.12% Diff: 14.59%
+Home Av Gls: 2.29 vs Away Av Gls: 1.66
+Home Historical Av Gls: 2.01 vs Away Historical Av Gls: 1.88
+CEG: 3.95 | CEG+: 4.92
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 60.98% 
+Over 2 Gls: 33.94% 
+
+Napoli vs Lecce: Home Win - Moderate Risk
+Home:53.63% vs Away:27.85% vs Draw:18.52% Diff: 25.79%
+Home Av Gls: 1.36 vs Away Av Gls: 0.75
+Home Historical Av Gls: 1.94 vs Away Historical Av Gls: 0.96
+CEG: 2.11 | CEG+: 2.83
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 25.14% 
+Over 2 Gls: 7.4% 
+
+Udinese vs Juventus: Away Win - Moderate Risk
+Home:25.92% vs Away:50.72% vs Draw:23.37% Diff: 24.8%
+Home Av Gls: 1.14 vs Away Av Gls: 1.57
+Home Historical Av Gls: 1.18 vs Away Historical Av Gls: 1.84
+CEG: 2.71 | CEG+: 3.47
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 65/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 36.84% 
+Over 2 Gls: 13.98% 
+
+GOALS PREDICTIONS — 2026-03-14
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Volendam  vs  For Sittard
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.8  |  Away 1.25  |  Total 3.05
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 5 matches | Avg goals 2.2 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  95.3%
+  Over 1.5:  80.8%   |  Under 1.5: 19.2%
+  Over 2.5:  58.7%   |  Under 2.5: 41.3%
+  Over 3.5:  36.3%
+  BTTS Yes:  59.5%
+  Volendam to Score: 83.4%
+  For Sittard to Score: 71.3%
+  Either Team To Score: 83.4%
+  Draw:      23.1%   |  DNB Home: 65.4%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 95.2%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.05
+  🟢🟢 [STRONG_YES  ] Either Team To Score           84.4%  [High Value]
+       ↳ HomeBlankRate=35% AwayBlankRate=12% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 80.8%  [High Value]
+       ↳ Very likely with combined xG=3.05
+  🟢🟢 [STRONG_YES  ] For Sittard To Score           78.2%  [High Value]
+       ↳ AwayXG=1.25 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Volendam To Score              76.2%  [High Value]
+       ↳ HomeXG=1.80 | Historical score rate included
+  🟡   [BORDERLINE  ] BTTS - Yes                     58.2%  [Fair]
+       ↳ HomeXG=1.80 AwayXG=1.25 | HomeBTTS=62% AwayBTTS=77% H2H-BTTS=40%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 95.2% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ PSV Eindhoven  vs  Nijmegen
+═══════════════════════════════════════════════════════════
+  xG:  Home 3.4  |  Away 1.84  |  Total 5.24
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 7 matches | Avg goals 4.71 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  99.5%
+  Over 1.5:  96.7%   |  Under 1.5: 3.3%
+  Over 2.5:  89.4%   |  Under 2.5: 10.6%
+  Over 3.5:  76.7%
+  BTTS Yes:  81.3%
+  PSV Eindhoven to Score: 96.7%
+  Nijmegen to Score: 84.1%
+  Either Team To Score: 96.7%
+  Draw:      14.5%   |  DNB Home: 78.9%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 99.5%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=5.24
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 96.7%  [High Value]
+       ↳ Very likely with combined xG=5.24
+  🟢🟢 [STRONG_YES  ] PSV Eindhoven To Score         96.5%  [High Value]
+       ↳ HomeXG=3.40 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           94.1%  [High Value]
+       ↳ HomeBlankRate=4% AwayBlankRate=4% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Nijmegen To Score              88.9%  [High Value]
+       ↳ AwayXG=1.84 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 2.5 Goals                 84.3%  [High Value]
+       ↳ xG=3.40+1.84=5.24 | HomeOver25Rate=85% AwayOver25Rate=81% H2H=100%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 99.5% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Heerenveen  vs  Telstar
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.6  |  Away 1.14  |  Total 2.74
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 1 matches | Avg goals 5 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  93.5%
+  Over 1.5:  75.8%   |  Under 1.5: 24.2%
+  Over 2.5:  51.5%   |  Under 2.5: 48.5%
+  Over 3.5:  29.4%
+  BTTS Yes:  54.2%
+  Heerenveen to Score: 79.8%
+  Telstar to Score: 68.0%
+  Either Team To Score: 79.8%
+  Draw:      24.9%   |  DNB Home: 63.9%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 93.5%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.74
+  🟢🟢 [STRONG_YES  ] Either Team To Score           82.4%  [High Value]
+       ↳ HomeBlankRate=19% AwayBlankRate=23% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Heerenveen To Score            80.2%  [High Value]
+       ↳ HomeXG=1.60 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 75.8%  [High Value]
+       ↳ Very likely with combined xG=2.74
+  🟢   [YES         ] Telstar To Score               71.6%  [High Value]
+       ↳ AwayXG=1.14 | Historical score rate included
+  🟡   [BORDERLINE  ] BTTS - Yes                     59.0%  [Fair]
+       ↳ HomeXG=1.60 AwayXG=1.14 | HomeBTTS=73% AwayBTTS=65% H2H-BTTS=100%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 93.5% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Ajax  vs  Sparta Rotterdam
+═══════════════════════════════════════════════════════════
+  xG:  Home 2.1  |  Away 0.83  |  Total 2.93
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 9 matches | Avg goals 3.22 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  94.7%
+  Over 1.5:  79.0%   |  Under 1.5: 21.0%
+  Over 2.5:  56.1%   |  Under 2.5: 43.9%
+  Over 3.5:  33.7%
+  BTTS Yes:  49.4%
+  Ajax to Score: 87.8%
+  Sparta Rotterdam to Score: 56.2%
+  Either Team To Score: 87.8%
+  Draw:      19.5%   |  DNB Home: 83.1%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 94.7%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.93
+  🟢🟢 [STRONG_YES  ] Ajax To Score                  89.6%  [High Value]
+       ↳ HomeXG=2.10 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           89.5%  [High Value]
+       ↳ HomeBlankRate=8% AwayBlankRate=19% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 79.0%  [High Value]
+       ↳ Very likely with combined xG=2.93
+  🟢   [YES         ] Sparta Rotterdam To Score      66.0%  [Fair]
+       ↳ AwayXG=0.83 | Historical score rate included
+  🟡   [BORDERLINE  ] DNB - Ajax                     58.9%  [Fair]
+       ↳ HomeWinProb=66.9% | HomeWinRate(home)=62%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 94.7% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Volendam vs For Sittard  →  Over 0.5 Goals [STRONG_YES]  95.2% conf
+  • Volendam vs For Sittard  →  Either Team To Score [STRONG_YES]  84.4% conf
+  • PSV Eindhoven vs Nijmegen  →  Over 0.5 Goals [STRONG_YES]  99.5% conf
+  • PSV Eindhoven vs Nijmegen  →  Over 1.5 Goals [STRONG_YES]  96.7% conf
+  • Heerenveen vs Telstar  →  Over 0.5 Goals [STRONG_YES]  93.5% conf
+  • Heerenveen vs Telstar  →  Either Team To Score [STRONG_YES]  82.4% conf
+  • Ajax vs Sparta Rotterdam  →  Over 0.5 Goals [STRONG_YES]  94.7% conf
+  • Ajax vs Sparta Rotterdam  →  Ajax To Score [STRONG_YES]  89.6% conf
+Volendam vs For Sittard: Away Win - Very High Risk
+Home:32.94% vs Away:42.69% vs Draw:24.37% Diff: 9.75%
+Home Av Gls: 1.02 vs Away Av Gls: 1.38
+Home Historical Av Gls: 1.12 vs Away Historical Av Gls: 1.27
+CEG: 2.4 | CEG+: 3
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 55/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 22.71% 
+Over 2 Gls: 6.27% 
+
+PSV Eindhoven vs Nijmegen: Home Win - Moderate Risk
+Home:59.44% vs Away:29.45% vs Draw:11.11% Diff: 29.99%
+Home Av Gls: 3.02 vs Away Av Gls: 2.31
+Home Historical Av Gls: 2.57 vs Away Historical Av Gls: 1.48
+CEG: 5.33 | CEG+: 6.34
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 74.58% 
+Over 2 Gls: 49.89% 
+
+Heerenveen vs Telstar: Home Win - High Risk
+Home:46.33% vs Away:31.76% vs Draw:21.9% Diff: 14.57%
+Home Av Gls: 1.68 vs Away Av Gls: 1.35
+Home Historical Av Gls: 1.47 vs Away Historical Av Gls: 1.35
+CEG: 3.03 | CEG+: 3.73
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 55.82% 
+Over 2 Gls: 28.87% 
+
+Ajax vs Sparta Rotterdam: Home Win - High Risk
+Home:47.95% vs Away:32.64% vs Draw:19.41% Diff: 15.31%
+Home Av Gls: 2.1 vs Away Av Gls: 1.44
+Home Historical Av Gls: 2.63 vs Away Historical Av Gls: 1.33
+CEG: 3.54 | CEG+: 4.53
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 57.63% 
+Over 2 Gls: 30.59% 
+

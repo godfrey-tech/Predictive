@@ -1,0 +1,63 @@
+Man United vs Bournemouth: Home Win - Very High Risk
+Home:43.74% vs Away:36.58% vs Draw:19.68% Diff: 7.16%
+Home Av Gls: 1.4 vs Away Av Gls: 1.36
+Home Historical Av Gls: 1.59 vs Away Historical Av Gls: 1.3
+Over 1 Gls: 38.52% 
+Over 2 Gls: 15.08% 
+
+Vallecano vs Betis: Away Win - High Risk
+Home:27.92% vs Away:44.05% vs Draw:28.03% Diff: 16.13%
+Home Av Gls: 0.89 vs Away Av Gls: 1.22
+Home Historical Av Gls: 1.01 vs Away Historical Av Gls: 1.31
+Over 1 Gls: 28.43% 
+Over 2 Gls: 9.06% 
+
+Roma vs Como: Home Win - Low Risk
+Home:68.87% vs Away:0% vs Draw:31.13% Diff: 68.87%
+Home Av Gls: 1.57 vs Away Av Gls: 0
+Home Historical Av Gls: 1.81 vs Away Historical Av Gls: 0
+Over 1 Gls: 12.3% 
+Over 2 Gls: 2.34% 
+
+Sheffield Weds vs Derby: Away Win - No bet
+Home:38.46% vs Away:40.29% vs Draw:21.25% Diff: 1.83%
+Home Av Gls: 1.19 vs Away Av Gls: 1.05
+Home Historical Av Gls: 1.22 vs Away Historical Av Gls: 1.19
+Over 1 Gls: 47.57% 
+Over 2 Gls: 21.72% 
+
+Nacional vs Tondela: Draw - No bet
+Home:NaN% vs Away:NaN% vs Draw:NaN% Diff: NaN%
+Home Av Gls: 0 vs Away Av Gls: 0
+Home Historical Av Gls: 0.92 vs Away Historical Av Gls: 1.09
+Over 1 Gls: 0.73% 
+Over 2 Gls: 0.03% 
+
+Sp Braga vs Santa Clara: Home Win - Low Risk
+Home:63.5% vs Away:22.46% vs Draw:14.03% Diff: 41.04%
+Home Av Gls: 2.09 vs Away Av Gls: 0.78
+Home Historical Av Gls: 1.81 vs Away Historical Av Gls: 1.1
+Over 1 Gls: 64.63% 
+Over 2 Gls: 37.82% 
+
+Porto vs Estrela: Home Win - Low Risk
+Home:67.12% vs Away:20.39% vs Draw:12.49% Diff: 46.74%
+Home Av Gls: 1.98 vs Away Av Gls: 0.97
+Home Historical Av Gls: 2.17 vs Away Historical Av Gls: 0.97
+Over 1 Gls: 44.03% 
+Over 2 Gls: 18.97% 
+
+Fenerbahce vs Konyaspor: Home Win - Low Risk
+Home:62.7% vs Away:20.98% vs Draw:16.32% Diff: 41.72%
+Home Av Gls: 2.41 vs Away Av Gls: 1.24
+Home Historical Av Gls: 1.98 vs Away Historical Av Gls: 1.25
+Over 1 Gls: 65.99% 
+Over 2 Gls: 39.35% 
+
+Rangers vs Hibernian: Home Win - Moderate Risk
+Home:56.82% vs Away:28.88% vs Draw:14.29% Diff: 27.94%
+Home Av Gls: 2.33 vs Away Av Gls: 1.46
+Home Historical Av Gls: 2.14 vs Away Historical Av Gls: 1.36
+Over 1 Gls: 65.4% 
+Over 2 Gls: 38.68% 
+

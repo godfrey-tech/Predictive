@@ -1,0 +1,350 @@
+Leeds vs Burnley: Home Win - High Risk
+Home:45.68% vs Away:21.51% vs Draw:32.82% Diff: 24.17%
+Home Av Gls: 1.29 vs Away Av Gls: 1.06
+Home Historical Av Gls: 1.32 vs Away Historical Av Gls: 1.02
+CEG: 2.35 | CEG+: 2.93
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 55/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 21.98% 
+Over 2 Gls: 5.94% 
+
+GOALS UNDERS
+Combined Avg: 2.34/game  (Home: 1.30  Away: 1.04)  CEG: 2.35  CEG+: 2.93
+Under 1.5: 31.9%  🔴 SKIP
+Under 2.5: 58.3%  🟡 SIGNAL
+Under 3.5: 78.9%  🟡 SIGNAL
+Under 4.5: 91%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.53/game  |  Away Avg: 1.64/game  |  Combined: 3.17/game  |  H2H Avg: 3.60/game (5 matches)
+Total Match Cards:
+  Over 3: 🟠58.2%   Over 4: 🔴38.8%   Over 5: 🔴23.9%   Over 6: 🔴10.4%
+Leeds Cards:
+  Over 1: 🟢81.4%   Over 2: 🔴44.1%   Over 3: 🔴16.9%
+Burnley Cards:
+  Over 1: 🟢76.3%   Over 2: 🟠54.2%   Over 3: 🔴20.3%
+
+CORNERS
+Home Avg: 4.51/game  |  Away Avg: 3.59/game  |  Combined: 8.10/game  |  H2H Avg: 9.60/game (5 matches)
+  Over 7:  🟢83.6%   Over 8:  🟡74.6%   Over 9:  🟠61.2%   Over 10: 🟠52.2%   Over 11: 🔴38.8%
+
+═══════════════════════════════════════════════════════════
+
+Pisa vs Lecce: Draw - High Risk
+Home:15.86% vs Away:35.1% vs Draw:49.03% Diff: 19.24%
+Home Av Gls: 0.73 vs Away Av Gls: 0.72
+Home Historical Av Gls: 0.73 vs Away Historical Av Gls: 0.95
+CEG: 1.45 | CEG+: 1.87
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:True | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 10.8% 
+Over 2 Gls: 1.91% 
+
+GOALS UNDERS
+Combined Avg: 1.53/game  (Home: 0.73  Away: 0.80)  CEG: 1.45  CEG+: 1.87
+Under 1.5: 57.5%  🔴 SKIP
+Under 2.5: 82.1%  🟢 STRONG
+Under 3.5: 94%  🟢 STRONG
+Under 4.5: 98.4%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.06/game  |  Away Avg: 1.73/game  |  Combined: 3.79/game
+Total Match Cards:
+  Over 3: 🟢75.4%   Over 4: 🔴49.2%   Over 5: 🔴32.3%   Over 6: 🔴15.4%
+Pisa Cards:
+  Over 1: 🟢90.9%   Over 2: 🟡66.7%   Over 3: 🔴36.4%
+Lecce Cards:
+  Over 1: 🟢90.9%   Over 2: 🟠57.6%   Over 3: 🔴15.2%
+
+CORNERS
+Home Avg: 3.70/game  |  Away Avg: 4.48/game  |  Combined: 8.18/game
+  Over 7:  🟢80.0%   Over 8:  🟡70.8%   Over 9:  🟠56.9%   Over 10: 🟠50.8%   Over 11: 🔴33.8%
+
+═══════════════════════════════════════════════════════════
+
+Waalwijk vs Roda: Draw - High Risk
+Home:40.11% vs Away:13.05% vs Draw:46.84% Diff: 27.05%
+Home Av Gls: 1.24 vs Away Av Gls: 0
+Home Historical Av Gls: 1.16 vs Away Historical Av Gls: 1.01
+CEG: 1.24 | CEG+: 1.78
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 9.74% 
+Over 2 Gls: 1.62% 
+
+GOALS UNDERS
+Combined Avg: 1.57/game  (Home: 1.21  Away: 0.36)  CEG: 1.24  CEG+: 1.78
+Under 1.5: 64.8%  🔴 SKIP
+Under 2.5: 87.1%  🟢 STRONG
+Under 3.5: 96.3%  🟢 STRONG
+Under 4.5: 99.1%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 1.90/game  |  Combined: 3.80/game
+Total Match Cards:
+  Over 3: 🟢76.0%   Over 4: 🟠56.0%   Over 5: 🔴37.0%   Over 6: 🔴22.0%
+Waalwijk Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+Roda Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.50/game  |  Combined: 9.00/game
+  Over 7:  🟢80.0%   Over 8:  🟡69.0%   Over 9:  🟠57.0%   Over 10: 🔴47.0%   Over 11: 🔴38.0%
+
+═══════════════════════════════════════════════════════════
+
+Rizespor vs Konyaspor: Away Win - High Risk
+Home:31.25% vs Away:44.67% vs Draw:24.08% Diff: 13.42%
+Home Av Gls: 1.36 vs Away Av Gls: 1.19
+Home Historical Av Gls: 1.26 vs Away Historical Av Gls: 1.25
+CEG: 2.55 | CEG+: 3.18
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 29.34% 
+Over 2 Gls: 9.55% 
+
+GOALS UNDERS
+Combined Avg: 2.54/game  (Home: 1.33  Away: 1.21)  CEG: 2.55  CEG+: 3.18
+Under 1.5: 27.7%  🔴 SKIP
+Under 2.5: 53.1%  🔴 SKIP
+Under 3.5: 74.7%  🟡 SIGNAL
+Under 4.5: 88.4%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.67/game  |  Away Avg: 2.60/game  |  Combined: 5.27/game  |  H2H Avg: 3.80/game (5 matches)
+Total Match Cards:
+  Over 3: 🟢86.4%   Over 4: 🟡67.8%   Over 5: 🔴47.5%   Over 6: 🔴35.6%
+Rizespor Cards:
+  Over 1: 🟢96.7%   Over 2: 🟢83.3%   Over 3: 🟠50.0%
+Konyaspor Cards:
+  Over 1: 🟢93.3%   Over 2: 🟡66.7%   Over 3: 🔴46.7%
+
+CORNERS
+Home Avg: 4.10/game  |  Away Avg: 4.97/game  |  Combined: 9.07/game  |  H2H Avg: 8.60/game (5 matches)
+  Over 7:  🟢83.1%   Over 8:  🟠64.4%   Over 9:  🟠50.8%   Over 10: 🟠50.8%   Over 11: 🔴35.6%
+
+═══════════════════════════════════════════════════════════
+
+Gaziantep vs Besiktas: Away Win - High Risk
+Home:29.28% vs Away:48.97% vs Draw:21.74% Diff: 19.69%
+Home Av Gls: 1.42 vs Away Av Gls: 1.57
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 1.89
+CEG: 2.99 | CEG+: 3.78
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 48.55% 
+Over 2 Gls: 22.51% 
+
+GOALS UNDERS
+Combined Avg: 3.05/game  (Home: 1.37  Away: 1.68)  CEG: 2.99  CEG+: 3.78
+Under 1.5: 20.1%  🔴 SKIP
+Under 2.5: 42.5%  🔴 SKIP
+Under 3.5: 64.9%  🔴 SKIP
+Under 4.5: 81.7%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 3.10/game  |  Away Avg: 2.43/game  |  Combined: 5.54/game  |  H2H Avg: 5.43/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢94.8%   Over 4: 🟢82.8%   Over 5: 🟠63.8%   Over 6: 🟠53.4%
+Gaziantep Cards:
+  Over 1: 🟢93.1%   Over 2: 🟢79.3%   Over 3: 🟡69.0%
+Besiktas Cards:
+  Over 1: 🟢96.7%   Over 2: 🟢76.7%   Over 3: 🔴36.7%
+
+CORNERS
+Home Avg: 4.83/game  |  Away Avg: 5.67/game  |  Combined: 10.49/game  |  H2H Avg: 7.57/game (7 matches)
+  Over 7:  🟢81.0%   Over 8:  🟡74.1%   Over 9:  🟠58.6%   Over 10: 🔴48.3%   Over 11: 🔴41.4%
+
+═══════════════════════════════════════════════════════════
+
+Drogheda vs Sligo Rovers: Away Win - No bet
+Home:35.41% vs Away:36.01% vs Draw:28.58% Diff: 0.6%
+Home Av Gls: 1.14 vs Away Av Gls: 1.1
+Home Historical Av Gls: 1.07 vs Away Historical Av Gls: 1.13
+CEG: 2.24 | CEG+: 2.79
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 41.93% 
+Over 2 Gls: 17.44% 
+
+GOALS UNDERS
+Combined Avg: 2.23/game  (Home: 1.11  Away: 1.11)  CEG: 2.24  CEG+: 2.79
+Under 1.5: 34.5%  🔴 SKIP
+Under 2.5: 61.2%  🟡 SIGNAL
+Under 3.5: 81.1%  🟡 SIGNAL
+Under 4.5: 92.3%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (19 matches)
+Total Match Cards:
+  Over 3: 🔴0.0%   Over 4: 🔴0.0%   Over 5: 🔴0.0%   Over 6: 🔴0.0%
+Drogheda Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+Sligo Rovers Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+
+CORNERS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (19 matches)
+  Over 7:  🔴0.0%   Over 8:  🔴0.0%   Over 9:  🔴0.0%   Over 10: 🔴0.0%   Over 11: 🔴0.0%
+
+═══════════════════════════════════════════════════════════
+
+Dundalk vs Shelbourne: Away Win - High Risk
+Home:26.73% vs Away:47.62% vs Draw:25.65% Diff: 20.89%
+Home Av Gls: 0.78 vs Away Av Gls: 1.26
+Home Historical Av Gls: 1.65 vs Away Historical Av Gls: 1.14
+CEG: 2.04 | CEG+: 2.74
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 21.86% 
+Over 2 Gls: 5.89% 
+
+GOALS UNDERS
+Combined Avg: 2.30/game  (Home: 1.09  Away: 1.22)  CEG: 2.04  CEG+: 2.74
+Under 1.5: 39.5%  🔴 SKIP
+Under 2.5: 66.6%  🟢 STRONG
+Under 3.5: 85%  🟢 STRONG
+Under 4.5: 94.4%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (12 matches)
+Total Match Cards:
+  Over 3: 🔴0.0%   Over 4: 🔴0.0%   Over 5: 🔴0.0%   Over 6: 🔴0.0%
+Dundalk Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+Shelbourne Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+
+CORNERS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (12 matches)
+  Over 7:  🔴0.0%   Over 8:  🔴0.0%   Over 9:  🔴0.0%   Over 10: 🔴0.0%   Over 11: 🔴0.0%
+
+═══════════════════════════════════════════════════════════
+
+Galway vs St. Patricks: Away Win - High Risk
+Home:27.2% vs Away:49.74% vs Draw:23.06% Diff: 22.53%
+Home Av Gls: 0.95 vs Away Av Gls: 1.27
+Home Historical Av Gls: 1.07 vs Away Historical Av Gls: 1.33
+CEG: 2.22 | CEG+: 2.82
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 55/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 29.88% 
+Over 2 Gls: 9.84% 
+
+GOALS UNDERS
+Combined Avg: 2.29/game  (Home: 0.99  Away: 1.29)  CEG: 2.22  CEG+: 2.82
+Under 1.5: 35%  🔴 SKIP
+Under 2.5: 61.7%  🟡 SIGNAL
+Under 3.5: 81.5%  🟡 SIGNAL
+Under 4.5: 92.5%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (9 matches)
+Total Match Cards:
+  Over 3: 🔴0.0%   Over 4: 🔴0.0%   Over 5: 🔴0.0%   Over 6: 🔴0.0%
+Galway Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+St. Patricks Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+
+CORNERS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (9 matches)
+  Over 7:  🔴0.0%   Over 8:  🔴0.0%   Over 9:  🔴0.0%   Over 10: 🔴0.0%   Over 11: 🔴0.0%
+
+═══════════════════════════════════════════════════════════
+
+Bohemians vs Derry City: Home Win - Very High Risk
+Home:45.34% vs Away:38.37% vs Draw:16.29% Diff: 6.98%
+Home Av Gls: 1.29 vs Away Av Gls: 1.44
+Home Historical Av Gls: 1.31 vs Away Historical Av Gls: 1.42
+CEG: 2.73 | CEG+: 3.41
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 37.36% 
+Over 2 Gls: 14.31% 
+
+GOALS UNDERS
+Combined Avg: 2.73/game  (Home: 1.29  Away: 1.44)  CEG: 2.73  CEG+: 3.41
+Under 1.5: 24.3%  🔴 SKIP
+Under 2.5: 48.6%  🔴 SKIP
+Under 3.5: 70.7%  🔴 SKIP
+Under 4.5: 85.8%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (20 matches)
+Total Match Cards:
+  Over 3: 🔴0.0%   Over 4: 🔴0.0%   Over 5: 🔴0.0%   Over 6: 🔴0.0%
+Bohemians Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+Derry City Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+
+CORNERS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (20 matches)
+  Over 7:  🔴0.0%   Over 8:  🔴0.0%   Over 9:  🔴0.0%   Over 10: 🔴0.0%   Over 11: 🔴0.0%
+
+═══════════════════════════════════════════════════════════
+
+Shamrock Rovers vs Waterford: Home Win - Moderate Risk
+Home:51.24% vs Away:30.51% vs Draw:18.25% Diff: 20.72%
+Home Av Gls: 1.51 vs Away Av Gls: 1.14
+Home Historical Av Gls: 1.65 vs Away Historical Av Gls: 1.17
+CEG: 2.66 | CEG+: 3.36
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 43.38% 
+Over 2 Gls: 18.49% 
+
+GOALS UNDERS
+Combined Avg: 2.71/game  (Home: 1.56  Away: 1.15)  CEG: 2.66  CEG+: 3.36
+Under 1.5: 25.6%  🔴 SKIP
+Under 2.5: 50.3%  🔴 SKIP
+Under 3.5: 72.3%  🟡 SIGNAL
+Under 4.5: 86.9%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (12 matches)
+Total Match Cards:
+  Over 3: 🔴0.0%   Over 4: 🔴0.0%   Over 5: 🔴0.0%   Over 6: 🔴0.0%
+Shamrock Rovers Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+Waterford Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+
+CORNERS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (12 matches)
+  Over 7:  🔴0.0%   Over 8:  🔴0.0%   Over 9:  🔴0.0%   Over 10: 🔴0.0%   Over 11: 🔴0.0%
+
+═══════════════════════════════════════════════════════════
+

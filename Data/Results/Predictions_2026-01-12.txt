@@ -1,0 +1,55 @@
+Liverpool vs : Home Win - Low Risk
+Home:76.25% vs Away:0% vs Draw:23.75% Diff: 76.25%
+Home Av Gls: 2.13 vs Away Av Gls: 0
+Home Historical Av Gls: 2.15 vs Away Historical Av Gls: 0
+CEG: 2.13 | CEG+: 2.67
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 19.14% 
+Over 2 Gls: 4.75% 
+
+Genoa vs Cagliari: Draw - No bet
+Home:30.33% vs Away:33.36% vs Draw:36.31% Diff: 3.04%
+Home Av Gls: 1.13 vs Away Av Gls: 1.15
+Home Historical Av Gls: 1.06 vs Away Historical Av Gls: 1.11
+CEG: 2.28 | CEG+: 2.82
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – fragile structure (likely scores: 1–1 → 2–1 / 1–2; 2–2 or 3–1 if triggered)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 41.85% 
+Over 2 Gls: 17.38% 
+
+Juventus vs Cremonese: Home Win - Moderate Risk
+Home:57.16% vs Away:19.12% vs Draw:23.72% Diff: 38.04%
+Home Av Gls: 1.38 vs Away Av Gls: 1.05
+Home Historical Av Gls: 1.82 vs Away Historical Av Gls: 0.98
+CEG: 2.44 | CEG+: 3.14
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 55/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 42.06% 
+Over 2 Gls: 17.53% 
+
+Sevilla vs Celta: Away Win - Very High Risk
+Home:34.18% vs Away:42.55% vs Draw:23.27% Diff: 8.37%
+Home Av Gls: 1.23 vs Away Av Gls: 1.3
+Home Historical Av Gls: 1.43 vs Away Historical Av Gls: 1.28
+CEG: 2.53 | CEG+: 3.2
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 34.05% 
+Over 2 Gls: 12.24% 
+
+Paris SG vs Paris FC: Home Win - Low Risk
+Home:66.31% vs Away:18.87% vs Draw:14.82% Diff: 47.43%
+Home Av Gls: 2.33 vs Away Av Gls: 1.31
+Home Historical Av Gls: 2.49 vs Away Historical Av Gls: 1.31
+CEG: 3.64 | CEG+: 4.59
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 39.93% 
+Over 2 Gls: 16.03% 
+

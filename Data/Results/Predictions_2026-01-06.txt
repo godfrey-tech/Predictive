@@ -1,0 +1,77 @@
+West Ham vs Nott'm Forest: Away Win - Very High Risk
+Home:33.89% vs Away:42.18% vs Draw:23.93% Diff: 8.29%
+Home Av Gls: 1.27 vs Away Av Gls: 1.38
+Home Historical Av Gls: 1.34 vs Away Historical Av Gls: 1.24
+Over 1 Gls: 39.54% 
+Over 2 Gls: 15.77% 
+
+Pisa vs Como: Away Win - Moderate Risk
+Home:6.44% vs Away:55.28% vs Draw:38.29% Diff: 48.84%
+Home Av Gls: 0.71 vs Away Av Gls: 1.38
+Home Historical Av Gls: 0.71 vs Away Historical Av Gls: 1.38
+Over 1 Gls: 18.42% 
+Over 2 Gls: 4.46% 
+
+Lecce vs Roma: Away Win - Moderate Risk
+Home:23.66% vs Away:57% vs Draw:19.34% Diff: 33.35%
+Home Av Gls: 0.75 vs Away Av Gls: 1.44
+Home Historical Av Gls: 0.98 vs Away Historical Av Gls: 1.77
+Over 1 Gls: 25.8% 
+Over 2 Gls: 7.72% 
+
+Sassuolo vs Juventus: Away Win - Moderate Risk
+Home:21.84% vs Away:59.19% vs Draw:18.97% Diff: 37.34%
+Home Av Gls: 1.16 vs Away Av Gls: 1.36
+Home Historical Av Gls: 1.39 vs Away Historical Av Gls: 1.82
+Over 1 Gls: 25.89% 
+Over 2 Gls: 7.76% 
+
+Granada vs Vallecano: Draw - High Risk
+Home:22.83% vs Away:37.29% vs Draw:39.88% Diff: 14.46%
+Home Av Gls: 0.78 vs Away Av Gls: 0.67
+Home Historical Av Gls: 1.11 vs Away Historical Av Gls: 0.99
+Over 1 Gls: 20.39% 
+Over 2 Gls: 5.26% 
+
+Livingston vs St Mirren: Away Win - High Risk
+Home:20.86% vs Away:49.46% vs Draw:29.68% Diff: 28.61%
+Home Av Gls: 0.85 vs Away Av Gls: 1.16
+Home Historical Av Gls: 1.05 vs Away Historical Av Gls: 1.03
+Over 1 Gls: 20.61% 
+Over 2 Gls: 5.35% 
+
+Rangers vs Aberdeen: Home Win - Moderate Risk
+Home:55.11% vs Away:30.6% vs Draw:14.3% Diff: 24.51%
+Home Av Gls: 2.02 vs Away Av Gls: 1.25
+Home Historical Av Gls: 2.09 vs Away Historical Av Gls: 1.37
+Over 1 Gls: 50.37% 
+Over 2 Gls: 24.02% 
+
+Sp Lisbon vs Guimaraes: Home Win - Low Risk
+Home:61.27% vs Away:29.49% vs Draw:9.25% Diff: 31.78%
+Home Av Gls: 3 vs Away Av Gls: 1.24
+Home Historical Av Gls: 2.12 vs Away Historical Av Gls: 1.33
+Over 1 Gls: 66.74% 
+Over 2 Gls: 40.19% 
+
+Aris vs Panathinaikos: Away Win - No bet
+Home:40.46% vs Away:42.41% vs Draw:17.14% Diff: 1.95%
+Home Av Gls: 1.21 vs Away Av Gls: 1.8
+Home Historical Av Gls: 1.3 vs Away Historical Av Gls: 1.43
+Over 1 Gls: 37.83% 
+Over 2 Gls: 14.62% 
+
+Volos NFC vs Kifisia: Home Win - High Risk
+Home:47.33% vs Away:26.05% vs Draw:26.62% Diff: 21.29%
+Home Av Gls: 1.15 vs Away Av Gls: 1.21
+Home Historical Av Gls: 1.08 vs Away Historical Av Gls: 1.19
+Over 1 Gls: 37.11% 
+Over 2 Gls: 14.15% 
+
+PAOK vs Atromitos: Home Win - Low Risk
+Home:61.83% vs Away:21.69% vs Draw:16.48% Diff: 40.14%
+Home Av Gls: 2.45 vs Away Av Gls: 1.1
+Home Historical Av Gls: 1.83 vs Away Historical Av Gls: 1.11
+Over 1 Gls: 45.7% 
+Over 2 Gls: 20.24% 
+

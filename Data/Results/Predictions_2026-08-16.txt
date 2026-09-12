@@ -1,0 +1,443 @@
+Reading vs Luton: Away Win - Moderate Risk
+Home:28.98% vs Away:51.85% vs Draw:19.17% Diff: 22.88%
+Home Av Gls: 1.53 vs Away Av Gls: 1.44
+Home Historical Av Gls: 1.46 vs Away Historical Av Gls: 1.7
+CEG: 2.97 | CEG+: 3.76
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 55.96% 
+Over 2 Gls: 29% 
+
+GOALS UNDERS
+Combined Avg: 3.04/game  (Home: 1.50  Away: 1.54)  CEG: 2.97  CEG+: 3.76
+Under 1.5: 20.4%  🔴 SKIP
+Under 2.5: 43%  🔴 SKIP
+Under 3.5: 65.4%  🔴 SKIP
+Under 4.5: 82%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.94/game  |  Away Avg: 1.62/game  |  Combined: 3.57/game
+Total Match Cards:
+  Over 3: 🟡69.6%   Over 4: 🟠51.3%   Over 5: 🔴29.6%   Over 6: 🔴14.8%
+Reading Cards:
+  Over 1: 🟢86.1%   Over 2: 🟠56.9%   Over 3: 🔴34.7%
+Luton Cards:
+  Over 1: 🟢93.3%   Over 2: 🔴48.9%   Over 3: 🔴13.3%
+
+CORNERS
+Home Avg: 3.96/game  |  Away Avg: 6.18/game  |  Combined: 10.14/game
+  Over 7:  🟢81.7%   Over 8:  🟡71.3%   Over 9:  🟠58.3%   Over 10: 🔴47.0%   Over 11: 🔴40.0%
+
+═══════════════════════════════════════════════════
+Reading vs Luton - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 26.4%  |  Draw (X): 48.6%  |  Away (2): 25.0%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 29.0%  |  Draw (X): 19.2%  |  Away (2): 51.9%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 27.3% prob, 5.5x odds, EV: +50.0%
+
+═══════════════════════════════════════════════════════════
+
+Cambridge vs Wigan: Away Win - High Risk
+Home:25.89% vs Away:47.14% vs Draw:26.97% Diff: 21.24%
+Home Av Gls: 0.92 vs Away Av Gls: 1.07
+Home Historical Av Gls: 0.98 vs Away Historical Av Gls: 1.37
+CEG: 1.99 | CEG+: 2.58
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 33.19% 
+Over 2 Gls: 11.72% 
+
+GOALS UNDERS
+Combined Avg: 2.12/game  (Home: 0.94  Away: 1.17)  CEG: 1.99  CEG+: 2.58
+Under 1.5: 40.9%  🔴 SKIP
+Under 2.5: 67.9%  🟢 STRONG
+Under 3.5: 85.9%  🟢 STRONG
+Under 4.5: 94.8%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.07/game  |  Away Avg: 1.76/game  |  Combined: 3.84/game  |  H2H Avg: 4.17/game (6 matches)
+Total Match Cards:
+  Over 3: 🟡68.4%   Over 4: 🔴49.0%   Over 5: 🔴29.6%   Over 6: 🔴15.3%
+Cambridge Cards:
+  Over 1: 🟢100.0%   Over 2: 🟡66.7%   Over 3: 🔴29.6%
+Wigan Cards:
+  Over 1: 🟢87.5%   Over 2: 🟠51.4%   Over 3: 🔴23.6%
+
+CORNERS
+Home Avg: 4.44/game  |  Away Avg: 5.12/game  |  Combined: 9.57/game  |  H2H Avg: 8.00/game (6 matches)
+  Over 7:  🟢81.6%   Over 8:  🟡69.4%   Over 9:  🟠63.3%   Over 10: 🟠53.1%   Over 11: 🔴39.8%
+
+═══════════════════════════════════════════════════
+Cambridge vs Wigan - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 22.2%  |  Draw (X): 44.4%  |  Away (2): 33.3%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 25.9%  |  Draw (X): 27.0%  |  Away (2): 47.1%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 24.3% prob, 5.5x odds, EV: +33.6%
+  🟢 X/X: 13.9% prob, 9x odds, EV: +25.1%
+
+═══════════════════════════════════════════════════════════
+
+Leyton Orient vs Sheffield Weds: Home Win - Moderate Risk
+Home:51.45% vs Away:25.53% vs Draw:23.02% Diff: 25.91%
+Home Av Gls: 1.38 vs Away Av Gls: 0
+Home Historical Av Gls: 1.33 vs Away Historical Av Gls: 1.73
+CEG: 1.38 | CEG+: 2.14
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 12.9% 
+Over 2 Gls: 2.53% 
+
+GOALS UNDERS
+Combined Avg: 1.96/game  (Home: 1.36  Away: 0.60)  CEG: 1.38  CEG+: 2.14
+Under 1.5: 59.9%  🔴 SKIP
+Under 2.5: 83.8%  🟢 STRONG
+Under 3.5: 94.9%  🟢 STRONG
+Under 4.5: 98.7%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.99/game  |  Away Avg: 1.90/game  |  Combined: 3.89/game
+Total Match Cards:
+  Over 3: 🟢77.8%   Over 4: 🟠55.6%   Over 5: 🔴33.3%   Over 6: 🔴15.3%
+Leyton Orient Cards:
+  Over 1: 🟢86.1%   Over 2: 🟠63.9%   Over 3: 🔴37.5%
+Sheffield Weds Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 5.01/game  |  Away Avg: 4.50/game  |  Combined: 9.51/game
+  Over 7:  🟢83.3%   Over 8:  🟢75.0%   Over 9:  🟡65.3%   Over 10: 🟠55.6%   Over 11: 🔴41.7%
+
+═══════════════════════════════════════════════════
+Leyton Orient vs Sheffield Weds - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 30.6%  |  Draw (X): 44.4%  |  Away (2): 25.0%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 51.4%  |  Draw (X): 23.0%  |  Away (2): 25.5%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/1: 25.1% prob, 5.5x odds, EV: +38.0%
+
+═══════════════════════════════════════════════════════════
+
+Huddersfield vs AFC Wimbledon: Home Win - Very High Risk
+Home:42.22% vs Away:36.43% vs Draw:21.35% Diff: 5.79%
+Home Av Gls: 1.41 vs Away Av Gls: 1.13
+Home Historical Av Gls: 1.41 vs Away Historical Av Gls: 1.08
+CEG: 2.54 | CEG+: 3.16
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 60/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 50.65% 
+Over 2 Gls: 24.25% 
+
+GOALS UNDERS
+Combined Avg: 2.52/game  (Home: 1.41  Away: 1.11)  CEG: 2.54  CEG+: 3.16
+Under 1.5: 27.9%  🔴 SKIP
+Under 2.5: 53.4%  🔴 SKIP
+Under 3.5: 74.9%  🟡 SIGNAL
+Under 4.5: 88.6%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.85/game  |  Away Avg: 1.49/game  |  Combined: 3.34/game
+Total Match Cards:
+  Over 3: 🟡74.1%   Over 4: 🟠52.6%   Over 5: 🔴34.5%   Over 6: 🔴12.9%
+Huddersfield Cards:
+  Over 1: 🟢90.3%   Over 2: 🟠58.3%   Over 3: 🔴25.0%
+AFC Wimbledon Cards:
+  Over 1: 🟢80.0%   Over 2: 🟠51.1%   Over 3: 🔴13.3%
+
+CORNERS
+Home Avg: 6.00/game  |  Away Avg: 4.69/game  |  Combined: 10.69/game
+  Over 7:  🟢88.8%   Over 8:  🟢81.0%   Over 9:  🟡70.7%   Over 10: 🟠56.0%   Over 11: 🔴43.1%
+
+═══════════════════════════════════════════════════
+Huddersfield vs AFC Wimbledon - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 38.9%  |  Draw (X): 36.1%  |  Away (2): 25.0%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 42.2%  |  Draw (X): 21.3%  |  Away (2): 36.4%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🔴 No bets meet +5% expected value threshold
+
+═══════════════════════════════════════════════════════════
+
+Blackpool vs Wycombe: Home Win - Moderate Risk
+Home:50.94% vs Away:30.21% vs Draw:18.86% Diff: 20.73%
+Home Av Gls: 1.39 vs Away Av Gls: 1.41
+Home Historical Av Gls: 1.3 vs Away Historical Av Gls: 1.39
+CEG: 2.8 | CEG+: 3.47
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 37.08% 
+Over 2 Gls: 14.14% 
+
+GOALS UNDERS
+Combined Avg: 2.76/game  (Home: 1.36  Away: 1.41)  CEG: 2.80  CEG+: 3.47
+Under 1.5: 23.1%  🔴 SKIP
+Under 2.5: 46.9%  🔴 SKIP
+Under 3.5: 69.2%  🔴 SKIP
+Under 4.5: 84.8%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.79/game  |  Away Avg: 1.54/game  |  Combined: 3.33/game  |  H2H Avg: 3.83/game (6 matches)
+Total Match Cards:
+  Over 3: 🟡68.1%   Over 4: 🔴46.1%   Over 5: 🔴25.5%   Over 6: 🔴13.5%
+Blackpool Cards:
+  Over 1: 🟢83.3%   Over 2: 🟠50.0%   Over 3: 🔴29.2%
+Wycombe Cards:
+  Over 1: 🟢83.3%   Over 2: 🔴44.4%   Over 3: 🔴20.8%
+
+CORNERS
+Home Avg: 4.51/game  |  Away Avg: 5.15/game  |  Combined: 9.67/game  |  H2H Avg: 7.50/game (6 matches)
+  Over 7:  🟢82.3%   Over 8:  🟡73.0%   Over 9:  🟠59.6%   Over 10: 🟠50.4%   Over 11: 🔴37.6%
+
+═══════════════════════════════════════════════════
+Blackpool vs Wycombe - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 30.6%  |  Draw (X): 44.4%  |  Away (2): 25.0%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 50.9%  |  Draw (X): 18.9%  |  Away (2): 30.2%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/1: 27.9% prob, 5.5x odds, EV: +53.7%
+
+═══════════════════════════════════════════════════════════
+
+Bradford vs Peterboro: Home Win - Very High Risk
+Home:44.34% vs Away:36.39% vs Draw:19.27% Diff: 7.95%
+Home Av Gls: 1.24 vs Away Av Gls: 1.6
+Home Historical Av Gls: 1.23 vs Away Historical Av Gls: 1.6
+CEG: 2.84 | CEG+: 3.55
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 42.2% 
+Over 2 Gls: 17.63% 
+
+GOALS UNDERS
+Combined Avg: 2.84/game  (Home: 1.24  Away: 1.60)  CEG: 2.84  CEG+: 3.55
+Under 1.5: 22.4%  🔴 SKIP
+Under 2.5: 46%  🔴 SKIP
+Under 3.5: 68.3%  🔴 SKIP
+Under 4.5: 84.1%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.33/game  |  Away Avg: 2.07/game  |  Combined: 4.40/game
+Total Match Cards:
+  Over 3: 🟢80.0%   Over 4: 🟡67.0%   Over 5: 🔴44.3%   Over 6: 🔴25.2%
+Bradford Cards:
+  Over 1: 🟢88.9%   Over 2: 🟡73.3%   Over 3: 🔴44.4%
+Peterboro Cards:
+  Over 1: 🟢95.8%   Over 2: 🟠63.9%   Over 3: 🔴33.3%
+
+CORNERS
+Home Avg: 5.53/game  |  Away Avg: 4.28/game  |  Combined: 9.81/game
+  Over 7:  🟢80.9%   Over 8:  🟢75.7%   Over 9:  🟠64.3%   Over 10: 🔴49.6%   Over 11: 🔴40.9%
+
+═══════════════════════════════════════════════════
+Bradford vs Peterboro - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 44.4%  |  Draw (X): 40.0%  |  Away (2): 15.6%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 44.3%  |  Draw (X): 19.3%  |  Away (2): 36.4%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟡 X/1: 20.3% prob, 5.5x odds, EV: +11.8%
+  🟡 1/1: 24.6% prob, 4.5x odds, EV: +10.6%
+
+═══════════════════════════════════════════════════════════
+
+Plymouth vs Stockport: Home Win - No bet
+Home:44.62% vs Away:40.3% vs Draw:15.08% Diff: 4.33%
+Home Av Gls: 1.6 vs Away Av Gls: 1.54
+Home Historical Av Gls: 1.41 vs Away Historical Av Gls: 1.54
+CEG: 3.14 | CEG+: 3.88
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 53.43% 
+Over 2 Gls: 26.68% 
+
+GOALS UNDERS
+Combined Avg: 3.07/game  (Home: 1.54  Away: 1.54)  CEG: 3.14  CEG+: 3.88
+Under 1.5: 17.9%  🔴 SKIP
+Under 2.5: 39.3%  🔴 SKIP
+Under 3.5: 61.6%  🔴 SKIP
+Under 4.5: 79.1%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.64/game  |  Away Avg: 1.70/game  |  Combined: 4.35/game
+Total Match Cards:
+  Over 3: 🟢79.8%   Over 4: 🟠64.0%   Over 5: 🔴39.5%   Over 6: 🔴24.6%
+Plymouth Cards:
+  Over 1: 🟢95.6%   Over 2: 🟢80.0%   Over 3: 🔴46.7%
+Stockport Cards:
+  Over 1: 🟢84.5%   Over 2: 🟠54.9%   Over 3: 🔴21.1%
+
+CORNERS
+Home Avg: 5.53/game  |  Away Avg: 5.06/game  |  Combined: 10.59/game
+  Over 7:  🟢82.5%   Over 8:  🟡74.6%   Over 9:  🟠61.4%   Over 10: 🟠54.4%   Over 11: 🔴41.2%
+
+═══════════════════════════════════════════════════
+Plymouth vs Stockport - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 28.9%  |  Draw (X): 37.8%  |  Away (2): 33.3%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 44.6%  |  Draw (X): 15.1%  |  Away (2): 40.3%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟠 X/1: 19.5% prob, 5.5x odds, EV: +7.5%
+
+═══════════════════════════════════════════════════════════
+
+Mansfield vs Doncaster: Away Win - No bet
+Home:38.8% vs Away:38.81% vs Draw:22.39% Diff: 0.01%
+Home Av Gls: 1.29 vs Away Av Gls: 1.04
+Home Historical Av Gls: 1.29 vs Away Historical Av Gls: 1.24
+CEG: 2.33 | CEG+: 2.96
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 55/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 35.93% 
+Over 2 Gls: 13.4% 
+
+GOALS UNDERS
+Combined Avg: 2.40/game  (Home: 1.29  Away: 1.11)  CEG: 2.33  CEG+: 2.96
+Under 1.5: 32.4%  🔴 SKIP
+Under 2.5: 58.8%  🟡 SIGNAL
+Under 3.5: 79.3%  🟡 SIGNAL
+Under 4.5: 91.3%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.81/game  |  Away Avg: 1.98/game  |  Combined: 3.79/game
+Total Match Cards:
+  Over 3: 🟡72.4%   Over 4: 🟠50.0%   Over 5: 🔴29.3%   Over 6: 🔴16.4%
+Mansfield Cards:
+  Over 1: 🟢84.9%   Over 2: 🟠56.2%   Over 3: 🔴23.3%
+Doncaster Cards:
+  Over 1: 🟢91.1%   Over 2: 🟠62.2%   Over 3: 🔴31.1%
+
+CORNERS
+Home Avg: 4.62/game  |  Away Avg: 4.31/game  |  Combined: 8.93/game
+  Over 7:  🟢76.7%   Over 8:  🟡68.1%   Over 9:  🟠52.6%   Over 10: 🔴39.7%   Over 11: 🔴35.3%
+
+═══════════════════════════════════════════════════
+Mansfield vs Doncaster - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 34.2%  |  Draw (X): 41.1%  |  Away (2): 24.7%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 38.8%  |  Draw (X): 22.4%  |  Away (2): 38.8%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🔴 No bets meet +5% expected value threshold
+
+═══════════════════════════════════════════════════════════
+
+Burton vs Stevenage: Away Win - High Risk
+Home:32.21% vs Away:43.59% vs Draw:24.2% Diff: 11.39%
+Home Av Gls: 0.99 vs Away Av Gls: 1.03
+Home Historical Av Gls: 1.18 vs Away Historical Av Gls: 1.07
+CEG: 2.02 | CEG+: 2.59
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 27.3% 
+Over 2 Gls: 8.47% 
+
+GOALS UNDERS
+Combined Avg: 2.11/game  (Home: 1.06  Away: 1.05)  CEG: 2.02  CEG+: 2.59
+Under 1.5: 40.1%  🔴 SKIP
+Under 2.5: 67.1%  🟢 STRONG
+Under 3.5: 85.3%  🟢 STRONG
+Under 4.5: 94.6%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.75/game  |  Away Avg: 1.89/game  |  Combined: 3.64/game  |  H2H Avg: 4.83/game (6 matches)
+Total Match Cards:
+  Over 3: 🟡74.6%   Over 4: 🟠52.1%   Over 5: 🔴31.0%   Over 6: 🔴15.5%
+Burton Cards:
+  Over 1: 🟢87.5%   Over 2: 🟠52.8%   Over 3: 🔴26.4%
+Stevenage Cards:
+  Over 1: 🟢89.0%   Over 2: 🟠58.9%   Over 3: 🔴31.5%
+
+CORNERS
+Home Avg: 4.94/game  |  Away Avg: 4.48/game  |  Combined: 9.42/game  |  H2H Avg: 10.33/game (6 matches)
+  Over 7:  🟢81.0%   Over 8:  🟡71.8%   Over 9:  🟠57.7%   Over 10: 🔴46.5%   Over 11: 🔴33.8%
+
+═══════════════════════════════════════════════════
+Burton vs Stevenage - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 33.3%  |  Draw (X): 40.3%  |  Away (2): 26.4%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 32.2%  |  Draw (X): 24.2%  |  Away (2): 43.6%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 20.9% prob, 5.5x odds, EV: +15.2%
+
+═══════════════════════════════════════════════════════════
+

@@ -1,0 +1,162 @@
+Levante vs Sevilla: Away Win - Very High Risk
+Home:36.19% vs Away:41.26% vs Draw:22.55% Diff: 5.06%
+Home Av Gls: 1.15 vs Away Av Gls: 1.21
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 1.42
+CEG: 2.36 | CEG+: 3.04
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 49.34% 
+Over 2 Gls: 23.15% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.33/game  |  Away Avg: 2.97/game  |  Combined: 5.30/game  |  H2H Avg: 5.33/game (3 matches)
+Total Match Cards:
+  Over 3: 🟢86.9%   Over 4: 🟡72.1%   Over 5: 🟠55.7%   Over 6: 🔴41.0%
+Levante Cards:
+  Over 1: 🟢93.9%   Over 2: 🟡72.7%   Over 3: 🔴45.5%
+Sevilla Cards:
+  Over 1: 🟢100.0%   Over 2: 🟢78.8%   Over 3: 🔴48.5%
+
+CORNERS
+Home Avg: 3.70/game  |  Away Avg: 4.85/game  |  Combined: 8.55/game  |  H2H Avg: 11.00/game (3 matches)
+  Over 7:  🟢77.0%   Over 8:  🟡67.2%   Over 9:  🟠54.1%   Over 10: 🟠50.8%   Over 11: 🔴42.6%
+
+
+Vallecano vs Espanol: Away Win - No bet
+Home:31.51% vs Away:36.16% vs Draw:32.33% Diff: 4.65%
+Home Av Gls: 0.78 vs Away Av Gls: 1.24
+Home Historical Av Gls: 1.01 vs Away Historical Av Gls: 1.12
+CEG: 2.03 | CEG+: 2.56
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 17.91% 
+Over 2 Gls: 4.27% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.88/game  |  Away Avg: 2.48/game  |  Combined: 5.36/game  |  H2H Avg: 8.40/game (5 matches)
+Total Match Cards:
+  Over 3: 🟢77.0%   Over 4: 🟡72.1%   Over 5: 🟠59.0%   Over 6: 🔴37.7%
+Vallecano Cards:
+  Over 1: 🟢93.9%   Over 2: 🟡69.7%   Over 3: 🟠54.5%
+Espanol Cards:
+  Over 1: 🟢90.9%   Over 2: 🟡66.7%   Over 3: 🔴42.4%
+
+CORNERS
+Home Avg: 5.97/game  |  Away Avg: 4.48/game  |  Combined: 10.45/game  |  H2H Avg: 9.80/game (5 matches)
+  Over 7:  🟢85.2%   Over 8:  🟢75.4%   Over 9:  🟠62.3%   Over 10: 🟠52.5%   Over 11: 🟠50.8%
+
+
+Oviedo vs Villarreal: Away Win - Moderate Risk
+Home:31.89% vs Away:50.8% vs Draw:17.31% Diff: 18.9%
+Home Av Gls: 0.73 vs Away Av Gls: 1.88
+Home Historical Av Gls: 0.73 vs Away Historical Av Gls: 1.59
+CEG: 2.61 | CEG+: 3.19
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 20/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 24.97% 
+Over 2 Gls: 7.32% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.58/game  |  Away Avg: 2.21/game  |  Combined: 4.79/game
+Total Match Cards:
+  Over 3: 🟢80.3%   Over 4: 🟠62.3%   Over 5: 🔴44.3%   Over 6: 🔴27.9%
+Oviedo Cards:
+  Over 1: 🟢100.0%   Over 2: 🟢84.8%   Over 3: 🔴42.4%
+Villarreal Cards:
+  Over 1: 🟢93.9%   Over 2: 🟠63.6%   Over 3: 🔴36.4%
+
+CORNERS
+Home Avg: 3.61/game  |  Away Avg: 4.21/game  |  Combined: 7.82/game
+  Over 7:  🟢78.7%   Over 8:  🟡67.2%   Over 9:  🟠54.1%   Over 10: 🔴44.3%   Over 11: 🔴39.3%
+
+
+Go Ahead Eagles vs AZ Alkmaar: Away Win - Moderate Risk
+Home:27.39% vs Away:53% vs Draw:19.61% Diff: 25.61%
+Home Av Gls: 1.48 vs Away Av Gls: 1.76
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 1.97
+CEG: 3.25 | CEG+: 4.06
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 43.11% 
+Over 2 Gls: 18.3% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.60/game  |  Away Avg: 2.07/game  |  Combined: 3.67/game  |  H2H Avg: 2.57/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡69.5%   Over 4: 🔴40.7%   Over 5: 🔴23.7%   Over 6: 🔴16.9%
+Go Ahead Eagles Cards:
+  Over 1: 🟢80.0%   Over 2: 🔴36.7%   Over 3: 🔴20.0%
+AZ Alkmaar Cards:
+  Over 1: 🟢80.0%   Over 2: 🟠60.0%   Over 3: 🔴33.3%
+
+CORNERS
+Home Avg: 5.33/game  |  Away Avg: 5.73/game  |  Combined: 11.07/game  |  H2H Avg: 10.14/game (7 matches)
+  Over 7:  🟢89.8%   Over 8:  🟢81.4%   Over 9:  🟢79.7%   Over 10: 🟠59.3%   Over 11: 🔴44.1%
+
+
+PSV Eindhoven vs Zwolle: Home Win - Low Risk
+Home:64.61% vs Away:21.86% vs Draw:13.53% Diff: 42.75%
+Home Av Gls: 2.96 vs Away Av Gls: 1.35
+Home Historical Av Gls: 2.57 vs Away Historical Av Gls: 1.22
+CEG: 4.31 | CEG+: 5.26
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 77.48% 
+Over 2 Gls: 53.89% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.57/game  |  Away Avg: 1.87/game  |  Combined: 3.43/game  |  H2H Avg: 2.67/game (6 matches)
+Total Match Cards:
+  Over 3: 🟠64.4%   Over 4: 🔴35.6%   Over 5: 🔴25.4%   Over 6: 🔴15.3%
+PSV Eindhoven Cards:
+  Over 1: 🟢76.7%   Over 2: 🔴36.7%   Over 3: 🔴16.7%
+Zwolle Cards:
+  Over 1: 🟢83.3%   Over 2: 🟠56.7%   Over 3: 🔴36.7%
+
+CORNERS
+Home Avg: 7.33/game  |  Away Avg: 3.60/game  |  Combined: 10.93/game  |  H2H Avg: 11.17/game (6 matches)
+  Over 7:  🟢89.8%   Over 8:  🟢76.3%   Over 9:  🟡69.5%   Over 10: 🟠64.4%   Over 11: 🟠50.8%
+
+
+Stuttgart vs Freiburg: Home Win - High Risk
+Home:49.32% vs Away:34.36% vs Draw:16.31% Diff: 14.96%
+Home Av Gls: 2.06 vs Away Av Gls: 1.43
+Home Historical Av Gls: 1.49 vs Away Historical Av Gls: 1.38
+CEG: 3.48 | CEG+: 4.2
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 50.18% 
+Over 2 Gls: 23.86% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.00/game  |  Away Avg: 1.79/game  |  Combined: 3.79/game  |  H2H Avg: 4.12/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢75.0%   Over 4: 🟠51.8%   Over 5: 🔴32.1%   Over 6: 🔴23.2%
+Stuttgart Cards:
+  Over 1: 🟢93.1%   Over 2: 🟡65.5%   Over 3: 🔴27.6%
+Freiburg Cards:
+  Over 1: 🟢89.7%   Over 2: 🟠51.7%   Over 3: 🔴31.0%
+
+CORNERS
+Home Avg: 5.45/game  |  Away Avg: 4.45/game  |  Combined: 9.90/game  |  H2H Avg: 7.75/game (8 matches)
+  Over 7:  🟢78.6%   Over 8:  🟡67.9%   Over 9:  🟠51.8%   Over 10: 🔴48.2%   Over 11: 🔴32.1%
+
+

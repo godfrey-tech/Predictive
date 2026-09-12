@@ -1,0 +1,262 @@
+1.
+IF
+Historical Avg Goals ≥ 1.50
+AND Over 1 Goals ≥ 30%
+[AND Opponent Historical Avg Conceded ≥ 1.10 - to be coded] (optional but powerful)
+
+THEN
+Team scores at least 1 goal (High confidence)
+
+USE IT FOR:
+
+Team Over 0.5 Goals
+
+Both Teams to Score (when both teams qualify)
+----------------------------------------------
+2.
+Strong Draw Signal
+
+Over 1 Goals < 25%
+AND Draw % ≥ 22%
+→ Match is draw-prone
+Action
+
+❌ Avoid match winner
+✅ Consider Under 2.5
+
+3. 
+False Favorite Pattern
+Win Diff ≥ 20%
+AND Over 1 Goals < 20%
+→ Favorite is vulnerable
+
+Action
+
+❌ Do not take outright win
+✅ If betting, use double chance or skip
+
+4. 
+Home Avg Gls ≥ 1.35
+AND Away Avg Gls ≥ 1.35
+AND Over 1 Goals ≥ 40%
+
+Action
+
+❌ Never bet winner
+✅ Bet Over 2.5 / BTTS / Over 1.5 LIVE
+
+5. 
+Team Win % ≥ 55%
+AND Opponent Win % ≤ 20%
+AND Draw ≤ 25%
+AND Over 1 Goals ≥ 30%
+
+Action
+
+✅ Team to Score
+✅ Asian Handicap (-0.25 / -0.5)
+
+6. 
+“Strong Attack vs Strong Attack” ≠ Home Win
+
+IF Home Hist ≥ 1.50 AND Away Hist ≥ 1.50
+→ Avoid Match Winner
+→ Prefer Over 1.5 / Team Goals / BTTS 
+
+7. 
+Over 1 Goals < 30% = Result Suppression
+IF Over 1 Goals < 30%
+→ High chance of draw or underperformance
+
+8.
+Elite Teams Still Win Ugly
+IF Team Hist Avg ≥ 2.20
+→ Ignore Over 2
+→ Team Win or Clean Sheet becomes viable
+
+9. 
+Away Dominance Needs Goal Environment
+IF Away Win % ≥ 55%
+AND Over 1 ≥ 40%
+→ Expect volatility, not control
+
+Action:
+
+❌ Away clean sheet
+
+✅ Away to score / BTTS / Over
+
+10. 
+Looks Safe” But Isn’t (Diff 20–25%)
+Diff 20–25%
+→ Only bet if Over 1 ≥ 35%
+
+11. 
+Away Team Scores When Hist ≥ 1.35 + Over 1 ≥ 35%
+IF Away Hist ≥ 1.35
+AND Over 1 ≥ 35%
+→ Away scores ≥ 1 goal
+
+12. 
+Over 1 Goals Can Override Low Attack Averages
+IF Over 1 ≥ 50%
+→ At least one team scores ≥2 goals
+
+13. 
+Diff % < 5% = Directionless Match
+IF Diff < 5%
+→ NEVER bet match direction
+→ Only goals or skip
+
+14. 
+“Zero Goal Data” = Model Blindness
+IF Home Avg = 0 OR Away Avg = 0
+→ Mark match as DATA INSUFFICIENT
+→ NO BET
+
+15. 
+High Win % + Low Over % = False Safety
+IF Win % ≥ 55%
+AND Opponent Hist Avg ≤ 0.90
+→ Ignore Over %
+→ Expect goals anyway
+
+
+16. 
+Draw Probability > 50% Is Dangerous
+IF Draw ≥ 50%
+→ Outcome model unstable
+→ Goals unpredictable
+→ NO BET
+
+17. 
+Over dominance
+Over 1 ≥ 50%
+→ Expect 2+ goals somewhere
+
+18. 
+Diff 10–12% + Over 1 < 25% = DRAW GRAVITY
+IF Diff ≤ 12%
+AND Over 1 < 25%
+→ Match gravitates to draw / under
+
+19. never trust direction prediction when a team has zero scoring history.
+
+20.
+AWAY DOMINANCE IS VERY REAL
+IF Away Avg Goals ≥ 1.8
+AND Away Hist Avg ≥ Home Hist Avg
+→ Away win has strong edge
+
+❌ Do not take outright win
+✅ If betting, use double chance or skip
+
+--------------------------------------------------------------------------
+********************2. Deep Analysis**************************************
+--------------------------------------------------------------------------
+1. The strongest long-run goal predictor (from your data)
+🔑 Combined Expected Goals (CEG)
+
+Formula (core):
+
+CEG = (Home Avg Gls + Away Avg Gls)
+
+Then adjust using history:
+
+CEG+ = (Home Avg + Away Avg)
+       + 0.5 × (Home Hist Avg + Away Hist Avg) / 2
+
+
+2.Pattern for “Either Team to Score”
+
+This is where your data is extremely strong.
+
+Winning pattern found:
+If:
+Home Avg ≥ 1.1
+AND Away Avg ≥ 1.1
+AND (Home Hist ≥ 1.1 OR Away Hist ≥ 1.1)
+→ Both teams almost always score ≥1
+
+-----------------------------------------------------------
+Very Strong Hidden Rule (Most Important Insight)
+
+⚠️ Low Over % + High Actual Goals = Rare but Predictable
+
+When:
+
+Over 1 Goals is below 20%
+
+But both teams historical goals ≥ 1.3
+
+Then:
+👉 The model underestimates volatility
+👉 Actual results can explode unexpectedly
+
+Example
+
+Bradford vs Wycombe → Over 1: 11.94% → Result 2–1
+
+Brommapojkarna vs Norrkoping → Over 1: 43.79% → Result 6–4
+
+✅ This is where value betting usually lives.
+
+
+public static bool IsBTTSYes(MatchData match)
+{
+    // STEP 1: Core BTTS Trigger
+    bool lowAverageGoals =
+        match.HomeAvgGoals < 1.30 &&
+        match.AwayAvgGoals < 1.30 &&
+        match.HomeHistoricalGoals < 1.30 &&
+        match.AwayHistoricalGoals < 1.30;
+
+    // STEP 2: Balance Check
+    double winDiff = Math.Abs(match.HomeWinPercent - match.AwayWinPercent);
+    bool balancedMatch = winDiff <= 15.0;
+
+    // STEP 3: Goal Environment
+    bool validGoalEnvironment =
+        match.Over1GoalsPercent >= 25.0 &&
+        match.Over2GoalsPercent <= 18.0;
+
+    // STEP 4: Exclusion Filters
+    bool dominanceRisk =
+        match.HomeAvgGoals >= 1.60 ||
+        match.AwayAvgGoals >= 1.60 ||
+        match.HomeHistoricalGoals >= 1.60 ||
+        match.AwayHistoricalGoals >= 1.60 ||
+        match.Over2GoalsPercent >= 25.0 ||
+        winDiff >= 20.0;
+
+    // FINAL DECISION
+    return lowAverageGoals &&
+           balancedMatch &&
+           validGoalEnvironment &&
+           !dominanceRisk;
+}
+public static double CalculateBTTSConfidence(MatchData match)
+{
+    double avgGoalScore =
+        (match.HomeAvgGoals +
+         match.AwayAvgGoals +
+         match.HomeHistoricalGoals +
+         match.AwayHistoricalGoals) / 4.0;
+
+    double balanceScore =
+        1.0 - (Math.Abs(match.HomeWinPercent - match.AwayWinPercent) / 100.0);
+
+    double over1Score = match.Over1GoalsPercent / 100.0;
+
+    // Weighted confidence (tuned for your data)
+    double confidence =
+        (avgGoalScore * 0.45) +
+        (balanceScore * 0.35) +
+        (over1Score * 0.20);
+
+    return Math.Round(confidence * 100, 2); // percentage
+}
+
+
+
+

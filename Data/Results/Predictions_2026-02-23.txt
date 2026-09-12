@@ -1,0 +1,77 @@
+Everton vs Man United: Away Win - High Risk
+Home:32.43% vs Away:47.33% vs Draw:20.24% Diff: 14.9%
+Home Av Gls: 1.08 vs Away Av Gls: 1.73
+Home Historical Av Gls: 1.19 vs Away Historical Av Gls: 1.66
+CEG: 2.81 | CEG+: 3.52
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 33.06% 
+Over 2 Gls: 11.65% 
+
+Alaves vs Girona: Away Win - High Risk
+Home:33.75% vs Away:47.02% vs Draw:19.23% Diff: 13.28%
+Home Av Gls: 0.94 vs Away Av Gls: 1.6
+Home Historical Av Gls: 0.96 vs Away Historical Av Gls: 1.43
+CEG: 2.55 | CEG+: 3.15
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 20/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 30.54% 
+Over 2 Gls: 10.2% 
+
+Fiorentina vs Pisa: Home Win - Moderate Risk
+Home:53.44% vs Away:7.41% vs Draw:39.15% Diff: 46.02%
+Home Av Gls: 1.36 vs Away Av Gls: 0.8
+Home Historical Av Gls: 1.4 vs Away Historical Av Gls: 0.8
+CEG: 2.16 | CEG+: 2.71
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 19.55% 
+Over 2 Gls: 4.92% 
+
+Bologna vs Udinese: Home Win - High Risk
+Home:43.78% vs Away:31.21% vs Draw:25.01% Diff: 12.56%
+Home Av Gls: 1.45 vs Away Av Gls: 1.11
+Home Historical Av Gls: 1.23 vs Away Historical Av Gls: 1.17
+CEG: 2.57 | CEG+: 3.17
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 36.8% 
+Over 2 Gls: 13.95% 
+
+Famalicao vs Casa Pia: Home Win - No bet
+Home:37.94% vs Away:36.88% vs Draw:25.18% Diff: 1.06%
+Home Av Gls: 1.18 vs Away Av Gls: 1.16
+Home Historical Av Gls: 1.25 vs Away Historical Av Gls: 1.03
+CEG: 2.33 | CEG+: 2.91
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 33.93% 
+Over 2 Gls: 12.17% 
+
+Fenerbahce vs Kasimpasa: Home Win - Low Risk
+Home:64.41% vs Away:20.25% vs Draw:15.34% Diff: 44.16%
+Home Av Gls: 2.42 vs Away Av Gls: 1.24
+Home Historical Av Gls: 2 vs Away Historical Av Gls: 1.46
+CEG: 3.66 | CEG+: 4.53
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 51.8% 
+Over 2 Gls: 25.25% 
+
+Shamrock Rovers vs Dundalk: Home Win - High Risk
+Home:49.81% vs Away:28.53% vs Draw:21.66% Diff: 21.28%
+Home Av Gls: 1.51 vs Away Av Gls: 0.76
+Home Historical Av Gls: 1.64 vs Away Historical Av Gls: 1.68
+CEG: 2.26 | CEG+: 3.09
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 20/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 30.18% 
+Over 2 Gls: 10.01% 
+

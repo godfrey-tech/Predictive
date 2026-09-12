@@ -1,0 +1,175 @@
+Betis vs Real Madrid: Away Win - Moderate Risk
+Home:32.11% vs Away:54.86% vs Draw:13.03% Diff: 22.75%
+Home Av Gls: 1.47 vs Away Av Gls: 2.1
+Home Historical Av Gls: 1.37 vs Away Historical Av Gls: 2.09
+CEG: 3.57 | CEG+: 4.44
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 45.92% 
+Over 2 Gls: 20.42% 
+
+GOALS UNDERS
+Combined Avg: 3.53/game  (Home: 1.44  Away: 2.10)  CEG: 3.57  CEG+: 4.44
+Under 1.5: 12.9%  🔴 SKIP
+Under 2.5: 30.8%  🔴 SKIP
+Under 3.5: 52.2%  🔴 SKIP
+Under 4.5: 71.2%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.04/game  |  Away Avg: 1.78/game  |  Combined: 3.82/game  |  H2H Avg: 3.36/game (11 matches)
+Total Match Cards:
+  Over 3: 🟢76.4%   Over 4: 🟠60.9%   Over 5: 🔴44.5%   Over 6: 🔴31.8%
+Betis Cards:
+  Over 1: 🟢84.0%   Over 2: 🟠54.7%   Over 3: 🔴37.3%
+Real Madrid Cards:
+  Over 1: 🟢80.8%   Over 2: 🔴46.6%   Over 3: 🔴21.9%
+
+CORNERS
+Home Avg: 5.04/game  |  Away Avg: 6.58/game  |  Combined: 11.62/game  |  H2H Avg: 11.18/game (11 matches)
+  Over 7:  🟢91.8%   Over 8:  🟢80.9%   Over 9:  🟡66.4%   Over 10: 🟠55.5%   Over 11: 🔴38.2%
+
+═══════════════════════════════════════════════════════════
+
+Lyon vs Auxerre: Home Win - No bet
+Home:44.68% vs Away:40.66% vs Draw:14.66% Diff: 4.03%
+Home Av Gls: 1.74 vs Away Av Gls: 1.21
+Home Historical Av Gls: 1.84 vs Away Historical Av Gls: 1.11
+CEG: 2.95 | CEG+: 3.68
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 47.68% 
+Over 2 Gls: 21.8% 
+
+GOALS UNDERS
+Combined Avg: 2.95/game  (Home: 1.77  Away: 1.17)  CEG: 2.95  CEG+: 3.68
+Under 1.5: 20.7%  🔴 SKIP
+Under 2.5: 43.4%  🔴 SKIP
+Under 3.5: 65.8%  🔴 SKIP
+Under 4.5: 82.4%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.86/game  |  Away Avg: 2.12/game  |  Combined: 3.98/game  |  H2H Avg: 3.83/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢84.7%   Over 4: 🟡67.3%   Over 5: 🔴46.9%   Over 6: 🔴18.4%
+Lyon Cards:
+  Over 1: 🟢86.0%   Over 2: 🟠60.0%   Over 3: 🔴28.0%
+Auxerre Cards:
+  Over 1: 🟢94.1%   Over 2: 🟡68.6%   Over 3: 🔴31.4%
+
+CORNERS
+Home Avg: 5.62/game  |  Away Avg: 4.55/game  |  Combined: 10.17/game  |  H2H Avg: 11.17/game (6 matches)
+  Over 7:  🟢85.7%   Over 8:  🟡74.5%   Over 9:  🟡67.3%   Over 10: 🔴46.9%   Over 11: 🔴34.7%
+
+═══════════════════════════════════════════════════════════
+
+Paris SG vs Monaco: Home Win - Moderate Risk
+Home:51.94% vs Away:36.33% vs Draw:11.72% Diff: 15.61%
+Home Av Gls: 2.41 vs Away Av Gls: 1.84
+Home Historical Av Gls: 2.47 vs Away Historical Av Gls: 1.89
+CEG: 4.26 | CEG+: 5.35
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 64.2% 
+Over 2 Gls: 37.36% 
+
+GOALS UNDERS
+Combined Avg: 4.29/game  (Home: 2.43  Away: 1.86)  CEG: 4.26  CEG+: 5.35
+Under 1.5: 7.4%  🔴 SKIP
+Under 2.5: 20.2%  🔴 SKIP
+Under 3.5: 38.4%  🔴 SKIP
+Under 4.5: 57.8%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.08/game  |  Away Avg: 2.04/game  |  Combined: 3.12/game  |  H2H Avg: 3.50/game (10 matches)
+Total Match Cards:
+  Over 3: 🟠63.9%   Over 4: 🔴37.1%   Over 5: 🔴21.6%   Over 6: 🔴13.4%
+Paris SG Cards:
+  Over 1: 🟡66.0%   Over 2: 🔴28.0%   Over 3: 🔴10.0%
+Monaco Cards:
+  Over 1: 🟢84.0%   Over 2: 🟡68.0%   Over 3: 🔴30.0%
+
+CORNERS
+Home Avg: 6.06/game  |  Away Avg: 5.58/game  |  Combined: 11.64/game  |  H2H Avg: 8.50/game (10 matches)
+  Over 7:  🟢84.5%   Over 8:  🟡72.2%   Over 9:  🟠59.8%   Over 10: 🔴42.3%   Over 11: 🔴30.9%
+
+═══════════════════════════════════════════════════════════
+
+Genoa vs Como: Away Win - High Risk
+Home:25.71% vs Away:45.01% vs Draw:29.28% Diff: 19.3%
+Home Av Gls: 1 vs Away Av Gls: 1.32
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 1.32
+CEG: 2.32 | CEG+: 2.91
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 26.3% 
+Over 2 Gls: 7.97% 
+
+GOALS UNDERS
+Combined Avg: 2.32/game  (Home: 1.00  Away: 1.32)  CEG: 2.32  CEG+: 2.91
+Under 1.5: 32.6%  🔴 SKIP
+Under 2.5: 59.1%  🟡 SIGNAL
+Under 3.5: 79.5%  🟡 SIGNAL
+Under 4.5: 91.4%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.53/game  |  Away Avg: 2.63/game  |  Combined: 4.16/game  |  H2H Avg: 5.00/game (4 matches)
+Total Match Cards:
+  Over 3: 🟢83.8%   Over 4: 🟢75.7%   Over 5: 🔴45.9%   Over 6: 🔴27.0%
+Genoa Cards:
+  Over 1: 🟢89.5%   Over 2: 🔴47.4%   Over 3: 🔴10.5%
+Como Cards:
+  Over 1: 🟢100.0%   Over 2: 🟡68.4%   Over 3: 🔴42.1%
+
+CORNERS
+Home Avg: 4.37/game  |  Away Avg: 4.21/game  |  Combined: 8.58/game  |  H2H Avg: 11.00/game (4 matches)
+  Over 7:  🟠64.9%   Over 8:  🟠56.8%   Over 9:  🔴48.6%   Over 10: 🔴35.1%   Over 11: 🔴24.3%
+
+═══════════════════════════════════════════════════════════
+
+Stuttgart vs FC Koln: Home Win - Moderate Risk
+Home:50.79% vs Away:22.79% vs Draw:26.41% Diff: 28%
+Home Av Gls: 1.97 vs Away Av Gls: 1.19
+Home Historical Av Gls: 1.54 vs Away Historical Av Gls: 1.28
+CEG: 3.15 | CEG+: 3.86
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 80/100 - HIGH CHAOS – fragile structure (likely scores: 1–1 → 2–1 / 1–2; 2–2 or 3–1 if triggered)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 49.48% 
+Over 2 Gls: 23.27% 
+
+GOALS UNDERS
+Combined Avg: 3.04/game  (Home: 1.82  Away: 1.22)  CEG: 3.15  CEG+: 3.86
+Under 1.5: 17.8%  🔴 SKIP
+Under 2.5: 39%  🔴 SKIP
+Under 3.5: 61.4%  🔴 SKIP
+Under 4.5: 78.9%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.10/game  |  Away Avg: 1.97/game  |  Combined: 4.07/game  |  H2H Avg: 4.25/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢77.1%   Over 4: 🟠57.8%   Over 5: 🔴43.4%   Over 6: 🔴26.5%
+Stuttgart Cards:
+  Over 1: 🟢88.2%   Over 2: 🟡68.6%   Over 3: 🔴33.3%
+FC Koln Cards:
+  Over 1: 🟢91.2%   Over 2: 🟠52.9%   Over 3: 🔴26.5%
+
+CORNERS
+Home Avg: 5.33/game  |  Away Avg: 4.62/game  |  Combined: 9.95/game  |  H2H Avg: 11.50/game (8 matches)
+  Over 7:  🟢85.5%   Over 8:  🟡72.3%   Over 9:  🟠60.2%   Over 10: 🟠53.0%   Over 11: 🔴41.0%
+
+═══════════════════════════════════════════════════════════
+

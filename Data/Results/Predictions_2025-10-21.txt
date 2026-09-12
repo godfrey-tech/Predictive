@@ -1,0 +1,56 @@
+Blackburn vs Sheffield United: Away Win - High Risk
+Home:37,23% vs Away:48,46% vs Draw:14,31% Diff: 11,23%
+Home Av Gls: 1,18 vs Away Av Gls: 1,42
+Home Historical Av Gls: 1,25 vs Away Historical Av Gls: 1,46
+Over 1 Gls: 30,25% 
+Over 2 Gls: 10,04% 
+
+Derby vs Norwich: Away Win - No bet
+Home:38,16% vs Away:40,29% vs Draw:21,55% Diff: 2,13%
+Home Av Gls: 1,05 vs Away Av Gls: 1,5
+Home Historical Av Gls: 1,2 vs Away Historical Av Gls: 1,57
+Over 1 Gls: 38,99% 
+Over 2 Gls: 15,4% 
+
+Hull vs Leicester: Away Win - Moderate Risk
+Home:27,71% vs Away:54,46% vs Draw:17,82% Diff: 26,75%
+Home Av Gls: 1,12 vs Away Av Gls: 1,93
+Home Historical Av Gls: 1,23 vs Away Historical Av Gls: 1,93
+Over 1 Gls: 45,13% 
+Over 2 Gls: 19,81% 
+
+Ipswich vs Charlton: Home Win - Low Risk
+Home:67,64% vs Away:8,03% vs Draw:24,34% Diff: 59,61%
+Home Av Gls: 2 vs Away Av Gls: 0
+Home Historical Av Gls: 1,24 vs Away Historical Av Gls: 0,99
+Over 1 Gls: 17,85% 
+Over 2 Gls: 4,24% 
+
+Millwall vs Stoke: Home Win - High Risk
+Home:47,01% vs Away:27,63% vs Draw:25,36% Diff: 19,38%
+Home Av Gls: 1,04 vs Away Av Gls: 1,06
+Home Historical Av Gls: 1,1 vs Away Historical Av Gls: 1,11
+Over 1 Gls: 26,78% 
+Over 2 Gls: 8,21% 
+
+Portsmouth vs Coventry: Away Win - Very High Risk
+Home:35,64% vs Away:42,71% vs Draw:21,65% Diff: 7,07%
+Home Av Gls: 1,26 vs Away Av Gls: 1,42
+Home Historical Av Gls: 1,26 vs Away Historical Av Gls: 1,32
+Over 1 Gls: 44,25% 
+Over 2 Gls: 19,14% 
+
+Preston vs Birmingham: Away Win - High Risk
+Home:30,86% vs Away:41,56% vs Draw:27,58% Diff: 10,7%
+Home Av Gls: 1,1 vs Away Av Gls: 1,05
+Home Historical Av Gls: 1,17 vs Away Historical Av Gls: 1,04
+Over 1 Gls: 31,76% 
+Over 2 Gls: 10,89% 
+
+Bristol City vs Southampton: Away Win - Moderate Risk
+Home:27,4% vs Away:51,63% vs Draw:20,97% Diff: 24,23%
+Home Av Gls: 1,2 vs Away Av Gls: 1,89
+Home Historical Av Gls: 1,25 vs Away Historical Av Gls: 1,89
+Over 1 Gls: 45,46% 
+Over 2 Gls: 20,06% 
+

@@ -1,0 +1,42 @@
+Vallecano vs Valencia: Away Win - Very High Risk
+Home:32,22% vs Away:37,48% vs Draw:30,3% Diff: 5,27%
+Home Av Gls: 0,89 vs Away Av Gls: 1
+Home Historical Av Gls: 1,01 vs Away Historical Av Gls: 1,31
+Over 1 Gls: 19,82% 
+Over 2 Gls: 5,02% 
+
+Bologna vs Cremonese: Home Win - High Risk
+Home:44,2% vs Away:28% vs Draw:27,79% Diff: 16,2%
+Home Av Gls: 1,46 vs Away Av Gls: 1,04
+Home Historical Av Gls: 1,23 vs Away Historical Av Gls: 0,95
+Over 1 Gls: 49,65% 
+Over 2 Gls: 23,41% 
+
+Birmingham vs Watford: Home Win - Very High Risk
+Home:41,58% vs Away:33,81% vs Draw:24,61% Diff: 7,77%
+Home Av Gls: 1,05 vs Away Av Gls: 1,19
+Home Historical Av Gls: 1,04 vs Away Historical Av Gls: 1,24
+Over 1 Gls: 20,74% 
+Over 2 Gls: 5,41% 
+
+Arouca vs Sp Braga: Away Win - Moderate Risk
+Home:31,68% vs Away:55,05% vs Draw:13,26% Diff: 23,37%
+Home Av Gls: 1,35 vs Away Av Gls: 2,09
+Home Historical Av Gls: 1,2 vs Away Historical Av Gls: 1,8
+Over 1 Gls: 44,62% 
+Over 2 Gls: 19,42% 
+
+Samsunspor vs Alanyaspor: Away Win - Very High Risk
+Home:32,67% vs Away:40,64% vs Draw:26,68% Diff: 7,97%
+Home Av Gls: 1,11 vs Away Av Gls: 1,44
+Home Historical Av Gls: 1,11 vs Away Historical Av Gls: 1,52
+Over 1 Gls: 34,04% 
+Over 2 Gls: 12,23% 
+
+Fenerbahce vs Galatasaray: Home Win - No bet
+Home:48,07% vs Away:45,33% vs Draw:6,6% Diff: 2,74%
+Home Av Gls: 2,41 vs Away Av Gls: 2,56
+Home Historical Av Gls: 1,97 vs Away Historical Av Gls: 1,98
+Over 1 Gls: 55,54% 
+Over 2 Gls: 28,61% 
+

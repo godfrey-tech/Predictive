@@ -1,0 +1,314 @@
+GOALS PREDICTIONS — 2026-03-02
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Real Madrid  vs  Getafe
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.95  |  Away 0.37  |  Total 2.32
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 10 matches | Avg goals 1.4 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  90.2%
+  Over 1.5:  67.3%   |  Under 1.5: 32.7%
+  Over 2.5:  40.9%   |  Under 2.5: 59.1%
+  Over 3.5:  20.4%
+  BTTS Yes:  26.5%
+  Real Madrid to Score: 85.7%
+  Getafe to Score: 30.9%
+  Either Team To Score: 85.7%
+  Draw:      18.3%   |  DNB Home: 92.5%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 90.1%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.32
+  🟢🟢 [STRONG_YES  ] Real Madrid To Score           88.5%  [High Value]
+       ↳ HomeXG=1.95 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           82.9%  [High Value]
+       ↳ HomeBlankRate=7% AwayBlankRate=41% H2H-ETTS=90%
+  🟢   [YES         ] DNB - Real Madrid              71.4%  [High Value]
+       ↳ HomeWinProb=75.6% | HomeWinRate(home)=92%
+  🟢   [YES         ] BTTS - No                      70.3%  [High Value]
+       ↳ Low scoring match signal | Either team may blank
+  🟢   [YES         ] Over 1.5 Goals                 67.3%  [Fair]
+       ↳ Very likely with combined xG=2.32
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 90.1% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Real Madrid vs Getafe  →  Over 0.5 Goals [STRONG_YES]  90.1% conf
+  • Real Madrid vs Getafe  →  Real Madrid To Score [STRONG_YES]  88.5% conf
+Real Madrid vs Getafe: Home Win - Moderate Risk
+Home:57.59% vs Away:27.89% vs Draw:14.51% Diff: 29.7%
+Home Av Gls: 2.26 vs Away Av Gls: 0.98
+Home Historical Av Gls: 2.11 vs Away Historical Av Gls: 1
+CEG: 3.24 | CEG+: 4.02
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 46.94% 
+Over 2 Gls: 21.22% 
+
+GOALS PREDICTIONS — 2026-03-02
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Pisa  vs  Bologna
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.35  |  Away 1.72  |  Total 2.08
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 1 matches | Avg goals 4 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  87.5%
+  Over 1.5:  61.5%   |  Under 1.5: 38.5%
+  Over 2.5:  34.4%   |  Under 2.5: 65.6%
+  Over 3.5:  15.7%
+  BTTS Yes:  24.4%
+  Pisa to Score: 29.7%
+  Bologna to Score: 82.2%
+  Either Team To Score: 82.2%
+  Draw:      21.4%   |  DNB Home: 8.9%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 87.5%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.08
+  🟢🟢 [STRONG_YES  ] Bologna To Score               78.5%  [High Value]
+       ↳ AwayXG=1.72 | Historical score rate included
+  🟢   [YES         ] Either Team To Score           69.7%  [Fair]
+       ↳ HomeBlankRate=50% AwayBlankRate=27% H2H-ETTS=100%
+  🟢   [YES         ] BTTS - No                      65.0%  [Fair]
+       ↳ Low scoring match signal | Either team may blank
+  🟢   [YES         ] DNB - Bologna                  64.9%  [Fair]
+       ↳ AwayWinProb=71.6% | AwayWinRate(away)=38%
+  🟢   [YES         ] Over 1.5 Goals                 61.5%  [Fair]
+       ↳ Very likely with combined xG=2.08
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 87.5% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Udinese  vs  Fiorentina
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.21  |  Away 1.21  |  Total 2.43
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 10 matches | Avg goals 2.6 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  91.2%
+  Over 1.5:  69.7%   |  Under 1.5: 30.3%
+  Over 2.5:  43.7%   |  Under 2.5: 56.3%
+  Over 3.5:  22.7%
+  BTTS Yes:  49.4%
+  Udinese to Score: 70.3%
+  Fiorentina to Score: 70.3%
+  Either Team To Score: 70.3%
+  Draw:      27.5%   |  DNB Home: 50.0%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 91.2%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.43
+  🟢🟢 [STRONG_YES  ] Either Team To Score           82.4%  [High Value]
+       ↳ HomeBlankRate=23% AwayBlankRate=23% H2H-ETTS=90%
+  🟢🟢 [STRONG_YES  ] Udinese To Score               72.9%  [High Value]
+       ↳ HomeXG=1.21 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Fiorentina To Score            72.9%  [High Value]
+       ↳ AwayXG=1.21 | Historical score rate included
+  🟢   [YES         ] Over 1.5 Goals                 69.7%  [Fair]
+       ↳ Very likely with combined xG=2.43
+  🟡   [BORDERLINE  ] BTTS - Yes                     50.4%  [Poor]
+       ↳ HomeXG=1.21 AwayXG=1.21 | HomeBTTS=58% AwayBTTS=69% H2H-BTTS=30%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 91.2% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Pisa vs Bologna  →  Over 0.5 Goals [STRONG_YES]  87.5% conf
+  • Pisa vs Bologna  →  Bologna To Score [STRONG_YES]  78.5% conf
+  • Udinese vs Fiorentina  →  Over 0.5 Goals [STRONG_YES]  91.2% conf
+  • Udinese vs Fiorentina  →  Either Team To Score [STRONG_YES]  82.4% conf
+Pisa vs Bologna: Away Win - Low Risk
+Home:5.24% vs Away:62.81% vs Draw:31.95% Diff: 57.57%
+Home Av Gls: 0.77 vs Away Av Gls: 1.44
+Home Historical Av Gls: 0.77 vs Away Historical Av Gls: 1.23
+CEG: 2.21 | CEG+: 2.71
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 19.73% 
+Over 2 Gls: 4.99% 
+
+Udinese vs Fiorentina: Away Win - High Risk
+Home:29.65% vs Away:45.21% vs Draw:25.14% Diff: 15.56%
+Home Av Gls: 1.09 vs Away Av Gls: 1.35
+Home Historical Av Gls: 1.16 vs Away Historical Av Gls: 1.4
+CEG: 2.44 | CEG+: 3.09
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 37.29% 
+Over 2 Gls: 14.27% 
+
+GOALS PREDICTIONS — 2026-03-02
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Gil Vicente  vs  Benfica
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.63  |  Away 1.36  |  Total 1.99
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 9 matches | Avg goals 3 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  86.3%
+  Over 1.5:  59.2%   |  Under 1.5: 40.8%
+  Over 2.5:  32.1%   |  Under 2.5: 67.9%
+  Over 3.5:  14.2%
+  BTTS Yes:  34.8%
+  Gil Vicente to Score: 46.7%
+  Benfica to Score: 74.4%
+  Either Team To Score: 74.4%
+  Draw:      28.1%   |  DNB Home: 24.0%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Either Team To Score           87.4%  [High Value]
+       ↳ HomeBlankRate=25% AwayBlankRate=10% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 86.4%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=1.99
+  🟢🟢 [STRONG_YES  ] Benfica To Score               80.6%  [High Value]
+       ↳ AwayXG=1.36 | Historical score rate included
+  🟢   [YES         ] BTTS - No                      61.4%  [Fair]
+       ↳ Low scoring match signal | Either team may blank
+  🟡   [BORDERLINE  ] Over 1.5 Goals                 59.2%  [Fair]
+       ↳ Very likely with combined xG=1.99
+  🟡   [BORDERLINE  ] Gil Vicente To Score           58.0%  [Fair]
+       ↳ HomeXG=0.63 | Historical score rate included
+
+  ⭐ TOP BET: Either Team To Score (STRONG_YES) — 87.4% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Gil Vicente vs Benfica  →  Either Team To Score [STRONG_YES]  87.4% conf
+  • Gil Vicente vs Benfica  →  Over 0.5 Goals [STRONG_YES]  86.4% conf
+Gil Vicente vs Benfica: Away Win - Moderate Risk
+Home:31% vs Away:52.97% vs Draw:16.03% Diff: 21.97%
+Home Av Gls: 1.11 vs Away Av Gls: 2.22
+Home Historical Av Gls: 1.17 vs Away Historical Av Gls: 2.31
+CEG: 3.33 | CEG+: 4.2
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 40.27% 
+Over 2 Gls: 16.27% 
+
+GOALS PREDICTIONS — 2026-03-02
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ St. Patricks  vs  Galway
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.6  |  Away 0.73  |  Total 2.34
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 8 matches | Avg goals 2.5 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  90.4%
+  Over 1.5:  67.8%   |  Under 1.5: 32.2%
+  Over 2.5:  41.4%   |  Under 2.5: 58.6%
+  Over 3.5:  20.8%
+  BTTS Yes:  41.6%
+  St. Patricks to Score: 79.9%
+  Galway to Score: 52.0%
+  Either Team To Score: 79.9%
+  Draw:      24.8%   |  DNB Home: 77.4%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 90.3%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.34
+  🟢🟢 [STRONG_YES  ] Either Team To Score           78.8%  [High Value]
+       ↳ HomeBlankRate=34% AwayBlankRate=28% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] St. Patricks To Score          74.3%  [High Value]
+       ↳ HomeXG=1.60 | Historical score rate included
+  🟢   [YES         ] Over 1.5 Goals                 67.8%  [Fair]
+       ↳ Very likely with combined xG=2.34
+  🟢   [YES         ] DNB - St. Patricks             61.5%  [Fair]
+       ↳ HomeWinProb=58.2% | HomeWinRate(home)=57%
+  🟡   [BORDERLINE  ] Galway To Score                59.9%  [Fair]
+       ↳ AwayXG=0.73 | Historical score rate included
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 90.3% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • St. Patricks vs Galway  →  Over 0.5 Goals [STRONG_YES]  90.3% conf
+  • St. Patricks vs Galway  →  Either Team To Score [STRONG_YES]  78.8% conf
+St. Patricks vs Galway: Home Win - High Risk
+Home:42.01% vs Away:30.14% vs Draw:27.84% Diff: 11.87%
+Home Av Gls: 1.24 vs Away Av Gls: 0.96
+Home Historical Av Gls: 1.33 vs Away Historical Av Gls: 1.12
+CEG: 2.2 | CEG+: 2.81
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 33.17% 
+Over 2 Gls: 11.72% 
+
+GOALS PREDICTIONS — 2026-03-02
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Zaglebie  vs  Wisla Plock
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.02  |  Away 1.28  |  Total 2.3
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 8 matches | Avg goals 2.88 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  90.0%
+  Over 1.5:  66.9%   |  Under 1.5: 33.1%
+  Over 2.5:  40.4%   |  Under 2.5: 59.6%
+  Over 3.5:  20.0%
+  BTTS Yes:  46.2%
+  Zaglebie to Score: 64.1%
+  Wisla Plock to Score: 72.1%
+  Either Team To Score: 72.1%
+  Draw:      28.1%   |  DNB Home: 41.4%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 90.0%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.30
+  🟢🟢 [STRONG_YES  ] Either Team To Score           80.9%  [High Value]
+       ↳ HomeBlankRate=29% AwayBlankRate=27% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Wisla Plock To Score           72.3%  [High Value]
+       ↳ AwayXG=1.28 | Historical score rate included
+  🟢   [YES         ] Zaglebie To Score              67.0%  [Fair]
+       ↳ HomeXG=1.02 | Historical score rate included
+  🟢   [YES         ] Over 1.5 Goals                 66.9%  [Fair]
+       ↳ Very likely with combined xG=2.30
+  🟡   [BORDERLINE  ] Under 2.5 Goals                55.5%  [Poor]
+       ↳ Low xG scenario | HomeLowRate=50% AwayLowRate=77%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 90.0% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Zaglebie vs Wisla Plock  →  Over 0.5 Goals [STRONG_YES]  90.0% conf
+  • Zaglebie vs Wisla Plock  →  Either Team To Score [STRONG_YES]  80.9% conf
+Zaglebie vs Wisla Plock: Home Win - High Risk
+Home:44.11% vs Away:33.41% vs Draw:22.48% Diff: 10.7%
+Home Av Gls: 1.23 vs Away Av Gls: 1.09
+Home Historical Av Gls: 1.34 vs Away Historical Av Gls: 1.29
+CEG: 2.32 | CEG+: 2.98
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 55/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 31.59% 
+Over 2 Gls: 10.8% 
+

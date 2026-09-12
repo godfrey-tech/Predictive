@@ -1,0 +1,35 @@
+Man United vs Everton: Home Win - High Risk
+Home:45,16% vs Away:31,67% vs Draw:23,17% Diff: 13,48%
+Home Av Gls: 1,4 vs Away Av Gls: 1
+Home Historical Av Gls: 1,59 vs Away Historical Av Gls: 1,19
+Over 1 Gls: 46,63% 
+Over 2 Gls: 20,97% 
+
+Espanol vs Sevilla: Away Win - Very High Risk
+Home:31,9% vs Away:40,71% vs Draw:27,39% Diff: 8,8%
+Home Av Gls: 1,42 vs Away Av Gls: 1,31
+Home Historical Av Gls: 1,11 vs Away Historical Av Gls: 1,43
+Over 1 Gls: 44,66% 
+Over 2 Gls: 19,45% 
+
+Torino vs Como: Home Win - Moderate Risk
+Home:54,88% vs Away:0% vs Draw:45,12% Diff: 54,88%
+Home Av Gls: 1,03 vs Away Av Gls: 0
+Home Historical Av Gls: 1,31 vs Away Historical Av Gls: 0
+Over 1 Gls: 6,27% 
+Over 2 Gls: 0,82% 
+
+Sassuolo vs Pisa: Home Win - Moderate Risk
+Home:55,91% vs Away:0% vs Draw:44,09% Diff: 55,91%
+Home Av Gls: 1,19 vs Away Av Gls: 0
+Home Historical Av Gls: 1,4 vs Away Historical Av Gls: 0
+Over 1 Gls: 7,79% 
+Over 2 Gls: 1,14% 
+
+Pogon Szczecin vs Zaglebie: Home Win - High Risk
+Home:46,97% vs Away:34,29% vs Draw:18,74% Diff: 12,68%
+Home Av Gls: 1,71 vs Away Av Gls: 1,14
+Home Historical Av Gls: 1,46 vs Away Historical Av Gls: 1,31
+Over 1 Gls: 36,04% 
+Over 2 Gls: 13,47% 
+

@@ -1,0 +1,200 @@
+Cremonese vs Sampdoria: Home Win - Moderate Risk
+Home:52.68% vs Away:14.94% vs Draw:32.38% Diff: 37.74%
+Home Av Gls: 0.84 vs Away Av Gls: 0
+Home Historical Av Gls: 0.89 vs Away Historical Av Gls: 1.26
+CEG: 0.84 | CEG+: 1.38
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 6.06% 
+Over 2 Gls: 0.77% 
+
+GOALS UNDERS
+Combined Avg: 1.30/game  (Home: 0.86  Away: 0.44)  CEG: 0.84  CEG+: 1.38
+Under 1.5: 79.4%  🟡 SIGNAL
+Under 2.5: 94.7%  🟢 STRONG
+Under 3.5: 98.9%  🟢 STRONG
+Under 4.5: 99.8%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.95/game  |  Away Avg: 1.90/game  |  Combined: 3.85/game
+Total Match Cards:
+  Over 3: 🟡67.6%   Over 4: 🔴43.2%   Over 5: 🔴24.3%   Over 6: 🔴21.6%
+Cremonese Cards:
+  Over 1: 🟢89.2%   Over 2: 🟠59.5%   Over 3: 🔴29.7%
+Sampdoria Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 3.54/game  |  Away Avg: 4.50/game  |  Combined: 8.04/game
+  Over 7:  🟢81.1%   Over 8:  🟡73.0%   Over 9:  🟠62.2%   Over 10: 🔴48.6%   Over 11: 🔴32.4%
+
+═══════════════════════════════════════════════════
+Cremonese vs Sampdoria - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 35.1%  |  Draw (X): 40.5%  |  Away (2): 24.3%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 52.7%  |  Draw (X): 32.4%  |  Away (2): 14.9%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/X: 14.9% prob, 9x odds, EV: +34.2%
+  🟢 X/1: 24.3% prob, 5.5x odds, EV: +33.5%
+  🟠 1/1: 23.4% prob, 4.5x odds, EV: +5.3%
+
+═══════════════════════════════════════════════════════════
+
+Palermo vs Lecce: Away Win - Moderate Risk
+Home:8.3% vs Away:53.51% vs Draw:38.19% Diff: 45.21%
+Home Av Gls: 0 vs Away Av Gls: 0.75
+Home Historical Av Gls: 0.87 vs Away Historical Av Gls: 0.95
+CEG: 0.75 | CEG+: 1.21
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:True | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 4.85% 
+Over 2 Gls: 0.55% 
+
+GOALS UNDERS
+Combined Avg: 1.13/game  (Home: 0.30  Away: 0.82)  CEG: 0.75  CEG+: 1.21
+Under 1.5: 82.7%  🟡 SIGNAL
+Under 2.5: 95.9%  🟢 STRONG
+Under 3.5: 99.3%  🟢 STRONG
+Under 4.5: 99.9%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 1.86/game  |  Combined: 3.76/game
+Total Match Cards:
+  Over 3: 🟡73.0%   Over 4: 🔴48.6%   Over 5: 🔴35.1%   Over 6: 🔴18.9%
+Palermo Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+Lecce Cards:
+  Over 1: 🟢91.9%   Over 2: 🟠59.5%   Over 3: 🔴18.9%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.38/game  |  Combined: 8.88/game
+  Over 7:  🟢86.5%   Over 8:  🟢75.7%   Over 9:  🟠64.9%   Over 10: 🟠59.5%   Over 11: 🔴37.8%
+
+═══════════════════════════════════════════════════
+Palermo vs Lecce - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 45.0%  |  Draw (X): 30.0%  |  Away (2): 25.0%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 8.3%  |  Draw (X): 38.2%  |  Away (2): 53.5%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/X: 15.8% prob, 9x odds, EV: +41.9%
+  🟢 X/2: 22.1% prob, 5.5x odds, EV: +21.5%
+
+═══════════════════════════════════════════════════════════
+
+Casa Pia vs Benfica: Away Win - Moderate Risk
+Home:25.24% vs Away:58.47% vs Draw:16.3% Diff: 33.23%
+Home Av Gls: 1.03 vs Away Av Gls: 2.22
+Home Historical Av Gls: 0.98 vs Away Historical Av Gls: 2.31
+CEG: 3.26 | CEG+: 4.08
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 43.33% 
+Over 2 Gls: 18.46% 
+
+GOALS UNDERS
+Combined Avg: 3.27/game  (Home: 1.02  Away: 2.25)  CEG: 3.26  CEG+: 4.08
+Under 1.5: 16.4%  🔴 SKIP
+Under 2.5: 36.8%  🔴 SKIP
+Under 3.5: 58.9%  🔴 SKIP
+Under 4.5: 77%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 3.00/game  |  Away Avg: 2.03/game  |  Combined: 5.03/game  |  H2H Avg: 3.83/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢85.9%   Over 4: 🟢76.6%   Over 5: 🟡65.6%   Over 6: 🔴39.1%
+Casa Pia Cards:
+  Over 1: 🟢97.0%   Over 2: 🟢81.8%   Over 3: 🟠57.6%
+Benfica Cards:
+  Over 1: 🟢78.8%   Over 2: 🟠63.6%   Over 3: 🔴36.4%
+
+CORNERS
+Home Avg: 3.88/game  |  Away Avg: 7.15/game  |  Combined: 11.03/game  |  H2H Avg: 12.17/game (6 matches)
+  Over 7:  🟢85.9%   Over 8:  🟢75.0%   Over 9:  🟡65.6%   Over 10: 🟠53.1%   Over 11: 🔴34.4%
+
+═══════════════════════════════════════════════════
+Casa Pia vs Benfica - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 36.4%  |  Draw (X): 39.4%  |  Away (2): 24.2%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 25.2%  |  Draw (X): 16.3%  |  Away (2): 58.5%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 30.0% prob, 5.5x odds, EV: +65.1%
+
+═══════════════════════════════════════════════════════════
+
+Cardiff vs Wrexham: Away Win - High Risk
+Home:29.84% vs Away:44.58% vs Draw:25.59% Diff: 14.74%
+Home Av Gls: 1.01 vs Away Av Gls: 1.5
+Home Historical Av Gls: 1.22 vs Away Historical Av Gls: 1.5
+CEG: 2.51 | CEG+: 3.19
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 24.72% 
+Over 2 Gls: 7.2% 
+
+GOALS UNDERS
+Combined Avg: 2.58/game  (Home: 1.08  Away: 1.50)  CEG: 2.51  CEG+: 3.19
+Under 1.5: 28.5%  🔴 SKIP
+Under 2.5: 54.1%  🔴 SKIP
+Under 3.5: 75.5%  🟡 SIGNAL
+Under 4.5: 89%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.71/game  |  Away Avg: 1.59/game  |  Combined: 3.29/game
+Total Match Cards:
+  Over 3: 🟡65.3%   Over 4: 🔴47.2%   Over 5: 🔴25.0%   Over 6: 🔴11.1%
+Cardiff Cards:
+  Over 1: 🟢92.2%   Over 2: 🟠52.9%   Over 3: 🔴21.6%
+Wrexham Cards:
+  Over 1: 🟢76.1%   Over 2: 🔴45.7%   Over 3: 🔴26.1%
+
+CORNERS
+Home Avg: 4.14/game  |  Away Avg: 4.48/game  |  Combined: 8.62/game
+  Over 7:  🟢81.9%   Over 8:  🟡72.2%   Over 9:  🟠61.1%   Over 10: 🔴47.2%   Over 11: 🔴31.9%
+
+═══════════════════════════════════════════════════
+Cardiff vs Wrexham - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 33.3%  |  Draw (X): 54.9%  |  Away (2): 11.8%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 29.8%  |  Draw (X): 25.6%  |  Away (2): 44.6%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 25.8% prob, 5.5x odds, EV: +42.1%
+  🟢 X/X: 14.8% prob, 9x odds, EV: +33.5%
+
+═══════════════════════════════════════════════════════════
+

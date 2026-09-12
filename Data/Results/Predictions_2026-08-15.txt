@@ -1,0 +1,549 @@
+Sevilla vs Vallecano: Away Win - Very High Risk
+Home:36.71% vs Away:41.78% vs Draw:21.5% Diff: 5.07%
+Home Av Gls: 1.19 vs Away Av Gls: 0.88
+Home Historical Av Gls: 1.41 vs Away Historical Av Gls: 1.03
+CEG: 2.07 | CEG+: 2.68
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 31.31% 
+Over 2 Gls: 10.63% 
+
+GOALS UNDERS
+Combined Avg: 2.20/game  (Home: 1.27  Away: 0.93)  CEG: 2.07  CEG+: 2.68
+Under 1.5: 38.7%  🔴 SKIP
+Under 2.5: 65.8%  🟢 STRONG
+Under 3.5: 84.4%  🟢 STRONG
+Under 4.5: 94.1%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.95/game  |  Away Avg: 2.90/game  |  Combined: 5.85/game  |  H2H Avg: 4.86/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢82.4%   Over 4: 🟡71.6%   Over 5: 🟠55.4%   Over 6: 🔴40.5%
+Sevilla Cards:
+  Over 1: 🟢100.0%   Over 2: 🟢77.5%   Over 3: 🟠50.0%
+Vallecano Cards:
+  Over 1: 🟢95.0%   Over 2: 🟡70.0%   Over 3: 🟠52.5%
+
+CORNERS
+Home Avg: 4.70/game  |  Away Avg: 5.65/game  |  Combined: 10.35/game  |  H2H Avg: 11.00/game (7 matches)
+  Over 7:  🟢83.8%   Over 8:  🟢77.0%   Over 9:  🟠64.9%   Over 10: 🟠58.1%   Over 11: 🔴48.6%
+
+═══════════════════════════════════════════════════
+Sevilla vs Vallecano - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 40.0%  |  Draw (X): 45.0%  |  Away (2): 15.0%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 36.7%  |  Draw (X): 21.5%  |  Away (2): 41.8%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 22.1% prob, 5.5x odds, EV: +21.5%
+  🟠 X/1: 19.4% prob, 5.5x odds, EV: +6.7%
+
+═══════════════════════════════════════════════════════════
+
+Alaves vs Getafe: Away Win - Very High Risk
+Home:35.31% vs Away:43.7% vs Draw:20.98% Diff: 8.39%
+Home Av Gls: 1.09 vs Away Av Gls: 0.97
+Home Historical Av Gls: 0.99 vs Away Historical Av Gls: 1
+CEG: 2.06 | CEG+: 2.56
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 24.02% 
+Over 2 Gls: 6.87% 
+
+GOALS UNDERS
+Combined Avg: 2.04/game  (Home: 1.05  Away: 0.98)  CEG: 2.06  CEG+: 2.56
+Under 1.5: 39%  🔴 SKIP
+Under 2.5: 66%  🟢 STRONG
+Under 3.5: 84.6%  🟢 STRONG
+Under 4.5: 94.2%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.58/game  |  Away Avg: 3.08/game  |  Combined: 5.65/game  |  H2H Avg: 7.33/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢86.5%   Over 4: 🟢75.7%   Over 5: 🟠58.1%   Over 6: 🔴40.5%
+Alaves Cards:
+  Over 1: 🟢92.5%   Over 2: 🟡72.5%   Over 3: 🔴47.5%
+Getafe Cards:
+  Over 1: 🟢97.5%   Over 2: 🟢87.5%   Over 3: 🟠50.0%
+
+CORNERS
+Home Avg: 5.10/game  |  Away Avg: 4.22/game  |  Combined: 9.32/game  |  H2H Avg: 6.50/game (6 matches)
+  Over 7:  🟢81.1%   Over 8:  🟠63.5%   Over 9:  🟠54.1%   Over 10: 🔴45.9%   Over 11: 🔴37.8%
+
+═══════════════════════════════════════════════════
+Alaves vs Getafe - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 42.5%  |  Draw (X): 47.5%  |  Away (2): 10.0%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 35.3%  |  Draw (X): 21.0%  |  Away (2): 43.7%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 27.2% prob, 5.5x odds, EV: +49.5%
+  🟢 X/1: 22.0% prob, 5.5x odds, EV: +20.8%
+  🟢 X/X: 13.0% prob, 9x odds, EV: +17.4%
+
+═══════════════════════════════════════════════════════════
+
+Willem II vs Nijmegen: Away Win - Moderate Risk
+Home:12.3% vs Away:57.59% vs Draw:30.11% Diff: 45.3%
+Home Av Gls: 0 vs Away Av Gls: 2.22
+Home Historical Av Gls: 1.26 vs Away Historical Av Gls: 1.51
+CEG: 2.22 | CEG+: 2.91
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 21.55% 
+Over 2 Gls: 5.75% 
+
+GOALS UNDERS
+Combined Avg: 2.41/game  (Home: 0.44  Away: 1.97)  CEG: 2.22  CEG+: 2.91
+Under 1.5: 35%  🔴 SKIP
+Under 2.5: 61.7%  🟡 SIGNAL
+Under 3.5: 81.5%  🟡 SIGNAL
+Under 4.5: 92.5%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 1.82/game  |  Combined: 3.72/game
+Total Match Cards:
+  Over 3: 🟡70.6%   Over 4: 🔴41.2%   Over 5: 🔴41.2%   Over 6: 🔴26.5%
+Willem II Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+Nijmegen Cards:
+  Over 1: 🟢88.2%   Over 2: 🟠52.9%   Over 3: 🔴23.5%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 6.12/game  |  Combined: 10.62/game
+  Over 7:  🟢79.4%   Over 8:  🟡70.6%   Over 9:  🟠64.7%   Over 10: 🟠52.9%   Over 11: 🟠50.0%
+
+═══════════════════════════════════════════════════
+Willem II vs Nijmegen - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 45.0%  |  Draw (X): 30.0%  |  Away (2): 25.0%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 12.3%  |  Draw (X): 30.1%  |  Away (2): 57.6%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 23.5% prob, 5.5x odds, EV: +29.1%
+  🟡 X/X: 12.3% prob, 9x odds, EV: +10.4%
+
+═══════════════════════════════════════════════════════════
+
+Utrecht vs AZ Alkmaar: Home Win - High Risk
+Home:48.12% vs Away:34.4% vs Draw:17.48% Diff: 13.72%
+Home Av Gls: 1.66 vs Away Av Gls: 1.75
+Home Historical Av Gls: 1.63 vs Away Historical Av Gls: 1.96
+CEG: 3.4 | CEG+: 4.3
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 51.44% 
+Over 2 Gls: 24.94% 
+
+GOALS UNDERS
+Combined Avg: 3.47/game  (Home: 1.65  Away: 1.82)  CEG: 3.40  CEG+: 4.30
+Under 1.5: 14.7%  🔴 SKIP
+Under 2.5: 34%  🔴 SKIP
+Under 3.5: 55.8%  🔴 SKIP
+Under 4.5: 74.4%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.53/game  |  Away Avg: 1.88/game  |  Combined: 3.41/game  |  H2H Avg: 1.88/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡72.7%   Over 4: 🔴40.9%   Over 5: 🔴18.2%   Over 6: 🔴15.2%
+Utrecht Cards:
+  Over 1: 🟢82.4%   Over 2: 🔴47.1%   Over 3: 🔴17.6%
+AZ Alkmaar Cards:
+  Over 1: 🟢76.5%   Over 2: 🟠52.9%   Over 3: 🔴29.4%
+
+CORNERS
+Home Avg: 5.18/game  |  Away Avg: 5.76/game  |  Combined: 10.94/game  |  H2H Avg: 11.12/game (8 matches)
+  Over 7:  🟢87.9%   Over 8:  🟢75.8%   Over 9:  🟡71.2%   Over 10: 🟠56.1%   Over 11: 🔴37.9%
+
+═══════════════════════════════════════════════════
+Utrecht vs AZ Alkmaar - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 50.0%  |  Draw (X): 26.5%  |  Away (2): 23.5%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 48.1%  |  Draw (X): 17.5%  |  Away (2): 34.4%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 1/1: 25.7% prob, 4.5x odds, EV: +15.6%
+
+═══════════════════════════════════════════════════════════
+
+Excelsior vs PSV Eindhoven: Away Win - Low Risk
+Home:25.97% vs Away:62.55% vs Draw:11.48% Diff: 36.58%
+Home Av Gls: 1.31 vs Away Av Gls: 3.05
+Home Historical Av Gls: 1.24 vs Away Historical Av Gls: 2.58
+CEG: 4.36 | CEG+: 5.32
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 53.41% 
+Over 2 Gls: 26.67% 
+
+GOALS UNDERS
+Combined Avg: 4.17/game  (Home: 1.29  Away: 2.89)  CEG: 4.36  CEG+: 5.32
+Under 1.5: 6.8%  🔴 SKIP
+Under 2.5: 19%  🔴 SKIP
+Under 3.5: 36.6%  🔴 SKIP
+Under 4.5: 55.9%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.32/game  |  Away Avg: 1.50/game  |  Combined: 2.82/game  |  H2H Avg: 1.33/game (6 matches)
+Total Match Cards:
+  Over 3: 🟠56.1%   Over 4: 🔴31.8%   Over 5: 🔴19.7%   Over 6: 🔴12.1%
+Excelsior Cards:
+  Over 1: 🟢76.5%   Over 2: 🔴29.4%   Over 3: 🔴17.6%
+PSV Eindhoven Cards:
+  Over 1: 🟢76.5%   Over 2: 🔴35.3%   Over 3: 🔴14.7%
+
+CORNERS
+Home Avg: 4.09/game  |  Away Avg: 7.15/game  |  Combined: 11.24/game  |  H2H Avg: 10.33/game (6 matches)
+  Over 7:  🟢89.4%   Over 8:  🟢77.3%   Over 9:  🟡68.2%   Over 10: 🟠62.1%   Over 11: 🟠50.0%
+
+═══════════════════════════════════════════════════
+Excelsior vs PSV Eindhoven - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 35.3%  |  Draw (X): 38.2%  |  Away (2): 26.5%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 26.0%  |  Draw (X): 11.5%  |  Away (2): 62.6%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 27.9% prob, 5.5x odds, EV: +53.3%
+  🟢 2/2: 29.2% prob, 4.5x odds, EV: +31.4%
+
+═══════════════════════════════════════════════════════════
+
+For Sittard vs Cambuur: Home Win - Moderate Risk
+Home:53.96% vs Away:13.48% vs Draw:32.55% Diff: 40.48%
+Home Av Gls: 1.34 vs Away Av Gls: 0
+Home Historical Av Gls: 1.26 vs Away Historical Av Gls: 1.16
+CEG: 1.34 | CEG+: 1.95
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 11.27% 
+Over 2 Gls: 2.04% 
+
+GOALS UNDERS
+Combined Avg: 1.72/game  (Home: 1.32  Away: 0.41)  CEG: 1.34  CEG+: 1.95
+Under 1.5: 61.3%  🔴 SKIP
+Under 2.5: 84.8%  🟢 STRONG
+Under 3.5: 95.3%  🟢 STRONG
+Under 4.5: 98.8%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.12/game  |  Away Avg: 1.90/game  |  Combined: 4.02/game  |  H2H Avg: 4.25/game (4 matches)
+Total Match Cards:
+  Over 3: 🟡67.6%   Over 4: 🔴41.2%   Over 5: 🔴29.4%   Over 6: 🔴14.7%
+For Sittard Cards:
+  Over 1: 🟢91.2%   Over 2: 🟡67.6%   Over 3: 🔴41.2%
+Cambuur Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 4.32/game  |  Away Avg: 4.50/game  |  Combined: 8.82/game  |  H2H Avg: 10.25/game (4 matches)
+  Over 7:  🟢94.1%   Over 8:  🟢85.3%   Over 9:  🟡73.5%   Over 10: 🟠58.8%   Over 11: 🟠55.9%
+
+═══════════════════════════════════════════════════
+For Sittard vs Cambuur - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 55.9%  |  Draw (X): 32.4%  |  Away (2): 11.8%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 54.0%  |  Draw (X): 32.6%  |  Away (2): 13.5%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/1: 24.6% prob, 5.5x odds, EV: +35.1%
+  🟢 1/1: 29.7% prob, 4.5x odds, EV: +33.9%
+  🟢 X/X: 14.8% prob, 9x odds, EV: +33.4%
+
+═══════════════════════════════════════════════════════════
+
+Alverca vs Estrela: Home Win - High Risk
+Home:42.93% vs Away:21.22% vs Draw:35.84% Diff: 21.71%
+Home Av Gls: 1.06 vs Away Av Gls: 1.03
+Home Historical Av Gls: 1.06 vs Away Historical Av Gls: 1.03
+CEG: 2.1 | CEG+: 2.62
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 32.3% 
+Over 2 Gls: 11.2% 
+
+GOALS UNDERS
+Combined Avg: 2.09/game  (Home: 1.06  Away: 1.03)  CEG: 2.10  CEG+: 2.62
+Under 1.5: 38%  🔴 SKIP
+Under 2.5: 65%  🟢 STRONG
+Under 3.5: 83.9%  🟢 STRONG
+Under 4.5: 93.8%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.30/game  |  Away Avg: 2.70/game  |  Combined: 5.00/game
+Total Match Cards:
+  Over 3: 🟢89.1%   Over 4: 🟡71.9%   Over 5: 🟠54.7%   Over 6: 🔴35.9%
+Alverca Cards:
+  Over 1: 🟢93.9%   Over 2: 🟠60.6%   Over 3: 🔴36.4%
+Estrela Cards:
+  Over 1: 🟢97.0%   Over 2: 🟢81.8%   Over 3: 🟠60.6%
+
+CORNERS
+Home Avg: 4.36/game  |  Away Avg: 3.39/game  |  Combined: 7.76/game
+  Over 7:  🟢78.1%   Over 8:  🟠62.5%   Over 9:  🔴46.9%   Over 10: 🔴39.1%   Over 11: 🔴29.7%
+
+═══════════════════════════════════════════════════
+Alverca vs Estrela - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 27.3%  |  Draw (X): 42.4%  |  Away (2): 30.3%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 42.9%  |  Draw (X): 35.8%  |  Away (2): 21.2%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/X: 17.3% prob, 9x odds, EV: +55.6%
+  🟡 X/1: 20.7% prob, 5.5x odds, EV: +13.9%
+
+═══════════════════════════════════════════════════════════
+
+Rio Ave vs Porto: Away Win - Moderate Risk
+Home:21.6% vs Away:59.28% vs Draw:19.12% Diff: 37.68%
+Home Av Gls: 1.09 vs Away Av Gls: 1.98
+Home Historical Av Gls: 1.15 vs Away Historical Av Gls: 2.17
+CEG: 3.07 | CEG+: 3.9
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 32.52% 
+Over 2 Gls: 11.33% 
+
+GOALS UNDERS
+Combined Avg: 3.16/game  (Home: 1.11  Away: 2.05)  CEG: 3.07  CEG+: 3.90
+Under 1.5: 18.9%  🔴 SKIP
+Under 2.5: 40.8%  🔴 SKIP
+Under 3.5: 63.2%  🔴 SKIP
+Under 4.5: 80.3%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.88/game  |  Away Avg: 2.48/game  |  Combined: 5.36/game  |  H2H Avg: 5.50/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢85.9%   Over 4: 🟡73.4%   Over 5: 🟠60.9%   Over 6: 🔴45.3%
+Rio Ave Cards:
+  Over 1: 🟢87.9%   Over 2: 🟡69.7%   Over 3: 🔴48.5%
+Porto Cards:
+  Over 1: 🟢93.9%   Over 2: 🟠60.6%   Over 3: 🔴45.5%
+
+CORNERS
+Home Avg: 4.39/game  |  Away Avg: 5.58/game  |  Combined: 9.97/game  |  H2H Avg: 12.17/game (6 matches)
+  Over 7:  🟢76.6%   Over 8:  🟡71.9%   Over 9:  🟠64.1%   Over 10: 🟠50.0%   Over 11: 🔴35.9%
+
+═══════════════════════════════════════════════════
+Rio Ave vs Porto - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 33.3%  |  Draw (X): 39.4%  |  Away (2): 27.3%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 21.6%  |  Draw (X): 19.1%  |  Away (2): 59.3%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 28.2% prob, 5.5x odds, EV: +55.3%
+  🟡 2/2: 25.3% prob, 4.5x odds, EV: +14.0%
+
+═══════════════════════════════════════════════════════════
+
+Kasimpasa vs Rizespor: Away Win - Very High Risk
+Home:35.34% vs Away:43.14% vs Draw:21.52% Diff: 7.8%
+Home Av Gls: 1.25 vs Away Av Gls: 1.37
+Home Historical Av Gls: 1.44 vs Away Historical Av Gls: 1.28
+CEG: 2.62 | CEG+: 3.3
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 35.08% 
+Over 2 Gls: 12.87% 
+
+GOALS UNDERS
+Combined Avg: 2.65/game  (Home: 1.32  Away: 1.33)  CEG: 2.62  CEG+: 3.30
+Under 1.5: 26.4%  🔴 SKIP
+Under 2.5: 51.3%  🔴 SKIP
+Under 3.5: 73.2%  🟡 SIGNAL
+Under 4.5: 87.5%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.72/game  |  Away Avg: 2.59/game  |  Combined: 5.31/game  |  H2H Avg: 3.67/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢88.7%   Over 4: 🟡69.4%   Over 5: 🟠53.2%   Over 6: 🔴32.3%
+Kasimpasa Cards:
+  Over 1: 🟢93.8%   Over 2: 🟢78.1%   Over 3: 🔴43.8%
+Rizespor Cards:
+  Over 1: 🟢96.9%   Over 2: 🟢81.2%   Over 3: 🔴46.9%
+
+CORNERS
+Home Avg: 4.28/game  |  Away Avg: 4.06/game  |  Combined: 8.34/game  |  H2H Avg: 7.83/game (6 matches)
+  Over 7:  🟡72.6%   Over 8:  🟠61.3%   Over 9:  🔴45.2%   Over 10: 🔴41.9%   Over 11: 🔴29.0%
+
+═══════════════════════════════════════════════════
+Kasimpasa vs Rizespor - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 34.4%  |  Draw (X): 43.8%  |  Away (2): 21.9%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 35.3%  |  Draw (X): 21.5%  |  Away (2): 43.1%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 22.2% prob, 5.5x odds, EV: +22.3%
+
+═══════════════════════════════════════════════════════════
+
+Gaziantep vs Alanyaspor: Home Win - No bet
+Home:33.91% vs Away:33.02% vs Draw:33.07% Diff: 0.89%
+Home Av Gls: 1.4 vs Away Av Gls: 1.35
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 1.49
+CEG: 2.75 | CEG+: 3.44
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 36.68% 
+Over 2 Gls: 13.88% 
+
+GOALS UNDERS
+Combined Avg: 2.75/game  (Home: 1.36  Away: 1.40)  CEG: 2.75  CEG+: 3.44
+Under 1.5: 24%  🔴 SKIP
+Under 2.5: 48.1%  🔴 SKIP
+Under 3.5: 70.3%  🔴 SKIP
+Under 4.5: 85.5%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.97/game  |  Away Avg: 2.53/game  |  Combined: 5.50/game  |  H2H Avg: 3.12/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢87.1%   Over 4: 🟡74.2%   Over 5: 🟠61.3%   Over 6: 🔴46.8%
+Gaziantep Cards:
+  Over 1: 🟢93.8%   Over 2: 🟢78.1%   Over 3: 🟠62.5%
+Alanyaspor Cards:
+  Over 1: 🟢93.8%   Over 2: 🟢78.1%   Over 3: 🟠53.1%
+
+CORNERS
+Home Avg: 4.94/game  |  Away Avg: 4.81/game  |  Combined: 9.75/game  |  H2H Avg: 6.62/game (8 matches)
+  Over 7:  🟡72.6%   Over 8:  🟠62.9%   Over 9:  🔴48.4%   Over 10: 🔴45.2%   Over 11: 🔴40.3%
+
+═══════════════════════════════════════════════════
+Gaziantep vs Alanyaspor - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 28.1%  |  Draw (X): 37.5%  |  Away (2): 34.4%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 33.9%  |  Draw (X): 33.1%  |  Away (2): 33.0%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/X: 16.8% prob, 9x odds, EV: +51.3%
+
+═══════════════════════════════════════════════════════════
+
+Genclerbirligi vs Fenerbahce: Away Win - Low Risk
+Home:20.17% vs Away:61.52% vs Draw:18.31% Diff: 41.35%
+Home Av Gls: 0.94 vs Away Av Gls: 2.35
+Home Historical Av Gls: 1.05 vs Away Historical Av Gls: 2.01
+CEG: 3.29 | CEG+: 4.05
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 43.16% 
+Over 2 Gls: 18.33% 
+
+GOALS UNDERS
+Combined Avg: 3.21/game  (Home: 0.98  Away: 2.23)  CEG: 3.29  CEG+: 4.05
+Under 1.5: 16%  🔴 SKIP
+Under 2.5: 36.1%  🔴 SKIP
+Under 3.5: 58.3%  🔴 SKIP
+Under 4.5: 76.4%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.28/game  |  Away Avg: 2.50/game  |  Combined: 4.78/game
+Total Match Cards:
+  Over 3: 🟢82.3%   Over 4: 🟡67.7%   Over 5: 🟠53.2%   Over 6: 🔴38.7%
+Genclerbirligi Cards:
+  Over 1: 🟢87.5%   Over 2: 🟠62.5%   Over 3: 🔴37.5%
+Fenerbahce Cards:
+  Over 1: 🟢90.6%   Over 2: 🟡65.6%   Over 3: 🟠50.0%
+
+CORNERS
+Home Avg: 3.94/game  |  Away Avg: 7.12/game  |  Combined: 11.06/game
+  Over 7:  🟢83.9%   Over 8:  🟢77.4%   Over 9:  🟡72.6%   Over 10: 🟠59.7%   Over 11: 🔴45.2%
+
+═══════════════════════════════════════════════════
+Genclerbirligi vs Fenerbahce - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 43.8%  |  Draw (X): 34.4%  |  Away (2): 21.9%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 20.2%  |  Draw (X): 18.3%  |  Away (2): 61.5%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 24.5% prob, 5.5x odds, EV: +34.7%
+  🟢 2/2: 29.5% prob, 4.5x odds, EV: +32.9%
+
+═══════════════════════════════════════════════════════════
+

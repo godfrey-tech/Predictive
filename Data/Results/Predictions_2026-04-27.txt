@@ -1,0 +1,251 @@
+Man United vs Brentford: Home Win - High Risk
+Home:48.68% vs Away:32.56% vs Draw:18.77% Diff: 16.12%
+Home Av Gls: 1.72 vs Away Av Gls: 1.45
+Home Historical Av Gls: 1.66 vs Away Historical Av Gls: 1.44
+CEG: 3.17 | CEG+: 3.95
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 42.03% 
+Over 2 Gls: 17.51% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.52/game  |  Away Avg: 1.84/game  |  Combined: 3.36/game  |  H2H Avg: 3.38/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡72.3%   Over 4: 🟠52.3%   Over 5: 🔴40.0%   Over 6: 🔴13.8%
+Man United Cards:
+  Over 1: 🟢86.2%   Over 2: 🟠53.4%   Over 3: 🔴10.3%
+Brentford Cards:
+  Over 1: 🟢87.9%   Over 2: 🟠63.8%   Over 3: 🔴25.9%
+
+CORNERS
+Home Avg: 4.53/game  |  Away Avg: 4.88/game  |  Combined: 9.41/game  |  H2H Avg: 11.62/game (8 matches)
+  Over 7:  🟢86.2%   Over 8:  🟢75.4%   Over 9:  🟠61.5%   Over 10: 🟠56.9%   Over 11: 🔴43.1%
+
+
+Espanol vs Levante: Away Win - High Risk
+Home:29.61% vs Away:45.89% vs Draw:24.51% Diff: 16.28%
+Home Av Gls: 1.21 vs Away Av Gls: 1.18
+Home Historical Av Gls: 1.12 vs Away Historical Av Gls: 1.28
+CEG: 2.38 | CEG+: 2.98
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 31.72% 
+Over 2 Gls: 10.87% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.53/game  |  Away Avg: 2.35/game  |  Combined: 4.88/game  |  H2H Avg: 6.00/game (3 matches)
+Total Match Cards:
+  Over 3: 🟢82.5%   Over 4: 🟡73.0%   Over 5: 🟠60.3%   Over 6: 🔴42.9%
+Espanol Cards:
+  Over 1: 🟢91.2%   Over 2: 🟡67.6%   Over 3: 🔴44.1%
+Levante Cards:
+  Over 1: 🟢94.1%   Over 2: 🟡73.5%   Over 3: 🔴47.1%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 3.68/game  |  Combined: 8.18/game  |  H2H Avg: 7.67/game (3 matches)
+  Over 7:  🟢76.2%   Over 8:  🟡65.1%   Over 9:  🟠50.8%   Over 10: 🔴42.9%   Over 11: 🔴38.1%
+
+
+Cagliari vs Atalanta: Away Win - Moderate Risk
+Home:25% vs Away:51.17% vs Draw:23.83% Diff: 26.17%
+Home Av Gls: 1.08 vs Away Av Gls: 1.62
+Home Historical Av Gls: 1.1 vs Away Historical Av Gls: 1.87
+CEG: 2.7 | CEG+: 3.45
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 45/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 41.02% 
+Over 2 Gls: 16.79% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.36/game  |  Away Avg: 1.64/game  |  Combined: 4.00/game  |  H2H Avg: 4.20/game (5 matches)
+Total Match Cards:
+  Over 3: 🟢75.4%   Over 4: 🟠53.8%   Over 5: 🔴24.6%   Over 6: 🔴16.9%
+Cagliari Cards:
+  Over 1: 🟢81.8%   Over 2: 🟡69.7%   Over 3: 🔴45.5%
+Atalanta Cards:
+  Over 1: 🟢87.9%   Over 2: 🔴48.5%   Over 3: 🔴15.2%
+
+CORNERS
+Home Avg: 3.73/game  |  Away Avg: 5.94/game  |  Combined: 9.67/game  |  H2H Avg: 8.80/game (5 matches)
+  Over 7:  🟢80.0%   Over 8:  🟢75.4%   Over 9:  🟠63.1%   Over 10: 🔴44.6%   Over 11: 🔴38.5%
+
+
+Lazio vs Udinese: Home Win - High Risk
+Home:49.32% vs Away:29.3% vs Draw:21.38% Diff: 20.02%
+Home Av Gls: 1.15 vs Away Av Gls: 1.13
+Home Historical Av Gls: 1.72 vs Away Historical Av Gls: 1.17
+CEG: 2.28 | CEG+: 3
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 60/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 34.69% 
+Over 2 Gls: 12.63% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.21/game  |  Away Avg: 2.00/game  |  Combined: 4.21/game  |  H2H Avg: 7.14/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢78.5%   Over 4: 🟠63.1%   Over 5: 🔴46.2%   Over 6: 🔴24.6%
+Lazio Cards:
+  Over 1: 🟢87.9%   Over 2: 🟠60.6%   Over 3: 🔴42.4%
+Udinese Cards:
+  Over 1: 🟢90.9%   Over 2: 🟠60.6%   Over 3: 🔴33.3%
+
+CORNERS
+Home Avg: 3.70/game  |  Away Avg: 4.48/game  |  Combined: 8.18/game  |  H2H Avg: 11.00/game (7 matches)
+  Over 7:  🟢75.4%   Over 8:  🟠64.6%   Over 9:  🟠50.8%   Over 10: 🔴33.8%   Over 11: 🔴26.2%
+
+
+Gil Vicente vs Casa Pia: Home Win - High Risk
+Home:41.24% vs Away:29.57% vs Draw:29.19% Diff: 11.67%
+Home Av Gls: 1.2 vs Away Av Gls: 1.09
+Home Historical Av Gls: 1.2 vs Away Historical Av Gls: 1.01
+CEG: 2.3 | CEG+: 2.85
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 25.73% 
+Over 2 Gls: 7.68% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.55/game  |  Away Avg: 2.86/game  |  Combined: 5.41/game  |  H2H Avg: 4.00/game (5 matches)
+Total Match Cards:
+  Over 3: 🟢91.1%   Over 4: 🟢75.0%   Over 5: 🟠62.5%   Over 6: 🔴39.3%
+Gil Vicente Cards:
+  Over 1: 🟢96.6%   Over 2: 🟢75.9%   Over 3: 🔴37.9%
+Casa Pia Cards:
+  Over 1: 🟢96.4%   Over 2: 🟢82.1%   Over 3: 🟠57.1%
+
+CORNERS
+Home Avg: 5.55/game  |  Away Avg: 3.79/game  |  Combined: 9.34/game  |  H2H Avg: 8.00/game (5 matches)
+  Over 7:  🟢76.8%   Over 8:  🟡69.6%   Over 9:  🟠60.7%   Over 10: 🟠53.6%   Over 11: 🔴42.9%
+
+
+Alanyaspor vs Samsunspor: Away Win - High Risk
+Home:28.98% vs Away:44.38% vs Draw:26.64% Diff: 15.39%
+Home Av Gls: 1.36 vs Away Av Gls: 1.24
+Home Historical Av Gls: 1.49 vs Away Historical Av Gls: 1.15
+CEG: 2.6 | CEG+: 3.26
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 100/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 40.6% 
+Over 2 Gls: 16.5% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.47/game  |  Away Avg: 2.23/game  |  Combined: 4.70/game  |  H2H Avg: 4.00/game (3 matches)
+Total Match Cards:
+  Over 3: 🟢83.1%   Over 4: 🟠55.9%   Over 5: 🔴44.1%   Over 6: 🔴32.2%
+Alanyaspor Cards:
+  Over 1: 🟢93.3%   Over 2: 🟢76.7%   Over 3: 🟠53.3%
+Samsunspor Cards:
+  Over 1: 🟢90.0%   Over 2: 🟠60.0%   Over 3: 🔴30.0%
+
+CORNERS
+Home Avg: 4.47/game  |  Away Avg: 6.00/game  |  Combined: 10.47/game  |  H2H Avg: 5.33/game (3 matches)
+  Over 7:  🟡74.6%   Over 8:  🟠64.4%   Over 9:  🟠50.8%   Over 10: 🔴44.1%   Over 11: 🔴39.0%
+
+
+Konyaspor vs Trabzonspor: Away Win - Very High Risk
+Home:36.81% vs Away:45.04% vs Draw:18.15% Diff: 8.24%
+Home Av Gls: 1.19 vs Away Av Gls: 1.9
+Home Historical Av Gls: 1.25 vs Away Historical Av Gls: 1.73
+CEG: 3.09 | CEG+: 3.83
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 40.83% 
+Over 2 Gls: 16.66% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.60/game  |  Away Avg: 1.67/game  |  Combined: 4.27/game  |  H2H Avg: 5.12/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢83.1%   Over 4: 🟠64.4%   Over 5: 🔴44.1%   Over 6: 🔴30.5%
+Konyaspor Cards:
+  Over 1: 🟢93.3%   Over 2: 🟡66.7%   Over 3: 🔴46.7%
+Trabzonspor Cards:
+  Over 1: 🟢83.3%   Over 2: 🟠50.0%   Over 3: 🔴16.7%
+
+CORNERS
+Home Avg: 4.97/game  |  Away Avg: 4.67/game  |  Combined: 9.63/game  |  H2H Avg: 9.88/game (8 matches)
+  Over 7:  🟢91.5%   Over 8:  🟡72.9%   Over 9:  🟠59.3%   Over 10: 🟠52.5%   Over 11: 🔴42.4%
+
+
+Besiktas vs Karagumruk: Home Win - Moderate Risk
+Home:51.71% vs Away:29.03% vs Draw:19.26% Diff: 22.69%
+Home Av Gls: 1.57 vs Away Av Gls: 1.16
+Home Historical Av Gls: 1.9 vs Away Historical Av Gls: 1.44
+CEG: 2.72 | CEG+: 3.56
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 50.2% 
+Over 2 Gls: 23.88% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.43/game  |  Away Avg: 1.90/game  |  Combined: 4.33/game  |  H2H Avg: 4.88/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢89.8%   Over 4: 🟡74.6%   Over 5: 🔴42.4%   Over 6: 🔴35.6%
+Besiktas Cards:
+  Over 1: 🟢96.7%   Over 2: 🟢76.7%   Over 3: 🔴36.7%
+Karagumruk Cards:
+  Over 1: 🟢90.0%   Over 2: 🟠63.3%   Over 3: 🔴16.7%
+
+CORNERS
+Home Avg: 5.67/game  |  Away Avg: 3.83/game  |  Combined: 9.50/game  |  H2H Avg: 9.88/game (8 matches)
+  Over 7:  🟢83.1%   Over 8:  🟡74.6%   Over 9:  🟠57.6%   Over 10: 🔴47.5%   Over 11: 🔴40.7%
+
+
+Man United vs Brentford: Home Win - High Risk
+Home:48.68% vs Away:32.56% vs Draw:18.77% Diff: 16.12%
+Home Av Gls: 1.72 vs Away Av Gls: 1.45
+Home Historical Av Gls: 1.66 vs Away Historical Av Gls: 1.44
+CEG: 3.17 | CEG+: 3.95
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 42.03% 
+Over 2 Gls: 17.51% 
+
+GOALS UNDERS
+Combined Avg: 3.15/game  (Home: 1.70  Away: 1.45)  CEG: 3.17  CEG+: 3.95
+Under 1.5: 58%  🔴 SKIP
+Under 2.5: 82.5%  🟢 STRONG
+Under 3.5: 65.8%  🔴 SKIP
+Under 4.5: 77%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.52/game  |  Away Avg: 1.84/game  |  Combined: 3.36/game  |  H2H Avg: 3.38/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡72.3%   Over 4: 🟠52.3%   Over 5: 🔴40.0%   Over 6: 🔴13.8%
+Man United Cards:
+  Over 1: 🟢86.2%   Over 2: 🟠53.4%   Over 3: 🔴10.3%
+Brentford Cards:
+  Over 1: 🟢87.9%   Over 2: 🟠63.8%   Over 3: 🔴25.9%
+
+CORNERS
+Home Avg: 4.53/game  |  Away Avg: 4.88/game  |  Combined: 9.41/game  |  H2H Avg: 11.62/game (8 matches)
+  Over 7:  🟢86.2%   Over 8:  🟢75.4%   Over 9:  🟠61.5%   Over 10: 🟠56.9%   Over 11: 🔴43.1%
+
+═══════════════════════════════════════════════════════════
+

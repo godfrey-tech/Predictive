@@ -1,0 +1,70 @@
+Sociedad vs Celta: Away Win - High Risk
+Home:33.51% vs Away:44.77% vs Draw:21.72% Diff: 11.26%
+Home Av Gls: 1.16 vs Away Av Gls: 1.44
+Home Historical Av Gls: 1.34 vs Away Historical Av Gls: 1.33
+CEG: 2.6 | CEG+: 3.27
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 33.32% 
+Over 2 Gls: 11.8% 
+
+GOALS UNDERS
+Combined Avg: 2.63/game  (Home: 1.22  Away: 1.40)  CEG: 2.60  CEG+: 3.27
+Under 1.5: 26.7%  🔴 SKIP
+Under 2.5: 51.8%  🔴 SKIP
+Under 3.5: 73.6%  🟡 SIGNAL
+Under 4.5: 87.7%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.44/game  |  Away Avg: 2.03/game  |  Combined: 4.47/game  |  H2H Avg: 6.00/game (11 matches)
+Total Match Cards:
+  Over 3: 🟢85.6%   Over 4: 🟠62.2%   Over 5: 🔴41.4%   Over 6: 🔴29.7%
+Sociedad Cards:
+  Over 1: 🟢98.7%   Over 2: 🟡74.7%   Over 3: 🔴41.3%
+Celta Cards:
+  Over 1: 🟢88.0%   Over 2: 🟠60.0%   Over 3: 🔴37.3%
+
+CORNERS
+Home Avg: 5.35/game  |  Away Avg: 4.08/game  |  Combined: 9.43/game  |  H2H Avg: 11.45/game (11 matches)
+  Over 7:  🟢78.4%   Over 8:  🟠63.1%   Over 9:  🟠53.2%   Over 10: 🔴38.7%   Over 11: 🔴27.9%
+
+═══════════════════════════════════════════════════════════
+
+Toulouse vs Lille: Away Win - High Risk
+Home:33% vs Away:46.62% vs Draw:20.38% Diff: 13.62%
+Home Av Gls: 1.31 vs Away Av Gls: 1.56
+Home Historical Av Gls: 1.11 vs Away Historical Av Gls: 1.45
+CEG: 2.87 | CEG+: 3.51
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 38.99% 
+Over 2 Gls: 15.4% 
+
+GOALS UNDERS
+Combined Avg: 2.76/game  (Home: 1.24  Away: 1.52)  CEG: 2.87  CEG+: 3.51
+Under 1.5: 21.9%  🔴 SKIP
+Under 2.5: 45.3%  🔴 SKIP
+Under 3.5: 67.6%  🔴 SKIP
+Under 4.5: 83.7%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.16/game  |  Away Avg: 2.35/game  |  Combined: 4.51/game  |  H2H Avg: 3.75/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢83.8%   Over 4: 🟡65.7%   Over 5: 🔴44.4%   Over 6: 🔴22.2%
+Toulouse Cards:
+  Over 1: 🟢92.2%   Over 2: 🟠62.7%   Over 3: 🔴37.3%
+Lille Cards:
+  Over 1: 🟢96.1%   Over 2: 🟠64.7%   Over 3: 🔴45.1%
+
+CORNERS
+Home Avg: 4.59/game  |  Away Avg: 5.53/game  |  Combined: 10.12/game  |  H2H Avg: 11.62/game (8 matches)
+  Over 7:  🟢78.8%   Over 8:  🟡65.7%   Over 9:  🔴49.5%   Over 10: 🔴43.4%   Over 11: 🔴38.4%
+
+═══════════════════════════════════════════════════════════
+

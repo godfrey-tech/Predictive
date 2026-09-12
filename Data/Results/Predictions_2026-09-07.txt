@@ -1,0 +1,140 @@
+Getafe vs Celta: Away Win - No bet
+Home:37.53% vs Away:42.38% vs Draw:20.1% Diff: 4.85%
+Home Av Gls: 0.93 vs Away Av Gls: 1.44
+Home Historical Av Gls: 0.98 vs Away Historical Av Gls: 1.33
+CEG: 2.38 | CEG+: 2.96
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 20/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 32.98% 
+Over 2 Gls: 11.6% 
+
+GOALS UNDERS
+Combined Avg: 2.36/game  (Home: 0.95  Away: 1.40)  CEG: 2.38  CEG+: 2.96
+Under 1.5: 31.3%  🔴 SKIP
+Under 2.5: 57.5%  🟡 SIGNAL
+Under 3.5: 78.3%  🟡 SIGNAL
+Under 4.5: 90.7%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 3.13/game  |  Away Avg: 2.03/game  |  Combined: 5.16/game  |  H2H Avg: 6.00/game (11 matches)
+Total Match Cards:
+  Over 3: 🟢86.6%   Over 4: 🟡68.8%   Over 5: 🟠52.7%   Over 6: 🔴36.6%
+Getafe Cards:
+  Over 1: 🟢98.7%   Over 2: 🟢81.3%   Over 3: 🟠60.0%
+Celta Cards:
+  Over 1: 🟢88.0%   Over 2: 🟠60.0%   Over 3: 🔴37.3%
+
+CORNERS
+Home Avg: 4.01/game  |  Away Avg: 4.08/game  |  Combined: 8.09/game  |  H2H Avg: 7.45/game (11 matches)
+  Over 7:  🟡74.1%   Over 8:  🟠53.6%   Over 9:  🔴42.0%   Over 10: 🔴30.4%   Over 11: 🔴24.1%
+
+═══════════════════════════════════════════════════════════
+
+Elche vs Sociedad: Away Win - High Risk
+Home:30.58% vs Away:40.85% vs Draw:28.57% Diff: 10.28%
+Home Av Gls: 1.27 vs Away Av Gls: 1.16
+Home Historical Av Gls: 1.01 vs Away Historical Av Gls: 1.34
+CEG: 2.43 | CEG+: 3.02
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 32.2% 
+Over 2 Gls: 11.14% 
+
+GOALS UNDERS
+Combined Avg: 2.40/game  (Home: 1.18  Away: 1.22)  CEG: 2.43  CEG+: 3.02
+Under 1.5: 30.2%  🔴 SKIP
+Under 2.5: 56.2%  🟡 SIGNAL
+Under 3.5: 77.2%  🟡 SIGNAL
+Under 4.5: 90%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.23/game  |  Away Avg: 2.44/game  |  Combined: 4.67/game  |  H2H Avg: 4.50/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢89.2%   Over 4: 🟡67.7%   Over 5: 🔴47.3%   Over 6: 🔴31.2%
+Elche Cards:
+  Over 1: 🟢90.0%   Over 2: 🟡72.5%   Over 3: 🔴42.5%
+Sociedad Cards:
+  Over 1: 🟢98.7%   Over 2: 🟡74.7%   Over 3: 🔴41.3%
+
+CORNERS
+Home Avg: 3.67/game  |  Away Avg: 5.35/game  |  Combined: 9.02/game  |  H2H Avg: 8.67/game (6 matches)
+  Over 7:  🟢75.3%   Over 8:  🟡69.9%   Over 9:  🟠60.2%   Over 10: 🔴46.2%   Over 11: 🔴31.2%
+
+═══════════════════════════════════════════════════════════
+
+Cagliari vs Lecce: Home Win - No bet
+Home:39.36% vs Away:36.69% vs Draw:23.96% Diff: 2.67%
+Home Av Gls: 1.11 vs Away Av Gls: 0.73
+Home Historical Av Gls: 1.1 vs Away Historical Av Gls: 0.9
+CEG: 1.83 | CEG+: 2.33
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 30.63% 
+Over 2 Gls: 10.25% 
+
+GOALS UNDERS
+Combined Avg: 1.89/game  (Home: 1.11  Away: 0.79)  CEG: 1.83  CEG+: 2.33
+Under 1.5: 45.4%  🔴 SKIP
+Under 2.5: 72.3%  🟢 STRONG
+Under 3.5: 88.6%  🟢 STRONG
+Under 4.5: 96.1%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.56/game  |  Away Avg: 1.50/game  |  Combined: 3.06/game  |  H2H Avg: 5.17/game (6 matches)
+Total Match Cards:
+  Over 3: 🟠60.0%   Over 4: 🔴42.9%   Over 5: 🔴14.3%   Over 6: 🔴5.7%
+Cagliari Cards:
+  Over 1: 🟢83.3%   Over 2: 🟠50.0%   Over 3: 🔴16.7%
+Lecce Cards:
+  Over 1: 🟢83.3%   Over 2: 🟠55.6%   Over 3: 🔴11.1%
+
+CORNERS
+Home Avg: 3.83/game  |  Away Avg: 4.83/game  |  Combined: 8.67/game  |  H2H Avg: 12.33/game (6 matches)
+  Over 7:  🟢82.9%   Over 8:  🟠62.9%   Over 9:  🟠60.0%   Over 10: 🔴48.6%   Over 11: 🔴37.1%
+
+═══════════════════════════════════════════════════════════
+
+Udinese vs Lazio: Away Win - High Risk
+Home:27.94% vs Away:49.61% vs Draw:22.45% Diff: 21.67%
+Home Av Gls: 1.07 vs Away Av Gls: 1.55
+Home Historical Av Gls: 1.15 vs Away Historical Av Gls: 1.76
+CEG: 2.62 | CEG+: 3.35
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 45/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 39.96% 
+Over 2 Gls: 16.06% 
+
+GOALS UNDERS
+Combined Avg: 2.72/game  (Home: 1.10  Away: 1.62)  CEG: 2.62  CEG+: 3.35
+Under 1.5: 26.4%  🔴 SKIP
+Under 2.5: 51.3%  🔴 SKIP
+Under 3.5: 73.2%  🟡 SIGNAL
+Under 4.5: 87.5%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.22/game  |  Away Avg: 2.44/game  |  Combined: 4.67/game  |  H2H Avg: 5.70/game (10 matches)
+Total Match Cards:
+  Over 3: 🟢80.0%   Over 4: 🟡68.6%   Over 5: 🔴45.7%   Over 6: 🔴37.1%
+Udinese Cards:
+  Over 1: 🟢88.9%   Over 2: 🟡66.7%   Over 3: 🔴38.9%
+Lazio Cards:
+  Over 1: 🟢88.9%   Over 2: 🟡72.2%   Over 3: 🔴38.9%
+
+CORNERS
+Home Avg: 5.00/game  |  Away Avg: 6.00/game  |  Combined: 11.00/game  |  H2H Avg: 12.60/game (10 matches)
+  Over 7:  🟢77.1%   Over 8:  🟡74.3%   Over 9:  🟠60.0%   Over 10: 🟠51.4%   Over 11: 🔴48.6%
+
+═══════════════════════════════════════════════════════════
+

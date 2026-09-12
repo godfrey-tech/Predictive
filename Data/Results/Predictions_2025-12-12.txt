@@ -1,0 +1,42 @@
+Union Berlin vs RB Leipzig: Away Win - Moderate Risk
+Home:34.22% vs Away:50.32% vs Draw:15.47% Diff: 16.1%
+Home Av Gls: 1.12 vs Away Av Gls: 2.12
+Home Historical Av Gls: 1.32 vs Away Historical Av Gls: 1.99
+Over 1 Gls: 40.44% 
+Over 2 Gls: 16.39% 
+
+Sociedad vs Girona: Away Win - High Risk
+Home:36.43% vs Away:48.1% vs Draw:15.47% Diff: 11.67%
+Home Av Gls: 1.34 vs Away Av Gls: 1.98
+Home Historical Av Gls: 1.4 vs Away Historical Av Gls: 1.51
+Over 1 Gls: 43.29% 
+Over 2 Gls: 18.43% 
+
+Angers vs Nantes: Away Win - High Risk
+Home:27.31% vs Away:39.81% vs Draw:32.88% Diff: 12.51%
+Home Av Gls: 0.76 vs Away Av Gls: 0.88
+Home Historical Av Gls: 1.06 vs Away Historical Av Gls: 1.1
+Over 1 Gls: 13.8% 
+Over 2 Gls: 2.81% 
+
+Lecce vs Pisa: Draw - Moderate Risk
+Home:45.65% vs Away:0% vs Draw:54.35% Diff: 45.65%
+Home Av Gls: 0.88 vs Away Av Gls: 0
+Home Historical Av Gls: 1.03 vs Away Historical Av Gls: 0
+Over 1 Gls: 4.56% 
+Over 2 Gls: 0.5% 
+
+West Brom vs Sheffield United: Away Win - High Risk
+Home:35.83% vs Away:46.9% vs Draw:17.28% Diff: 11.07%
+Home Av Gls: 1.31 vs Away Av Gls: 1.42
+Home Historical Av Gls: 1.41 vs Away Historical Av Gls: 1.46
+Over 1 Gls: 38.47% 
+Over 2 Gls: 15.05% 
+
+Kasimpasa vs Genclerbirligi: Home Win - Low Risk
+Home:63.42% vs Away:12.76% vs Draw:23.82% Diff: 50.66%
+Home Av Gls: 1.56 vs Away Av Gls: 0
+Home Historical Av Gls: 1.5 vs Away Historical Av Gls: 1.12
+Over 1 Gls: 13.94% 
+Over 2 Gls: 2.86% 
+

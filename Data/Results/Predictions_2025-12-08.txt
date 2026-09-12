@@ -1,0 +1,49 @@
+Wolves vs Man United: Home Win - Moderate Risk
+Home:55.19% vs Away:31.81% vs Draw:12.99% Diff: 23.38%
+Home Av Gls: 1.3 vs Away Av Gls: 1.4
+Home Historical Av Gls: 1.16 vs Away Historical Av Gls: 1.59
+Over 1 Gls: 36.06% 
+Over 2 Gls: 13.48% 
+
+Osasuna vs Levante: Home Win - Moderate Risk
+Home:52.23% vs Away:14% vs Draw:33.77% Diff: 38.23%
+Home Av Gls: 1.08 vs Away Av Gls: 0
+Home Historical Av Gls: 1.06 vs Away Historical Av Gls: 1.3
+Over 1 Gls: 8.55% 
+Over 2 Gls: 1.32% 
+
+Udinese vs Genoa: Away Win - Very High Risk
+Home:31.49% vs Away:39.16% vs Draw:29.36% Diff: 7.67%
+Home Av Gls: 1 vs Away Av Gls: 1.18
+Home Historical Av Gls: 1.16 vs Away Historical Av Gls: 1.06
+Over 1 Gls: 29.04% 
+Over 2 Gls: 9.38% 
+
+Torino vs Milan: Away Win - High Risk
+Home:31.76% vs Away:45.45% vs Draw:22.8% Diff: 13.69%
+Home Av Gls: 1.03 vs Away Av Gls: 1.8
+Home Historical Av Gls: 1.31 vs Away Historical Av Gls: 1.66
+Over 1 Gls: 40.92% 
+Over 2 Gls: 16.72% 
+
+Guimaraes vs Gil Vicente: Home Win - Moderate Risk
+Home:50.2% vs Away:32.89% vs Draw:16.91% Diff: 17.31%
+Home Av Gls: 1.31 vs Away Av Gls: 1.14
+Home Historical Av Gls: 1.36 vs Away Historical Av Gls: 1.14
+Over 1 Gls: 32.73% 
+Over 2 Gls: 11.45% 
+
+Besiktas vs Gaziantep: Home Win - No bet
+Home:43.92% vs Away:40.59% vs Draw:15.49% Diff: 3.34%
+Home Av Gls: 1.69 vs Away Av Gls: 1.05
+Home Historical Av Gls: 1.92 vs Away Historical Av Gls: 1.27
+Over 1 Gls: 41.89% 
+Over 2 Gls: 17.41% 
+
+Alanyaspor vs Antalyaspor: Home Win - No bet
+Home:38.63% vs Away:34.36% vs Draw:27.01% Diff: 4.27%
+Home Av Gls: 1.44 vs Away Av Gls: 1.2
+Home Historical Av Gls: 1.52 vs Away Historical Av Gls: 1.24
+Over 1 Gls: 32.44% 
+Over 2 Gls: 11.28% 
+

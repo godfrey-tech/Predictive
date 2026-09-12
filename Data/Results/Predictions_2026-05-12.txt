@@ -1,0 +1,140 @@
+Celta vs Levante: Home Win - High Risk
+Home:42.58% vs Away:30.44% vs Draw:26.98% Diff: 12.15%
+Home Av Gls: 1.35 vs Away Av Gls: 1.14
+Home Historical Av Gls: 1.29 vs Away Historical Av Gls: 1.27
+CEG: 2.49 | CEG+: 3.13
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 42.11% 
+Over 2 Gls: 17.57% 
+
+GOALS UNDERS
+Combined Avg: 2.51/game  (Home: 1.33  Away: 1.19)  CEG: 2.49  CEG+: 3.13
+Under 1.5: 28.9%  🔴 SKIP
+Under 2.5: 54.6%  🔴 SKIP
+Under 3.5: 76%  🟡 SIGNAL
+Under 4.5: 89.3%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.08/game  |  Away Avg: 2.33/game  |  Combined: 4.42/game  |  H2H Avg: 6.33/game (3 matches)
+Total Match Cards:
+  Over 3: 🟢88.1%   Over 4: 🟡68.7%   Over 5: 🟠50.7%   Over 6: 🔴34.3%
+Celta Cards:
+  Over 1: 🟢94.4%   Over 2: 🟠55.6%   Over 3: 🔴38.9%
+Levante Cards:
+  Over 1: 🟢94.4%   Over 2: 🟡72.2%   Over 3: 🔴47.2%
+
+CORNERS
+Home Avg: 4.14/game  |  Away Avg: 3.67/game  |  Combined: 7.81/game  |  H2H Avg: 7.00/game (3 matches)
+  Over 7:  🟡74.6%   Over 8:  🟠59.7%   Over 9:  🔴47.8%   Over 10: 🔴37.3%   Over 11: 🔴31.3%
+
+═══════════════════════════════════════════════════════════
+
+Betis vs Elche: Home Win - High Risk
+Home:44.63% vs Away:28% vs Draw:27.36% Diff: 16.63%
+Home Av Gls: 1.4 vs Away Av Gls: 1.31
+Home Historical Av Gls: 1.33 vs Away Historical Av Gls: 1.01
+CEG: 2.7 | CEG+: 3.29
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 100/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 35.2% 
+Over 2 Gls: 12.95% 
+
+GOALS UNDERS
+Combined Avg: 2.58/game  (Home: 1.37  Away: 1.20)  CEG: 2.70  CEG+: 3.29
+Under 1.5: 24.9%  🔴 SKIP
+Under 2.5: 49.4%  🔴 SKIP
+Under 3.5: 71.4%  🔴 SKIP
+Under 4.5: 86.3%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.94/game  |  Away Avg: 2.08/game  |  Combined: 4.03/game  |  H2H Avg: 4.83/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢85.1%   Over 4: 🟡67.2%   Over 5: 🔴47.8%   Over 6: 🔴28.4%
+Betis Cards:
+  Over 1: 🟢86.1%   Over 2: 🟠52.8%   Over 3: 🔴33.3%
+Elche Cards:
+  Over 1: 🟢88.9%   Over 2: 🟡69.4%   Over 3: 🔴36.1%
+
+CORNERS
+Home Avg: 4.44/game  |  Away Avg: 3.72/game  |  Combined: 8.17/game  |  H2H Avg: 7.00/game (6 matches)
+  Over 7:  🟢76.1%   Over 8:  🟡65.7%   Over 9:  🟠55.2%   Over 10: 🔴43.3%   Over 11: 🔴29.9%
+
+═══════════════════════════════════════════════════════════
+
+Osasuna vs Ath Madrid: Away Win - Moderate Risk
+Home:27.42% vs Away:55.93% vs Draw:16.65% Diff: 28.52%
+Home Av Gls: 1.17 vs Away Av Gls: 1.64
+Home Historical Av Gls: 1.07 vs Away Historical Av Gls: 1.66
+CEG: 2.82 | CEG+: 3.5
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 45.9% 
+Over 2 Gls: 20.4% 
+
+GOALS UNDERS
+Combined Avg: 2.79/game  (Home: 1.14  Away: 1.65)  CEG: 2.82  CEG+: 3.50
+Under 1.5: 22.8%  🔴 SKIP
+Under 2.5: 46.5%  🔴 SKIP
+Under 3.5: 68.7%  🔴 SKIP
+Under 4.5: 84.5%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.50/game  |  Away Avg: 2.14/game  |  Combined: 4.64/game  |  H2H Avg: 3.62/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢85.1%   Over 4: 🟡73.1%   Over 5: 🔴47.8%   Over 6: 🔴34.3%
+Osasuna Cards:
+  Over 1: 🟢97.2%   Over 2: 🟢83.3%   Over 3: 🔴44.4%
+Ath Madrid Cards:
+  Over 1: 🟢80.6%   Over 2: 🟠61.1%   Over 3: 🔴47.2%
+
+CORNERS
+Home Avg: 3.44/game  |  Away Avg: 6.31/game  |  Combined: 9.75/game  |  H2H Avg: 9.88/game (8 matches)
+  Over 7:  🟢86.6%   Over 8:  🟡73.1%   Over 9:  🟠59.7%   Over 10: 🔴41.8%   Over 11: 🔴29.9%
+
+═══════════════════════════════════════════════════════════
+
+Southampton vs Middlesbrough: Home Win - High Risk
+Home:48.53% vs Away:35.11% vs Draw:16.36% Diff: 13.42%
+Home Av Gls: 1.86 vs Away Av Gls: 1.49
+Home Historical Av Gls: 1.84 vs Away Historical Av Gls: 1.38
+CEG: 3.35 | CEG+: 4.15
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 41.32% 
+Over 2 Gls: 17% 
+
+GOALS UNDERS
+Combined Avg: 3.30/game  (Home: 1.85  Away: 1.45)  CEG: 3.35  CEG+: 4.15
+Under 1.5: 15.3%  🔴 SKIP
+Under 2.5: 34.9%  🔴 SKIP
+Under 3.5: 56.9%  🔴 SKIP
+Under 4.5: 75.3%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.85/game  |  Away Avg: 1.54/game  |  Combined: 3.39/game  |  H2H Avg: 5.25/game (4 matches)
+Total Match Cards:
+  Over 3: 🟡74.2%   Over 4: 🟠56.1%   Over 5: 🔴30.3%   Over 6: 🔴15.2%
+Southampton Cards:
+  Over 1: 🟢87.0%   Over 2: 🟠58.7%   Over 3: 🔴26.1%
+Middlesbrough Cards:
+  Over 1: 🟢78.3%   Over 2: 🔴45.7%   Over 3: 🔴18.6%
+
+CORNERS
+Home Avg: 5.76/game  |  Away Avg: 5.67/game  |  Combined: 11.43/game  |  H2H Avg: 12.50/game (4 matches)
+  Over 7:  🟢90.9%   Over 8:  🟢84.1%   Over 9:  🟡70.5%   Over 10: 🟠57.6%   Over 11: 🔴47.7%
+
+═══════════════════════════════════════════════════════════
+

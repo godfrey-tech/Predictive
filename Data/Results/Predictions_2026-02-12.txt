@@ -1,0 +1,22 @@
+Brentford vs Arsenal: Away Win - Moderate Risk
+Home:33.07% vs Away:55.06% vs Draw:11.87% Diff: 21.98%
+Home Av Gls: 1.47 vs Away Av Gls: 2.07
+Home Historical Av Gls: 1.44 vs Away Historical Av Gls: 1.89
+CEG: 3.54 | CEG+: 4.37
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 40.01% 
+Over 2 Gls: 16.09% 
+
+Ath Madrid vs Barcelona: Away Win - Moderate Risk
+Home:37.41% vs Away:53.54% vs Draw:9.05% Diff: 16.12%
+Home Av Gls: 1.63 vs Away Av Gls: 2.39
+Home Historical Av Gls: 1.66 vs Away Historical Av Gls: 2.31
+CEG: 4.03 | CEG+: 5.02
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 47.2% 
+Over 2 Gls: 21.42% 
+

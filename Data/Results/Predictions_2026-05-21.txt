@@ -1,0 +1,105 @@
+Wolfsburg vs Paderborn: Home Win - Moderate Risk
+Home:51.23% vs Away:7.1% vs Draw:41.67% Diff: 44.14%
+Home Av Gls: 1.21 vs Away Av Gls: 0
+Home Historical Av Gls: 1.39 vs Away Historical Av Gls: 1.09
+CEG: 1.21 | CEG+: 1.83
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 10.01% 
+Over 2 Gls: 1.69% 
+
+GOALS UNDERS
+Combined Avg: 1.65/game  (Home: 1.27  Away: 0.38)  CEG: 1.21  CEG+: 1.83
+Under 1.5: 65.9%  🔴 SKIP
+Under 2.5: 87.7%  🟢 STRONG
+Under 3.5: 96.5%  🟢 STRONG
+Under 4.5: 99.2%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.06/game  |  Away Avg: 1.90/game  |  Combined: 3.96/game
+Total Match Cards:
+  Over 3: 🟠63.6%   Over 4: 🔴45.5%   Over 5: 🔴36.4%   Over 6: 🔴15.2%
+Wolfsburg Cards:
+  Over 1: 🟢87.9%   Over 2: 🟠54.5%   Over 3: 🔴36.4%
+Paderborn Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 4.30/game  |  Away Avg: 4.50/game  |  Combined: 8.80/game
+  Over 7:  🟢97.0%   Over 8:  🟢90.9%   Over 9:  🟢78.8%   Over 10: 🟡72.7%   Over 11: 🟠63.6%
+
+═══════════════════════════════════════════════════════════
+
+Ajax vs Groningen: Home Win - No bet
+Home:42.72% vs Away:38.96% vs Draw:18.32% Diff: 3.76%
+Home Av Gls: 2.05 vs Away Av Gls: 1.44
+Home Historical Av Gls: 2.62 vs Away Historical Av Gls: 1.26
+CEG: 3.49 | CEG+: 4.46
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 50.93% 
+Over 2 Gls: 24.49% 
+
+GOALS UNDERS
+Combined Avg: 3.63/game  (Home: 2.25  Away: 1.38)  CEG: 3.49  CEG+: 4.46
+Under 1.5: 13.7%  🔴 SKIP
+Under 2.5: 32.3%  🔴 SKIP
+Under 3.5: 53.9%  🔴 SKIP
+Under 4.5: 72.7%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.76/game  |  Away Avg: 1.76/game  |  Combined: 3.53/game  |  H2H Avg: 1.33/game (6 matches)
+Total Match Cards:
+  Over 3: 🟡65.2%   Over 4: 🔴39.4%   Over 5: 🔴25.8%   Over 6: 🔴16.7%
+Ajax Cards:
+  Over 1: 🟢76.5%   Over 2: 🟠55.9%   Over 3: 🔴26.5%
+Groningen Cards:
+  Over 1: 🟢85.3%   Over 2: 🟠52.9%   Over 3: 🔴23.5%
+
+CORNERS
+Home Avg: 4.82/game  |  Away Avg: 6.24/game  |  Combined: 11.06/game  |  H2H Avg: 9.00/game (6 matches)
+  Over 7:  🟢89.4%   Over 8:  🟢81.8%   Over 9:  🟡72.7%   Over 10: 🟠57.6%   Over 11: 🔴45.5%
+
+═══════════════════════════════════════════════════════════
+
+Utrecht vs Heerenveen: Home Win - Moderate Risk
+Home:51.89% vs Away:29.15% vs Draw:18.96% Diff: 22.74%
+Home Av Gls: 1.66 vs Away Av Gls: 1.67
+Home Historical Av Gls: 1.63 vs Away Historical Av Gls: 1.48
+CEG: 3.33 | CEG+: 4.1
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 51.73% 
+Over 2 Gls: 25.18% 
+
+GOALS UNDERS
+Combined Avg: 3.25/game  (Home: 1.65  Away: 1.61)  CEG: 3.33  CEG+: 4.10
+Under 1.5: 15.5%  🔴 SKIP
+Under 2.5: 35.3%  🔴 SKIP
+Under 3.5: 57.4%  🔴 SKIP
+Under 4.5: 75.7%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.53/game  |  Away Avg: 1.56/game  |  Combined: 3.09/game  |  H2H Avg: 3.12/game (8 matches)
+Total Match Cards:
+  Over 3: 🟠63.6%   Over 4: 🔴39.4%   Over 5: 🔴18.2%   Over 6: 🔴12.1%
+Utrecht Cards:
+  Over 1: 🟢82.4%   Over 2: 🔴47.1%   Over 3: 🔴17.6%
+Heerenveen Cards:
+  Over 1: 🟢88.2%   Over 2: 🔴41.2%   Over 3: 🔴20.6%
+
+CORNERS
+Home Avg: 5.18/game  |  Away Avg: 5.56/game  |  Combined: 10.74/game  |  H2H Avg: 9.00/game (8 matches)
+  Over 7:  🟢93.9%   Over 8:  🟢81.8%   Over 9:  🟡74.2%   Over 10: 🟠57.6%   Over 11: 🔴42.4%
+
+═══════════════════════════════════════════════════════════
+

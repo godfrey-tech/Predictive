@@ -1,0 +1,44 @@
+St Pauli vs Hamburg: Away Win - High Risk
+Home:30.65% vs Away:42.29% vs Draw:27.06% Diff: 11.65%
+Home Av Gls: 0.88 vs Away Av Gls: 1.06
+Home Historical Av Gls: 0.88 vs Away Historical Av Gls: 0.99
+CEG: 1.94 | CEG+: 2.4
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 34.53% 
+Over 2 Gls: 12.53% 
+
+Levante vs Elche: Draw - Very High Risk
+Home:28.08% vs Away:34.72% vs Draw:37.2% Diff: 6.64%
+Home Av Gls: 1.2 vs Away Av Gls: 1.29
+Home Historical Av Gls: 1.29 vs Away Historical Av Gls: 0.97
+CEG: 2.49 | CEG+: 3.05
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – fragile structure (likely scores: 1–1 → 2–1 / 1–2; 2–2 or 3–1 if triggered)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 23.41% 
+Over 2 Gls: 6.59% 
+
+Auxerre vs Paris SG: Away Win - Low Risk
+Home:16.69% vs Away:69.59% vs Draw:13.72% Diff: 52.9%
+Home Av Gls: 0.82 vs Away Av Gls: 2.32
+Home Historical Av Gls: 0.89 vs Away Historical Av Gls: 2.48
+CEG: 3.14 | CEG+: 3.98
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 33.46% 
+Over 2 Gls: 11.89% 
+
+Inter vs Pisa: Home Win - Low Risk
+Home:74.15% vs Away:7.01% vs Draw:18.83% Diff: 67.14%
+Home Av Gls: 2.23 vs Away Av Gls: 0.75
+Home Historical Av Gls: 1.98 vs Away Historical Av Gls: 0.75
+CEG: 2.98 | CEG+: 3.66
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 47.56% 
+Over 2 Gls: 21.71% 
+

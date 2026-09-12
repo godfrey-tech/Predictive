@@ -1,0 +1,105 @@
+Valencia vs Vallecano: Away Win - Very High Risk
+Home:33.51% vs Away:39.69% vs Draw:26.8% Diff: 6.19%
+Home Av Gls: 1.02 vs Away Av Gls: 0.84
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 1.02
+CEG: 1.86 | CEG+: 2.43
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 22.42% 
+Over 2 Gls: 6.14% 
+
+GOALS UNDERS
+Combined Avg: 2.01/game  (Home: 1.11  Away: 0.90)  CEG: 1.86  CEG+: 2.43
+Under 1.5: 44.5%  🔴 SKIP
+Under 2.5: 71.5%  🟢 STRONG
+Under 3.5: 88.1%  🟢 STRONG
+Under 4.5: 95.9%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.94/game  |  Away Avg: 3.03/game  |  Combined: 4.97/game  |  H2H Avg: 6.00/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢82.1%   Over 4: 🟡74.6%   Over 5: 🟠56.7%   Over 6: 🔴37.3%
+Valencia Cards:
+  Over 1: 🟢100.0%   Over 2: 🟠55.6%   Over 3: 🔴25.0%
+Vallecano Cards:
+  Over 1: 🟢94.4%   Over 2: 🟡72.2%   Over 3: 🟠55.6%
+
+CORNERS
+Home Avg: 5.17/game  |  Away Avg: 5.83/game  |  Combined: 11.00/game  |  H2H Avg: 12.00/game (7 matches)
+  Over 7:  🟢88.1%   Over 8:  🟢80.6%   Over 9:  🟡68.7%   Over 10: 🟠53.7%   Over 11: 🟠52.2%
+
+═══════════════════════════════════════════════════════════
+
+Girona vs Sociedad: Away Win - No bet
+Home:38.05% vs Away:38.22% vs Draw:23.74% Diff: 0.17%
+Home Av Gls: 1.54 vs Away Av Gls: 1.37
+Home Historical Av Gls: 1.42 vs Away Historical Av Gls: 1.42
+CEG: 2.9 | CEG+: 3.61
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 38.56% 
+Over 2 Gls: 15.1% 
+
+GOALS UNDERS
+Combined Avg: 2.88/game  (Home: 1.50  Away: 1.38)  CEG: 2.90  CEG+: 3.61
+Under 1.5: 21.5%  🔴 SKIP
+Under 2.5: 44.6%  🔴 SKIP
+Under 3.5: 67%  🔴 SKIP
+Under 4.5: 83.2%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.28/game  |  Away Avg: 2.22/game  |  Combined: 4.50/game  |  H2H Avg: 5.60/game (5 matches)
+Total Match Cards:
+  Over 3: 🟢82.1%   Over 4: 🟠55.2%   Over 5: 🔴34.3%   Over 6: 🔴28.4%
+Girona Cards:
+  Over 1: 🟢88.9%   Over 2: 🟡66.7%   Over 3: 🔴33.3%
+Sociedad Cards:
+  Over 1: 🟢97.2%   Over 2: 🟢75.0%   Over 3: 🔴30.6%
+
+CORNERS
+Home Avg: 3.92/game  |  Away Avg: 5.78/game  |  Combined: 9.69/game  |  H2H Avg: 6.80/game (5 matches)
+  Over 7:  🟢85.1%   Over 8:  🟡73.1%   Over 9:  🟠62.7%   Over 10: 🔴49.3%   Over 11: 🔴40.3%
+
+═══════════════════════════════════════════════════════════
+
+Real Madrid vs Oviedo: Home Win - Low Risk
+Home:64.99% vs Away:18.98% vs Draw:16.03% Diff: 46.01%
+Home Av Gls: 2.19 vs Away Av Gls: 0.72
+Home Historical Av Gls: 2.11 vs Away Historical Av Gls: 0.72
+CEG: 2.91 | CEG+: 3.62
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 54.81% 
+Over 2 Gls: 27.93% 
+
+GOALS UNDERS
+Combined Avg: 2.88/game  (Home: 2.16  Away: 0.72)  CEG: 2.91  CEG+: 3.62
+Under 1.5: 21.3%  🔴 SKIP
+Under 2.5: 44.4%  🔴 SKIP
+Under 3.5: 66.7%  🔴 SKIP
+Under 4.5: 83%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.00/game  |  Away Avg: 2.44/game  |  Combined: 4.44/game
+Total Match Cards:
+  Over 3: 🟡74.6%   Over 4: 🟠55.2%   Over 5: 🔴38.8%   Over 6: 🔴25.4%
+Real Madrid Cards:
+  Over 1: 🟢91.7%   Over 2: 🟠52.8%   Over 3: 🔴16.7%
+Oviedo Cards:
+  Over 1: 🟢97.2%   Over 2: 🟢80.6%   Over 3: 🔴38.9%
+
+CORNERS
+Home Avg: 6.58/game  |  Away Avg: 3.78/game  |  Combined: 10.36/game
+  Over 7:  🟢88.1%   Over 8:  🟢76.1%   Over 9:  🟠64.2%   Over 10: 🟠52.2%   Over 11: 🔴44.8%
+
+═══════════════════════════════════════════════════════════
+

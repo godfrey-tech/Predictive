@@ -1,0 +1,567 @@
+GOALS PREDICTIONS — 2026-03-03
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Bournemouth  vs  Brentford
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.67  |  Away 1.26  |  Total 2.93
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 6 matches | Avg goals 3.17 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  94.7%
+  Over 1.5:  79.1%   |  Under 1.5: 20.9%
+  Over 2.5:  56.2%   |  Under 2.5: 43.8%
+  Over 3.5:  33.8%
+  BTTS Yes:  58.2%
+  Bournemouth to Score: 81.2%
+  Brentford to Score: 71.6%
+  Either Team To Score: 81.2%
+  Draw:      24.0%   |  DNB Home: 62.0%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 94.7%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.93
+  🟢🟢 [STRONG_YES  ] Bournemouth To Score           81.8%  [High Value]
+       ↳ HomeXG=1.67 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           81.5%  [High Value]
+       ↳ HomeBlankRate=17% AwayBlankRate=29% H2H-ETTS=83%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 79.1%  [High Value]
+       ↳ Very likely with combined xG=2.93
+  🟢   [YES         ] Brentford To Score             71.4%  [High Value]
+       ↳ AwayXG=1.26 | Historical score rate included
+  🟡   [BORDERLINE  ] BTTS - Yes                     57.6%  [Poor]
+       ↳ HomeXG=1.67 AwayXG=1.26 | HomeBTTS=67% AwayBTTS=52% H2H-BTTS=67%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 94.7% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Everton  vs  Burnley
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.81  |  Away 1.01  |  Total 2.82
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 8 matches | Avg goals 2.12 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  94.0%
+  Over 1.5:  77.2%   |  Under 1.5: 22.8%
+  Over 2.5:  53.5%   |  Under 2.5: 46.5%
+  Over 3.5:  31.2%
+  BTTS Yes:  53.1%
+  Everton to Score: 83.6%
+  Burnley to Score: 63.6%
+  Either Team To Score: 83.6%
+  Draw:      23.0%   |  DNB Home: 72.8%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 94.0%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.82
+  🟢🟢 [STRONG_YES  ] Everton To Score               77.9%  [High Value]
+       ↳ HomeXG=1.81 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 77.2%  [High Value]
+       ↳ Very likely with combined xG=2.82
+  🟢🟢 [STRONG_YES  ] Either Team To Score           74.0%  [High Value]
+       ↳ HomeBlankRate=31% AwayBlankRate=35% H2H-ETTS=75%
+  🟢   [YES         ] Burnley To Score               64.3%  [Fair]
+       ↳ AwayXG=1.01 | Historical score rate included
+  🟡   [BORDERLINE  ] DNB - Everton                  55.2%  [Poor]
+       ↳ HomeWinProb=56.1% | HomeWinRate(home)=31%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 94.0% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Leeds  vs  Sunderland
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.73  |  Away 0.47  |  Total 2.2
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 2 matches | Avg goals 2 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  88.9%
+  Over 1.5:  64.5%   |  Under 1.5: 35.5%
+  Over 2.5:  37.7%   |  Under 2.5: 62.3%
+  Over 3.5:  18.0%
+  BTTS Yes:  30.7%
+  Leeds to Score: 82.3%
+  Sunderland to Score: 37.3%
+  Either Team To Score: 82.3%
+  Draw:      22.1%   |  DNB Home: 87.9%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 88.9%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.20
+  🟢🟢 [STRONG_YES  ] Leeds To Score                 78.6%  [High Value]
+       ↳ HomeXG=1.73 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           75.4%  [High Value]
+       ↳ HomeBlankRate=27% AwayBlankRate=35% H2H-ETTS=100%
+  🟢   [YES         ] Over 1.5 Goals                 64.5%  [Fair]
+       ↳ Very likely with combined xG=2.20
+  🟢   [YES         ] DNB - Leeds                    63.4%  [Fair]
+       ↳ HomeWinProb=68.5% | HomeWinRate(home)=46%
+  🟡   [BORDERLINE  ] BTTS - No                      59.3%  [Fair]
+       ↳ Low scoring match signal | Either team may blank
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 88.9% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Wolves  vs  Liverpool
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.89  |  Away 2.28  |  Total 3.17
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 10 matches | Avg goals 2.7 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  95.8%
+  Over 1.5:  82.5%   |  Under 1.5: 17.5%
+  Over 2.5:  61.5%   |  Under 2.5: 38.5%
+  Over 3.5:  39.2%
+  BTTS Yes:  53.0%
+  Wolves to Score: 59.0%
+  Liverpool to Score: 89.8%
+  Either Team To Score: 89.8%
+  Draw:      18.2%   |  DNB Home: 16.1%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 95.8%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.17
+  🟢🟢 [STRONG_YES  ] Liverpool To Score             87.7%  [High Value]
+       ↳ AwayXG=2.28 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 82.5%  [High Value]
+       ↳ Very likely with combined xG=3.17
+  🟢🟢 [STRONG_YES  ] Either Team To Score           77.6%  [High Value]
+       ↳ HomeBlankRate=55% AwayBlankRate=15% H2H-ETTS=100%
+  🟢   [YES         ] DNB - Liverpool                63.6%  [Fair]
+       ↳ AwayWinProb=68.6% | AwayWinRate(away)=38%
+  🟡   [BORDERLINE  ] Over 2.5 Goals                 54.8%  [Poor]
+       ↳ xG=0.89+2.28=3.17 | HomeOver25Rate=43% AwayOver25Rate=62% H2H=60%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 95.8% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Bournemouth vs Brentford  →  Over 0.5 Goals [STRONG_YES]  94.7% conf
+  • Bournemouth vs Brentford  →  Bournemouth To Score [STRONG_YES]  81.8% conf
+  • Everton vs Burnley  →  Over 0.5 Goals [STRONG_YES]  94.0% conf
+  • Everton vs Burnley  →  Everton To Score [STRONG_YES]  77.9% conf
+  • Leeds vs Sunderland  →  Over 0.5 Goals [STRONG_YES]  88.9% conf
+  • Leeds vs Sunderland  →  Leeds To Score [STRONG_YES]  78.6% conf
+  • Wolves vs Liverpool  →  Over 0.5 Goals [STRONG_YES]  95.8% conf
+  • Wolves vs Liverpool  →  Liverpool To Score [STRONG_YES]  87.7% conf
+Bournemouth vs Brentford: Away Win - No bet
+Home:39.48% vs Away:40.95% vs Draw:19.57% Diff: 1.48%
+Home Av Gls: 1.64 vs Away Av Gls: 1.46
+Home Historical Av Gls: 1.33 vs Away Historical Av Gls: 1.44
+CEG: 3.1 | CEG+: 3.79
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 40.53% 
+Over 2 Gls: 16.45% 
+
+Everton vs Burnley: Home Win - High Risk
+Home:46.17% vs Away:25.21% vs Draw:28.62% Diff: 20.96%
+Home Av Gls: 1.06 vs Away Av Gls: 1.09
+Home Historical Av Gls: 1.19 vs Away Historical Av Gls: 1.02
+CEG: 2.15 | CEG+: 2.7
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 26.33% 
+Over 2 Gls: 7.98% 
+
+Leeds vs Sunderland: Away Win - Very High Risk
+Home:31.92% vs Away:38.35% vs Draw:29.73% Diff: 6.43%
+Home Av Gls: 1.33 vs Away Av Gls: 1.12
+Home Historical Av Gls: 1.33 vs Away Historical Av Gls: 0.97
+CEG: 2.44 | CEG+: 3.02
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 32.17% 
+Over 2 Gls: 11.13% 
+
+Wolves vs Liverpool: Away Win - Low Risk
+Home:17.79% vs Away:64.73% vs Draw:17.48% Diff: 46.95%
+Home Av Gls: 0.86 vs Away Av Gls: 1.85
+Home Historical Av Gls: 1.02 vs Away Historical Av Gls: 2.09
+CEG: 2.71 | CEG+: 3.49
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 34.07% 
+Over 2 Gls: 12.25% 
+
+GOALS PREDICTIONS — 2026-03-03
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Barcelona  vs  Ath Madrid
+═══════════════════════════════════════════════════════════
+  xG:  Home 2.26  |  Away 0.48  |  Total 2.74
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 10 matches | Avg goals 2.3 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  93.5%
+  Over 1.5:  75.9%   |  Under 1.5: 24.1%
+  Over 2.5:  51.7%   |  Under 2.5: 48.3%
+  Over 3.5:  29.5%
+  BTTS Yes:  34.3%
+  Barcelona to Score: 89.6%
+  Ath Madrid to Score: 38.3%
+  Either Team To Score: 89.6%
+  Draw:      15.6%   |  DNB Home: 92.4%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Barcelona To Score             93.7%  [High Value]
+       ↳ HomeXG=2.26 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 93.6%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.74
+  🟢🟢 [STRONG_YES  ] Either Team To Score           91.1%  [High Value]
+       ↳ HomeBlankRate=0% AwayBlankRate=15% H2H-ETTS=90%
+  🟢🟢 [STRONG_YES  ] DNB - Barcelona                79.3%  [High Value]
+       ↳ HomeWinProb=77.9% | HomeWinRate(home)=100%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 75.9%  [High Value]
+       ↳ Very likely with combined xG=2.74
+  🟡   [BORDERLINE  ] BTTS - No                      58.8%  [Fair]
+       ↳ Low scoring match signal | Either team may blank
+
+  ⭐ TOP BET: Barcelona To Score (STRONG_YES) — 93.7% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Barcelona vs Ath Madrid  →  Barcelona To Score [STRONG_YES]  93.7% conf
+  • Barcelona vs Ath Madrid  →  Over 0.5 Goals [STRONG_YES]  93.6% conf
+Barcelona vs Ath Madrid: Home Win - High Risk
+Home:51.9% vs Away:39.02% vs Draw:9.08% Diff: 12.88%
+Home Av Gls: 2.39 vs Away Av Gls: 1.62
+Home Historical Av Gls: 2.31 vs Away Historical Av Gls: 1.66
+CEG: 4.01 | CEG+: 5
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 61.63% 
+Over 2 Gls: 34.61% 
+
+GOALS PREDICTIONS — 2026-03-03
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Como  vs  Inter
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.93  |  Away 1.15  |  Total 2.07
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 1 matches | Avg goals 4 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  87.4%
+  Over 1.5:  61.3%   |  Under 1.5: 38.7%
+  Over 2.5:  34.3%   |  Under 2.5: 65.7%
+  Over 3.5:  15.6%
+  BTTS Yes:  41.2%
+  Como to Score: 60.4%
+  Inter to Score: 68.2%
+  Either Team To Score: 68.2%
+  Draw:      29.9%   |  DNB Home: 41.9%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 87.4%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.07
+  🟢🟢 [STRONG_YES  ] Either Team To Score           86.8%  [High Value]
+       ↳ HomeBlankRate=27% AwayBlankRate=4% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Inter To Score                 79.4%  [High Value]
+       ↳ AwayXG=1.15 | Historical score rate included
+  🟢   [YES         ] Como To Score                  65.5%  [Fair]
+       ↳ HomeXG=0.93 | Historical score rate included
+  🟢   [YES         ] Over 1.5 Goals                 61.3%  [Fair]
+       ↳ Very likely with combined xG=2.07
+  🟢   [YES         ] BTTS - No                      61.3%  [Fair]
+       ↳ Low scoring match signal | Either team may blank
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 87.4% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Como vs Inter  →  Over 0.5 Goals [STRONG_YES]  87.4% conf
+  • Como vs Inter  →  Either Team To Score [STRONG_YES]  86.8% conf
+Como vs Inter: Away Win - Moderate Risk
+Home:30.5% vs Away:59.75% vs Draw:9.75% Diff: 29.25%
+Home Av Gls: 1.58 vs Away Av Gls: 2.33
+Home Historical Av Gls: 1.58 vs Away Historical Av Gls: 2.01
+CEG: 3.91 | CEG+: 4.81
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 42.41% 
+Over 2 Gls: 17.78% 
+
+GOALS PREDICTIONS — 2026-03-03
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Strasbourg  vs  Rennes
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.91  |  Away 1  |  Total 2.91
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 9 matches | Avg goals 2.56 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  94.6%
+  Over 1.5:  78.7%   |  Under 1.5: 21.3%
+  Over 2.5:  55.6%   |  Under 2.5: 44.4%
+  Over 3.5:  33.2%
+  BTTS Yes:  53.8%
+  Strasbourg to Score: 85.2%
+  Rennes to Score: 63.2%
+  Either Team To Score: 85.2%
+  Draw:      22.0%   |  DNB Home: 75.1%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 94.5%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.91
+  🟢🟢 [STRONG_YES  ] Either Team To Score           87.3%  [High Value]
+       ↳ HomeBlankRate=13% AwayBlankRate=22% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Strasbourg To Score            85.9%  [High Value]
+       ↳ HomeXG=1.91 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 78.7%  [High Value]
+       ↳ Very likely with combined xG=2.91
+  🟢   [YES         ] Rennes To Score                69.2%  [Fair]
+       ↳ AwayXG=1.00 | Historical score rate included
+  🟡   [BORDERLINE  ] DNB - Strasbourg               58.9%  [Fair]
+       ↳ HomeWinProb=58.6% | HomeWinRate(home)=64%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 94.5% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Strasbourg vs Rennes  →  Over 0.5 Goals [STRONG_YES]  94.5% conf
+  • Strasbourg vs Rennes  →  Either Team To Score [STRONG_YES]  87.3% conf
+Strasbourg vs Rennes: Away Win - Very High Risk
+Home:36.24% vs Away:45.7% vs Draw:18.06% Diff: 9.46%
+Home Av Gls: 1.45 vs Away Av Gls: 1.57
+Home Historical Av Gls: 1.35 vs Away Historical Av Gls: 1.51
+CEG: 3.02 | CEG+: 3.74
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 44.16% 
+Over 2 Gls: 19.07% 
+
+GOALS PREDICTIONS — 2026-03-03
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Sp Lisbon  vs  Porto
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.93  |  Away 0.94  |  Total 1.87
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 10 matches | Avg goals 2.7 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  84.6%
+  Over 1.5:  55.6%   |  Under 1.5: 44.4%
+  Over 2.5:  28.7%   |  Under 2.5: 71.3%
+  Over 3.5:  12.0%
+  BTTS Yes:  36.8%
+  Sp Lisbon to Score: 60.6%
+  Porto to Score: 60.7%
+  Either Team To Score: 60.7%
+  Draw:      32.2%   |  DNB Home: 49.8%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Either Team To Score           93.2%  [High Value]
+       ↳ HomeBlankRate=0% AwayBlankRate=5% H2H-ETTS=90%
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 84.5%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=1.87
+  🟢🟢 [STRONG_YES  ] Sp Lisbon To Score             76.3%  [High Value]
+       ↳ HomeXG=0.93 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Porto To Score                 74.4%  [High Value]
+       ↳ AwayXG=0.94 | Historical score rate included
+  🟢   [YES         ] BTTS - No                      61.0%  [Fair]
+       ↳ Low scoring match signal | Either team may blank
+  🟡   [BORDERLINE  ] Over 1.5 Goals                 55.6%  [Poor]
+       ↳ Very likely with combined xG=1.87
+
+  ⭐ TOP BET: Either Team To Score (STRONG_YES) — 93.2% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Sp Lisbon vs Porto  →  Either Team To Score [STRONG_YES]  93.2% conf
+  • Sp Lisbon vs Porto  →  Over 0.5 Goals [STRONG_YES]  84.5% conf
+Sp Lisbon vs Porto: Home Win - High Risk
+Home:52.47% vs Away:41.37% vs Draw:6.16% Diff: 11.1%
+Home Av Gls: 2.91 vs Away Av Gls: 2.02
+Home Historical Av Gls: 2.12 vs Away Historical Av Gls: 2.18
+CEG: 4.93 | CEG+: 6.01
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 65.2% 
+Over 2 Gls: 38.45% 
+
+GOALS PREDICTIONS — 2026-03-03
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Nijmegen  vs  PSV Eindhoven
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.67  |  Away 2.65  |  Total 4.32
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 7 matches | Avg goals 4.71 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  98.7%
+  Over 1.5:  92.9%   |  Under 1.5: 7.1%
+  Over 2.5:  80.5%   |  Under 2.5: 19.5%
+  Over 3.5:  62.6%
+  BTTS Yes:  75.4%
+  Nijmegen to Score: 81.1%
+  PSV Eindhoven to Score: 93.0%
+  Either Team To Score: 93.0%
+  Draw:      18.0%   |  DNB Home: 28.4%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 98.7%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=4.32
+  🟢🟢 [STRONG_YES  ] PSV Eindhoven To Score         94.1%  [High Value]
+       ↳ AwayXG=2.65 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           93.9%  [High Value]
+       ↳ HomeBlankRate=4% AwayBlankRate=4% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 92.9%  [High Value]
+       ↳ Very likely with combined xG=4.32
+  🟢🟢 [STRONG_YES  ] Nijmegen To Score              87.0%  [High Value]
+       ↳ HomeXG=1.67 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 2.5 Goals                 80.3%  [High Value]
+       ↳ xG=1.67+2.65=4.32 | HomeOver25Rate=79% AwayOver25Rate=83% H2H=100%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 98.7% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Nijmegen vs PSV Eindhoven  →  Over 0.5 Goals [STRONG_YES]  98.7% conf
+  • Nijmegen vs PSV Eindhoven  →  PSV Eindhoven To Score [STRONG_YES]  94.1% conf
+Nijmegen vs PSV Eindhoven: Away Win - Moderate Risk
+Home:30.97% vs Away:56.38% vs Draw:12.65% Diff: 25.41%
+Home Av Gls: 2.31 vs Away Av Gls: 3.04
+Home Historical Av Gls: 1.47 vs Away Historical Av Gls: 2.56
+CEG: 5.35 | CEG+: 6.36
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 74.64% 
+Over 2 Gls: 49.97% 
+
+GOALS PREDICTIONS — 2026-03-03
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Alanyaspor  vs  Galatasaray
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.7  |  Away 1.74  |  Total 2.44
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 11 matches | Avg goals 3.09 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  91.3%
+  Over 1.5:  70.0%   |  Under 1.5: 30.0%
+  Over 2.5:  44.1%   |  Under 2.5: 55.9%
+  Over 3.5:  23.0%
+  BTTS Yes:  41.5%
+  Alanyaspor to Score: 50.3%
+  Galatasaray to Score: 82.5%
+  Either Team To Score: 82.5%
+  Draw:      23.0%   |  DNB Home: 18.9%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 91.3%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.44
+  🟢🟢 [STRONG_YES  ] Either Team To Score           86.6%  [High Value]
+       ↳ HomeBlankRate=25% AwayBlankRate=12% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Galatasaray To Score           84.5%  [High Value]
+       ↳ AwayXG=1.74 | Historical score rate included
+  🟢   [YES         ] Over 1.5 Goals                 70.0%  [High Value]
+       ↳ Very likely with combined xG=2.44
+  🟢   [YES         ] DNB - Galatasaray              62.9%  [Fair]
+       ↳ AwayWinProb=62.4% | AwayWinRate(away)=73%
+  🟢   [YES         ] Alanyaspor To Score            60.2%  [Fair]
+       ↳ HomeXG=0.70 | Historical score rate included
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 91.3% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Istanbulspor  vs  Trabzonspor
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.92  |  Away 2.13  |  Total 3.05
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 4 matches | Avg goals 3 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  95.3%
+  Over 1.5:  80.8%   |  Under 1.5: 19.2%
+  Over 2.5:  58.7%   |  Under 2.5: 41.3%
+  Over 3.5:  36.3%
+  BTTS Yes:  53.0%
+  Istanbulspor to Score: 60.1%
+  Trabzonspor to Score: 88.1%
+  Either Team To Score: 88.1%
+  Draw:      19.7%   |  DNB Home: 18.9%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 95.3%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.05
+  🟢🟢 [STRONG_YES  ] Trabzonspor To Score           89.5%  [High Value]
+       ↳ AwayXG=2.13 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           89.1%  [High Value]
+       ↳ HomeBlankRate=20% AwayBlankRate=8% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 80.8%  [High Value]
+       ↳ Very likely with combined xG=3.05
+  🟢   [YES         ] Istanbulspor To Score          64.1%  [Fair]
+       ↳ HomeXG=0.92 | Historical score rate included
+  🟢   [YES         ] DNB - Trabzonspor              61.0%  [Fair]
+       ↳ AwayWinProb=65.1% | AwayWinRate(away)=67%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 95.3% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Alanyaspor vs Galatasaray  →  Over 0.5 Goals [STRONG_YES]  91.3% conf
+  • Alanyaspor vs Galatasaray  →  Either Team To Score [STRONG_YES]  86.6% conf
+  • Istanbulspor vs Trabzonspor  →  Over 0.5 Goals [STRONG_YES]  95.3% conf
+  • Istanbulspor vs Trabzonspor  →  Trabzonspor To Score [STRONG_YES]  89.5% conf
+Alanyaspor vs Galatasaray: Away Win - Low Risk
+Home:23.4% vs Away:60.36% vs Draw:16.24% Diff: 36.96%
+Home Av Gls: 1.35 vs Away Av Gls: 2.52
+Home Historical Av Gls: 1.49 vs Away Historical Av Gls: 2.02
+CEG: 3.87 | CEG+: 4.74
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 43.89% 
+Over 2 Gls: 18.87% 
+
+Istanbulspor vs Trabzonspor: Away Win - Low Risk
+Home:12.62% vs Away:70.35% vs Draw:17.02% Diff: 57.73%
+Home Av Gls: 0.72 vs Away Av Gls: 1.94
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 1.71
+CEG: 2.67 | CEG+: 3.34
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 26.51% 
+Over 2 Gls: 8.08% 
+

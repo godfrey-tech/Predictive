@@ -1,0 +1,140 @@
+Millwall vs Wrexham: Home Win - Very High Risk
+Home:44.11% vs Away:36.28% vs Draw:19.61% Diff: 7.82%
+Home Av Gls: 1.11 vs Away Av Gls: 1.5
+Home Historical Av Gls: 1.13 vs Away Historical Av Gls: 1.5
+CEG: 2.61 | CEG+: 3.26
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 34.79% 
+Over 2 Gls: 12.69% 
+
+GOALS UNDERS
+Combined Avg: 2.62/game  (Home: 1.12  Away: 1.50)  CEG: 2.61  CEG+: 3.26
+Under 1.5: 26.5%  🔴 SKIP
+Under 2.5: 51.6%  🔴 SKIP
+Under 3.5: 73.4%  🟡 SIGNAL
+Under 4.5: 87.6%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.60/game  |  Away Avg: 1.59/game  |  Combined: 3.18/game
+Total Match Cards:
+  Over 3: 🟡66.1%   Over 4: 🔴43.8%   Over 5: 🔴25.0%   Over 6: 🔴13.4%
+Millwall Cards:
+  Over 1: 🟢80.9%   Over 2: 🔴41.6%   Over 3: 🔴23.6%
+Wrexham Cards:
+  Over 1: 🟢76.1%   Over 2: 🔴45.7%   Over 3: 🔴26.1%
+
+CORNERS
+Home Avg: 4.96/game  |  Away Avg: 4.48/game  |  Combined: 9.43/game
+  Over 7:  🟢86.6%   Over 8:  🟢75.0%   Over 9:  🟡66.1%   Over 10: 🟠54.5%   Over 11: 🔴43.8%
+
+═══════════════════════════════════════════════════════════
+
+QPR vs Cardiff: Home Win - No bet
+Home:36.16% vs Away:35.27% vs Draw:28.57% Diff: 0.88%
+Home Av Gls: 1.2 vs Away Av Gls: 1.01
+Home Historical Av Gls: 1.19 vs Away Historical Av Gls: 1.22
+CEG: 2.21 | CEG+: 2.81
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 29.77% 
+Over 2 Gls: 9.78% 
+
+GOALS UNDERS
+Combined Avg: 2.28/game  (Home: 1.20  Away: 1.08)  CEG: 2.21  CEG+: 2.81
+Under 1.5: 35.2%  🔴 SKIP
+Under 2.5: 62%  🟡 SIGNAL
+Under 3.5: 81.7%  🟡 SIGNAL
+Under 4.5: 92.6%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.93/game  |  Away Avg: 1.56/game  |  Combined: 3.49/game  |  H2H Avg: 3.30/game (10 matches)
+Total Match Cards:
+  Over 3: 🟢75.0%   Over 4: 🟠52.3%   Over 5: 🔴22.7%   Over 6: 🔴15.9%
+QPR Cards:
+  Over 1: 🟢81.6%   Over 2: 🟠62.1%   Over 3: 🔴31.0%
+Cardiff Cards:
+  Over 1: 🟢90.7%   Over 2: 🔴48.8%   Over 3: 🔴11.6%
+
+CORNERS
+Home Avg: 4.93/game  |  Away Avg: 4.40/game  |  Combined: 9.33/game  |  H2H Avg: 11.80/game (10 matches)
+  Over 7:  🟢83.0%   Over 8:  🟡73.9%   Over 9:  🟠60.2%   Over 10: 🔴45.5%   Over 11: 🔴35.2%
+
+═══════════════════════════════════════════════════════════
+
+West Brom vs Charlton: Home Win - High Risk
+Home:41.05% vs Away:29.45% vs Draw:29.5% Diff: 11.6%
+Home Av Gls: 1.21 vs Away Av Gls: 0.96
+Home Historical Av Gls: 1.37 vs Away Historical Av Gls: 1.02
+CEG: 2.17 | CEG+: 2.77
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 24.67% 
+Over 2 Gls: 7.17% 
+
+GOALS UNDERS
+Combined Avg: 2.25/game  (Home: 1.27  Away: 0.98)  CEG: 2.17  CEG+: 2.77
+Under 1.5: 36.2%  🔴 SKIP
+Under 2.5: 63.1%  🟡 SIGNAL
+Under 3.5: 82.5%  🟢 STRONG
+Under 4.5: 93.1%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.66/game  |  Away Avg: 2.11/game  |  Combined: 3.76/game
+Total Match Cards:
+  Over 3: 🟡69.4%   Over 4: 🔴43.2%   Over 5: 🔴28.8%   Over 6: 🔴16.2%
+West Brom Cards:
+  Over 1: 🟢75.9%   Over 2: 🟠52.9%   Over 3: 🔴18.4%
+Charlton Cards:
+  Over 1: 🟢87.0%   Over 2: 🟡69.6%   Over 3: 🔴28.3%
+
+CORNERS
+Home Avg: 5.59/game  |  Away Avg: 4.13/game  |  Combined: 9.72/game
+  Over 7:  🟢82.9%   Over 8:  🟡67.6%   Over 9:  🟠61.3%   Over 10: 🔴49.5%   Over 11: 🔴39.6%
+
+═══════════════════════════════════════════════════════════
+
+Burnley vs Middlesbrough: Home Win - Moderate Risk
+Home:58.16% vs Away:27.51% vs Draw:14.33% Diff: 30.65%
+Home Av Gls: 1.48 vs Away Av Gls: 1.49
+Home Historical Av Gls: 1.62 vs Away Historical Av Gls: 1.38
+CEG: 2.97 | CEG+: 3.72
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 35.25% 
+Over 2 Gls: 12.98% 
+
+GOALS UNDERS
+Combined Avg: 2.98/game  (Home: 1.53  Away: 1.45)  CEG: 2.97  CEG+: 3.72
+Under 1.5: 20.4%  🔴 SKIP
+Under 2.5: 43%  🔴 SKIP
+Under 3.5: 65.4%  🔴 SKIP
+Under 4.5: 82%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.68/game  |  Away Avg: 1.48/game  |  Combined: 3.17/game  |  H2H Avg: 2.67/game (6 matches)
+Total Match Cards:
+  Over 3: 🟡68.2%   Over 4: 🟠53.4%   Over 5: 🔴31.8%   Over 6: 🔴17.0%
+Burnley Cards:
+  Over 1: 🟡70.7%   Over 2: 🟠53.7%   Over 3: 🔴34.1%
+Middlesbrough Cards:
+  Over 1: 🟡74.7%   Over 2: 🔴44.8%   Over 3: 🔴18.4%
+
+CORNERS
+Home Avg: 4.95/game  |  Away Avg: 5.99/game  |  Combined: 10.94/game  |  H2H Avg: 7.67/game (6 matches)
+  Over 7:  🟢86.4%   Over 8:  🟢81.8%   Over 9:  🟠64.8%   Over 10: 🟠53.4%   Over 11: 🔴43.2%
+
+═══════════════════════════════════════════════════════════
+

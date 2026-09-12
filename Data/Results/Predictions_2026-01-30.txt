@@ -1,0 +1,66 @@
+FC Koln vs Wolfsburg: Away Win - No bet
+Home:33.62% vs Away:36.99% vs Draw:29.39% Diff: 3.38%
+Home Av Gls: 1.12 vs Away Av Gls: 1.28
+Home Historical Av Gls: 1.27 vs Away Historical Av Gls: 1.4
+CEG: 2.4 | CEG+: 3.06
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 41.35% 
+Over 2 Gls: 17.03% 
+
+Espanol vs Alaves: Home Win - High Risk
+Home:47.36% vs Away:30.48% vs Draw:22.16% Diff: 16.88%
+Home Av Gls: 1.23 vs Away Av Gls: 0.92
+Home Historical Av Gls: 1.12 vs Away Historical Av Gls: 0.95
+CEG: 2.15 | CEG+: 2.66
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 28.26% 
+Over 2 Gls: 8.97% 
+
+Lens vs Le Havre: Home Win - Low Risk
+Home:66.84% vs Away:17.32% vs Draw:15.83% Diff: 49.52%
+Home Av Gls: 1.55 vs Away Av Gls: 0.95
+Home Historical Av Gls: 1.58 vs Away Historical Av Gls: 0.96
+CEG: 2.5 | CEG+: 3.13
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 20/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 37.85% 
+Over 2 Gls: 14.64% 
+
+Lens vs Le Havre: Draw - No bet
+Home:NaN% vs Away:NaN% vs Draw:NaN% Diff: NaN%
+Home Av Gls: 0 vs Away Av Gls: 0
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 0
+CEG: 0 | CEG+: 0
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:True | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 0% 
+Over 2 Gls: 0% 
+
+Lazio vs Genoa: Home Win - High Risk
+Home:44.63% vs Away:29.2% vs Draw:26.17% Diff: 15.43%
+Home Av Gls: 1.16 vs Away Av Gls: 1.14
+Home Historical Av Gls: 1.72 vs Away Historical Av Gls: 1.05
+CEG: 2.31 | CEG+: 3
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 40.61% 
+Over 2 Gls: 16.5% 
+
+Guimaraes vs Moreirense: Away Win - No bet
+Home:41.8% vs Away:43.57% vs Draw:14.64% Diff: 1.77%
+Home Av Gls: 1.26 vs Away Av Gls: 1.14
+Home Historical Av Gls: 1.32 vs Away Historical Av Gls: 1.07
+CEG: 2.4 | CEG+: 3
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 60/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 25.85% 
+Over 2 Gls: 7.75% 
+

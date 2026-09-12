@@ -1,0 +1,32 @@
+╔══════════════════════════════════════════════════════════════╗
+║         HT/FT BACKTEST PROFITABILITY REPORT                ║
+╚══════════════════════════════════════════════════════════════╝
+  Period:    2022-08-01  →  2024-06-01
+  Matches:   612
+
+  Combo    | Bets | Wins | WinRate  | Profit   | Odds  | ConfCalib
+  ─────────────────────────────────────────────────────────────────
+  X/X      |   53 |   12 |   22.6%  |   55.00u | 9.00x  | 1.04
+  1/1      |   91 |   29 |   31.9%  |   39.50u | 4.50x  | 0.43
+  X/1      |   60 |   16 |   26.7%  |   28.00u | 5.50x  | 0.47
+  2/2      |   36 |   11 |   30.6%  |   13.50u | 4.50x  | 0.38
+  1/X      |    1 |    0 |    0.0%  |   -1.00u | 8.00x  | -1.00
+  X/2      |   60 |   10 |   16.7%  |   -5.00u | 5.50x  | -0.08
+  1/2      |    9 |    0 |    0.0%  |   -9.00u | 15.00x  | -1.00
+
+  ── KEY INSIGHTS ────────────────────────────────────────────
+  ✅ PROFITABLE COMBOS:
+     → X/X: +55.0u on 53 bets (22.6% win rate)
+     → 1/1: +39.5u on 91 bets (31.9% win rate)
+     → X/1: +28.0u on 60 bets (26.7% win rate)
+
+  ── OVERALL STATISTICS ─────────────────────────────────────
+  Total Bets:      310
+  Total Wins:      78
+  Win Rate:        25.2%
+  Total P&L:       +121.00u
+  ROI:             39.0% per unit
+
+  NOTE: Odds are typical bookmaker offerings. For accurate P&L,
+        integrate actual live odds from your betting exchange.
+══════════════════════════════════════════════════════════════

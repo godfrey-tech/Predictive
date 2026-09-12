@@ -1,0 +1,210 @@
+Portsmouth vs Derby: Home Win - No bet
+Home:39.28% vs Away:38.06% vs Draw:22.66% Diff: 1.22%
+Home Av Gls: 1.2 vs Away Av Gls: 1.19
+Home Historical Av Gls: 1.2 vs Away Historical Av Gls: 1.22
+CEG: 2.39 | CEG+: 2.99
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 30.29% 
+Over 2 Gls: 10.07% 
+
+GOALS UNDERS
+Combined Avg: 2.40/game  (Home: 1.20  Away: 1.20)  CEG: 2.39  CEG+: 2.99
+Under 1.5: 31.1%  🔴 SKIP
+Under 2.5: 57.2%  🟡 SIGNAL
+Under 3.5: 78.1%  🟡 SIGNAL
+Under 4.5: 90.5%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.22/game  |  Away Avg: 2.16/game  |  Combined: 4.38/game  |  H2H Avg: 5.00/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢78.2%   Over 4: 🟠51.1%   Over 5: 🔴31.6%   Over 6: 🔴19.5%
+Portsmouth Cards:
+  Over 1: 🟢93.4%   Over 2: 🟡73.6%   Over 3: 🔴36.3%
+Derby Cards:
+  Over 1: 🟢100.0%   Over 2: 🟡73.6%   Over 3: 🔴24.1%
+
+CORNERS
+Home Avg: 5.54/game  |  Away Avg: 4.54/game  |  Combined: 10.08/game  |  H2H Avg: 9.67/game (6 matches)
+  Over 7:  🟢85.0%   Over 8:  🟡74.4%   Over 9:  🟠63.9%   Over 10: 🟠52.6%   Over 11: 🔴39.8%
+
+═══════════════════════════════════════════════════════════
+
+Preston vs Bristol City: Away Win - Very High Risk
+Home:31.95% vs Away:41.56% vs Draw:26.49% Diff: 9.61%
+Home Av Gls: 1.11 vs Away Av Gls: 1.26
+Home Historical Av Gls: 1.19 vs Away Historical Av Gls: 1.26
+CEG: 2.37 | CEG+: 2.98
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 34.68% 
+Over 2 Gls: 12.62% 
+
+GOALS UNDERS
+Combined Avg: 2.40/game  (Home: 1.14  Away: 1.26)  CEG: 2.37  CEG+: 2.98
+Under 1.5: 31.5%  🔴 SKIP
+Under 2.5: 57.8%  🟡 SIGNAL
+Under 3.5: 78.5%  🟡 SIGNAL
+Under 4.5: 90.8%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.07/game  |  Away Avg: 1.61/game  |  Combined: 3.68/game  |  H2H Avg: 4.00/game (11 matches)
+Total Match Cards:
+  Over 3: 🟡70.2%   Over 4: 🟠51.9%   Over 5: 🔴31.3%   Over 6: 🔴14.5%
+Preston Cards:
+  Over 1: 🟢88.5%   Over 2: 🟡67.8%   Over 3: 🔴36.8%
+Bristol City Cards:
+  Over 1: 🟡72.4%   Over 2: 🔴46.0%   Over 3: 🔴26.4%
+
+CORNERS
+Home Avg: 4.25/game  |  Away Avg: 4.80/game  |  Combined: 9.06/game  |  H2H Avg: 8.82/game (11 matches)
+  Over 7:  🟢84.0%   Over 8:  🟢77.9%   Over 9:  🟡67.2%   Over 10: 🟠52.7%   Over 11: 🔴41.2%
+
+═══════════════════════════════════════════════════════════
+
+Sheffield United vs Bolton: Home Win - Low Risk
+Home:74.52% vs Away:7.7% vs Draw:17.78% Diff: 66.82%
+Home Av Gls: 1.39 vs Away Av Gls: 0
+Home Historical Av Gls: 1.45 vs Away Historical Av Gls: 0.74
+CEG: 1.39 | CEG+: 1.94
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 11.3% 
+Over 2 Gls: 2.05% 
+
+GOALS UNDERS
+Combined Avg: 1.67/game  (Home: 1.42  Away: 0.26)  CEG: 1.39  CEG+: 1.94
+Under 1.5: 59.5%  🔴 SKIP
+Under 2.5: 83.6%  🟢 STRONG
+Under 3.5: 94.7%  🟢 STRONG
+Under 4.5: 98.6%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.80/game  |  Away Avg: 1.90/game  |  Combined: 3.70/game
+Total Match Cards:
+  Over 3: 🟡74.6%   Over 4: 🟠55.2%   Over 5: 🔴38.8%   Over 6: 🔴19.4%
+Sheffield United Cards:
+  Over 1: 🟢88.5%   Over 2: 🟠50.6%   Over 3: 🔴31.0%
+Bolton Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 6.20/game  |  Away Avg: 4.50/game  |  Combined: 10.70/game
+  Over 7:  🟢89.6%   Over 8:  🟢85.1%   Over 9:  🟡71.6%   Over 10: 🟠64.2%   Over 11: 🟠53.7%
+
+═══════════════════════════════════════════════════════════
+
+Swansea vs Watford: Home Win - High Risk
+Home:48.74% vs Away:29.7% vs Draw:21.56% Diff: 19.04%
+Home Av Gls: 1.15 vs Away Av Gls: 1.19
+Home Historical Av Gls: 1.27 vs Away Historical Av Gls: 1.23
+CEG: 2.34 | CEG+: 2.97
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 60/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 30.19% 
+Over 2 Gls: 10.01% 
+
+GOALS UNDERS
+Combined Avg: 2.40/game  (Home: 1.19  Away: 1.20)  CEG: 2.34  CEG+: 2.97
+Under 1.5: 32.2%  🔴 SKIP
+Under 2.5: 58.5%  🟡 SIGNAL
+Under 3.5: 79.1%  🟡 SIGNAL
+Under 4.5: 91.2%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.71/game  |  Away Avg: 2.17/game  |  Combined: 3.88/game  |  H2H Avg: 5.30/game (10 matches)
+Total Match Cards:
+  Over 3: 🟡70.5%   Over 4: 🟠54.5%   Over 5: 🔴37.9%   Over 6: 🔴28.8%
+Swansea Cards:
+  Over 1: 🟢75.9%   Over 2: 🟠55.2%   Over 3: 🔴21.8%
+Watford Cards:
+  Over 1: 🟢89.9%   Over 2: 🟡70.8%   Over 3: 🔴32.6%
+
+CORNERS
+Home Avg: 4.43/game  |  Away Avg: 5.10/game  |  Combined: 9.53/game  |  H2H Avg: 9.90/game (10 matches)
+  Over 7:  🟢84.8%   Over 8:  🟢76.5%   Over 9:  🟡66.7%   Over 10: 🟠51.5%   Over 11: 🔴38.6%
+
+═══════════════════════════════════════════════════════════
+
+Birmingham vs Southampton: Away Win - Moderate Risk
+Home:31.04% vs Away:50.4% vs Draw:18.57% Diff: 19.36%
+Home Av Gls: 1.17 vs Away Av Gls: 1.86
+Home Historical Av Gls: 1.06 vs Away Historical Av Gls: 1.84
+CEG: 3.03 | CEG+: 3.75
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 45.66% 
+Over 2 Gls: 20.21% 
+
+GOALS UNDERS
+Combined Avg: 2.98/game  (Home: 1.13  Away: 1.85)  CEG: 3.03  CEG+: 3.75
+Under 1.5: 19.5%  🔴 SKIP
+Under 2.5: 41.7%  🔴 SKIP
+Under 3.5: 64.1%  🔴 SKIP
+Under 4.5: 81%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.91/game  |  Away Avg: 1.85/game  |  Combined: 3.76/game  |  H2H Avg: 3.50/game (4 matches)
+Total Match Cards:
+  Over 3: 🟢76.7%   Over 4: 🟠56.7%   Over 5: 🔴32.2%   Over 6: 🔴20.0%
+Birmingham Cards:
+  Over 1: 🟢87.0%   Over 2: 🟠52.2%   Over 3: 🔴32.6%
+Southampton Cards:
+  Over 1: 🟢87.0%   Over 2: 🟠58.7%   Over 3: 🔴26.1%
+
+CORNERS
+Home Avg: 5.76/game  |  Away Avg: 5.76/game  |  Combined: 11.52/game  |  H2H Avg: 13.00/game (4 matches)
+  Over 7:  🟢90.0%   Over 8:  🟢83.3%   Over 9:  🟡66.7%   Over 10: 🟠55.6%   Over 11: 🔴46.7%
+
+═══════════════════════════════════════════════════════════
+
+Stoke vs Norwich: Away Win - High Risk
+Home:28.85% vs Away:44.96% vs Draw:26.18% Diff: 16.11%
+Home Av Gls: 1.03 vs Away Av Gls: 1.51
+Home Historical Av Gls: 1.11 vs Away Historical Av Gls: 1.55
+CEG: 2.54 | CEG+: 3.2
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 60/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 36.65% 
+Over 2 Gls: 13.86% 
+
+GOALS UNDERS
+Combined Avg: 2.58/game  (Home: 1.06  Away: 1.52)  CEG: 2.54  CEG+: 3.20
+Under 1.5: 27.9%  🔴 SKIP
+Under 2.5: 53.4%  🔴 SKIP
+Under 3.5: 74.9%  🟡 SIGNAL
+Under 4.5: 88.6%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.07/game  |  Away Avg: 1.63/game  |  Combined: 3.70/game  |  H2H Avg: 2.50/game (10 matches)
+Total Match Cards:
+  Over 3: 🟢77.9%   Over 4: 🟠55.0%   Over 5: 🔴29.0%   Over 6: 🔴19.1%
+Stoke Cards:
+  Over 1: 🟢89.7%   Over 2: 🟠62.1%   Over 3: 🔴37.9%
+Norwich Cards:
+  Over 1: 🟢83.9%   Over 2: 🟠52.9%   Over 3: 🔴18.4%
+
+CORNERS
+Home Avg: 4.91/game  |  Away Avg: 5.32/game  |  Combined: 10.23/game  |  H2H Avg: 10.90/game (10 matches)
+  Over 7:  🟢89.3%   Over 8:  🟢80.2%   Over 9:  🟡66.4%   Over 10: 🟠55.7%   Over 11: 🔴45.8%
+
+═══════════════════════════════════════════════════════════
+

@@ -1,0 +1,119 @@
+Bayern Munich vs Freiburg: Home Win - Moderate Risk
+Home:56,81% vs Away:29,11% vs Draw:14,08% Diff: 27,7%
+Home Av Gls: 2,64 vs Away Av Gls: 1,39
+Home Historical Av Gls: 2,7 vs Away Historical Av Gls: 1,38
+Over 1 Gls: 59,83% 
+Over 2 Gls: 32,76% 
+
+Dortmund vs Stuttgart: Away Win - No bet
+Home:43,33% vs Away:44,05% vs Draw:12,62% Diff: 0,72%
+Home Av Gls: 2,34 vs Away Av Gls: 1,93
+Home Historical Av Gls: 2,25 vs Away Historical Av Gls: 1,43
+Over 1 Gls: 56,53% 
+Over 2 Gls: 29,54% 
+
+Wolfsburg vs Leverkusen: Away Win - Moderate Risk
+Home:28,29% vs Away:58,45% vs Draw:13,26% Diff: 30,16%
+Home Av Gls: 1,45 vs Away Av Gls: 2,32
+Home Historical Av Gls: 1,39 vs Away Historical Av Gls: 1,91
+Over 1 Gls: 43,09% 
+Over 2 Gls: 18,28% 
+
+Augsburg vs Hamburg: Home Win - High Risk
+Home:43,58% vs Away:16,18% vs Draw:40,24% Diff: 27,4%
+Home Av Gls: 1,38 vs Away Av Gls: 0
+Home Historical Av Gls: 1,25 vs Away Historical Av Gls: 0,99
+Over 1 Gls: 11,2% 
+Over 2 Gls: 2,02% 
+
+Heidenheim vs M'gladbach: Home Win - High Risk
+Home:41,13% vs Away:30,59% vs Draw:28,28% Diff: 10,54%
+Home Av Gls: 1,47 vs Away Av Gls: 1,57
+Home Historical Av Gls: 1,47 vs Away Historical Av Gls: 1,64
+Over 1 Gls: 40,65% 
+Over 2 Gls: 16,53% 
+
+FC Koln vs Ein Frankfurt: Away Win - High Risk
+Home:27,62% vs Away:39,02% vs Draw:33,36% Diff: 11,4%
+Home Av Gls: 1,02 vs Away Av Gls: 1,5
+Home Historical Av Gls: 1,25 vs Away Historical Av Gls: 1,5
+Over 1 Gls: 42,82% 
+Over 2 Gls: 18,08% 
+
+RB Leipzig vs Werder Bremen: Home Win - High Risk
+Home:49,47% vs Away:35,1% vs Draw:15,43% Diff: 14,36%
+Home Av Gls: 2,12 vs Away Av Gls: 1,39
+Home Historical Av Gls: 1,99 vs Away Historical Av Gls: 1,43
+Over 1 Gls: 50,29% 
+Over 2 Gls: 23,95% 
+
+St Pauli vs Union Berlin: Away Win - Low Risk
+Home:0% vs Away:67,58% vs Draw:32,42% Diff: 67,58%
+Home Av Gls: 0 vs Away Av Gls: 1,12
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1,32
+Over 1 Gls: 7,1% 
+Over 2 Gls: 0,99% 
+
+M'gladbach vs RB Leipzig: Away Win - Moderate Risk
+Home:26,36% vs Away:53,92% vs Draw:19,72% Diff: 27,55%
+Home Av Gls: 1,57 vs Away Av Gls: 2,12
+Home Historical Av Gls: 1,64 vs Away Historical Av Gls: 1,99
+Over 1 Gls: 40,19% 
+Over 2 Gls: 16,21% 
+
+Bayern Munich vs St Pauli: Home Win - Low Risk
+Home:85,41% vs Away:0% vs Draw:14,59% Diff: 85,41%
+Home Av Gls: 2,64 vs Away Av Gls: 0
+Home Historical Av Gls: 2,7 vs Away Historical Av Gls: 0
+Over 1 Gls: 26,23% 
+Over 2 Gls: 7,93% 
+
+Werder Bremen vs FC Koln: Home Win - High Risk
+Home:46,65% vs Away:26,98% vs Draw:26,37% Diff: 19,66%
+Home Av Gls: 1,39 vs Away Av Gls: 1,02
+Home Historical Av Gls: 1,43 vs Away Historical Av Gls: 1,25
+Over 1 Gls: 34,93% 
+Over 2 Gls: 12,78% 
+
+Union Berlin vs Heidenheim: Home Win - No bet
+Home:39,53% vs Away:38,21% vs Draw:22,26% Diff: 1,32%
+Home Av Gls: 1,12 vs Away Av Gls: 1,47
+Home Historical Av Gls: 1,32 vs Away Historical Av Gls: 1,47
+Over 1 Gls: 35,03% 
+Over 2 Gls: 12,84% 
+
+Hoffenheim vs Augsburg: Home Win - Moderate Risk
+Home:54,14% vs Away:24,71% vs Draw:21,15% Diff: 29,43%
+Home Av Gls: 1,71 vs Away Av Gls: 1,38
+Home Historical Av Gls: 1,72 vs Away Historical Av Gls: 1,25
+Over 1 Gls: 43,69% 
+Over 2 Gls: 18,72% 
+
+Leverkusen vs Dortmund: Home Win - High Risk
+Home:50,29% vs Away:38,68% vs Draw:11,03% Diff: 11,61%
+Home Av Gls: 2,32 vs Away Av Gls: 2,34
+Home Historical Av Gls: 1,91 vs Away Historical Av Gls: 2,25
+Over 1 Gls: 56,13% 
+Over 2 Gls: 29,16% 
+
+Hamburg vs Stuttgart: Away Win - Low Risk
+Home:9,48% vs Away:70,62% vs Draw:19,9% Diff: 61,14%
+Home Av Gls: 0 vs Away Av Gls: 1,93
+Home Historical Av Gls: 0,99 vs Away Historical Av Gls: 1,43
+Over 1 Gls: 17,46% 
+Over 2 Gls: 4,1% 
+
+Ein Frankfurt vs Wolfsburg: Away Win - Very High Risk
+Home:34,49% vs Away:39,91% vs Draw:25,59% Diff: 5,42%
+Home Av Gls: 1,5 vs Away Av Gls: 1,45
+Home Historical Av Gls: 1,5 vs Away Historical Av Gls: 1,39
+Over 1 Gls: 42% 
+Over 2 Gls: 17,49% 
+
+Freiburg vs Mainz: Away Win - Very High Risk
+Home:33,54% vs Away:42,26% vs Draw:24,19% Diff: 8,72%
+Home Av Gls: 1,39 vs Away Av Gls: 1,34
+Home Historical Av Gls: 1,38 vs Away Historical Av Gls: 1,3
+Over 1 Gls: 36,29% 
+Over 2 Gls: 13,63% 
+

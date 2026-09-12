@@ -1,0 +1,261 @@
+GOALS PREDICTIONS — 2026-03-05
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Tottenham  vs  Crystal Palace
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.32  |  Away 0.99  |  Total 2.32
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 11 matches | Avg goals 2.64 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  90.2%
+  Over 1.5:  67.3%   |  Under 1.5: 32.7%
+  Over 2.5:  40.9%   |  Under 2.5: 59.1%
+  Over 3.5:  20.4%
+  BTTS Yes:  46.2%
+  Tottenham to Score: 73.4%
+  Crystal Palace to Score: 62.9%
+  Either Team To Score: 73.4%
+  Draw:      27.7%   |  DNB Home: 61.3%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 90.1%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.32
+  🟢🟢 [STRONG_YES  ] Either Team To Score           83.0%  [High Value]
+       ↳ HomeBlankRate=17% AwayBlankRate=33% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Tottenham To Score             77.1%  [High Value]
+       ↳ HomeXG=1.32 | Historical score rate included
+  🟢   [YES         ] Over 1.5 Goals                 67.3%  [Fair]
+       ↳ Very likely with combined xG=2.32
+  🟢   [YES         ] Crystal Palace To Score        64.7%  [Fair]
+       ↳ AwayXG=0.99 | Historical score rate included
+  🟡   [BORDERLINE  ] BTTS - No                      53.0%  [Poor]
+       ↳ Low scoring match signal | Either team may blank
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 90.1% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Tottenham vs Crystal Palace  →  Over 0.5 Goals [STRONG_YES]  90.1% conf
+  • Tottenham vs Crystal Palace  →  Either Team To Score [STRONG_YES]  83.0% conf
+Tottenham vs Crystal Palace: Away Win - No bet
+Home:36.53% vs Away:41.32% vs Draw:22.16% Diff: 4.79%
+Home Av Gls: 1.59 vs Away Av Gls: 1.29
+Home Historical Av Gls: 1.81 vs Away Historical Av Gls: 1.18
+CEG: 2.88 | CEG+: 3.62
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 44.28% 
+Over 2 Gls: 19.16% 
+
+GOALS PREDICTIONS — 2026-03-05
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Lyon  vs  Lens
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.33  |  Away 1.06  |  Total 2.39
+  Zone: MID_GOALS ⚖ (Tight match, 1-2 goals)
+  H2H: 9 matches | Avg goals 2.78 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  90.8%
+  Over 1.5:  69.0%   |  Under 1.5: 31.0%
+  Over 2.5:  42.8%   |  Under 2.5: 57.2%
+  Over 3.5:  22.0%
+  BTTS Yes:  48.1%
+  Lyon to Score: 73.6%
+  Lens to Score: 65.4%
+  Either Team To Score: 73.6%
+  Draw:      27.4%   |  DNB Home: 58.9%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 90.9%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.39
+  🟢🟢 [STRONG_YES  ] Either Team To Score           88.4%  [High Value]
+       ↳ HomeBlankRate=13% AwayBlankRate=17% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Lyon To Score                  78.9%  [High Value]
+       ↳ HomeXG=1.33 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Lens To Score                  72.3%  [High Value]
+       ↳ AwayXG=1.06 | Historical score rate included
+  🟢   [YES         ] Over 1.5 Goals                 69.0%  [Fair]
+       ↳ Very likely with combined xG=2.39
+  🟡   [BORDERLINE  ] BTTS - No                      52.2%  [Poor]
+       ↳ Low scoring match signal | Either team may blank
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 90.9% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Lyon vs Lens  →  Over 0.5 Goals [STRONG_YES]  90.9% conf
+  • Lyon vs Lens  →  Either Team To Score [STRONG_YES]  88.4% conf
+Lyon vs Lens: Home Win - No bet
+Home:46.76% vs Away:42.95% vs Draw:10.29% Diff: 3.81%
+Home Av Gls: 1.65 vs Away Av Gls: 1.64
+Home Historical Av Gls: 1.87 vs Away Historical Av Gls: 1.6
+CEG: 3.28 | CEG+: 4.15
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 43.99% 
+Over 2 Gls: 18.95% 
+
+GOALS PREDICTIONS — 2026-03-05
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Antalyaspor  vs  Samsunspor
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.45  |  Away 1.97  |  Total 3.43
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 4 matches | Avg goals 2.75 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  96.8%
+  Over 1.5:  85.6%   |  Under 1.5: 14.4%
+  Over 2.5:  66.6%   |  Under 2.5: 33.4%
+  Over 3.5:  44.8%
+  BTTS Yes:  66.0%
+  Antalyaspor to Score: 76.7%
+  Samsunspor to Score: 86.1%
+  Either Team To Score: 86.1%
+  Draw:      21.8%   |  DNB Home: 36.4%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 96.8%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.43
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 85.6%  [High Value]
+       ↳ Very likely with combined xG=3.43
+  🟢🟢 [STRONG_YES  ] Samsunspor To Score            78.3%  [High Value]
+       ↳ AwayXG=1.97 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           77.3%  [High Value]
+       ↳ HomeBlankRate=33% AwayBlankRate=33% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Antalyaspor To Score           72.7%  [High Value]
+       ↳ HomeXG=1.45 | Historical score rate included
+  🟡   [BORDERLINE  ] BTTS - Yes                     56.7%  [Poor]
+       ↳ HomeXG=1.45 AwayXG=1.97 | HomeBTTS=58% AwayBTTS=54% H2H-BTTS=50%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 96.8% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+═══════════════════════════════════════════════════════════
+  ⚽ Eyupspor  vs  Konyaspor
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.35  |  Away 1.18  |  Total 2.52
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 2 matches | Avg goals 3.5 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  92.0%
+  Over 1.5:  71.7%   |  Under 1.5: 28.3%
+  Over 2.5:  46.2%   |  Under 2.5: 53.8%
+  Over 3.5:  24.7%
+  BTTS Yes:  51.1%
+  Eyupspor to Score: 74.0%
+  Konyaspor to Score: 69.1%
+  Either Team To Score: 74.0%
+  Draw:      26.8%   |  DNB Home: 55.5%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 92.0%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.52
+  🟢🟢 [STRONG_YES  ] Either Team To Score           72.1%  [High Value]
+       ↳ HomeBlankRate=46% AwayBlankRate=25% H2H-ETTS=100%
+  🟢   [YES         ] Over 1.5 Goals                 71.7%  [High Value]
+       ↳ Very likely with combined xG=2.52
+  🟢   [YES         ] Konyaspor To Score             71.5%  [High Value]
+       ↳ AwayXG=1.18 | Historical score rate included
+  🟢   [YES         ] Eyupspor To Score              66.0%  [Fair]
+       ↳ HomeXG=1.35 | Historical score rate included
+  🟡   [BORDERLINE  ] Under 2.5 Goals                51.3%  [Poor]
+       ↳ Low xG scenario | HomeLowRate=58% AwayLowRate=50%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 92.0% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Antalyaspor vs Samsunspor  →  Over 0.5 Goals [STRONG_YES]  96.8% conf
+  • Antalyaspor vs Samsunspor  →  Over 1.5 Goals [STRONG_YES]  85.6% conf
+  • Eyupspor vs Konyaspor  →  Over 0.5 Goals [STRONG_YES]  92.0% conf
+  • Eyupspor vs Konyaspor  →  Either Team To Score [STRONG_YES]  72.1% conf
+Antalyaspor vs Samsunspor: Away Win - No bet
+Home:34.61% vs Away:35.83% vs Draw:29.56% Diff: 1.23%
+Home Av Gls: 1.12 vs Away Av Gls: 1.17
+Home Historical Av Gls: 1.22 vs Away Historical Av Gls: 1.08
+CEG: 2.29 | CEG+: 2.86
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 36.42% 
+Over 2 Gls: 13.71% 
+
+Eyupspor vs Konyaspor: Draw - No bet
+Home:31.18% vs Away:33.07% vs Draw:35.75% Diff: 1.89%
+Home Av Gls: 0.79 vs Away Av Gls: 1.12
+Home Historical Av Gls: 0.79 vs Away Historical Av Gls: 1.24
+CEG: 1.91 | CEG+: 2.42
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 25.44% 
+Over 2 Gls: 7.54% 
+
+GOALS PREDICTIONS — 2026-03-05
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Radomiak Radom  vs  Arka Gdynia
+═══════════════════════════════════════════════════════════
+  xG:  Home 3.17  |  Away 0.3  |  Total 3.47
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 1 matches | Avg goals 2 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  96.9%
+  Over 1.5:  86.1%   |  Under 1.5: 13.9%
+  Over 2.5:  67.3%   |  Under 2.5: 32.7%
+  Over 3.5:  45.6%
+  BTTS Yes:  24.8%
+  Radomiak Radom to Score: 95.8%
+  Arka Gdynia to Score: 25.9%
+  Either Team To Score: 95.8%
+  Draw:      6.9%   |  DNB Home: 98.2%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 96.9%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.47
+  🟢🟢 [STRONG_YES  ] Radomiak Radom To Score        90.2%  [High Value]
+       ↳ HomeXG=3.17 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 86.1%  [High Value]
+       ↳ Very likely with combined xG=3.47
+  🟢🟢 [STRONG_YES  ] DNB - Radomiak Radom           77.0%  [High Value]
+       ↳ HomeWinProb=90.9% | HomeWinRate(home)=44%
+  🟢🟢 [STRONG_YES  ] Either Team To Score           76.2%  [High Value]
+       ↳ HomeBlankRate=18% AwayBlankRate=43% H2H-ETTS=100%
+  🟡   [BORDERLINE  ] BTTS - No                      59.7%  [Fair]
+       ↳ Low scoring match signal | Either team may blank
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 96.9% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Radomiak Radom vs Arka Gdynia  →  Over 0.5 Goals [STRONG_YES]  96.9% conf
+  • Radomiak Radom vs Arka Gdynia  →  Radomiak Radom To Score [STRONG_YES]  90.2% conf
+Radomiak Radom vs Arka Gdynia: Away Win - Very High Risk
+Home:34.77% vs Away:41.87% vs Draw:23.36% Diff: 7.11%
+Home Av Gls: 1.41 vs Away Av Gls: 0.9
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 1.17
+CEG: 2.31 | CEG+: 2.92
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 31.03% 
+Over 2 Gls: 10.48% 
+

@@ -1,0 +1,140 @@
+Tottenham vs Leeds: Home Win - Very High Risk
+Home:44.68% vs Away:35.85% vs Draw:19.47% Diff: 8.83%
+Home Av Gls: 1.53 vs Away Av Gls: 1.32
+Home Historical Av Gls: 1.79 vs Away Historical Av Gls: 1.33
+CEG: 2.85 | CEG+: 3.63
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 47.05% 
+Over 2 Gls: 21.3% 
+
+GOALS UNDERS
+Combined Avg: 2.94/game  (Home: 1.62  Away: 1.32)  CEG: 2.85  CEG+: 3.63
+Under 1.5: 22.3%  🔴 SKIP
+Under 2.5: 45.8%  🔴 SKIP
+Under 3.5: 68.1%  🔴 SKIP
+Under 4.5: 84%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.60/game  |  Away Avg: 1.57/game  |  Combined: 4.17/game  |  H2H Avg: 4.50/game (6 matches)
+Total Match Cards:
+  Over 3: 🟡72.5%   Over 4: 🟠55.1%   Over 5: 🔴43.5%   Over 6: 🔴27.5%
+Tottenham Cards:
+  Over 1: 🟢86.7%   Over 2: 🟢81.7%   Over 3: 🟠60.0%
+Leeds Cards:
+  Over 1: 🟢81.7%   Over 2: 🔴45.0%   Over 3: 🔴18.3%
+
+CORNERS
+Home Avg: 5.27/game  |  Away Avg: 4.52/game  |  Combined: 9.78/game  |  H2H Avg: 9.50/game (6 matches)
+  Over 7:  🟢78.3%   Over 8:  🟡71.0%   Over 9:  🟠59.4%   Over 10: 🟠50.7%   Over 11: 🔴39.1%
+
+═══════════════════════════════════════════════════════════
+
+Napoli vs Bologna: Home Win - High Risk
+Home:49.06% vs Away:34.08% vs Draw:16.86% Diff: 14.98%
+Home Av Gls: 1.37 vs Away Av Gls: 1.37
+Home Historical Av Gls: 1.93 vs Away Historical Av Gls: 1.25
+CEG: 2.74 | CEG+: 3.54
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 28.47% 
+Over 2 Gls: 9.08% 
+
+GOALS UNDERS
+Combined Avg: 2.90/game  (Home: 1.57  Away: 1.33)  CEG: 2.74  CEG+: 3.54
+Under 1.5: 24.1%  🔴 SKIP
+Under 2.5: 48.4%  🔴 SKIP
+Under 3.5: 70.5%  🔴 SKIP
+Under 4.5: 85.7%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.38/game  |  Away Avg: 1.94/game  |  Combined: 3.32/game  |  H2H Avg: 4.29/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡68.7%   Over 4: 🔴43.3%   Over 5: 🔴31.3%   Over 6: 🔴20.9%
+Napoli Cards:
+  Over 1: 🟡73.5%   Over 2: 🔴41.2%   Over 3: 🔴14.7%
+Bologna Cards:
+  Over 1: 🟢82.4%   Over 2: 🟠58.8%   Over 3: 🔴32.4%
+
+CORNERS
+Home Avg: 5.59/game  |  Away Avg: 4.59/game  |  Combined: 10.18/game  |  H2H Avg: 8.57/game (7 matches)
+  Over 7:  🟡73.1%   Over 8:  🟠61.2%   Over 9:  🔴46.3%   Over 10: 🔴34.3%   Over 11: 🔴29.9%
+
+═══════════════════════════════════════════════════════════
+
+Vallecano vs Girona: Home Win - No bet
+Home:37.83% vs Away:37.79% vs Draw:24.38% Diff: 0.03%
+Home Av Gls: 0.84 vs Away Av Gls: 1.54
+Home Historical Av Gls: 1.02 vs Away Historical Av Gls: 1.42
+CEG: 2.38 | CEG+: 2.99
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 38.52% 
+Over 2 Gls: 15.08% 
+
+GOALS UNDERS
+Combined Avg: 2.40/game  (Home: 0.90  Away: 1.50)  CEG: 2.38  CEG+: 2.99
+Under 1.5: 31.3%  🔴 SKIP
+Under 2.5: 57.5%  🟡 SIGNAL
+Under 3.5: 78.3%  🟡 SIGNAL
+Under 4.5: 90.7%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 3.03/game  |  Away Avg: 2.28/game  |  Combined: 5.31/game  |  H2H Avg: 4.17/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢80.6%   Over 4: 🟠64.2%   Over 5: 🔴47.8%   Over 6: 🔴32.8%
+Vallecano Cards:
+  Over 1: 🟢94.4%   Over 2: 🟡72.2%   Over 3: 🟠55.6%
+Girona Cards:
+  Over 1: 🟢88.9%   Over 2: 🟡66.7%   Over 3: 🔴33.3%
+
+CORNERS
+Home Avg: 5.83/game  |  Away Avg: 3.92/game  |  Combined: 9.75/game  |  H2H Avg: 6.83/game (6 matches)
+  Over 7:  🟢89.6%   Over 8:  🟢77.6%   Over 9:  🟡65.7%   Over 10: 🟠52.2%   Over 11: 🔴49.3%
+
+═══════════════════════════════════════════════════════════
+
+Millwall vs Hull: Home Win - High Risk
+Home:45.81% vs Away:34.59% vs Draw:19.6% Diff: 11.23%
+Home Av Gls: 1.11 vs Away Av Gls: 1.21
+Home Historical Av Gls: 1.13 vs Away Historical Av Gls: 1.23
+CEG: 2.32 | CEG+: 2.91
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 60/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 27% 
+Over 2 Gls: 8.32% 
+
+GOALS UNDERS
+Combined Avg: 2.34/game  (Home: 1.12  Away: 1.22)  CEG: 2.32  CEG+: 2.91
+Under 1.5: 32.6%  🔴 SKIP
+Under 2.5: 59.1%  🟡 SIGNAL
+Under 3.5: 79.5%  🟡 SIGNAL
+Under 4.5: 91.4%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.72/game  |  Away Avg: 1.99/game  |  Combined: 3.71/game  |  H2H Avg: 3.83/game (12 matches)
+Total Match Cards:
+  Over 3: 🟡71.7%   Over 4: 🔴48.0%   Over 5: 🔴29.5%   Over 6: 🔴17.3%
+Millwall Cards:
+  Over 1: 🟢82.2%   Over 2: 🔴48.8%   Over 3: 🔴25.6%
+Hull Cards:
+  Over 1: 🟢86.0%   Over 2: 🟠55.0%   Over 3: 🔴34.1%
+
+CORNERS
+Home Avg: 5.11/game  |  Away Avg: 4.83/game  |  Combined: 9.94/game  |  H2H Avg: 8.92/game (12 matches)
+  Over 7:  🟢90.8%   Over 8:  🟢80.3%   Over 9:  🟡66.5%   Over 10: 🟠61.8%   Over 11: 🟠50.3%
+
+═══════════════════════════════════════════════════════════
+

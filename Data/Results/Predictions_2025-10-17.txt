@@ -1,0 +1,56 @@
+Oviedo vs Espanol: Away Win - Moderate Risk
+Home:0% vs Away:51,35% vs Draw:48,65% Diff: 51,35%
+Home Av Gls: 0 vs Away Av Gls: 1,42
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1,11
+Over 1 Gls: 9,44% 
+Over 2 Gls: 1,55% 
+
+Union Berlin vs M'gladbach: Home Win - High Risk
+Home:43,7% vs Away:31,6% vs Draw:24,7% Diff: 12,11%
+Home Av Gls: 1,12 vs Away Av Gls: 1,57
+Home Historical Av Gls: 1,32 vs Away Historical Av Gls: 1,65
+Over 1 Gls: 39,49% 
+Over 2 Gls: 15,73% 
+
+Paris SG vs Strasbourg: Home Win - Low Risk
+Home:61,91% vs Away:23,08% vs Draw:15,01% Diff: 38,83%
+Home Av Gls: 2,27 vs Away Av Gls: 1,27
+Home Historical Av Gls: 2,52 vs Away Historical Av Gls: 1,32
+Over 1 Gls: 55,1% 
+Over 2 Gls: 28,2% 
+
+Drogheda vs Cork City: Home Win - Very High Risk
+Home:37,39% vs Away:30,72% vs Draw:31,88% Diff: 6,67%
+Home Av Gls: 1,19 vs Away Av Gls: 1,04
+Home Historical Av Gls: 1,09 vs Away Historical Av Gls: 1,42
+Over 1 Gls: 34,78% 
+Over 2 Gls: 12,68% 
+
+Galway vs Bohemians: Away Win - High Risk
+Home:29,86% vs Away:48,72% vs Draw:21,42% Diff: 18,87%
+Home Av Gls: 1 vs Away Av Gls: 1,27
+Home Historical Av Gls: 1,16 vs Away Historical Av Gls: 1,28
+Over 1 Gls: 30,58% 
+Over 2 Gls: 10,22% 
+
+Shelbourne vs Sligo Rovers: Home Win - High Risk
+Home:43,56% vs Away:30,16% vs Draw:26,28% Diff: 13,41%
+Home Av Gls: 1,15 vs Away Av Gls: 1,09
+Home Historical Av Gls: 1,09 vs Away Historical Av Gls: 1,14
+Over 1 Gls: 34,25% 
+Over 2 Gls: 12,36% 
+
+St. Patricks vs Shamrock Rovers: Away Win - Very High Risk
+Home:39,46% vs Away:45,28% vs Draw:15,26% Diff: 5,81%
+Home Av Gls: 1,52 vs Away Av Gls: 1,65
+Home Historical Av Gls: 1,35 vs Away Historical Av Gls: 1,67
+Over 1 Gls: 44,93% 
+Over 2 Gls: 19,65% 
+
+Waterford vs Derry City: Away Win - No bet
+Home:37,79% vs Away:42,42% vs Draw:19,79% Diff: 4,64%
+Home Av Gls: 1,14 vs Away Av Gls: 1,4
+Home Historical Av Gls: 1,18 vs Away Historical Av Gls: 1,41
+Over 1 Gls: 30,89% 
+Over 2 Gls: 10,4% 
+

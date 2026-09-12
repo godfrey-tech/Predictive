@@ -1,0 +1,21 @@
+Arsenal vs Liverpool: Home Win - High Risk
+Home:50.63% vs Away:38.74% vs Draw:10.63% Diff: 11.89%
+Home Av Gls: 2.06 vs Away Av Gls: 2.16
+Home Historical Av Gls: 1.89 vs Away Historical Av Gls: 2.16
+Over 1 Gls: 57.93% 
+Over 2 Gls: 30.89% 
+
+Cremonese vs Cagliari: Away Win - Very High Risk
+Home:32.25% vs Away:37.95% vs Draw:29.8% Diff: 5.7%
+Home Av Gls: 1.06 vs Away Av Gls: 1.16
+Home Historical Av Gls: 0.98 vs Away Historical Av Gls: 1.11
+Over 1 Gls: 19.94% 
+Over 2 Gls: 5.07% 
+
+Milan vs Genoa: Home Win - Moderate Risk
+Home:54.94% vs Away:23.59% vs Draw:21.48% Diff: 31.35%
+Home Av Gls: 1.93 vs Away Av Gls: 1.13
+Home Historical Av Gls: 1.66 vs Away Historical Av Gls: 1.06
+Over 1 Gls: 56% 
+Over 2 Gls: 29.04% 
+

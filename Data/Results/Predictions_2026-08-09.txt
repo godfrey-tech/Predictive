@@ -1,0 +1,315 @@
+Cambuur vs Excelsior: Away Win - Moderate Risk
+Home:11.51% vs Away:57.12% vs Draw:31.37% Diff: 45.62%
+Home Av Gls: 0 vs Away Av Gls: 1.31
+Home Historical Av Gls: 1.16 vs Away Historical Av Gls: 1.25
+CEG: 1.31 | CEG+: 1.91
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 10.89% 
+Over 2 Gls: 1.93% 
+
+GOALS UNDERS
+Combined Avg: 1.69/game  (Home: 0.41  Away: 1.29)  CEG: 1.31  CEG+: 1.91
+Under 1.5: 62.3%  🔴 SKIP
+Under 2.5: 85.5%  🟢 STRONG
+Under 3.5: 95.6%  🟢 STRONG
+Under 4.5: 98.9%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 1.32/game  |  Combined: 3.22/game
+Total Match Cards:
+  Over 3: 🟠55.9%   Over 4: 🔴35.3%   Over 5: 🔴17.6%   Over 6: 🔴5.9%
+Cambuur Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+Excelsior Cards:
+  Over 1: 🟢76.5%   Over 2: 🔴29.4%   Over 3: 🔴17.6%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.09/game  |  Combined: 8.59/game
+  Over 7:  🟢79.4%   Over 8:  🟠64.7%   Over 9:  🟠55.9%   Over 10: 🔴44.1%   Over 11: 🔴32.4%
+
+═══════════════════════════════════════════════════════════
+
+Nijmegen vs Telstar: Home Win - No bet
+Home:40.54% vs Away:37.22% vs Draw:22.24% Diff: 3.32%
+Home Av Gls: 2.22 vs Away Av Gls: 1.44
+Home Historical Av Gls: 1.51 vs Away Historical Av Gls: 1.44
+CEG: 3.66 | CEG+: 4.4
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 65/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 50.8% 
+Over 2 Gls: 24.38% 
+
+GOALS UNDERS
+Combined Avg: 3.41/game  (Home: 1.97  Away: 1.44)  CEG: 3.66  CEG+: 4.40
+Under 1.5: 12%  🔴 SKIP
+Under 2.5: 29.2%  🔴 SKIP
+Under 3.5: 50.3%  🔴 SKIP
+Under 4.5: 69.5%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.82/game  |  Away Avg: 1.32/game  |  Combined: 3.15/game
+Total Match Cards:
+  Over 3: 🟡68.2%   Over 4: 🔴37.9%   Over 5: 🔴34.8%   Over 6: 🔴16.7%
+Nijmegen Cards:
+  Over 1: 🟢88.2%   Over 2: 🟠52.9%   Over 3: 🔴23.5%
+Telstar Cards:
+  Over 1: 🟢79.4%   Over 2: 🔴41.2%   Over 3: 🔴11.8%
+
+CORNERS
+Home Avg: 6.12/game  |  Away Avg: 4.74/game  |  Combined: 10.85/game
+  Over 7:  🟢86.4%   Over 8:  🟢78.8%   Over 9:  🟡71.2%   Over 10: 🟠59.1%   Over 11: 🟠53.0%
+
+═══════════════════════════════════════════════════════════
+
+Go Ahead Eagles vs Willem II: Draw - High Risk
+Home:41.93% vs Away:16.02% vs Draw:42.04% Diff: 25.91%
+Home Av Gls: 1.45 vs Away Av Gls: 0
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 1.26
+CEG: 1.45 | CEG+: 2.08
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 12.55% 
+Over 2 Gls: 2.42% 
+
+GOALS UNDERS
+Combined Avg: 1.83/game  (Home: 1.39  Away: 0.44)  CEG: 1.45  CEG+: 2.08
+Under 1.5: 57.5%  🔴 SKIP
+Under 2.5: 82.1%  🟢 STRONG
+Under 3.5: 94%  🟢 STRONG
+Under 4.5: 98.4%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.71/game  |  Away Avg: 1.90/game  |  Combined: 3.61/game
+Total Match Cards:
+  Over 3: 🟠61.8%   Over 4: 🔴35.3%   Over 5: 🔴23.5%   Over 6: 🔴14.7%
+Go Ahead Eagles Cards:
+  Over 1: 🟢79.4%   Over 2: 🔴41.2%   Over 3: 🔴20.6%
+Willem II Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 5.44/game  |  Away Avg: 4.50/game  |  Combined: 9.94/game
+  Over 7:  🟢94.1%   Over 8:  🟢85.3%   Over 9:  🟢85.3%   Over 10: 🟡70.6%   Over 11: 🟠61.8%
+
+═══════════════════════════════════════════════════════════
+
+PSV Eindhoven vs For Sittard: Home Win - Low Risk
+Home:66.41% vs Away:22.29% vs Draw:11.29% Diff: 44.12%
+Home Av Gls: 3.05 vs Away Av Gls: 1.34
+Home Historical Av Gls: 2.58 vs Away Historical Av Gls: 1.26
+CEG: 4.4 | CEG+: 5.36
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 66.46% 
+Over 2 Gls: 39.88% 
+
+GOALS UNDERS
+Combined Avg: 4.20/game  (Home: 2.89  Away: 1.32)  CEG: 4.40  CEG+: 5.36
+Under 1.5: 6.6%  🔴 SKIP
+Under 2.5: 18.5%  🔴 SKIP
+Under 3.5: 35.9%  🔴 SKIP
+Under 4.5: 55.1%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.50/game  |  Away Avg: 2.12/game  |  Combined: 3.62/game  |  H2H Avg: 2.12/game (8 matches)
+Total Match Cards:
+  Over 3: 🟠60.6%   Over 4: 🔴33.3%   Over 5: 🔴25.8%   Over 6: 🔴16.7%
+PSV Eindhoven Cards:
+  Over 1: 🟢76.5%   Over 2: 🔴35.3%   Over 3: 🔴14.7%
+For Sittard Cards:
+  Over 1: 🟢91.2%   Over 2: 🟡67.6%   Over 3: 🔴41.2%
+
+CORNERS
+Home Avg: 7.15/game  |  Away Avg: 4.32/game  |  Combined: 11.47/game  |  H2H Avg: 12.38/game (8 matches)
+  Over 7:  🟢95.5%   Over 8:  🟢86.4%   Over 9:  🟢75.8%   Over 10: 🟡68.2%   Over 11: 🟠59.1%
+
+═══════════════════════════════════════════════════════════
+
+AZ Alkmaar vs Den Haag: Home Win - Low Risk
+Home:60.29% vs Away:10.85% vs Draw:28.85% Diff: 49.44%
+Home Av Gls: 1.75 vs Away Av Gls: 0
+Home Historical Av Gls: 1.96 vs Away Historical Av Gls: 1.19
+CEG: 1.75 | CEG+: 2.53
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 17.05% 
+Over 2 Gls: 3.94% 
+
+GOALS UNDERS
+Combined Avg: 2.23/game  (Home: 1.82  Away: 0.42)  CEG: 1.75  CEG+: 2.53
+Under 1.5: 47.8%  🔴 SKIP
+Under 2.5: 74.4%  🟢 STRONG
+Under 3.5: 89.9%  🟢 STRONG
+Under 4.5: 96.7%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.88/game  |  Away Avg: 1.90/game  |  Combined: 3.78/game
+Total Match Cards:
+  Over 3: 🟡73.5%   Over 4: 🔴38.2%   Over 5: 🔴20.6%   Over 6: 🔴17.6%
+AZ Alkmaar Cards:
+  Over 1: 🟢76.5%   Over 2: 🟠52.9%   Over 3: 🔴29.4%
+Den Haag Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 5.76/game  |  Away Avg: 4.50/game  |  Combined: 10.26/game
+  Over 7:  🟢88.2%   Over 8:  🟢79.4%   Over 9:  🟢76.5%   Over 10: 🟠55.9%   Over 11: 🔴35.3%
+
+═══════════════════════════════════════════════════════════
+
+Sparta Rotterdam vs Feyenoord: Away Win - Moderate Risk
+Home:26.38% vs Away:59.3% vs Draw:14.32% Diff: 32.92%
+Home Av Gls: 1.36 vs Away Av Gls: 2.22
+Home Historical Av Gls: 1.32 vs Away Historical Av Gls: 2.25
+CEG: 3.59 | CEG+: 4.48
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 49.95% 
+Over 2 Gls: 23.66% 
+
+GOALS UNDERS
+Combined Avg: 3.58/game  (Home: 1.35  Away: 2.23)  CEG: 3.59  CEG+: 4.48
+Under 1.5: 12.7%  🔴 SKIP
+Under 2.5: 30.5%  🔴 SKIP
+Under 3.5: 51.7%  🔴 SKIP
+Under 4.5: 70.8%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.94/game  |  Away Avg: 1.68/game  |  Combined: 3.62/game  |  H2H Avg: 2.38/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡65.2%   Over 4: 🟠51.5%   Over 5: 🔴31.8%   Over 6: 🔴21.2%
+Sparta Rotterdam Cards:
+  Over 1: 🟢94.1%   Over 2: 🟠55.9%   Over 3: 🔴29.4%
+Feyenoord Cards:
+  Over 1: 🟢76.5%   Over 2: 🔴41.2%   Over 3: 🔴29.4%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 7.24/game  |  Combined: 11.74/game  |  H2H Avg: 11.12/game (8 matches)
+  Over 7:  🟢92.4%   Over 8:  🟢84.8%   Over 9:  🟢78.8%   Over 10: 🟠62.1%   Over 11: 🟠51.5%
+
+═══════════════════════════════════════════════════════════
+
+Groningen vs Utrecht: Away Win - High Risk
+Home:35.98% vs Away:47.73% vs Draw:16.29% Diff: 11.76%
+Home Av Gls: 1.44 vs Away Av Gls: 1.66
+Home Historical Av Gls: 1.26 vs Away Historical Av Gls: 1.63
+CEG: 3.1 | CEG+: 3.82
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 40.76% 
+Over 2 Gls: 16.61% 
+
+GOALS UNDERS
+Combined Avg: 3.03/game  (Home: 1.38  Away: 1.65)  CEG: 3.10  CEG+: 3.82
+Under 1.5: 18.5%  🔴 SKIP
+Under 2.5: 40.1%  🔴 SKIP
+Under 3.5: 62.5%  🔴 SKIP
+Under 4.5: 79.8%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.76/game  |  Away Avg: 1.53/game  |  Combined: 3.29/game  |  H2H Avg: 4.17/game (6 matches)
+Total Match Cards:
+  Over 3: 🟡66.7%   Over 4: 🔴40.9%   Over 5: 🔴19.7%   Over 6: 🔴12.1%
+Groningen Cards:
+  Over 1: 🟢85.3%   Over 2: 🟠52.9%   Over 3: 🔴23.5%
+Utrecht Cards:
+  Over 1: 🟢82.4%   Over 2: 🔴47.1%   Over 3: 🔴17.6%
+
+CORNERS
+Home Avg: 6.24/game  |  Away Avg: 5.18/game  |  Combined: 11.41/game  |  H2H Avg: 8.83/game (6 matches)
+  Over 7:  🟢92.4%   Over 8:  🟢80.3%   Over 9:  🟡74.2%   Over 10: 🟠59.1%   Over 11: 🔴45.5%
+
+═══════════════════════════════════════════════════════════
+
+Zwolle vs Ajax: Away Win - Moderate Risk
+Home:25.26% vs Away:51.4% vs Draw:23.34% Diff: 26.14%
+Home Av Gls: 1.33 vs Away Av Gls: 2.05
+Home Historical Av Gls: 1.22 vs Away Historical Av Gls: 2.61
+CEG: 3.38 | CEG+: 4.34
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 65/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 45.71% 
+Over 2 Gls: 20.25% 
+
+GOALS UNDERS
+Combined Avg: 3.54/game  (Home: 1.29  Away: 2.25)  CEG: 3.38  CEG+: 4.34
+Under 1.5: 14.9%  🔴 SKIP
+Under 2.5: 34.4%  🔴 SKIP
+Under 3.5: 56.3%  🔴 SKIP
+Under 4.5: 74.8%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.76/game  |  Away Avg: 1.76/game  |  Combined: 3.53/game  |  H2H Avg: 3.67/game (6 matches)
+Total Match Cards:
+  Over 3: 🟡65.2%   Over 4: 🔴39.4%   Over 5: 🔴25.8%   Over 6: 🔴16.7%
+Zwolle Cards:
+  Over 1: 🟢82.4%   Over 2: 🟠52.9%   Over 3: 🔴32.4%
+Ajax Cards:
+  Over 1: 🟢76.5%   Over 2: 🟠55.9%   Over 3: 🔴26.5%
+
+CORNERS
+Home Avg: 3.59/game  |  Away Avg: 4.82/game  |  Combined: 8.41/game  |  H2H Avg: 7.50/game (6 matches)
+  Over 7:  🟢81.8%   Over 8:  🟡72.7%   Over 9:  🟠62.1%   Over 10: 🟠51.5%   Over 11: 🔴39.4%
+
+═══════════════════════════════════════════════════════════
+
+Heerenveen vs Twente: Away Win - Very High Risk
+Home:34.34% vs Away:43.61% vs Draw:22.05% Diff: 9.28%
+Home Av Gls: 1.67 vs Away Av Gls: 1.84
+Home Historical Av Gls: 1.48 vs Away Historical Av Gls: 1.58
+CEG: 3.52 | CEG+: 4.28
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 48.26% 
+Over 2 Gls: 22.27% 
+
+GOALS UNDERS
+Combined Avg: 3.36/game  (Home: 1.60  Away: 1.75)  CEG: 3.52  CEG+: 4.28
+Under 1.5: 13.4%  🔴 SKIP
+Under 2.5: 31.7%  🔴 SKIP
+Under 3.5: 53.2%  🔴 SKIP
+Under 4.5: 72.2%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.56/game  |  Away Avg: 1.38/game  |  Combined: 2.94/game  |  H2H Avg: 3.62/game (8 matches)
+Total Match Cards:
+  Over 3: 🟠59.1%   Over 4: 🔴33.3%   Over 5: 🔴22.7%   Over 6: 🔴13.6%
+Heerenveen Cards:
+  Over 1: 🟢88.2%   Over 2: 🔴41.2%   Over 3: 🔴20.6%
+Twente Cards:
+  Over 1: 🟡73.5%   Over 2: 🔴32.4%   Over 3: 🔴17.6%
+
+CORNERS
+Home Avg: 5.56/game  |  Away Avg: 5.35/game  |  Combined: 10.91/game  |  H2H Avg: 10.62/game (8 matches)
+  Over 7:  🟢89.4%   Over 8:  🟢77.3%   Over 9:  🟡66.7%   Over 10: 🔴48.5%   Over 11: 🔴40.9%
+
+═══════════════════════════════════════════════════════════
+

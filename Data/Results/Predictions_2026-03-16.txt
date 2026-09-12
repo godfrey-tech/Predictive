@@ -1,0 +1,99 @@
+Brentford vs Wolves: Home Win - No bet
+Home:42.59% vs Away:39.87% vs Draw:17.54% Diff: 2.72%
+Home Av Gls: 1.48 vs Away Av Gls: 0.89
+Home Historical Av Gls: 1.45 vs Away Historical Av Gls: 1.02
+CEG: 2.37 | CEG+: 2.98
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 20/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 38.44% 
+Over 2 Gls: 15.02% 
+
+Vallecano vs Levante: Home Win - Very High Risk
+Home:38.39% vs Away:28.53% vs Draw:33.08% Diff: 9.86%
+Home Av Gls: 0.8 vs Away Av Gls: 1.1
+Home Historical Av Gls: 1.02 vs Away Historical Av Gls: 1.27
+CEG: 1.91 | CEG+: 2.48
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 43.85% 
+Over 2 Gls: 18.84% 
+
+Cremonese vs Fiorentina: Away Win - High Risk
+Home:19.9% vs Away:46.26% vs Draw:33.84% Diff: 26.36%
+Home Av Gls: 0.79 vs Away Av Gls: 1.3
+Home Historical Av Gls: 0.88 vs Away Historical Av Gls: 1.39
+CEG: 2.09 | CEG+: 2.66
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 18.94% 
+Over 2 Gls: 4.67% 
+
+Drogheda vs Shamrock Rovers: Away Win - High Risk
+Home:28.85% vs Away:48.21% vs Draw:22.94% Diff: 19.36%
+Home Av Gls: 1.14 vs Away Av Gls: 1.51
+Home Historical Av Gls: 1.07 vs Away Historical Av Gls: 1.64
+CEG: 2.65 | CEG+: 3.33
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 30.96% 
+Over 2 Gls: 10.44% 
+
+Dundalk vs Sligo Rovers: Away Win - No bet
+Home:34.63% vs Away:38.3% vs Draw:27.08% Diff: 3.67%
+Home Av Gls: 0.78 vs Away Av Gls: 1.1
+Home Historical Av Gls: 1.66 vs Away Historical Av Gls: 1.13
+CEG: 1.88 | CEG+: 2.58
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 24.61% 
+Over 2 Gls: 7.15% 
+
+Shelbourne vs Bohemians: Away Win - Very High Risk
+Home:36.49% vs Away:45.62% vs Draw:17.89% Diff: 9.14%
+Home Av Gls: 1.26 vs Away Av Gls: 1.29
+Home Historical Av Gls: 1.14 vs Away Historical Av Gls: 1.31
+CEG: 2.55 | CEG+: 3.16
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 60/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 37.07% 
+Over 2 Gls: 14.13% 
+
+St. Patricks vs Derry City: Home Win - No bet
+Home:41.19% vs Away:40.7% vs Draw:18.12% Diff: 0.49%
+Home Av Gls: 1.27 vs Away Av Gls: 1.44
+Home Historical Av Gls: 1.33 vs Away Historical Av Gls: 1.42
+CEG: 2.71 | CEG+: 3.4
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 34.28% 
+Over 2 Gls: 12.38% 
+
+Galway vs Waterford: Away Win - No bet
+Home:36.2% vs Away:37.42% vs Draw:26.39% Diff: 1.22%
+Home Av Gls: 0.95 vs Away Av Gls: 1.14
+Home Historical Av Gls: 1.08 vs Away Historical Av Gls: 1.17
+CEG: 2.09 | CEG+: 2.65
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 29.19% 
+Over 2 Gls: 9.47% 
+
+Pogon Szczecin vs Korona Kielce: Home Win - Moderate Risk
+Home:53.13% vs Away:27.04% vs Draw:19.84% Diff: 26.09%
+Home Av Gls: 1.63 vs Away Av Gls: 1.11
+Home Historical Av Gls: 1.46 vs Away Historical Av Gls: 1.13
+CEG: 2.74 | CEG+: 3.39
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 38.44% 
+Over 2 Gls: 15.03% 
+

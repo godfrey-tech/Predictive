@@ -1,0 +1,54 @@
+Portsmouth vs Ipswich: Away Win - Moderate Risk
+Home:25.47% vs Away:51.4% vs Draw:23.13% Diff: 25.94%
+Home Av Gls: 1.18 vs Away Av Gls: 1.83
+Home Historical Av Gls: 1.18 vs Away Historical Av Gls: 1.35
+CEG: 3.02 | CEG+: 3.65
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 65/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 39.12% 
+Over 2 Gls: 15.48% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.30/game  |  Away Avg: 1.79/game  |  Combined: 4.10/game
+Total Match Cards:
+  Over 3: 🟢78.9%   Over 4: 🟠59.3%   Over 5: 🔴37.4%   Over 6: 🔴26.8%
+Portsmouth Cards:
+  Over 1: 🟢93.8%   Over 2: 🟡69.8%   Over 3: 🔴40.3%
+Ipswich Cards:
+  Over 1: 🟢87.2%   Over 2: 🟠51.3%   Over 3: 🔴25.6%
+
+CORNERS
+Home Avg: 5.88/game  |  Away Avg: 5.77/game  |  Combined: 11.65/game
+  Over 7:  🟢88.6%   Over 8:  🟢81.3%   Over 9:  🟡73.2%   Over 10: 🟠56.1%   Over 11: 🔴43.9%
+
+
+Southampton vs Blackburn: Home Win - Moderate Risk
+Home:57.07% vs Away:28.11% vs Draw:14.83% Diff: 28.96%
+Home Av Gls: 1.82 vs Away Av Gls: 1.11
+Home Historical Av Gls: 1.8 vs Away Historical Av Gls: 1.24
+CEG: 2.93 | CEG+: 3.69
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 44.95% 
+Over 2 Gls: 19.67% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.95/game  |  Away Avg: 2.15/game  |  Combined: 4.10/game  |  H2H Avg: 5.33/game (3 matches)
+Total Match Cards:
+  Over 3: 🟡73.6%   Over 4: 🟠56.0%   Over 5: 🔴32.8%   Over 6: 🔴20.0%
+Southampton Cards:
+  Over 1: 🟢90.0%   Over 2: 🟠62.5%   Over 3: 🔴27.5%
+Blackburn Cards:
+  Over 1: 🟢85.4%   Over 2: 🟡66.9%   Over 3: 🔴40.8%
+
+CORNERS
+Home Avg: 5.58/game  |  Away Avg: 4.78/game  |  Combined: 10.35/game  |  H2H Avg: 11.00/game (3 matches)
+  Over 7:  🟢92.8%   Over 8:  🟢84.0%   Over 9:  🟡73.6%   Over 10: 🟠59.2%   Over 11: 🔴45.6%
+
+

@@ -1,0 +1,420 @@
+Alaves vs Vallecano: Home Win - High Risk
+Home:44.48% vs Away:33.29% vs Draw:22.23% Diff: 11.19%
+Home Av Gls: 1.09 vs Away Av Gls: 0.86
+Home Historical Av Gls: 0.99 vs Away Historical Av Gls: 1.03
+CEG: 1.95 | CEG+: 2.46
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 21.36% 
+Over 2 Gls: 5.67% 
+
+GOALS UNDERS
+Combined Avg: 1.98/game  (Home: 1.06  Away: 0.92)  CEG: 1.95  CEG+: 2.46
+Under 1.5: 42%  🔴 SKIP
+Under 2.5: 69%  🟢 STRONG
+Under 3.5: 86.6%  🟢 STRONG
+Under 4.5: 95.2%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.56/game  |  Away Avg: 2.90/game  |  Combined: 5.46/game  |  H2H Avg: 4.40/game (5 matches)
+Total Match Cards:
+  Over 3: 🟢80.8%   Over 4: 🟡72.6%   Over 5: 🟠56.2%   Over 6: 🔴34.2%
+Alaves Cards:
+  Over 1: 🟢92.3%   Over 2: 🟡71.8%   Over 3: 🔴46.2%
+Vallecano Cards:
+  Over 1: 🟢94.9%   Over 2: 🟡69.2%   Over 3: 🟠51.3%
+
+CORNERS
+Home Avg: 4.97/game  |  Away Avg: 5.67/game  |  Combined: 10.64/game  |  H2H Avg: 11.20/game (5 matches)
+  Over 7:  🟢89.0%   Over 8:  🟢76.7%   Over 9:  🟡68.5%   Over 10: 🟠57.5%   Over 11: 🟠50.7%
+
+═══════════════════════════════════════════════════════════
+
+Betis vs Levante: Away Win - Very High Risk
+Home:34.81% vs Away:42.76% vs Draw:22.42% Diff: 7.95%
+Home Av Gls: 1.41 vs Away Av Gls: 1.26
+Home Historical Av Gls: 1.34 vs Away Historical Av Gls: 1.29
+CEG: 2.67 | CEG+: 3.32
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 44.12% 
+Over 2 Gls: 19.05% 
+
+GOALS UNDERS
+Combined Avg: 2.65/game  (Home: 1.38  Away: 1.27)  CEG: 2.67  CEG+: 3.32
+Under 1.5: 25.4%  🔴 SKIP
+Under 2.5: 50.1%  🔴 SKIP
+Under 3.5: 72.1%  🟡 SIGNAL
+Under 4.5: 86.7%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.97/game  |  Away Avg: 2.33/game  |  Combined: 4.31/game  |  H2H Avg: 4.67/game (3 matches)
+Total Match Cards:
+  Over 3: 🟢80.8%   Over 4: 🟡68.5%   Over 5: 🟠52.1%   Over 6: 🔴37.0%
+Betis Cards:
+  Over 1: 🟢84.6%   Over 2: 🟠53.8%   Over 3: 🔴35.9%
+Levante Cards:
+  Over 1: 🟢94.9%   Over 2: 🟡74.4%   Over 3: 🔴46.2%
+
+CORNERS
+Home Avg: 4.49/game  |  Away Avg: 3.97/game  |  Combined: 8.46/game  |  H2H Avg: 13.67/game (3 matches)
+  Over 7:  🟢84.9%   Over 8:  🟡71.2%   Over 9:  🟠57.5%   Over 10: 🔴46.6%   Over 11: 🔴32.9%
+
+═══════════════════════════════════════════════════════════
+
+Celta vs Sevilla: Away Win - No bet
+Home:35.9% vs Away:40.8% vs Draw:23.3% Diff: 4.9%
+Home Av Gls: 1.35 vs Away Av Gls: 1.21
+Home Historical Av Gls: 1.29 vs Away Historical Av Gls: 1.41
+CEG: 2.56 | CEG+: 3.23
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 37.36% 
+Over 2 Gls: 14.32% 
+
+GOALS UNDERS
+Combined Avg: 2.61/game  (Home: 1.33  Away: 1.28)  CEG: 2.56  CEG+: 3.23
+Under 1.5: 27.5%  🔴 SKIP
+Under 2.5: 52.9%  🔴 SKIP
+Under 3.5: 74.5%  🟡 SIGNAL
+Under 4.5: 88.3%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.03/game  |  Away Avg: 3.00/game  |  Combined: 5.03/game  |  H2H Avg: 6.43/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢87.7%   Over 4: 🟡65.8%   Over 5: 🔴45.2%   Over 6: 🔴37.0%
+Celta Cards:
+  Over 1: 🟢92.3%   Over 2: 🟠56.4%   Over 3: 🔴35.9%
+Sevilla Cards:
+  Over 1: 🟢100.0%   Over 2: 🟢79.5%   Over 3: 🟠51.3%
+
+CORNERS
+Home Avg: 3.92/game  |  Away Avg: 4.74/game  |  Combined: 8.67/game  |  H2H Avg: 9.43/game (7 matches)
+  Over 7:  🟢75.3%   Over 8:  🟠63.0%   Over 9:  🔴47.9%   Over 10: 🔴41.1%   Over 11: 🔴31.5%
+
+═══════════════════════════════════════════════════════════
+
+Espanol vs Sociedad: Home Win - High Risk
+Home:43.13% vs Away:32.88% vs Draw:24% Diff: 10.25%
+Home Av Gls: 1.18 vs Away Av Gls: 1.39
+Home Historical Av Gls: 1.12 vs Away Historical Av Gls: 1.42
+CEG: 2.57 | CEG+: 3.21
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 42.97% 
+Over 2 Gls: 18.19% 
+
+GOALS UNDERS
+Combined Avg: 2.56/game  (Home: 1.16  Away: 1.40)  CEG: 2.57  CEG+: 3.21
+Under 1.5: 27.3%  🔴 SKIP
+Under 2.5: 52.6%  🔴 SKIP
+Under 3.5: 74.3%  🟡 SIGNAL
+Under 4.5: 88.2%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.56/game  |  Away Avg: 2.38/game  |  Combined: 4.95/game  |  H2H Avg: 4.17/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢82.2%   Over 4: 🟡65.8%   Over 5: 🟠52.1%   Over 6: 🔴41.1%
+Espanol Cards:
+  Over 1: 🟢89.7%   Over 2: 🟡69.2%   Over 3: 🔴46.2%
+Sociedad Cards:
+  Over 1: 🟢97.4%   Over 2: 🟢76.9%   Over 3: 🔴33.3%
+
+CORNERS
+Home Avg: 4.56/game  |  Away Avg: 5.59/game  |  Combined: 10.15/game  |  H2H Avg: 7.33/game (6 matches)
+  Over 7:  🟢82.2%   Over 8:  🟡72.6%   Over 9:  🟠60.3%   Over 10: 🟠50.7%   Over 11: 🔴41.1%
+
+═══════════════════════════════════════════════════════════
+
+Getafe vs Osasuna: Home Win - Very High Risk
+Home:40.3% vs Away:34.34% vs Draw:25.36% Diff: 5.96%
+Home Av Gls: 0.97 vs Away Av Gls: 1.18
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 1.07
+CEG: 2.15 | CEG+: 2.67
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 32.91% 
+Over 2 Gls: 11.56% 
+
+GOALS UNDERS
+Combined Avg: 2.12/game  (Home: 0.98  Away: 1.14)  CEG: 2.15  CEG+: 2.67
+Under 1.5: 36.7%  🔴 SKIP
+Under 2.5: 63.6%  🟡 SIGNAL
+Under 3.5: 82.9%  🟢 STRONG
+Under 4.5: 93.3%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 3.13/game  |  Away Avg: 2.51/game  |  Combined: 5.64/game  |  H2H Avg: 6.86/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢91.8%   Over 4: 🟢80.8%   Over 5: 🟠58.9%   Over 6: 🔴46.6%
+Getafe Cards:
+  Over 1: 🟢97.4%   Over 2: 🟢89.7%   Over 3: 🟠51.3%
+Osasuna Cards:
+  Over 1: 🟢97.4%   Over 2: 🟢79.5%   Over 3: 🔴43.6%
+
+CORNERS
+Home Avg: 4.28/game  |  Away Avg: 3.64/game  |  Combined: 7.92/game  |  H2H Avg: 6.86/game (7 matches)
+  Over 7:  🟢78.1%   Over 8:  🟡65.8%   Over 9:  🔴49.3%   Over 10: 🔴35.6%   Over 11: 🔴23.3%
+
+═══════════════════════════════════════════════════════════
+
+Mallorca vs Oviedo: Home Win - High Risk
+Home:40.95% vs Away:21.89% vs Draw:37.16% Diff: 19.05%
+Home Av Gls: 1 vs Away Av Gls: 0.67
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 0.67
+CEG: 1.67 | CEG+: 2.08
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:True | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 13.02% 
+Over 2 Gls: 2.57% 
+
+GOALS UNDERS
+Combined Avg: 1.67/game  (Home: 1.00  Away: 0.67)  CEG: 1.67  CEG+: 2.08
+Under 1.5: 50.3%  🔴 SKIP
+Under 2.5: 76.5%  🟢 STRONG
+Under 3.5: 91.1%  🟢 STRONG
+Under 4.5: 97.2%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.38/game  |  Away Avg: 2.44/game  |  Combined: 4.82/game
+Total Match Cards:
+  Over 3: 🟢78.1%   Over 4: 🟠58.9%   Over 5: 🔴41.1%   Over 6: 🔴26.0%
+Mallorca Cards:
+  Over 1: 🟢84.6%   Over 2: 🟠61.5%   Over 3: 🔴43.6%
+Oviedo Cards:
+  Over 1: 🟢94.9%   Over 2: 🟢79.5%   Over 3: 🔴41.0%
+
+CORNERS
+Home Avg: 3.62/game  |  Away Avg: 3.77/game  |  Combined: 7.38/game
+  Over 7:  🟢87.7%   Over 8:  🟢76.7%   Over 9:  🟡69.9%   Over 10: 🟠50.7%   Over 11: 🔴39.7%
+
+═══════════════════════════════════════════════════════════
+
+Real Madrid vs Ath Bilbao: Home Win - Moderate Risk
+Home:58.55% vs Away:28.45% vs Draw:13% Diff: 30.1%
+Home Av Gls: 2.14 vs Away Av Gls: 1.33
+Home Historical Av Gls: 2.1 vs Away Historical Av Gls: 1.22
+CEG: 3.47 | CEG+: 4.3
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 57.09% 
+Over 2 Gls: 30.07% 
+
+GOALS UNDERS
+Combined Avg: 3.42/game  (Home: 2.12  Away: 1.29)  CEG: 3.47  CEG+: 4.30
+Under 1.5: 13.9%  🔴 SKIP
+Under 2.5: 32.6%  🔴 SKIP
+Under 3.5: 54.3%  🔴 SKIP
+Under 4.5: 73.1%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.95/game  |  Away Avg: 2.23/game  |  Combined: 4.18/game  |  H2H Avg: 3.86/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡74.0%   Over 4: 🟠60.3%   Over 5: 🔴46.6%   Over 6: 🔴30.1%
+Real Madrid Cards:
+  Over 1: 🟢87.2%   Over 2: 🟠51.3%   Over 3: 🔴17.9%
+Ath Bilbao Cards:
+  Over 1: 🟢79.5%   Over 2: 🟡66.7%   Over 3: 🔴41.0%
+
+CORNERS
+Home Avg: 6.49/game  |  Away Avg: 5.92/game  |  Combined: 12.41/game  |  H2H Avg: 11.43/game (7 matches)
+  Over 7:  🟢86.3%   Over 8:  🟢78.1%   Over 9:  🟡68.5%   Over 10: 🟠53.4%   Over 11: 🔴42.5%
+
+═══════════════════════════════════════════════════════════
+
+Valencia vs Barcelona: Away Win - Moderate Risk
+Home:30.86% vs Away:57.49% vs Draw:11.65% Diff: 26.63%
+Home Av Gls: 1.06 vs Away Av Gls: 2.36
+Home Historical Av Gls: 1.29 vs Away Historical Av Gls: 2.31
+CEG: 3.42 | CEG+: 4.32
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 45.72% 
+Over 2 Gls: 20.26% 
+
+GOALS UNDERS
+Combined Avg: 3.49/game  (Home: 1.14  Away: 2.35)  CEG: 3.42  CEG+: 4.32
+Under 1.5: 14.5%  🔴 SKIP
+Under 2.5: 33.6%  🔴 SKIP
+Under 3.5: 55.4%  🔴 SKIP
+Under 4.5: 74%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.92/game  |  Away Avg: 1.59/game  |  Combined: 3.51/game  |  H2H Avg: 4.00/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢78.1%   Over 4: 🟠57.5%   Over 5: 🔴42.5%   Over 6: 🔴31.5%
+Valencia Cards:
+  Over 1: 🟢100.0%   Over 2: 🟠53.8%   Over 3: 🔴25.6%
+Barcelona Cards:
+  Over 1: 🟢79.5%   Over 2: 🔴43.6%   Over 3: 🔴15.4%
+
+CORNERS
+Home Avg: 5.08/game  |  Away Avg: 6.95/game  |  Combined: 12.03/game  |  H2H Avg: 11.14/game (7 matches)
+  Over 7:  🟢86.3%   Over 8:  🟢78.1%   Over 9:  🟡71.2%   Over 10: 🟠56.2%   Over 11: 🔴47.9%
+
+═══════════════════════════════════════════════════════════
+
+Girona vs Elche: Home Win - No bet
+Home:36.8% vs Away:36.29% vs Draw:26.91% Diff: 0.52%
+Home Av Gls: 1.5 vs Away Av Gls: 1.28
+Home Historical Av Gls: 1.41 vs Away Historical Av Gls: 1.01
+CEG: 2.78 | CEG+: 3.39
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 100/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 27.17% 
+Over 2 Gls: 8.41% 
+
+GOALS UNDERS
+Combined Avg: 2.65/game  (Home: 1.47  Away: 1.19)  CEG: 2.78  CEG+: 3.39
+Under 1.5: 23.5%  🔴 SKIP
+Under 2.5: 47.4%  🔴 SKIP
+Under 3.5: 69.6%  🔴 SKIP
+Under 4.5: 85.1%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.18/game  |  Away Avg: 2.18/game  |  Combined: 4.36/game  |  H2H Avg: 5.00/game (3 matches)
+Total Match Cards:
+  Over 3: 🟢82.2%   Over 4: 🟠58.9%   Over 5: 🔴39.7%   Over 6: 🔴26.0%
+Girona Cards:
+  Over 1: 🟢87.2%   Over 2: 🟠64.1%   Over 3: 🔴30.8%
+Elche Cards:
+  Over 1: 🟢89.7%   Over 2: 🟡71.8%   Over 3: 🔴41.0%
+
+CORNERS
+Home Avg: 4.10/game  |  Away Avg: 3.74/game  |  Combined: 7.85/game  |  H2H Avg: 6.00/game (3 matches)
+  Over 7:  🟡74.0%   Over 8:  🟠63.0%   Over 9:  🟠53.4%   Over 10: 🔴38.4%   Over 11: 🔴30.1%
+
+═══════════════════════════════════════════════════════════
+
+Bayern Munich vs Stuttgart: Home Win - Moderate Risk
+Home:57.99% vs Away:32.53% vs Draw:9.48% Diff: 25.46%
+Home Av Gls: 3.08 vs Away Av Gls: 2.07
+Home Historical Av Gls: 2.85 vs Away Historical Av Gls: 1.51
+CEG: 5.15 | CEG+: 6.24
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 75.05% 
+Over 2 Gls: 50.52% 
+
+GOALS UNDERS
+Combined Avg: 4.88/game  (Home: 3.00  Away: 1.87)  CEG: 5.15  CEG+: 6.24
+Under 1.5: 3.6%  🔴 SKIP
+Under 2.5: 11.3%  🔴 SKIP
+Under 3.5: 24.5%  🔴 SKIP
+Under 4.5: 41.5%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.76/game  |  Away Avg: 1.91/game  |  Combined: 3.68/game  |  H2H Avg: 3.50/game (8 matches)
+Total Match Cards:
+  Over 3: 🟠63.6%   Over 4: 🔴42.4%   Over 5: 🔴28.8%   Over 6: 🔴16.7%
+Bayern Munich Cards:
+  Over 1: 🟢76.5%   Over 2: 🟠50.0%   Over 3: 🔴26.5%
+Stuttgart Cards:
+  Over 1: 🟢88.2%   Over 2: 🟠64.7%   Over 3: 🔴26.5%
+
+CORNERS
+Home Avg: 6.35/game  |  Away Avg: 5.68/game  |  Combined: 12.03/game  |  H2H Avg: 7.50/game (8 matches)
+  Over 7:  🟢89.4%   Over 8:  🟡74.2%   Over 9:  🟠60.6%   Over 10: 🟠54.5%   Over 11: 🔴39.4%
+
+═══════════════════════════════════════════════════════════
+
+Bologna vs Inter: Away Win - High Risk
+Home:37.83% vs Away:49.62% vs Draw:12.55% Diff: 11.78%
+Home Av Gls: 1.37 vs Away Av Gls: 2.31
+Home Historical Av Gls: 1.26 vs Away Historical Av Gls: 2.04
+CEG: 3.68 | CEG+: 4.5
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 43.54% 
+Over 2 Gls: 18.61% 
+
+GOALS UNDERS
+Combined Avg: 3.54/game  (Home: 1.33  Away: 2.21)  CEG: 3.68  CEG+: 4.50
+Under 1.5: 11.8%  🔴 SKIP
+Under 2.5: 28.9%  🔴 SKIP
+Under 3.5: 49.8%  🔴 SKIP
+Under 4.5: 69.1%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.97/game  |  Away Avg: 1.65/game  |  Combined: 3.62/game  |  H2H Avg: 4.29/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡72.6%   Over 4: 🔴43.8%   Over 5: 🔴30.1%   Over 6: 🔴19.2%
+Bologna Cards:
+  Over 1: 🟢83.8%   Over 2: 🟠59.5%   Over 3: 🔴32.4%
+Inter Cards:
+  Over 1: 🟢83.8%   Over 2: 🔴45.9%   Over 3: 🔴21.6%
+
+CORNERS
+Home Avg: 4.57/game  |  Away Avg: 6.41/game  |  Combined: 10.97/game  |  H2H Avg: 8.43/game (7 matches)
+  Over 7:  🟢75.3%   Over 8:  🟠64.4%   Over 9:  🟠56.2%   Over 10: 🔴46.6%   Over 11: 🔴38.4%
+
+═══════════════════════════════════════════════════════════
+
+Lazio vs Pisa: Home Win - Low Risk
+Home:62.26% vs Away:6.35% vs Draw:31.39% Diff: 55.91%
+Home Av Gls: 1.15 vs Away Av Gls: 0.68
+Home Historical Av Gls: 1.71 vs Away Historical Av Gls: 0.68
+CEG: 1.83 | CEG+: 2.43
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 16.31% 
+Over 2 Gls: 3.67% 
+
+GOALS UNDERS
+Combined Avg: 2.03/game  (Home: 1.35  Away: 0.68)  CEG: 1.83  CEG+: 2.43
+Under 1.5: 45.4%  🔴 SKIP
+Under 2.5: 72.3%  🟢 STRONG
+Under 3.5: 88.6%  🟢 STRONG
+Under 4.5: 96.1%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.30/game  |  Away Avg: 2.22/game  |  Combined: 4.51/game
+Total Match Cards:
+  Over 3: 🟢83.6%   Over 4: 🟠64.4%   Over 5: 🔴45.2%   Over 6: 🔴27.4%
+Lazio Cards:
+  Over 1: 🟢89.2%   Over 2: 🟠64.9%   Over 3: 🔴45.9%
+Pisa Cards:
+  Over 1: 🟢91.9%   Over 2: 🟡70.3%   Over 3: 🔴37.8%
+
+CORNERS
+Home Avg: 3.70/game  |  Away Avg: 3.62/game  |  Combined: 7.32/game
+  Over 7:  🟡72.6%   Over 8:  🟠63.0%   Over 9:  🔴46.6%   Over 10: 🔴34.2%   Over 11: 🔴21.9%
+
+═══════════════════════════════════════════════════════════
+

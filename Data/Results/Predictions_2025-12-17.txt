@@ -1,0 +1,77 @@
+Man City vs Brentford: Home Win - Moderate Risk
+Home:56.83% vs Away:32.35% vs Draw:10.82% Diff: 24.48%
+Home Av Gls: 2.23 vs Away Av Gls: 1.58
+Home Historical Av Gls: 2.43 vs Away Historical Av Gls: 1.49
+Over 1 Gls: 54.04% 
+Over 2 Gls: 27.23% 
+
+Newcastle vs Fulham: Home Win - High Risk
+Home:49.32% vs Away:35.18% vs Draw:15.5% Diff: 14.14%
+Home Av Gls: 2 vs Away Av Gls: 1.42
+Home Historical Av Gls: 1.42 vs Away Historical Av Gls: 1.19
+Over 1 Gls: 46.95% 
+Over 2 Gls: 21.22% 
+
+ vs Real Madrid: Away Win - Low Risk
+Home:0% vs Away:80.74% vs Draw:19.26% Diff: 80.74%
+Home Av Gls: 0 vs Away Av Gls: 2.08
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 2.11
+Over 1 Gls: 18.45% 
+Over 2 Gls: 4.48% 
+
+Alaves vs Sevilla: Away Win - No bet
+Home:37.95% vs Away:38.18% vs Draw:23.87% Diff: 0.23%
+Home Av Gls: 0.95 vs Away Av Gls: 1.31
+Home Historical Av Gls: 0.97 vs Away Historical Av Gls: 1.43
+Over 1 Gls: 51.63% 
+Over 2 Gls: 25.1% 
+
+Excelsior vs Ajax: Away Win - Moderate Risk
+Home:24.29% vs Away:54.87% vs Draw:20.84% Diff: 30.58%
+Home Av Gls: 1.2 vs Away Av Gls: 2.14
+Home Historical Av Gls: 1.21 vs Away Historical Av Gls: 2.68
+Over 1 Gls: 50.75% 
+Over 2 Gls: 24.34% 
+
+Feyenoord vs Heerenveen: Home Win - Low Risk
+Home:67.72% vs Away:20.59% vs Draw:11.68% Diff: 47.13%
+Home Av Gls: 2.56 vs Away Av Gls: 1.5
+Home Historical Av Gls: 2.23 vs Away Historical Av Gls: 1.44
+Over 1 Gls: 69.48% 
+Over 2 Gls: 43.42% 
+
+Dundee United vs Celtic: Away Win - Low Risk
+Home:14.89% vs Away:75.25% vs Draw:9.86% Diff: 60.36%
+Home Av Gls: 1.16 vs Away Av Gls: 2.61
+Home Historical Av Gls: 1.05 vs Away Historical Av Gls: 2.44
+Over 1 Gls: 48.98% 
+Over 2 Gls: 22.86% 
+
+Young Boys vs Grasshoppers: Home Win - Moderate Risk
+Home:50.27% vs Away:31.03% vs Draw:18.69% Diff: 19.24%
+Home Av Gls: 1.9 vs Away Av Gls: 1.17
+Home Historical Av Gls: 2.18 vs Away Historical Av Gls: 1.22
+Over 1 Gls: 42.51% 
+Over 2 Gls: 17.86% 
+
+Luzern vs Basel: Away Win - Moderate Risk
+Home:28.44% vs Away:51.1% vs Draw:20.45% Diff: 22.66%
+Home Av Gls: 1.45 vs Away Av Gls: 1.7
+Home Historical Av Gls: 1.52 vs Away Historical Av Gls: 1.94
+Over 1 Gls: 41.86% 
+Over 2 Gls: 17.39% 
+
+Guimaraes vs AVS: Home Win - Low Risk
+Home:77.34% vs Away:0% vs Draw:22.66% Diff: 77.34%
+Home Av Gls: 1.31 vs Away Av Gls: 0
+Home Historical Av Gls: 1.35 vs Away Historical Av Gls: 0
+Over 1 Gls: 8.84% 
+Over 2 Gls: 1.39% 
+
+ vs Benfica: Away Win - Low Risk
+Home:0% vs Away:87.19% vs Draw:12.81% Diff: 87.19%
+Home Av Gls: 0 vs Away Av Gls: 2.28
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 2.35
+Over 1 Gls: 21.28% 
+Over 2 Gls: 5.64% 
+

@@ -1,0 +1,175 @@
+Northampton vs Barnsley: Away Win - High Risk
+Home:27.81% vs Away:46.31% vs Draw:25.88% Diff: 18.5%
+Home Av Gls: 1.04 vs Away Av Gls: 1.54
+Home Historical Av Gls: 1.04 vs Away Historical Av Gls: 1.67
+CEG: 2.58 | CEG+: 3.26
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 60/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 39.08% 
+Over 2 Gls: 15.46% 
+
+GOALS UNDERS
+Combined Avg: 2.62/game  (Home: 1.04  Away: 1.58)  CEG: 2.58  CEG+: 3.26
+Under 1.5: 27.1%  🔴 SKIP
+Under 2.5: 52.3%  🔴 SKIP
+Under 3.5: 74%  🟡 SIGNAL
+Under 4.5: 88%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.67/game  |  Away Avg: 2.03/game  |  Combined: 3.70/game  |  H2H Avg: 3.60/game (5 matches)
+Total Match Cards:
+  Over 3: 🟡69.2%   Over 4: 🔴47.1%   Over 5: 🔴27.9%   Over 6: 🔴15.7%
+Northampton Cards:
+  Over 1: 🟢82.8%   Over 2: 🔴49.4%   Over 3: 🔴21.8%
+Barnsley Cards:
+  Over 1: 🟢88.5%   Over 2: 🟠63.2%   Over 3: 🔴37.9%
+
+CORNERS
+Home Avg: 4.31/game  |  Away Avg: 5.41/game  |  Combined: 9.72/game  |  H2H Avg: 9.80/game (5 matches)
+  Over 7:  🟢84.9%   Over 8:  🟡74.4%   Over 9:  🟡65.1%   Over 10: 🟠54.7%   Over 11: 🔴41.9%
+
+═══════════════════════════════════════════════════════════
+
+Peterboro vs Mansfield: Away Win - High Risk
+Home:34.84% vs Away:46.18% vs Draw:18.99% Diff: 11.34%
+Home Av Gls: 1.61 vs Away Av Gls: 1.3
+Home Historical Av Gls: 1.63 vs Away Historical Av Gls: 1.3
+CEG: 2.91 | CEG+: 3.64
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 41.72% 
+Over 2 Gls: 17.29% 
+
+GOALS UNDERS
+Combined Avg: 2.92/game  (Home: 1.62  Away: 1.30)  CEG: 2.91  CEG+: 3.64
+Under 1.5: 21.3%  🔴 SKIP
+Under 2.5: 44.4%  🔴 SKIP
+Under 3.5: 66.7%  🔴 SKIP
+Under 4.5: 83%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.08/game  |  Away Avg: 1.87/game  |  Combined: 3.95/game  |  H2H Avg: 4.00/game (3 matches)
+Total Match Cards:
+  Over 3: 🟢76.0%   Over 4: 🟠56.1%   Over 5: 🔴33.3%   Over 6: 🔴15.8%
+Peterboro Cards:
+  Over 1: 🟢94.3%   Over 2: 🟠63.2%   Over 3: 🔴35.6%
+Mansfield Cards:
+  Over 1: 🟢86.2%   Over 2: 🟠57.5%   Over 3: 🔴27.6%
+
+CORNERS
+Home Avg: 4.43/game  |  Away Avg: 4.66/game  |  Combined: 9.08/game  |  H2H Avg: 14.33/game (3 matches)
+  Over 7:  🟢81.9%   Over 8:  🟡72.5%   Over 9:  🟠58.5%   Over 10: 🔴47.4%   Over 11: 🔴38.6%
+
+═══════════════════════════════════════════════════════════
+
+Stockport vs Port Vale: Home Win - Moderate Risk
+Home:56.15% vs Away:22.41% vs Draw:21.45% Diff: 33.74%
+Home Av Gls: 1.54 vs Away Av Gls: 0.84
+Home Historical Av Gls: 1.54 vs Away Historical Av Gls: 0.91
+CEG: 2.38 | CEG+: 3
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 20/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 49.07% 
+Over 2 Gls: 22.93% 
+
+GOALS UNDERS
+Combined Avg: 2.41/game  (Home: 1.54  Away: 0.87)  CEG: 2.38  CEG+: 3.00
+Under 1.5: 31.3%  🔴 SKIP
+Under 2.5: 57.5%  🟡 SIGNAL
+Under 3.5: 78.3%  🟡 SIGNAL
+Under 4.5: 90.7%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.82/game  |  Away Avg: 1.73/game  |  Combined: 3.54/game
+Total Match Cards:
+  Over 3: 🟢75.4%   Over 4: 🟠56.2%   Over 5: 🔴31.5%   Over 6: 🔴16.9%
+Stockport Cards:
+  Over 1: 🟢86.2%   Over 2: 🟠55.2%   Over 3: 🔴25.3%
+Port Vale Cards:
+  Over 1: 🟢81.8%   Over 2: 🟠63.6%   Over 3: 🔴20.5%
+
+CORNERS
+Home Avg: 4.94/game  |  Away Avg: 5.05/game  |  Combined: 9.99/game
+  Over 7:  🟢80.8%   Over 8:  🟡66.9%   Over 9:  🟠57.7%   Over 10: 🟠50.8%   Over 11: 🔴36.2%
+
+═══════════════════════════════════════════════════════════
+
+Southampton vs Ipswich: Home Win - Very High Risk
+Home:44.93% vs Away:36.5% vs Draw:18.57% Diff: 8.42%
+Home Av Gls: 1.84 vs Away Av Gls: 1.79
+Home Historical Av Gls: 1.82 vs Away Historical Av Gls: 1.36
+CEG: 3.63 | CEG+: 4.43
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 50.97% 
+Over 2 Gls: 24.53% 
+
+GOALS UNDERS
+Combined Avg: 3.47/game  (Home: 1.84  Away: 1.64)  CEG: 3.63  CEG+: 4.43
+Under 1.5: 12.3%  🔴 SKIP
+Under 2.5: 29.7%  🔴 SKIP
+Under 3.5: 50.9%  🔴 SKIP
+Under 4.5: 70.1%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.91/game  |  Away Avg: 1.91/game  |  Combined: 3.82/game  |  H2H Avg: 4.33/game (3 matches)
+Total Match Cards:
+  Over 3: 🟢83.9%   Over 4: 🟠64.4%   Over 5: 🔴35.6%   Over 6: 🔴23.0%
+Southampton Cards:
+  Over 1: 🟢88.6%   Over 2: 🟠61.4%   Over 3: 🔴27.3%
+Ipswich Cards:
+  Over 1: 🟢88.6%   Over 2: 🟠56.8%   Over 3: 🔴27.3%
+
+CORNERS
+Home Avg: 5.80/game  |  Away Avg: 5.66/game  |  Combined: 11.45/game  |  H2H Avg: 9.33/game (3 matches)
+  Over 7:  🟢92.0%   Over 8:  🟢80.5%   Over 9:  🟡70.1%   Over 10: 🔴49.4%   Over 11: 🔴39.1%
+
+═══════════════════════════════════════════════════════════
+
+Roda vs Waalwijk: Draw - High Risk
+Home:13.64% vs Away:39.86% vs Draw:46.5% Diff: 26.22%
+Home Av Gls: 0 vs Away Av Gls: 1.24
+Home Historical Av Gls: 1.03 vs Away Historical Av Gls: 1.16
+CEG: 1.24 | CEG+: 1.79
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 9.77% 
+Over 2 Gls: 1.63% 
+
+GOALS UNDERS
+Combined Avg: 1.57/game  (Home: 0.36  Away: 1.21)  CEG: 1.24  CEG+: 1.79
+Under 1.5: 64.8%  🔴 SKIP
+Under 2.5: 87.1%  🟢 STRONG
+Under 3.5: 96.3%  🟢 STRONG
+Under 4.5: 99.1%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 1.90/game  |  Combined: 3.80/game
+Total Match Cards:
+  Over 3: 🟢76.0%   Over 4: 🟠56.0%   Over 5: 🔴37.0%   Over 6: 🔴22.0%
+Roda Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+Waalwijk Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.50/game  |  Combined: 9.00/game
+  Over 7:  🟢80.0%   Over 8:  🟡69.0%   Over 9:  🟠57.0%   Over 10: 🔴47.0%   Over 11: 🔴38.0%
+
+═══════════════════════════════════════════════════════════
+

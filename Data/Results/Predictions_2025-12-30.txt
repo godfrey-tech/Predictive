@@ -1,0 +1,77 @@
+Burnley vs Newcastle: Away Win - Moderate Risk
+Home:20.69% vs Away:59.8% vs Draw:19.51% Diff: 39.11%
+Home Av Gls: 1.08 vs Away Av Gls: 2
+Home Historical Av Gls: 1.02 vs Away Historical Av Gls: 1.42
+Over 1 Gls: 35.17% 
+Over 2 Gls: 12.93% 
+
+Chelsea vs Bournemouth: Home Win - Moderate Risk
+Home:52.4% vs Away:30.15% vs Draw:17.46% Diff: 22.25%
+Home Av Gls: 1.6 vs Away Av Gls: 1.36
+Home Historical Av Gls: 1.74 vs Away Historical Av Gls: 1.3
+Over 1 Gls: 45.29% 
+Over 2 Gls: 19.93% 
+
+Nott'm Forest vs Everton: Home Win - Very High Risk
+Home:40.54% vs Away:33.57% vs Draw:25.89% Diff: 6.97%
+Home Av Gls: 1.36 vs Away Av Gls: 1
+Home Historical Av Gls: 1.27 vs Away Historical Av Gls: 1.19
+Over 1 Gls: 29.79% 
+Over 2 Gls: 9.79% 
+
+West Ham vs Brighton: Away Win - High Risk
+Home:31.87% vs Away:43.03% vs Draw:25.1% Diff: 11.17%
+Home Av Gls: 1.34 vs Away Av Gls: 1.67
+Home Historical Av Gls: 1.36 vs Away Historical Av Gls: 1.24
+Over 1 Gls: 40.97% 
+Over 2 Gls: 16.76% 
+
+Arsenal vs Aston Villa: Home Win - Very High Risk
+Home:45.82% vs Away:40.4% vs Draw:13.78% Diff: 5.43%
+Home Av Gls: 2.16 vs Away Av Gls: 1.75
+Home Historical Av Gls: 1.89 vs Away Historical Av Gls: 1.47
+Over 1 Gls: 54.7% 
+Over 2 Gls: 27.84% 
+
+Man United vs Wolves: Away Win - Moderate Risk
+Home:31.81% vs Away:55.19% vs Draw:12.99% Diff: 23.38%
+Home Av Gls: 1.4 vs Away Av Gls: 1.3
+Home Historical Av Gls: 1.59 vs Away Historical Av Gls: 1.16
+Over 1 Gls: 39.01% 
+Over 2 Gls: 15.41% 
+
+Dundee vs Kilmarnock: Away Win - High Risk
+Home:28.82% vs Away:49.15% vs Draw:22.03% Diff: 20.33%
+Home Av Gls: 1.38 vs Away Av Gls: 1.18
+Home Historical Av Gls: 1.09 vs Away Historical Av Gls: 1.14
+Over 1 Gls: 41.01% 
+Over 2 Gls: 16.79% 
+
+Hibernian vs Aberdeen: Home Win - No bet
+Home:42.06% vs Away:39.34% vs Draw:18.59% Diff: 2.72%
+Home Av Gls: 1.52 vs Away Av Gls: 1.28
+Home Historical Av Gls: 1.39 vs Away Historical Av Gls: 1.39
+Over 1 Gls: 45.11% 
+Over 2 Gls: 19.79% 
+
+Livingston vs Dundee United: Away Win - High Risk
+Home:32.53% vs Away:43.54% vs Draw:23.93% Diff: 11.02%
+Home Av Gls: 0.88 vs Away Av Gls: 1.18
+Home Historical Av Gls: 1.05 vs Away Historical Av Gls: 1.07
+Over 1 Gls: 27.37% 
+Over 2 Gls: 8.51% 
+
+Rangers vs St Mirren: Home Win - Moderate Risk
+Home:51.63% vs Away:34.45% vs Draw:13.92% Diff: 17.18%
+Home Av Gls: 2.22 vs Away Av Gls: 1.26
+Home Historical Av Gls: 2.12 vs Away Historical Av Gls: 1.04
+Over 1 Gls: 53.32% 
+Over 2 Gls: 26.58% 
+
+Motherwell vs Celtic: Away Win - Moderate Risk
+Home:33.45% vs Away:54.68% vs Draw:11.87% Diff: 21.23%
+Home Av Gls: 1.38 vs Away Av Gls: 2.73
+Home Historical Av Gls: 1.24 vs Away Historical Av Gls: 2.49
+Over 1 Gls: 50.79% 
+Over 2 Gls: 24.38% 
+

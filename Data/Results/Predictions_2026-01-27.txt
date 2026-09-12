@@ -1,0 +1,33 @@
+Fiorentina vs Como: Away Win - High Risk
+Home:33.22% vs Away:45.42% vs Draw:21.36% Diff: 12.2%
+Home Av Gls: 1.35 vs Away Av Gls: 1.48
+Home Historical Av Gls: 1.4 vs Away Historical Av Gls: 1.48
+CEG: 2.82 | CEG+: 3.54
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 37.74% 
+Over 2 Gls: 14.57% 
+
+Werder Bremen vs Hoffenheim: Away Win - Moderate Risk
+Home:25.26% vs Away:52.13% vs Draw:22.6% Diff: 26.87%
+Home Av Gls: 1.31 vs Away Av Gls: 1.93
+Home Historical Av Gls: 1.42 vs Away Historical Av Gls: 1.75
+CEG: 3.24 | CEG+: 4.03
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 65/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 42.86% 
+Over 2 Gls: 18.11% 
+
+St Pauli vs RB Leipzig: Away Win - Moderate Risk
+Home:22.5% vs Away:58.46% vs Draw:19.05% Diff: 35.96%
+Home Av Gls: 0.94 vs Away Av Gls: 2.02
+Home Historical Av Gls: 0.94 vs Away Historical Av Gls: 1.98
+CEG: 2.96 | CEG+: 3.7
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 30.44% 
+Over 2 Gls: 10.15% 
+

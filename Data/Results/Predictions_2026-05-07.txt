@@ -1,0 +1,35 @@
+Aston Villa vs Nott'm Forest: Home Win - No bet
+Home:42.67% vs Away:40.96% vs Draw:16.36% Diff: 1.71%
+Home Av Gls: 1.52 vs Away Av Gls: 1.23
+Home Historical Av Gls: 1.43 vs Away Historical Av Gls: 1.15
+CEG: 2.75 | CEG+: 3.39
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 46.53% 
+Over 2 Gls: 20.89% 
+
+GOALS UNDERS
+Combined Avg: 2.69/game  (Home: 1.49  Away: 1.20)  CEG: 2.75  CEG+: 3.39
+Under 1.5: 24%  🔴 SKIP
+Under 2.5: 48.1%  🔴 SKIP
+Under 3.5: 70.3%  🔴 SKIP
+Under 4.5: 85.5%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.54/game  |  Away Avg: 1.56/game  |  Combined: 3.10/game  |  H2H Avg: 4.00/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡72.7%   Over 4: 🟠53.0%   Over 5: 🔴30.3%   Over 6: 🔴13.6%
+Aston Villa Cards:
+  Over 1: 🟢81.4%   Over 2: 🟠52.5%   Over 3: 🔴20.3%
+Nott'm Forest Cards:
+  Over 1: 🟢79.7%   Over 2: 🔴40.7%   Over 3: 🔴20.3%
+
+CORNERS
+Home Avg: 5.24/game  |  Away Avg: 5.39/game  |  Combined: 10.63/game  |  H2H Avg: 8.43/game (7 matches)
+  Over 7:  🟢87.9%   Over 8:  🟢83.3%   Over 9:  🟢75.8%   Over 10: 🟠62.1%   Over 11: 🔴45.5%
+
+═══════════════════════════════════════════════════════════
+

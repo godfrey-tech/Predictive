@@ -1,0 +1,70 @@
+Bologna vs Inter: Away Win - Moderate Risk
+Home:32.55% vs Away:50.92% vs Draw:16.53% Diff: 18.37%
+Home Av Gls: 1.46 vs Away Av Gls: 2.11
+Home Historical Av Gls: 1.22 vs Away Historical Av Gls: 1.95
+Over 1 Gls: 46.34% 
+Over 2 Gls: 20.74% 
+
+Dortmund vs M'gladbach: Home Win - Moderate Risk
+Home:55.1% vs Away:25.3% vs Draw:19.61% Diff: 29.8%
+Home Av Gls: 2.34 vs Away Av Gls: 1.57
+Home Historical Av Gls: 2.24 vs Away Historical Av Gls: 1.64
+Over 1 Gls: 66.38% 
+Over 2 Gls: 39.78% 
+
+Valencia vs Mallorca: Away Win - Very High Risk
+Home:32.72% vs Away:41.43% vs Draw:25.85% Diff: 8.71%
+Home Av Gls: 1 vs Away Av Gls: 0.94
+Home Historical Av Gls: 1.31 vs Away Historical Av Gls: 0.96
+Over 1 Gls: 20.23% 
+Over 2 Gls: 5.19% 
+
+Swansea vs Wrexham: Home Win - Low Risk
+Home:65.18% vs Away:0% vs Draw:34.82% Diff: 65.18%
+Home Av Gls: 1.22 vs Away Av Gls: 0
+Home Historical Av Gls: 1.27 vs Away Historical Av Gls: 0
+Over 1 Gls: 7.88% 
+Over 2 Gls: 1.16% 
+
+Estoril vs Sp Braga: Away Win - Low Risk
+Home:26.48% vs Away:61.31% vs Draw:12.21% Diff: 34.84%
+Home Av Gls: 1.23 vs Away Av Gls: 2.09
+Home Historical Av Gls: 1.12 vs Away Historical Av Gls: 1.81
+Over 1 Gls: 40.31% 
+Over 2 Gls: 16.3% 
+
+Northampton vs AFC Wimbledon: Home Win - Moderate Risk
+Home:50.1% vs Away:12.55% vs Draw:37.35% Diff: 37.55%
+Home Av Gls: 1.14 vs Away Av Gls: 0
+Home Historical Av Gls: 1.08 vs Away Historical Av Gls: 1.07
+Over 1 Gls: 8.75% 
+Over 2 Gls: 1.37% 
+
+Kocaelispor vs Antalyaspor: Away Win - Moderate Risk
+Home:0% vs Away:55.51% vs Draw:44.49% Diff: 55.51%
+Home Av Gls: 0 vs Away Av Gls: 1.2
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1.24
+Over 1 Gls: 7.65% 
+Over 2 Gls: 1.11% 
+
+Barrow vs Cheltenham: Away Win - No bet
+Home:35.78% vs Away:40.5% vs Draw:23.72% Diff: 4.72%
+Home Av Gls: 1.15 vs Away Av Gls: 1.3
+Home Historical Av Gls: 1.12 vs Away Historical Av Gls: 1.3
+Over 1 Gls: 41.42% 
+Over 2 Gls: 17.08% 
+
+Cambridge vs Accrington: Away Win - Moderate Risk
+Home:17.26% vs Away:53.4% vs Draw:29.34% Diff: 36.14%
+Home Av Gls: 0 vs Away Av Gls: 1.26
+Home Historical Av Gls: 1.21 vs Away Historical Av Gls: 1.36
+Over 1 Gls: 10.73% 
+Over 2 Gls: 1.89% 
+
+Crewe vs Bristol Rvs: Home Win - High Risk
+Home:43.65% vs Away:21.58% vs Draw:34.77% Diff: 22.07%
+Home Av Gls: 1.24 vs Away Av Gls: 0
+Home Historical Av Gls: 1.32 vs Away Historical Av Gls: 1.54
+Over 1 Gls: 11.07% 
+Over 2 Gls: 1.99% 
+

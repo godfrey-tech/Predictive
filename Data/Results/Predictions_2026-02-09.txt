@@ -1,0 +1,121 @@
+Villarreal vs Espanol: Home Win - High Risk
+Home:47.15% vs Away:33.51% vs Draw:19.33% Diff: 13.64%
+Home Av Gls: 1.92 vs Away Av Gls: 1.25
+Home Historical Av Gls: 1.58 vs Away Historical Av Gls: 1.12
+CEG: 3.17 | CEG+: 3.85
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 49.41% 
+Over 2 Gls: 23.21% 
+
+Atalanta vs Cremonese: Home Win - Moderate Risk
+Home:55.04% vs Away:19.71% vs Draw:25.24% Diff: 35.33%
+Home Av Gls: 1.65 vs Away Av Gls: 0.87
+Home Historical Av Gls: 1.86 vs Away Historical Av Gls: 0.92
+CEG: 2.52 | CEG+: 3.21
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 60/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 34.11% 
+Over 2 Gls: 12.27% 
+
+Roma vs Cagliari: Home Win - Very High Risk
+Home:45.23% vs Away:39.11% vs Draw:15.66% Diff: 6.11%
+Home Av Gls: 1.41 vs Away Av Gls: 1.2
+Home Historical Av Gls: 1.77 vs Away Historical Av Gls: 1.12
+CEG: 2.61 | CEG+: 3.33
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 44.05% 
+Over 2 Gls: 18.99% 
+
+Famalicao vs AVS: Home Win - Moderate Risk
+Home:57.39% vs Away:1.75% vs Draw:40.86% Diff: 55.64%
+Home Av Gls: 1.18 vs Away Av Gls: 0.7
+Home Historical Av Gls: 1.25 vs Away Historical Av Gls: 0.7
+CEG: 1.88 | CEG+: 2.37
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 24.91% 
+Over 2 Gls: 7.29% 
+
+Porto vs Sp Lisbon: Away Win - High Risk
+Home:41.4% vs Away:52.44% vs Draw:6.16% Diff: 11.04%
+Home Av Gls: 2.02 vs Away Av Gls: 2.91
+Home Historical Av Gls: 2.18 vs Away Historical Av Gls: 2.12
+CEG: 4.93 | CEG+: 6.01
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 63.15% 
+Over 2 Gls: 36.21% 
+
+Kayserispor vs Kocaelispor: Away Win - High Risk
+Home:26.7% vs Away:39% vs Draw:34.3% Diff: 12.3%
+Home Av Gls: 1 vs Away Av Gls: 0.8
+Home Historical Av Gls: 1.18 vs Away Historical Av Gls: 0.8
+CEG: 1.8 | CEG+: 2.29
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:True | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 24.07% 
+Over 2 Gls: 6.89% 
+
+Gaziantep vs Kasimpasa: Away Win - No bet
+Home:35.59% vs Away:36.08% vs Draw:28.34% Diff: 0.49%
+Home Av Gls: 1.46 vs Away Av Gls: 1.25
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 1.46
+CEG: 2.71 | CEG+: 3.39
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 100/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 47.54% 
+Over 2 Gls: 21.69% 
+
+Fenerbahce vs Genclerbirligi: Home Win - Moderate Risk
+Home:55.6% vs Away:28.89% vs Draw:15.51% Diff: 26.7%
+Home Av Gls: 2.4 vs Away Av Gls: 1.25
+Home Historical Av Gls: 1.99 vs Away Historical Av Gls: 1.14
+CEG: 3.65 | CEG+: 4.43
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 61.66% 
+Over 2 Gls: 34.64% 
+
+Kayserispor vs Kocaelispor: Away Win - High Risk
+Home:26.7% vs Away:39% vs Draw:34.3% Diff: 12.3%
+Home Av Gls: 1 vs Away Av Gls: 0.8
+Home Historical Av Gls: 1.18 vs Away Historical Av Gls: 0.8
+CEG: 1.8 | CEG+: 2.29
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:True | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 24.07% 
+Over 2 Gls: 6.89% 
+
+Gaziantep vs Kasimpasa: Away Win - No bet
+Home:35.59% vs Away:36.08% vs Draw:28.34% Diff: 0.49%
+Home Av Gls: 1.46 vs Away Av Gls: 1.25
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 1.46
+CEG: 2.71 | CEG+: 3.39
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 100/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 47.54% 
+Over 2 Gls: 21.69% 
+
+Fenerbahce vs Genclerbirligi: Home Win - Moderate Risk
+Home:55.6% vs Away:28.89% vs Draw:15.51% Diff: 26.7%
+Home Av Gls: 2.4 vs Away Av Gls: 1.25
+Home Historical Av Gls: 1.99 vs Away Historical Av Gls: 1.14
+CEG: 3.65 | CEG+: 4.43
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 61.66% 
+Over 2 Gls: 34.64% 
+

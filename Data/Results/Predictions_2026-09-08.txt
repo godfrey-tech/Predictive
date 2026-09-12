@@ -1,0 +1,149 @@
+Blackburn vs Sheffield United: Away Win - Moderate Risk
+Home:31.2% vs Away:53.23% vs Draw:15.58% Diff: 22.03%
+Home Av Gls: 1.11 vs Away Av Gls: 1.39
+Home Historical Av Gls: 1.24 vs Away Historical Av Gls: 1.45
+CEG: 2.5 | CEG+: 3.17
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 60/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 33.73% 
+Over 2 Gls: 12.05% 
+
+GOALS UNDERS
+Combined Avg: 2.57/game  (Home: 1.15  Away: 1.42)  CEG: 2.50  CEG+: 3.17
+Under 1.5: 28.7%  🔴 SKIP
+Under 2.5: 54.4%  🔴 SKIP
+Under 3.5: 75.8%  🟡 SIGNAL
+Under 4.5: 89.1%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.97/game  |  Away Avg: 1.82/game  |  Combined: 3.79/game  |  H2H Avg: 4.00/game (9 matches)
+Total Match Cards:
+  Over 3: 🟡69.2%   Over 4: 🟠53.8%   Over 5: 🔴36.9%   Over 6: 🔴18.5%
+Blackburn Cards:
+  Over 1: 🟢82.8%   Over 2: 🟠60.9%   Over 3: 🔴36.8%
+Sheffield United Cards:
+  Over 1: 🟢88.2%   Over 2: 🟠51.8%   Over 3: 🔴31.8%
+
+CORNERS
+Home Avg: 4.97/game  |  Away Avg: 6.34/game  |  Combined: 11.31/game  |  H2H Avg: 11.56/game (9 matches)
+  Over 7:  🟢90.0%   Over 8:  🟢81.5%   Over 9:  🟡70.8%   Over 10: 🟠60.8%   Over 11: 🔴49.2%
+
+═══════════════════════════════════════════════════
+Blackburn vs Sheffield United - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 25.3%  |  Draw (X): 47.1%  |  Away (2): 27.6%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 31.2%  |  Draw (X): 15.6%  |  Away (2): 53.2%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/2: 27.7% prob, 5.5x odds, EV: +52.2%
+
+═══════════════════════════════════════════════════════════
+
+Cardiff vs Stoke: Home Win - No bet
+Home:36.23% vs Away:32.95% vs Draw:30.81% Diff: 3.28%
+Home Av Gls: 1.01 vs Away Av Gls: 1.03
+Home Historical Av Gls: 1.22 vs Away Historical Av Gls: 1.11
+CEG: 2.04 | CEG+: 2.62
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 27.62% 
+Over 2 Gls: 8.64% 
+
+GOALS UNDERS
+Combined Avg: 2.14/game  (Home: 1.08  Away: 1.06)  CEG: 2.04  CEG+: 2.62
+Under 1.5: 39.5%  🔴 SKIP
+Under 2.5: 66.6%  🟢 STRONG
+Under 3.5: 85%  🟢 STRONG
+Under 4.5: 94.4%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.49/game  |  Away Avg: 2.09/game  |  Combined: 3.58/game  |  H2H Avg: 3.80/game (10 matches)
+Total Match Cards:
+  Over 3: 🟡73.3%   Over 4: 🔴47.7%   Over 5: 🔴27.9%   Over 6: 🔴20.9%
+Cardiff Cards:
+  Over 1: 🟢90.2%   Over 2: 🔴46.3%   Over 3: 🔴7.3%
+Stoke Cards:
+  Over 1: 🟢89.4%   Over 2: 🟠63.5%   Over 3: 🔴38.8%
+
+CORNERS
+Home Avg: 4.41/game  |  Away Avg: 4.88/game  |  Combined: 9.30/game  |  H2H Avg: 9.50/game (10 matches)
+  Over 7:  🟢83.7%   Over 8:  🟢76.7%   Over 9:  🟠64.0%   Over 10: 🟠52.3%   Over 11: 🔴39.5%
+
+═══════════════════════════════════════════════════
+Cardiff vs Stoke - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 31.7%  |  Draw (X): 58.5%  |  Away (2): 9.8%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 36.2%  |  Draw (X): 30.8%  |  Away (2): 33.0%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/X: 20.9% prob, 9x odds, EV: +88.0%
+  🟢 X/1: 24.6% prob, 5.5x odds, EV: +35.1%
+  🟢 X/2: 22.3% prob, 5.5x odds, EV: +22.9%
+
+═══════════════════════════════════════════════════════════
+
+Southampton vs Swansea: Home Win - High Risk
+Home:47.42% vs Away:36.8% vs Draw:15.78% Diff: 10.61%
+Home Av Gls: 1.86 vs Away Av Gls: 1.15
+Home Historical Av Gls: 1.84 vs Away Historical Av Gls: 1.27
+CEG: 3.01 | CEG+: 3.79
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 52.53% 
+Over 2 Gls: 25.89% 
+
+GOALS UNDERS
+Combined Avg: 3.05/game  (Home: 1.85  Away: 1.19)  CEG: 3.01  CEG+: 3.79
+Under 1.5: 19.8%  🔴 SKIP
+Under 2.5: 42.1%  🔴 SKIP
+Under 3.5: 64.5%  🔴 SKIP
+Under 4.5: 81.4%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.85/game  |  Away Avg: 1.71/game  |  Combined: 3.55/game  |  H2H Avg: 4.50/game (4 matches)
+Total Match Cards:
+  Over 3: 🟡70.0%   Over 4: 🟠57.3%   Over 5: 🔴32.7%   Over 6: 🔴20.9%
+Southampton Cards:
+  Over 1: 🟢87.0%   Over 2: 🟠58.7%   Over 3: 🔴26.1%
+Swansea Cards:
+  Over 1: 🟢75.3%   Over 2: 🟠54.1%   Over 3: 🔴22.4%
+
+CORNERS
+Home Avg: 5.76/game  |  Away Avg: 4.41/game  |  Combined: 10.17/game  |  H2H Avg: 9.75/game (4 matches)
+  Over 7:  🟢90.0%   Over 8:  🟢79.1%   Over 9:  🟡69.1%   Over 10: 🟠51.8%   Over 11: 🔴40.9%
+
+═══════════════════════════════════════════════════
+Southampton vs Swansea - HT/FT ANALYSIS
+═══════════════════════════════════════════════════
+
+HALF-TIME PROBABILITIES:
+  Home (1): 30.4%  |  Draw (X): 43.5%  |  Away (2): 26.1%
+
+FULL-TIME PROBABILITIES:
+  Home (1): 47.4%  |  Draw (X): 15.8%  |  Away (2): 36.8%
+
+BEST HT/FT BETS (sorted by expected value):
+
+  🟢 X/1: 22.0% prob, 5.5x odds, EV: +21.1%
+
+═══════════════════════════════════════════════════════════
+

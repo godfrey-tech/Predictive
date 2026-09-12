@@ -1,0 +1,28 @@
+Augsburg vs Dortmund: Away Win - Moderate Risk
+Home:21,83% vs Away:59,25% vs Draw:18,92% Diff: 37,42%
+Home Av Gls: 1,38 vs Away Av Gls: 2,34
+Home Historical Av Gls: 1,26 vs Away Historical Av Gls: 2,24
+Over 1 Gls: 50,43% 
+Over 2 Gls: 24,07% 
+
+Getafe vs Girona: Away Win - Moderate Risk
+Home:21,95% vs Away:57,47% vs Draw:20,58% Diff: 35,52%
+Home Av Gls: 1 vs Away Av Gls: 1,98
+Home Historical Av Gls: 1,02 vs Away Historical Av Gls: 1,51
+Over 1 Gls: 41,64% 
+Over 2 Gls: 17,23% 
+
+PSV Eindhoven vs For Sittard: Home Win - Low Risk
+Home:64,76% vs Away:21,49% vs Draw:13,76% Diff: 43,27%
+Home Av Gls: 2,86 vs Away Av Gls: 1,09
+Home Historical Av Gls: 2,53 vs Away Historical Av Gls: 1,23
+Over 1 Gls: 58,53% 
+Over 2 Gls: 31,47% 
+
+Sp Lisbon vs Alverca: Home Win - Low Risk
+Home:89,26% vs Away:0% vs Draw:10,74% Diff: 89,26%
+Home Av Gls: 2,56 vs Away Av Gls: 0
+Home Historical Av Gls: 2,08 vs Away Historical Av Gls: 0
+Over 1 Gls: 23,87% 
+Over 2 Gls: 6,8% 
+

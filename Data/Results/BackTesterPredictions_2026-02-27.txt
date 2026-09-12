@@ -1,0 +1,85 @@
+╔══════════════════════════════════════════════════════════════╗
+║            BACKTEST PROFITABILITY REPORT                    ║
+╚══════════════════════════════════════════════════════════════╝
+  Period:    2022-08-01  →  2024-06-01
+  Matches:   760
+  Min Confidence threshold: 62%
+
+  Market                  Bets  Wins   WinRate    Profit   AvgConf  ConfCalib
+  ───────────────────────────────────────────────────────────────────────────
+  ✅ Over 1.5 Goals         689   556    80.7%   +89.40u    65.8%     -0.2
+  ❌ BTTS - No               11     5    45.5%    -1.50u    63.1%     -0.1
+  ❌ Under 2.5 Goals          9     3    33.3%    -3.15u    63.5%      0.0
+
+  ── CONFIDENCE BUCKET BREAKDOWN ─────────────────────────────
+  Under 2.5 Goals:
+     60-64%:    9 bets     3 wins  33.3%
+  BTTS - No:
+     60-64%:   11 bets     5 wins  45.5%
+  Over 1.5 Goals:
+     60-64%:  373 bets   304 wins  81.5%
+     65-69%:  210 bets   167 wins  79.5%
+     70-74%:   90 bets    73 wins  81.1%
+     75-79%:   16 bets    12 wins  75.0%
+
+  ── KEY INSIGHTS ────────────────────────────────────────────
+  ✅ PROFITABLE MARKETS:
+     → Over 1.5 Goals: +89.40u on 689 bets (80.7% win rate)
+
+  ── CALIBRATION CHECK ───────────────────────────────────────
+  (ConfCalib > 2 means model's confidence correctly predicts wins)
+  BTTS - No             : ❌ Poorly calibrated  (-0.1)
+  Over 1.5 Goals        : ❌ Poorly calibrated  (-0.2)
+
+  NOTE: These odds assume standard bookmaker lines.
+        For accurate P&L, use actual odds from CSV columns:
+        B365>2.5, B365<2.5, Avg>2.5, Avg<2.5
+══════════════════════════════════════════════════════════════
+╔══════════════════════════════════════════════════════════════╗
+║            BACKTEST PROFITABILITY REPORT                    ║
+╚══════════════════════════════════════════════════════════════╝
+  Period:    2022-08-01  →  2024-06-01
+  Matches:   760
+  Min Confidence threshold: 62%
+
+  Market                  Bets  Wins   WinRate    Profit   AvgConf  ConfCalib
+  ───────────────────────────────────────────────────────────────────────────
+  ✅ Either Team To Score   760   726    95.5%  +111.20u    84.2%     -0.0
+  ✅ Over 1.5 Goals         689   556    80.7%   +89.40u    65.8%     -0.2
+  ✅ Over 0.5 Goals         760   726    95.5%   +74.90u    89.2%     -0.5
+  ❌ BTTS - No               11     5    45.5%    -1.50u    63.1%     -0.1
+  ❌ Under 2.5 Goals          9     3    33.3%    -3.15u    63.5%      0.0
+
+  ── CONFIDENCE BUCKET BREAKDOWN ─────────────────────────────
+  Over 0.5 Goals:
+       80%+:  760 bets   726 wins  95.5%
+  Over 1.5 Goals:
+     60-64%:  373 bets   304 wins  81.5%
+     65-69%:  210 bets   167 wins  79.5%
+     70-74%:   90 bets    73 wins  81.1%
+     75-79%:   16 bets    12 wins  75.0%
+  Under 2.5 Goals:
+     60-64%:    9 bets     3 wins  33.3%
+  BTTS - No:
+     60-64%:   11 bets     5 wins  45.5%
+  Either Team To Score:
+     75-79%:    9 bets     9 wins  100.0%
+       80%+:  751 bets   717 wins  95.5%
+
+  ── KEY INSIGHTS ────────────────────────────────────────────
+  ✅ PROFITABLE MARKETS:
+     → Over 0.5 Goals: +74.90u on 760 bets (95.5% win rate)
+     → Over 1.5 Goals: +89.40u on 689 bets (80.7% win rate)
+     → Either Team To Score: +111.20u on 760 bets (95.5% win rate)
+
+  ── CALIBRATION CHECK ───────────────────────────────────────
+  (ConfCalib > 2 means model's confidence correctly predicts wins)
+  Over 0.5 Goals        : ❌ Poorly calibrated  (-0.5)
+  Over 1.5 Goals        : ❌ Poorly calibrated  (-0.2)
+  BTTS - No             : ❌ Poorly calibrated  (-0.1)
+  Either Team To Score  : ❌ Poorly calibrated  (-+0.0)
+
+  NOTE: These odds assume standard bookmaker lines.
+        For accurate P&L, use actual odds from CSV columns:
+        B365>2.5, B365<2.5, Avg>2.5, Avg<2.5
+══════════════════════════════════════════════════════════════

@@ -1,0 +1,49 @@
+Fulham vs Nott'm Forest: Home Win - Very High Risk
+Home:43.04% vs Away:37.01% vs Draw:19.95% Diff: 6.04%
+Home Av Gls: 1.42 vs Away Av Gls: 1.36
+Home Historical Av Gls: 1.19 vs Away Historical Av Gls: 1.27
+Over 1 Gls: 46.65% 
+Over 2 Gls: 20.99% 
+
+Napoli vs Bologna: Home Win - Very High Risk
+Home:43.22% vs Away:35.81% vs Draw:20.98% Diff: 7.41%
+Home Av Gls: 1.59 vs Away Av Gls: 1.46
+Home Historical Av Gls: 1.99 vs Away Historical Av Gls: 1.22
+Over 1 Gls: 38.1% 
+Over 2 Gls: 14.8% 
+
+Ath Bilbao vs Espanol: Home Win - Moderate Risk
+Home:51.64% vs Away:25.66% vs Draw:22.7% Diff: 25.98%
+Home Av Gls: 1.38 vs Away Av Gls: 1.42
+Home Historical Av Gls: 1.23 vs Away Historical Av Gls: 1.11
+Over 1 Gls: 44.89% 
+Over 2 Gls: 19.62% 
+
+Alverca vs Porto: Away Win - Low Risk
+Home:0% vs Away:88.22% vs Draw:11.78% Diff: 88.22%
+Home Av Gls: 0 vs Away Av Gls: 1.98
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 2.17
+Over 1 Gls: 17.52% 
+Over 2 Gls: 4.12% 
+
+Benfica vs Famalicao: Home Win - Moderate Risk
+Home:58.4% vs Away:28.34% vs Draw:13.27% Diff: 30.06%
+Home Av Gls: 2.28 vs Away Av Gls: 1.17
+Home Historical Av Gls: 2.35 vs Away Historical Av Gls: 1.26
+Over 1 Gls: 51.33% 
+Over 2 Gls: 24.84% 
+
+Istanbulspor vs Gaziantep: Away Win - Moderate Risk
+Home:22.35% vs Away:57.33% vs Draw:20.32% Diff: 34.98%
+Home Av Gls: 1.02 vs Away Av Gls: 1.05
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 1.27
+Over 1 Gls: 30.08% 
+Over 2 Gls: 9.95% 
+
+Genclerbirligi vs Trabzonspor: Away Win - Low Risk
+Home:10.29% vs Away:75.19% vs Draw:14.52% Diff: 64.89%
+Home Av Gls: 0 vs Away Av Gls: 1.86
+Home Historical Av Gls: 1.13 vs Away Historical Av Gls: 1.68
+Over 1 Gls: 17.54% 
+Over 2 Gls: 4.13% 
+

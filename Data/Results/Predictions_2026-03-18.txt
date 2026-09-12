@@ -1,0 +1,22 @@
+Eyupspor vs Trabzonspor: Away Win - Low Risk
+Home:22.12% vs Away:60.8% vs Draw:17.07% Diff: 38.68%
+Home Av Gls: 0.79 vs Away Av Gls: 1.94
+Home Historical Av Gls: 0.79 vs Away Historical Av Gls: 1.72
+CEG: 2.73 | CEG+: 3.36
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 26.84% 
+Over 2 Gls: 8.24% 
+
+Istanbulspor vs Antalyaspor: Away Win - High Risk
+Home:18.81% vs Away:47.77% vs Draw:33.41% Diff: 28.96%
+Home Av Gls: 0.72 vs Away Av Gls: 1.12
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 1.22
+CEG: 1.84 | CEG+: 2.39
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 34.22% 
+Over 2 Gls: 12.34% 
+

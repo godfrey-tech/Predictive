@@ -1,0 +1,175 @@
+Aston Villa vs Arsenal: Away Win - Moderate Risk
+Home:33.91% vs Away:56.95% vs Draw:9.14% Diff: 23.05%
+Home Av Gls: 1.55 vs Away Av Gls: 2.04
+Home Historical Av Gls: 1.45 vs Away Historical Av Gls: 1.89
+CEG: 3.59 | CEG+: 4.43
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 50.87% 
+Over 2 Gls: 24.44% 
+
+GOALS UNDERS
+Combined Avg: 3.50/game  (Home: 1.51  Away: 1.99)  CEG: 3.59  CEG+: 4.43
+Under 1.5: 12.7%  🔴 SKIP
+Under 2.5: 30.5%  🔴 SKIP
+Under 3.5: 51.7%  🔴 SKIP
+Under 4.5: 70.8%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.54/game  |  Away Avg: 1.40/game  |  Combined: 2.94/game  |  H2H Avg: 4.50/game (10 matches)
+Total Match Cards:
+  Over 3: 🟡74.3%   Over 4: 🟠54.1%   Over 5: 🔴28.4%   Over 6: 🔴9.5%
+Aston Villa Cards:
+  Over 1: 🟢81.0%   Over 2: 🟠52.4%   Over 3: 🔴20.6%
+Arsenal Cards:
+  Over 1: 🟢77.8%   Over 2: 🔴36.5%   Over 3: 🔴9.5%
+
+CORNERS
+Home Avg: 5.24/game  |  Away Avg: 5.84/game  |  Combined: 11.08/game  |  H2H Avg: 8.60/game (10 matches)
+  Over 7:  🟢82.4%   Over 8:  🟡68.9%   Over 9:  🟠63.5%   Over 10: 🟠56.8%   Over 11: 🔴44.6%
+
+═══════════════════════════════════════════════════════════
+
+Osasuna vs Getafe: Away Win - High Risk
+Home:28.44% vs Away:44.8% vs Draw:26.75% Diff: 16.36%
+Home Av Gls: 1.21 vs Away Av Gls: 0.93
+Home Historical Av Gls: 1.11 vs Away Historical Av Gls: 0.98
+CEG: 2.14 | CEG+: 2.67
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 30.92% 
+Over 2 Gls: 10.42% 
+
+GOALS UNDERS
+Combined Avg: 2.13/game  (Home: 1.18  Away: 0.95)  CEG: 2.14  CEG+: 2.67
+Under 1.5: 36.9%  🔴 SKIP
+Under 2.5: 63.9%  🟡 SIGNAL
+Under 3.5: 83.1%  🟢 STRONG
+Under 4.5: 93.4%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.43/game  |  Away Avg: 3.13/game  |  Combined: 5.56/game  |  H2H Avg: 6.25/game (12 matches)
+Total Match Cards:
+  Over 3: 🟢86.5%   Over 4: 🟢75.7%   Over 5: 🟠58.6%   Over 6: 🔴41.4%
+Osasuna Cards:
+  Over 1: 🟢90.7%   Over 2: 🟡73.3%   Over 3: 🔴44.0%
+Getafe Cards:
+  Over 1: 🟢98.7%   Over 2: 🟢81.3%   Over 3: 🟠60.0%
+
+CORNERS
+Home Avg: 4.11/game  |  Away Avg: 4.01/game  |  Combined: 8.12/game  |  H2H Avg: 6.33/game (12 matches)
+  Over 7:  🟢78.4%   Over 8:  🟠64.0%   Over 9:  🔴45.0%   Over 10: 🔴33.3%   Over 11: 🔴23.4%
+
+═══════════════════════════════════════════════════════════
+
+Barcelona vs Vallecano: Home Win - Moderate Risk
+Home:52.27% vs Away:34.48% vs Draw:13.26% Diff: 17.79%
+Home Av Gls: 2.51 vs Away Av Gls: 0.99
+Home Historical Av Gls: 2.37 vs Away Historical Av Gls: 1.05
+CEG: 3.5 | CEG+: 4.35
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 50.11% 
+Over 2 Gls: 23.8% 
+
+GOALS UNDERS
+Combined Avg: 3.47/game  (Home: 2.46  Away: 1.01)  CEG: 3.50  CEG+: 4.35
+Under 1.5: 13.6%  🔴 SKIP
+Under 2.5: 32.1%  🔴 SKIP
+Under 3.5: 53.7%  🔴 SKIP
+Under 4.5: 72.5%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.64/game  |  Away Avg: 2.73/game  |  Combined: 4.38/game  |  H2H Avg: 6.00/game (12 matches)
+Total Match Cards:
+  Over 3: 🟢77.3%   Over 4: 🟠63.6%   Over 5: 🔴46.4%   Over 6: 🔴30.0%
+Barcelona Cards:
+  Over 1: 🟢78.1%   Over 2: 🟠50.7%   Over 3: 🔴17.8%
+Vallecano Cards:
+  Over 1: 🟢97.3%   Over 2: 🟢77.3%   Over 3: 🟠52.0%
+
+CORNERS
+Home Avg: 7.44/game  |  Away Avg: 5.31/game  |  Combined: 12.75/game  |  H2H Avg: 10.58/game (12 matches)
+  Over 7:  🟢89.1%   Over 8:  🟢84.5%   Over 9:  🟢76.4%   Over 10: 🟠64.5%   Over 11: 🟠55.5%
+
+═══════════════════════════════════════════════════════════
+
+Lecce vs Roma: Away Win - Moderate Risk
+Home:29.25% vs Away:52.64% vs Draw:18.11% Diff: 23.4%
+Home Av Gls: 0.73 vs Away Av Gls: 1.5
+Home Historical Av Gls: 0.9 vs Away Historical Av Gls: 1.7
+CEG: 2.23 | CEG+: 2.87
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 20/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 25.79% 
+Over 2 Gls: 7.71% 
+
+GOALS UNDERS
+Combined Avg: 2.36/game  (Home: 0.79  Away: 1.57)  CEG: 2.23  CEG+: 2.87
+Under 1.5: 34.7%  🔴 SKIP
+Under 2.5: 61.5%  🟡 SIGNAL
+Under 3.5: 81.3%  🟡 SIGNAL
+Under 4.5: 92.4%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.42/game  |  Away Avg: 1.47/game  |  Combined: 2.89/game  |  H2H Avg: 5.12/game (8 matches)
+Total Match Cards:
+  Over 3: 🟠59.5%   Over 4: 🔴45.9%   Over 5: 🔴32.4%   Over 6: 🔴16.2%
+Lecce Cards:
+  Over 1: 🟢78.9%   Over 2: 🟠52.6%   Over 3: 🔴10.5%
+Roma Cards:
+  Over 1: 🟡68.4%   Over 2: 🟠52.6%   Over 3: 🔴21.1%
+
+CORNERS
+Home Avg: 5.05/game  |  Away Avg: 5.11/game  |  Combined: 10.16/game  |  H2H Avg: 11.00/game (8 matches)
+  Over 7:  🟢81.1%   Over 8:  🟠64.9%   Over 9:  🟠62.2%   Over 10: 🟠51.4%   Over 11: 🔴40.5%
+
+═══════════════════════════════════════════════════════════
+
+Atalanta vs Bologna: Home Win - Low Risk
+Home:60.18% vs Away:24.33% vs Draw:15.49% Diff: 35.85%
+Home Av Gls: 2.02 vs Away Av Gls: 1.52
+Home Historical Av Gls: 1.95 vs Away Historical Av Gls: 1.31
+CEG: 3.54 | CEG+: 4.36
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 47.56% 
+Over 2 Gls: 21.71% 
+
+GOALS UNDERS
+Combined Avg: 3.44/game  (Home: 2.00  Away: 1.45)  CEG: 3.54  CEG+: 4.36
+Under 1.5: 13.2%  🔴 SKIP
+Under 2.5: 31.4%  🔴 SKIP
+Under 3.5: 52.8%  🔴 SKIP
+Under 4.5: 71.8%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.68/game  |  Away Avg: 1.40/game  |  Combined: 3.08/game  |  H2H Avg: 5.11/game (9 matches)
+Total Match Cards:
+  Over 3: 🟡71.1%   Over 4: 🔴44.7%   Over 5: 🔴28.9%   Over 6: 🔴10.5%
+Atalanta Cards:
+  Over 1: 🟢89.5%   Over 2: 🔴36.8%   Over 3: 🔴26.3%
+Bologna Cards:
+  Over 1: 🟢85.0%   Over 2: 🔴40.0%   Over 3: 🔴10.0%
+
+CORNERS
+Home Avg: 5.11/game  |  Away Avg: 5.00/game  |  Combined: 10.11/game  |  H2H Avg: 8.00/game (9 matches)
+  Over 7:  🟡65.8%   Over 8:  🟠55.3%   Over 9:  🔴44.7%   Over 10: 🔴31.6%   Over 11: 🔴23.7%
+
+═══════════════════════════════════════════════════════════
+

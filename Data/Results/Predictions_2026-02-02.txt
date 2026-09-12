@@ -1,0 +1,55 @@
+Sunderland vs Burnley: Home Win - High Risk
+Home:43.53% vs Away:24.7% vs Draw:31.77% Diff: 18.83%
+Home Av Gls: 1.12 vs Away Av Gls: 1.12
+Home Historical Av Gls: 0.9 vs Away Historical Av Gls: 1.02
+CEG: 2.24 | CEG+: 2.72
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:True | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 19.85% 
+Over 2 Gls: 5.04% 
+
+Mallorca vs Sevilla: Away Win - High Risk
+Home:29.13% vs Away:45.24% vs Draw:25.63% Diff: 16.12%
+Home Av Gls: 0.92 vs Away Av Gls: 1.24
+Home Historical Av Gls: 0.98 vs Away Historical Av Gls: 1.43
+CEG: 2.16 | CEG+: 2.76
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 35.19% 
+Over 2 Gls: 12.94% 
+
+Udinese vs Roma: Away Win - Moderate Risk
+Home:31.63% vs Away:50.11% vs Draw:18.26% Diff: 18.48%
+Home Av Gls: 1.12 vs Away Av Gls: 1.44
+Home Historical Av Gls: 1.17 vs Away Historical Av Gls: 1.77
+CEG: 2.56 | CEG+: 3.29
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 31.93% 
+Over 2 Gls: 10.99% 
+
+AVS vs Sp Braga: Away Win - Low Risk
+Home:2.42% vs Away:77.37% vs Draw:20.21% Diff: 74.95%
+Home Av Gls: 0.74 vs Away Av Gls: 1.93
+Home Historical Av Gls: 0.74 vs Away Historical Av Gls: 1.81
+CEG: 2.67 | CEG+: 3.3
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 43.98% 
+Over 2 Gls: 18.94% 
+
+Casa Pia vs Porto: Away Win - Low Risk
+Home:18.37% vs Away:71.5% vs Draw:10.13% Diff: 53.13%
+Home Av Gls: 1.14 vs Away Av Gls: 2.05
+Home Historical Av Gls: 1.02 vs Away Historical Av Gls: 2.18
+CEG: 3.18 | CEG+: 3.98
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 39.46% 
+Over 2 Gls: 15.72% 
+

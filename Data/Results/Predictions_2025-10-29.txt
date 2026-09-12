@@ -1,0 +1,119 @@
+Lorient vs Paris SG: Away Win - Low Risk
+Home:23,52% vs Away:62,03% vs Draw:14,45% Diff: 38,51%
+Home Av Gls: 1,2 vs Away Av Gls: 2,27
+Home Historical Av Gls: 1,2 vs Away Historical Av Gls: 2,51
+Over 1 Gls: 48,48% 
+Over 2 Gls: 22,45% 
+
+Le Havre vs Brest: Away Win - Moderate Risk
+Home:22,95% vs Away:50,73% vs Draw:26,32% Diff: 27,79%
+Home Av Gls: 1 vs Away Av Gls: 1,41
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 1,31
+Over 1 Gls: 27,21% 
+Over 2 Gls: 8,43% 
+
+Metz vs Lens: Away Win - Moderate Risk
+Home:24,73% vs Away:53,97% vs Draw:21,3% Diff: 29,23%
+Home Av Gls: 1,03 vs Away Av Gls: 1,54
+Home Historical Av Gls: 1 vs Away Historical Av Gls: 1,55
+Over 1 Gls: 38,67% 
+Over 2 Gls: 15,18% 
+
+Nice vs Lille: Away Win - No bet
+Home:38,59% vs Away:39,67% vs Draw:21,74% Diff: 1,08%
+Home Av Gls: 1,27 vs Away Av Gls: 1,56
+Home Historical Av Gls: 1,29 vs Away Historical Av Gls: 1,41
+Over 1 Gls: 40,35% 
+Over 2 Gls: 16,32% 
+
+Marseille vs Angers: Home Win - Moderate Risk
+Home:59,86% vs Away:18,1% vs Draw:22,04% Diff: 41,76%
+Home Av Gls: 1,64 vs Away Av Gls: 0,76
+Home Historical Av Gls: 1,59 vs Away Historical Av Gls: 1,06
+Over 1 Gls: 49,64% 
+Over 2 Gls: 23,41% 
+
+Nantes vs Monaco: Away Win - Low Risk
+Home:20,68% vs Away:62,48% vs Draw:16,85% Diff: 41,8%
+Home Av Gls: 0,88 vs Away Av Gls: 1,92
+Home Historical Av Gls: 1,08 vs Away Historical Av Gls: 1,88
+Over 1 Gls: 43,4% 
+Over 2 Gls: 18,51% 
+
+Strasbourg vs Auxerre: Home Win - High Risk
+Home:40,25% vs Away:26,73% vs Draw:33,01% Diff: 13,52%
+Home Av Gls: 1,27 vs Away Av Gls: 0,88
+Home Historical Av Gls: 1,32 vs Away Historical Av Gls: 0,92
+Over 1 Gls: 37,76% 
+Over 2 Gls: 14,58% 
+
+Toulouse vs Rennes: Away Win - Very High Risk
+Home:34,41% vs Away:44,4% vs Draw:21,19% Diff: 10%
+Home Av Gls: 1,25 vs Away Av Gls: 1,59
+Home Historical Av Gls: 1,07 vs Away Historical Av Gls: 1,49
+Over 1 Gls: 41,68% 
+Over 2 Gls: 17,26% 
+
+Juventus vs Udinese: Home Win - Moderate Risk
+Home:51,92% vs Away:26,97% vs Draw:21,11% Diff: 24,95%
+Home Av Gls: 1,44 vs Away Av Gls: 1
+Home Historical Av Gls: 1,86 vs Away Historical Av Gls: 1,15
+Over 1 Gls: 35,98% 
+Over 2 Gls: 13,43% 
+
+Roma vs Parma: Home Win - Low Risk
+Home:61,49% vs Away:10,07% vs Draw:28,44% Diff: 51,42%
+Home Av Gls: 1,57 vs Away Av Gls: 0
+Home Historical Av Gls: 1,79 vs Away Historical Av Gls: 1,19
+Over 1 Gls: 14,78% 
+Over 2 Gls: 3,14% 
+
+Bologna vs Torino: Home Win - No bet
+Home:39,11% vs Away:34,18% vs Draw:26,71% Diff: 4,92%
+Home Av Gls: 1,46 vs Away Av Gls: 1,03
+Home Historical Av Gls: 1,23 vs Away Historical Av Gls: 1,3
+Over 1 Gls: 33,29% 
+Over 2 Gls: 11,78% 
+
+Genoa vs Cremonese: Home Win - High Risk
+Home:43,88% vs Away:28,11% vs Draw:28,01% Diff: 15,77%
+Home Av Gls: 1,18 vs Away Av Gls: 1,04
+Home Historical Av Gls: 1,06 vs Away Historical Av Gls: 0,95
+Over 1 Gls: 19,84% 
+Over 2 Gls: 5,03% 
+
+Inter vs Fiorentina: Home Win - Very High Risk
+Home:45,93% vs Away:40,73% vs Draw:13,34% Diff: 5,19%
+Home Av Gls: 2,11 vs Away Av Gls: 1,58
+Home Historical Av Gls: 1,95 vs Away Historical Av Gls: 1,44
+Over 1 Gls: 53,15% 
+Over 2 Gls: 26,43% 
+
+Arsenal vs Brighton: Home Win - High Risk
+Home:49,54% vs Away:32,35% vs Draw:18,1% Diff: 17,19%
+Home Av Gls: 2,16 vs Away Av Gls: 1,67
+Home Historical Av Gls: 1,89 vs Away Historical Av Gls: 1,24
+Over 1 Gls: 55,27% 
+Over 2 Gls: 28,36% 
+
+Liverpool vs Crystal Palace: Home Win - Low Risk
+Home:60,8% vs Away:23,18% vs Draw:16,02% Diff: 37,62%
+Home Av Gls: 2,22 vs Away Av Gls: 1,3
+Home Historical Av Gls: 2,19 vs Away Historical Av Gls: 1,21
+Over 1 Gls: 44,21% 
+Over 2 Gls: 19,11% 
+
+Wolves vs Chelsea: Home Win - Very High Risk
+Home:47,78% vs Away:40,03% vs Draw:12,19% Diff: 7,75%
+Home Av Gls: 1,3 vs Away Av Gls: 1,6
+Home Historical Av Gls: 1,16 vs Away Historical Av Gls: 1,74
+Over 1 Gls: 47,11% 
+Over 2 Gls: 21,34% 
+
+Newcastle vs Tottenham: Home Win - High Risk
+Home:49,96% vs Away:36,61% vs Draw:13,43% Diff: 13,35%
+Home Av Gls: 2 vs Away Av Gls: 1,86
+Home Historical Av Gls: 1,42 vs Away Historical Av Gls: 1,87
+Over 1 Gls: 63,57% 
+Over 2 Gls: 36,67% 
+

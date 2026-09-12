@@ -1,0 +1,141 @@
+M'gladbach vs Augsburg: Home Win - No bet
+Home:36.82% vs Away:35.88% vs Draw:27.3% Diff: 0.94%
+Home Av Gls: 1.45 vs Away Av Gls: 1.23
+Home Historical Av Gls: 1.61 vs Away Historical Av Gls: 1.25
+Over 1 Gls: 36.06% 
+Over 2 Gls: 13.48% 
+
+Bayern Munich vs Wolfsburg: Home Win - Low Risk
+Home:63.16% vs Away:24.91% vs Draw:11.93% Diff: 38.25%
+Home Av Gls: 2.88 vs Away Av Gls: 1.27
+Home Historical Av Gls: 2.76 vs Away Historical Av Gls: 1.4
+Over 1 Gls: 60.92% 
+Over 2 Gls: 33.88% 
+
+Vallecano vs Mallorca: Draw - Very High Risk
+Home:28.47% vs Away:35.62% vs Draw:35.9% Diff: 7.15%
+Home Av Gls: 0.68 vs Away Av Gls: 0.89
+Home Historical Av Gls: 0.99 vs Away Historical Av Gls: 0.97
+Over 1 Gls: 21.47% 
+Over 2 Gls: 5.72% 
+
+Levante vs Espanol: Away Win - Moderate Risk
+Home:26.94% vs Away:52.48% vs Draw:20.58% Diff: 25.54%
+Home Av Gls: 1.21 vs Away Av Gls: 1.3
+Home Historical Av Gls: 1.29 vs Away Historical Av Gls: 1.12
+Over 1 Gls: 24.05% 
+Over 2 Gls: 6.88% 
+
+Lecce vs Parma: Away Win - Very High Risk
+Home:28.96% vs Away:35.76% vs Draw:35.28% Diff: 6.8%
+Home Av Gls: 0.74 vs Away Av Gls: 0.67
+Home Historical Av Gls: 0.98 vs Away Historical Av Gls: 1.12
+Over 1 Gls: 19.86% 
+Over 2 Gls: 5.04% 
+
+Fiorentina vs Milan: Away Win - High Risk
+Home:29.14% vs Away:49.83% vs Draw:21.03% Diff: 20.7%
+Home Av Gls: 1.34 vs Away Av Gls: 1.89
+Home Historical Av Gls: 1.4 vs Away Historical Av Gls: 1.66
+Over 1 Gls: 39.7% 
+Over 2 Gls: 15.88% 
+
+Verona vs Lazio: Away Win - High Risk
+Home:27.35% vs Away:46.87% vs Draw:25.78% Diff: 19.52%
+Home Av Gls: 1.02 vs Away Av Gls: 1.19
+Home Historical Av Gls: 1.1 vs Away Historical Av Gls: 1.74
+Over 1 Gls: 24.66% 
+Over 2 Gls: 7.17% 
+
+Inter vs Napoli: Home Win - Moderate Risk
+Home:59.26% vs Away:30.83% vs Draw:9.91% Diff: 28.43%
+Home Av Gls: 2.26 vs Away Av Gls: 1.33
+Home Historical Av Gls: 1.98 vs Away Historical Av Gls: 1.96
+Over 1 Gls: 53.23% 
+Over 2 Gls: 26.5% 
+
+Barcelona vs Real Madrid: Home Win - Very High Risk
+Home:50.27% vs Away:42.87% vs Draw:6.86% Diff: 7.39%
+Home Av Gls: 2.4 vs Away Av Gls: 2.27
+Home Historical Av Gls: 2.31 vs Away Historical Av Gls: 2.11
+Over 1 Gls: 62.3% 
+Over 2 Gls: 35.31% 
+
+Heerenveen vs Feyenoord: Away Win - High Risk
+Home:35.75% vs Away:50.25% vs Draw:13.99% Diff: 14.5%
+Home Av Gls: 1.68 vs Away Av Gls: 2.46
+Home Historical Av Gls: 1.46 vs Away Historical Av Gls: 2.25
+Over 1 Gls: 53.03% 
+Over 2 Gls: 26.33% 
+
+Telstar vs Ajax: Away Win - Moderate Risk
+Home:24% vs Away:53.79% vs Draw:22.2% Diff: 29.79%
+Home Av Gls: 1.18 vs Away Av Gls: 2.16
+Home Historical Av Gls: 1.18 vs Away Historical Av Gls: 2.64
+Over 1 Gls: 36.67% 
+Over 2 Gls: 13.87% 
+
+Go Ahead Eagles vs For Sittard: Away Win - High Risk
+Home:31.59% vs Away:42.23% vs Draw:26.18% Diff: 10.64%
+Home Av Gls: 1.37 vs Away Av Gls: 1.32
+Home Historical Av Gls: 1.23 vs Away Historical Av Gls: 1.25
+Over 1 Gls: 35.3% 
+Over 2 Gls: 13% 
+
+Sparta Rotterdam vs Heracles: Home Win - Moderate Risk
+Home:51.65% vs Away:32.58% vs Draw:15.77% Diff: 19.07%
+Home Av Gls: 1.39 vs Away Av Gls: 1.29
+Home Historical Av Gls: 1.32 vs Away Historical Av Gls: 1.39
+Over 1 Gls: 32.79% 
+Over 2 Gls: 11.49% 
+
+ vs Leeds: Away Win - Moderate Risk
+Home:0% vs Away:55.1% vs Draw:44.9% Diff: 55.1%
+Home Av Gls: 0 vs Away Av Gls: 1.36
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1.34
+Over 1 Gls: 9.32% 
+Over 2 Gls: 1.51% 
+
+ vs Arsenal: Away Win - Low Risk
+Home:0% vs Away:78.48% vs Draw:21.52% Diff: 78.48%
+Home Av Gls: 0 vs Away Av Gls: 2.05
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1.89
+Over 1 Gls: 17.61% 
+Over 2 Gls: 4.15% 
+
+West Ham vs : Home Win - Moderate Risk
+Home:54.44% vs Away:0% vs Draw:45.56% Diff: 54.44%
+Home Av Gls: 1.25 vs Away Av Gls: 0
+Home Historical Av Gls: 1.34 vs Away Historical Av Gls: 0
+Over 1 Gls: 8.25% 
+Over 2 Gls: 1.25% 
+
+Man United vs Brighton: Home Win - Very High Risk
+Home:41.13% vs Away:32.81% vs Draw:26.06% Diff: 8.32%
+Home Av Gls: 1.44 vs Away Av Gls: 1.43
+Home Historical Av Gls: 1.59 vs Away Historical Av Gls: 1.26
+Over 1 Gls: 46.68% 
+Over 2 Gls: 21.01% 
+
+Man United vs Brighton: Home Win - Very High Risk
+Home:41.13% vs Away:32.81% vs Draw:26.06% Diff: 8.32%
+Home Av Gls: 1.44 vs Away Av Gls: 1.43
+Home Historical Av Gls: 1.59 vs Away Historical Av Gls: 1.26
+CEG: 2.87 | CEG+: 3.58
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)
+PATTERNS → ETTS:True | Over1Strong:False | Under2Strong:False
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyPressure:False
+Over 1 Gls: 46.68% 
+Over 2 Gls: 21.01% 
+
+Man City vs Brighton: Home Win - Moderate Risk
+Home:53.78% vs Away:27.35% vs Draw:18.87% Diff: 26.44%
+Home Av Gls: 2.25 vs Away Av Gls: 1.43
+Home Historical Av Gls: 2.42 vs Away Historical Av Gls: 1.26
+CEG: 3.68 | CEG+: 4.6
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)
+PATTERNS → ETTS:True | Over1Strong:True | Under2Strong:False
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyPressure:True
+Over 1 Gls: 54.58% 
+Over 2 Gls: 27.72% 
+

@@ -1,0 +1,297 @@
+Man United vs Tottenham: Home Win - Moderate Risk
+Home:57.88% vs Away:26.98% vs Draw:15.14% Diff: 30.89%
+Home Av Gls: 1.72 vs Away Av Gls: 1.62
+Home Historical Av Gls: 1.66 vs Away Historical Av Gls: 1.82
+CEG: 3.34 | CEG+: 4.21
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 52.56% 
+Over 2 Gls: 25.91% 
+
+Bournemouth vs Aston Villa: Home Win - Very High Risk
+Home:44.57% vs Away:38.83% vs Draw:16.6% Diff: 5.74%
+Home Av Gls: 1.66 vs Away Av Gls: 1.58
+Home Historical Av Gls: 1.33 vs Away Historical Av Gls: 1.45
+CEG: 3.24 | CEG+: 3.93
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 39.87% 
+Over 2 Gls: 15.99% 
+
+Arsenal vs Sunderland: Home Win - Moderate Risk
+Home:51.2% vs Away:33.87% vs Draw:14.93% Diff: 17.34%
+Home Av Gls: 2.07 vs Away Av Gls: 1.12
+Home Historical Av Gls: 1.89 vs Away Historical Av Gls: 0.97
+CEG: 3.19 | CEG+: 3.9
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 49.91% 
+Over 2 Gls: 23.63% 
+
+Burnley vs West Ham: Away Win - High Risk
+Home:24.86% vs Away:48.18% vs Draw:26.96% Diff: 23.32%
+Home Av Gls: 1.09 vs Away Av Gls: 1.32
+Home Historical Av Gls: 1.02 vs Away Historical Av Gls: 1.35
+CEG: 2.41 | CEG+: 3
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 38.67% 
+Over 2 Gls: 15.18% 
+
+Fulham vs Everton: Away Win - No bet
+Home:38.03% vs Away:41.69% vs Draw:20.28% Diff: 3.65%
+Home Av Gls: 1.49 vs Away Av Gls: 1.07
+Home Historical Av Gls: 1.19 vs Away Historical Av Gls: 1.19
+CEG: 2.55 | CEG+: 3.15
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 20/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 24.46% 
+Over 2 Gls: 7.07% 
+
+Wolves vs Chelsea: Away Win - Low Risk
+Home:16.31% vs Away:67.91% vs Draw:15.77% Diff: 51.6%
+Home Av Gls: 0.88 vs Away Av Gls: 1.91
+Home Historical Av Gls: 1.03 vs Away Historical Av Gls: 1.73
+CEG: 2.79 | CEG+: 3.48
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 41.47% 
+Over 2 Gls: 17.11% 
+
+Newcastle vs Brentford: Away Win - No bet
+Home:38.26% vs Away:42.8% vs Draw:18.94% Diff: 4.54%
+Home Av Gls: 1.63 vs Away Av Gls: 1.47
+Home Historical Av Gls: 1.36 vs Away Historical Av Gls: 1.44
+CEG: 3.11 | CEG+: 3.81
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 48.97% 
+Over 2 Gls: 22.85% 
+
+Freiburg vs Werder Bremen: Home Win - High Risk
+Home:40.4% vs Away:29.54% vs Draw:30.06% Diff: 10.86%
+Home Av Gls: 1.47 vs Away Av Gls: 1.24
+Home Historical Av Gls: 1.39 vs Away Historical Av Gls: 1.4
+CEG: 2.71 | CEG+: 3.41
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 44.93% 
+Over 2 Gls: 19.66% 
+
+Mainz vs Augsburg: Home Win - No bet
+Home:39.25% vs Away:38.72% vs Draw:22.03% Diff: 0.53%
+Home Av Gls: 1.18 vs Away Av Gls: 1.24
+Home Historical Av Gls: 1.3 vs Away Historical Av Gls: 1.26
+CEG: 2.42 | CEG+: 3.06
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 45.61% 
+Over 2 Gls: 20.17% 
+
+Wolfsburg vs Dortmund: Away Win - Low Risk
+Home:21.36% vs Away:62.86% vs Draw:15.78% Diff: 41.5%
+Home Av Gls: 1.24 vs Away Av Gls: 1.98
+Home Historical Av Gls: 1.4 vs Away Historical Av Gls: 2.23
+CEG: 3.22 | CEG+: 4.13
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 39.39% 
+Over 2 Gls: 15.67% 
+
+St Pauli vs Stuttgart: Away Win - Low Risk
+Home:14.71% vs Away:68.13% vs Draw:17.16% Diff: 53.42%
+Home Av Gls: 0.9 vs Away Av Gls: 1.96
+Home Historical Av Gls: 0.9 vs Away Historical Av Gls: 1.45
+CEG: 2.86 | CEG+: 3.44
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 27.86% 
+Over 2 Gls: 8.76% 
+
+Heidenheim vs Hamburg: Draw - No bet
+Home:31.03% vs Away:32.62% vs Draw:36.35% Diff: 1.59%
+Home Av Gls: 1.24 vs Away Av Gls: 1
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 0.98
+CEG: 2.24 | CEG+: 2.81
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 55/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 29.82% 
+Over 2 Gls: 9.81% 
+
+M'gladbach vs Leverkusen: Away Win - Moderate Risk
+Home:23.47% vs Away:59.58% vs Draw:16.95% Diff: 36.11%
+Home Av Gls: 1.42 vs Away Av Gls: 2.27
+Home Historical Av Gls: 1.6 vs Away Historical Av Gls: 1.92
+CEG: 3.69 | CEG+: 4.57
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 44.21% 
+Over 2 Gls: 19.11% 
+
+Vallecano vs Oviedo: Draw - No bet
+Home:33.18% vs Away:30.66% vs Draw:36.16% Diff: 2.52%
+Home Av Gls: 0.71 vs Away Av Gls: 0.5
+Home Historical Av Gls: 0.99 vs Away Historical Av Gls: 0.5
+CEG: 1.21 | CEG+: 1.58
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:True | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 8.13% 
+Over 2 Gls: 1.22% 
+
+Barcelona vs Mallorca: Home Win - Low Risk
+Home:62.35% vs Away:24.47% vs Draw:13.17% Diff: 37.88%
+Home Av Gls: 2.39 vs Away Av Gls: 0.98
+Home Historical Av Gls: 2.31 vs Away Historical Av Gls: 0.99
+CEG: 3.37 | CEG+: 4.2
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 55.01% 
+Over 2 Gls: 28.12% 
+
+Sevilla vs Girona: Away Win - High Risk
+Home:34.23% vs Away:46.31% vs Draw:19.46% Diff: 12.08%
+Home Av Gls: 1.23 vs Away Av Gls: 1.61
+Home Historical Av Gls: 1.42 vs Away Historical Av Gls: 1.43
+CEG: 2.84 | CEG+: 3.55
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 42.21% 
+Over 2 Gls: 17.64% 
+
+Sociedad vs Elche: Home Win - High Risk
+Home:47.67% vs Away:21.53% vs Draw:30.8% Diff: 26.14%
+Home Av Gls: 1.25 vs Away Av Gls: 1.33
+Home Historical Av Gls: 1.4 vs Away Historical Av Gls: 0.99
+CEG: 2.59 | CEG+: 3.19
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – fragile structure (likely scores: 1–1 → 2–1 / 1–2; 2–2 or 3–1 if triggered)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 34.03% 
+Over 2 Gls: 12.23% 
+
+Lens vs Rennes: Home Win - Moderate Risk
+Home:51.59% vs Away:33.57% vs Draw:14.84% Diff: 18.03%
+Home Av Gls: 1.52 vs Away Av Gls: 1.52
+Home Historical Av Gls: 1.57 vs Away Historical Av Gls: 1.5
+CEG: 3.05 | CEG+: 3.81
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 36.2% 
+Over 2 Gls: 13.57% 
+
+Brest vs Lorient: Away Win - High Risk
+Home:34.09% vs Away:45.97% vs Draw:19.94% Diff: 11.88%
+Home Av Gls: 1.55 vs Away Av Gls: 1.25
+Home Historical Av Gls: 1.31 vs Away Historical Av Gls: 1.21
+CEG: 2.8 | CEG+: 3.42
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 50.59% 
+Over 2 Gls: 24.2% 
+
+Nantes vs Lyon: Away Win - Low Risk
+Home:17.23% vs Away:70.64% vs Draw:12.13% Diff: 53.41%
+Home Av Gls: 0.75 vs Away Av Gls: 1.67
+Home Historical Av Gls: 1.08 vs Away Historical Av Gls: 1.88
+CEG: 2.42 | CEG+: 3.16
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 20/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 27.28% 
+Over 2 Gls: 8.46% 
+
+Genoa vs Napoli: Away Win - High Risk
+Home:27.59% vs Away:49.79% vs Draw:22.62% Diff: 22.2%
+Home Av Gls: 1.2 vs Away Av Gls: 1.29
+Home Historical Av Gls: 1.07 vs Away Historical Av Gls: 1.93
+CEG: 2.49 | CEG+: 3.24
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 34.3% 
+Over 2 Gls: 12.39% 
+
+Fiorentina vs Torino: Away Win - No bet
+Home:33.81% vs Away:38.67% vs Draw:27.52% Diff: 4.87%
+Home Av Gls: 1.33 vs Away Av Gls: 1
+Home Historical Av Gls: 1.4 vs Away Historical Av Gls: 1.29
+CEG: 2.33 | CEG+: 3.01
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 25.72% 
+Over 2 Gls: 7.68% 
+
+Nijmegen vs Heracles: Home Win - Moderate Risk
+Home:56.64% vs Away:27.71% vs Draw:15.65% Diff: 28.92%
+Home Av Gls: 2.36 vs Away Av Gls: 1.27
+Home Historical Av Gls: 1.44 vs Away Historical Av Gls: 1.39
+CEG: 3.62 | CEG+: 4.33
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 64.15% 
+Over 2 Gls: 37.3% 
+
+Zwolle vs Volendam: Home Win - High Risk
+Home:49.17% vs Away:23.15% vs Draw:27.68% Diff: 26.01%
+Home Av Gls: 1.4 vs Away Av Gls: 0.98
+Home Historical Av Gls: 1.25 vs Away Historical Av Gls: 1.1
+CEG: 2.38 | CEG+: 2.97
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 43.32% 
+Over 2 Gls: 18.45% 
+
+Twente vs Heerenveen: Home Win - Very High Risk
+Home:42.3% vs Away:32.97% vs Draw:24.73% Diff: 9.33%
+Home Av Gls: 1.76 vs Away Av Gls: 1.64
+Home Historical Av Gls: 1.55 vs Away Historical Av Gls: 1.45
+CEG: 3.39 | CEG+: 4.14
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 55.83% 
+Over 2 Gls: 28.87% 
+
+For Sittard vs Sparta Rotterdam: Away Win - Low Risk
+Home:25.83% vs Away:61.02% vs Draw:13.15% Diff: 35.18%
+Home Av Gls: 1.33 vs Away Av Gls: 1.47
+Home Historical Av Gls: 1.25 vs Away Historical Av Gls: 1.33
+CEG: 2.8 | CEG+: 3.45
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 30.82% 
+Over 2 Gls: 10.36% 
+
+Gent vs Oud-Heverlee Leuven: Home Win - High Risk
+Home:47.55% vs Away:26.18% vs Draw:26.27% Diff: 21.37%
+Home Av Gls: 1.57 vs Away Av Gls: 0.96
+Home Historical Av Gls: 1.67 vs Away Historical Av Gls: 1.3
+CEG: 2.53 | CEG+: 3.27
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 60/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 37.61% 
+Over 2 Gls: 14.48% 
+

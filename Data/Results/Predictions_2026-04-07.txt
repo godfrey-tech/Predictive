@@ -1,0 +1,54 @@
+Hatayspor vs Adanaspor: Home Win - Moderate Risk
+Home:53.68% vs Away:8.61% vs Draw:37.7% Diff: 45.07%
+Home Av Gls: 1 vs Away Av Gls: 0
+Home Historical Av Gls: 1.2 vs Away Historical Av Gls: 0.94
+CEG: 1 | CEG+: 1.53
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:True | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 7.43% 
+Over 2 Gls: 1.06% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 1.90/game  |  Combined: 3.80/game
+Total Match Cards:
+  Over 3: 🟢76.0%   Over 4: 🟠56.0%   Over 5: 🔴37.0%   Over 6: 🔴22.0%
+Hatayspor Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+Adanaspor Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.50/game  |  Combined: 9.00/game
+  Over 7:  🟢80.0%   Over 8:  🟡69.0%   Over 9:  🟠57.0%   Over 10: 🔴47.0%   Over 11: 🔴38.0%
+
+
+Wrexham vs Southampton: Away Win - High Risk
+Home:35.15% vs Away:49.29% vs Draw:15.55% Diff: 14.14%
+Home Av Gls: 1.54 vs Away Av Gls: 1.77
+Home Historical Av Gls: 1.54 vs Away Historical Av Gls: 1.76
+CEG: 3.31 | CEG+: 4.14
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 43.94% 
+Over 2 Gls: 18.91% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.64/game  |  Away Avg: 1.92/game  |  Combined: 3.56/game
+Total Match Cards:
+  Over 3: 🟢75.3%   Over 4: 🟠57.1%   Over 5: 🔴28.6%   Over 6: 🔴16.9%
+Wrexham Cards:
+  Over 1: 🟢76.9%   Over 2: 🔴46.2%   Over 3: 🔴28.2%
+Southampton Cards:
+  Over 1: 🟢89.7%   Over 2: 🟠61.5%   Over 3: 🔴25.6%
+
+CORNERS
+Home Avg: 4.54/game  |  Away Avg: 5.62/game  |  Combined: 10.15/game
+  Over 7:  🟢89.6%   Over 8:  🟢80.5%   Over 9:  🟡70.1%   Over 10: 🟠55.8%   Over 11: 🔴41.6%
+
+

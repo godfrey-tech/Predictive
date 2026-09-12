@@ -1,0 +1,37 @@
+Vallecano vs Getafe: Away Win - High Risk
+Home:23.86% vs Away:47.81% vs Draw:28.33% Diff: 23.95%
+Home Av Gls: 0.68 vs Away Av Gls: 1.15
+Home Historical Av Gls: 1.02 vs Away Historical Av Gls: 1.03
+Over 1 Gls: 24.5% 
+Over 2 Gls: 7.09% 
+
+Toulouse vs Lens: Away Win - Moderate Risk
+Home:31.79% vs Away:51.05% vs Draw:17.16% Diff: 19.27%
+Home Av Gls: 1.31 vs Away Av Gls: 1.41
+Home Historical Av Gls: 1.08 vs Away Historical Av Gls: 1.56
+Over 1 Gls: 27% 
+Over 2 Gls: 8.32% 
+
+Cagliari vs Milan: Away Win - Moderate Risk
+Home:23.37% vs Away:53.47% vs Draw:23.16% Diff: 30.1%
+Home Av Gls: 1.14 vs Away Av Gls: 1.91
+Home Historical Av Gls: 1.11 vs Away Historical Av Gls: 1.66
+Over 1 Gls: 39.9% 
+Over 2 Gls: 16.02% 
+
+
+
+Gil Vicente vs Sp Lisbon: Away Win - Low Risk
+Home:22.78% vs Away:64.71% vs Draw:12.51% Diff: 41.93%
+Home Av Gls: 1 vs Away Av Gls: 2.98
+Home Historical Av Gls: 1.15 vs Away Historical Av Gls: 2.13
+Over 1 Gls: 46.61% 
+Over 2 Gls: 20.95% 
+
+Guimaraes vs Nacional: Home Win - Moderate Risk
+Home:52.5% vs Away:27.48% vs Draw:20.02% Diff: 25.01%
+Home Av Gls: 1.27 vs Away Av Gls: 1.13
+Home Historical Av Gls: 1.35 vs Away Historical Av Gls: 0.94
+Over 1 Gls: 22.59% 
+Over 2 Gls: 6.21% 
+

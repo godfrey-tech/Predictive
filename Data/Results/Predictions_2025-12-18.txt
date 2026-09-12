@@ -1,0 +1,63 @@
+Reading vs Luton: Home Win - Moderate Risk
+Home:50.8% vs Away:22.84% vs Draw:26.36% Diff: 27.97%
+Home Av Gls: 1.48 vs Away Av Gls: 0
+Home Historical Av Gls: 1.48 vs Away Historical Av Gls: 1.96
+Over 1 Gls: 14.77% 
+Over 2 Gls: 3.14% 
+
+Ath Bilbao vs : Home Win - Low Risk
+Home:70.12% vs Away:0% vs Draw:29.88% Diff: 70.12%
+Home Av Gls: 1.38 vs Away Av Gls: 0
+Home Historical Av Gls: 1.23 vs Away Historical Av Gls: 0
+Over 1 Gls: 9.21% 
+Over 2 Gls: 1.49% 
+
+ vs Getafe: Draw - Moderate Risk
+Home:0% vs Away:46.95% vs Draw:53.05% Diff: 46.95%
+Home Av Gls: 0 vs Away Av Gls: 1
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1.02
+Over 1 Gls: 5.52% 
+Over 2 Gls: 0.67% 
+
+ vs Betis: Away Win - Low Risk
+Home:0% vs Away:60.93% vs Draw:39.07% Diff: 60.93%
+Home Av Gls: 0 vs Away Av Gls: 1.22
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1.31
+Over 1 Gls: 7.92% 
+Over 2 Gls: 1.17% 
+
+ vs Twente: Away Win - Low Risk
+Home:0% vs Away:73.84% vs Draw:26.16% Diff: 73.84%
+Home Av Gls: 0 vs Away Av Gls: 2.02
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 1.57
+Over 1 Gls: 16.59% 
+Over 2 Gls: 3.77% 
+
+Volendam vs : Home Win - Moderate Risk
+Home:54.81% vs Away:0% vs Draw:45.19% Diff: 54.81%
+Home Av Gls: 1.12 vs Away Av Gls: 0
+Home Historical Av Gls: 1.12 vs Away Historical Av Gls: 0
+Over 1 Gls: 6.74% 
+Over 2 Gls: 0.91% 
+
+Willem II vs Sparta Rotterdam: Away Win - Low Risk
+Home:11.16% vs Away:66.59% vs Draw:22.25% Diff: 55.43%
+Home Av Gls: 0 vs Away Av Gls: 1.62
+Home Historical Av Gls: 1.21 vs Away Historical Av Gls: 1.33
+Over 1 Gls: 14.45% 
+Over 2 Gls: 3.03% 
+
+Santa Clara vs Sp Lisbon: Away Win - Low Risk
+Home:17.13% vs Away:72.48% vs Draw:10.39% Diff: 55.34%
+Home Av Gls: 0.78 vs Away Av Gls: 2.56
+Home Historical Av Gls: 1.1 vs Away Historical Av Gls: 2.09
+Over 1 Gls: 35.33% 
+Over 2 Gls: 13.03% 
+
+Porto vs Famalicao: Home Win - Low Risk
+Home:63.19% vs Away:24.74% vs Draw:12.07% Diff: 38.45%
+Home Av Gls: 1.98 vs Away Av Gls: 1.17
+Home Historical Av Gls: 2.17 vs Away Historical Av Gls: 1.26
+Over 1 Gls: 59.75% 
+Over 2 Gls: 32.68% 
+

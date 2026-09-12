@@ -1,0 +1,33 @@
+Everton vs Leeds: Home Win - No bet
+Home:40.1% vs Away:36.02% vs Draw:23.88% Diff: 4.08%
+Home Av Gls: 1.04 vs Away Av Gls: 1.35
+Home Historical Av Gls: 1.18 vs Away Historical Av Gls: 1.34
+CEG: 2.38 | CEG+: 3.01
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 55/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 22.82% 
+Over 2 Gls: 6.32% 
+
+Girona vs Getafe: Home Win - Moderate Risk
+Home:57.11% vs Away:24.9% vs Draw:17.99% Diff: 32.21%
+Home Av Gls: 1.65 vs Away Av Gls: 0.98
+Home Historical Av Gls: 1.44 vs Away Historical Av Gls: 1
+CEG: 2.63 | CEG+: 3.24
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 30.12% 
+Over 2 Gls: 9.97% 
+
+Verona vs Udinese: Away Win - Very High Risk
+Home:26.21% vs Away:37.43% vs Draw:36.36% Diff: 11.22%
+Home Av Gls: 1 vs Away Av Gls: 1.08
+Home Historical Av Gls: 1.09 vs Away Historical Av Gls: 1.16
+CEG: 2.08 | CEG+: 2.64
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 34.02% 
+Over 2 Gls: 12.22% 
+

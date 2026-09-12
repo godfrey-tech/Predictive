@@ -1,0 +1,189 @@
+Blackburn vs Coventry: Away Win - Very High Risk
+Home:36.08% vs Away:45.6% vs Draw:18.32% Diff: 9.52%
+Home Av Gls: 1.11 vs Away Av Gls: 1.6
+Home Historical Av Gls: 1.24 vs Away Historical Av Gls: 1.41
+CEG: 2.71 | CEG+: 3.38
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 26.93% 
+Over 2 Gls: 8.29% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.13/game  |  Away Avg: 1.70/game  |  Combined: 3.83/game  |  H2H Avg: 3.55/game (11 matches)
+Total Match Cards:
+  Over 3: 🟡69.5%   Over 4: 🟠50.9%   Over 5: 🔴35.3%   Over 6: 🔴22.8%
+Blackburn Cards:
+  Over 1: 🟢85.2%   Over 2: 🟡66.4%   Over 3: 🔴39.8%
+Coventry Cards:
+  Over 1: 🟢81.2%   Over 2: 🔴46.9%   Over 3: 🔴27.3%
+
+CORNERS
+Home Avg: 4.77/game  |  Away Avg: 5.64/game  |  Combined: 10.41/game  |  H2H Avg: 8.82/game (11 matches)
+  Over 7:  🟢91.6%   Over 8:  🟢84.4%   Over 9:  🟡74.3%   Over 10: 🟠59.9%   Over 11: 🔴44.3%
+
+
+Blackburn vs Coventry: Draw - No bet
+Home:NaN% vs Away:NaN% vs Draw:NaN% Diff: NaN%
+Home Av Gls: 0 vs Away Av Gls: 0
+Home Historical Av Gls: 0 vs Away Historical Av Gls: 0
+CEG: 0 | CEG+: 0
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:True | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 0% 
+Over 2 Gls: 0% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 1.90/game  |  Combined: 3.80/game
+Total Match Cards:
+  Over 3: 🟢76.0%   Over 4: 🟠56.0%   Over 5: 🔴37.0%   Over 6: 🔴22.0%
+Blackburn Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+Coventry Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.50/game  |  Combined: 9.00/game
+  Over 7:  🟢80.0%   Over 8:  🟡69.0%   Over 9:  🟠57.0%   Over 10: 🔴47.0%   Over 11: 🔴38.0%
+
+
+St Pauli vs FC Koln: Draw - No bet
+Home:32.57% vs Away:29.89% vs Draw:37.54% Diff: 2.68%
+Home Av Gls: 0.89 vs Away Av Gls: 1.15
+Home Historical Av Gls: 0.89 vs Away Historical Av Gls: 1.28
+CEG: 2.04 | CEG+: 2.59
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 27.33% 
+Over 2 Gls: 8.49% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.61/game  |  Away Avg: 2.00/game  |  Combined: 3.61/game
+Total Match Cards:
+  Over 3: 🟡74.5%   Over 4: 🟠52.7%   Over 5: 🔴32.7%   Over 6: 🔴20.0%
+St Pauli Cards:
+  Over 1: 🟢92.9%   Over 2: 🔴46.4%   Over 3: 🔴17.9%
+FC Koln Cards:
+  Over 1: 🟢89.3%   Over 2: 🟠53.6%   Over 3: 🔴25.0%
+
+CORNERS
+Home Avg: 4.46/game  |  Away Avg: 4.50/game  |  Combined: 8.96/game
+  Over 7:  🟢83.6%   Over 8:  🟡70.9%   Over 9:  🟠63.6%   Over 10: 🟠50.9%   Over 11: 🔴40.0%
+
+
+Sassuolo vs Como: Away Win - High Risk
+Home:32.07% vs Away:49.12% vs Draw:18.81% Diff: 17.06%
+Home Av Gls: 1.15 vs Away Av Gls: 1.71
+Home Historical Av Gls: 1.39 vs Away Historical Av Gls: 1.71
+CEG: 2.86 | CEG+: 3.64
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 29.67% 
+Over 2 Gls: 9.72% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.29/game  |  Away Avg: 2.19/game  |  Combined: 4.48/game
+Total Match Cards:
+  Over 3: 🟢83.6%   Over 4: 🟡67.2%   Over 5: 🔴42.6%   Over 6: 🔴24.6%
+Sassuolo Cards:
+  Over 1: 🟢93.5%   Over 2: 🟡74.2%   Over 3: 🔴41.9%
+Como Cards:
+  Over 1: 🟢87.1%   Over 2: 🟡67.7%   Over 3: 🔴48.4%
+
+CORNERS
+Home Avg: 3.90/game  |  Away Avg: 4.16/game  |  Combined: 8.06/game
+  Over 7:  🟡67.2%   Over 8:  🟠57.4%   Over 9:  🔴41.0%   Over 10: 🔴34.4%   Over 11: 🔴21.3%
+
+
+Inter vs Cagliari: Home Win - Low Risk
+Home:64.11% vs Away:19.06% vs Draw:16.82% Diff: 45.05%
+Home Av Gls: 2.29 vs Away Av Gls: 1.1
+Home Historical Av Gls: 2.02 vs Away Historical Av Gls: 1.1
+CEG: 3.39 | CEG+: 4.17
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 52.34% 
+Over 2 Gls: 25.72% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.61/game  |  Away Avg: 2.42/game  |  Combined: 4.03/game  |  H2H Avg: 2.20/game (5 matches)
+Total Match Cards:
+  Over 3: 🟢83.6%   Over 4: 🟠52.5%   Over 5: 🔴31.1%   Over 6: 🔴23.0%
+Inter Cards:
+  Over 1: 🟢87.1%   Over 2: 🔴48.4%   Over 3: 🔴22.6%
+Cagliari Cards:
+  Over 1: 🟢80.6%   Over 2: 🟡71.0%   Over 3: 🔴48.4%
+
+CORNERS
+Home Avg: 6.71/game  |  Away Avg: 3.48/game  |  Combined: 10.19/game  |  H2H Avg: 8.40/game (5 matches)
+  Over 7:  🟢77.0%   Over 8:  🟡68.9%   Over 9:  🟠57.4%   Over 10: 🔴42.6%   Over 11: 🔴34.4%
+
+
+Lens vs Toulouse: Home Win - Moderate Risk
+Home:50.64% vs Away:31.97% vs Draw:17.39% Diff: 18.67%
+Home Av Gls: 1.67 vs Away Av Gls: 1.35
+Home Historical Av Gls: 1.61 vs Away Historical Av Gls: 1.1
+CEG: 3.02 | CEG+: 3.7
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 51.85% 
+Over 2 Gls: 25.28% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.04/game  |  Away Avg: 2.29/game  |  Combined: 4.32/game  |  H2H Avg: 4.20/game (5 matches)
+Total Match Cards:
+  Over 3: 🟢87.3%   Over 4: 🟡67.3%   Over 5: 🔴45.5%   Over 6: 🔴23.6%
+Lens Cards:
+  Over 1: 🟢85.7%   Over 2: 🟠64.3%   Over 3: 🔴28.6%
+Toulouse Cards:
+  Over 1: 🟢96.4%   Over 2: 🟠64.3%   Over 3: 🔴42.9%
+
+CORNERS
+Home Avg: 5.79/game  |  Away Avg: 4.57/game  |  Combined: 10.36/game  |  H2H Avg: 11.80/game (5 matches)
+  Over 7:  🟢80.0%   Over 8:  🟠63.6%   Over 9:  🟠56.4%   Over 10: 🟠50.9%   Over 11: 🔴38.2%
+
+
+Rio Ave vs AVS: Home Win - Moderate Risk
+Home:55.68% vs Away:7.18% vs Draw:37.14% Diff: 48.5%
+Home Av Gls: 1.1 vs Away Av Gls: 0.67
+Home Historical Av Gls: 1.15 vs Away Historical Av Gls: 0.67
+CEG: 1.76 | CEG+: 2.22
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 32.45% 
+Over 2 Gls: 11.29% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.85/game  |  Away Avg: 2.37/game  |  Combined: 5.22/game
+Total Match Cards:
+  Over 3: 🟡73.6%   Over 4: 🟠62.3%   Over 5: 🟠52.8%   Over 6: 🔴34.0%
+Rio Ave Cards:
+  Over 1: 🟢85.2%   Over 2: 🟡70.4%   Over 3: 🔴48.1%
+AVS Cards:
+  Over 1: 🟢88.9%   Over 2: 🟡66.7%   Over 3: 🔴40.7%
+
+CORNERS
+Home Avg: 4.11/game  |  Away Avg: 3.63/game  |  Combined: 7.74/game
+  Over 7:  🟢77.4%   Over 8:  🟢75.5%   Over 9:  🟡67.9%   Over 10: 🟠58.5%   Over 11: 🔴45.3%
+
+

@@ -1,0 +1,55 @@
+Betis vs Ath Madrid: Away Win - Moderate Risk
+Home:29.43% vs Away:53.9% vs Draw:16.67% Diff: 24.48%
+Home Av Gls: 1.4 vs Away Av Gls: 1.67
+Home Historical Av Gls: 1.33 vs Away Historical Av Gls: 1.67
+CEG: 3.07 | CEG+: 3.82
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 36.28% 
+Over 2 Gls: 13.62% 
+
+Atalanta vs Juventus: Away Win - No bet
+Home:41.45% vs Away:42.46% vs Draw:16.09% Diff: 1.01%
+Home Av Gls: 1.68 vs Away Av Gls: 1.46
+Home Historical Av Gls: 1.86 vs Away Historical Av Gls: 1.82
+CEG: 3.14 | CEG+: 4.06
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 47.06% 
+Over 2 Gls: 21.31% 
+
+Strasbourg vs Monaco: Home Win - No bet
+Home:43.93% vs Away:39.03% vs Draw:17.04% Diff: 4.89%
+Home Av Gls: 1.42 vs Away Av Gls: 1.7
+Home Historical Av Gls: 1.35 vs Away Historical Av Gls: 1.87
+CEG: 3.12 | CEG+: 3.92
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 41.67% 
+Over 2 Gls: 17.25% 
+
+Sp Lisbon vs AVS: Home Win - Low Risk
+Home:85.17% vs Away:2% vs Draw:12.83% Diff: 83.17%
+Home Av Gls: 2.93 vs Away Av Gls: 0.74
+Home Historical Av Gls: 2.11 vs Away Historical Av Gls: 0.74
+CEG: 3.67 | CEG+: 4.38
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 77.31% 
+Over 2 Gls: 53.64% 
+
+Telstar vs Go Ahead Eagles: Draw - Very High Risk
+Home:24.5% vs Away:37.59% vs Draw:37.92% Diff: 13.09%
+Home Av Gls: 1.2 vs Away Av Gls: 1.4
+Home Historical Av Gls: 1.2 vs Away Historical Av Gls: 1.24
+CEG: 2.6 | CEG+: 3.21
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 58.4% 
+Over 2 Gls: 31.34% 
+

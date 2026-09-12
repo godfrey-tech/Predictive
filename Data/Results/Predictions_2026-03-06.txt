@@ -1,0 +1,371 @@
+GOALS PREDICTIONS — 2026-03-06
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Wolves  vs  Liverpool
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.89  |  Away 2.28  |  Total 3.17
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 10 matches | Avg goals 2.7 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  95.8%
+  Over 1.5:  82.5%   |  Under 1.5: 17.5%
+  Over 2.5:  61.5%   |  Under 2.5: 38.5%
+  Over 3.5:  39.2%
+  BTTS Yes:  53.0%
+  Wolves to Score: 59.0%
+  Liverpool to Score: 89.8%
+  Either Team To Score: 89.8%
+  Draw:      18.2%   |  DNB Home: 16.1%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 95.8%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.17
+  🟢🟢 [STRONG_YES  ] Liverpool To Score             87.7%  [High Value]
+       ↳ AwayXG=2.28 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 82.5%  [High Value]
+       ↳ Very likely with combined xG=3.17
+  🟢🟢 [STRONG_YES  ] Either Team To Score           77.6%  [High Value]
+       ↳ HomeBlankRate=55% AwayBlankRate=15% H2H-ETTS=100%
+  🟢   [YES         ] DNB - Liverpool                63.6%  [Fair]
+       ↳ AwayWinProb=68.6% | AwayWinRate(away)=38%
+  🟡   [BORDERLINE  ] Over 2.5 Goals                 54.8%  [Poor]
+       ↳ xG=0.89+2.28=3.17 | HomeOver25Rate=43% AwayOver25Rate=62% H2H=60%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 95.8% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Wolves vs Liverpool  →  Over 0.5 Goals [STRONG_YES]  95.8% conf
+  • Wolves vs Liverpool  →  Liverpool To Score [STRONG_YES]  87.7% conf
+Wolves vs Liverpool: Away Win - Low Risk
+Home:17.79% vs Away:64.73% vs Draw:17.48% Diff: 46.95%
+Home Av Gls: 0.86 vs Away Av Gls: 1.85
+Home Historical Av Gls: 1.02 vs Away Historical Av Gls: 2.09
+CEG: 2.71 | CEG+: 3.49
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 34.07% 
+Over 2 Gls: 12.25% 
+
+GOALS PREDICTIONS — 2026-03-06
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Celta  vs  Real Madrid
+═══════════════════════════════════════════════════════════
+  xG:  Home 0.89  |  Away 2.08  |  Total 2.97
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 9 matches | Avg goals 3.33 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  94.9%
+  Over 1.5:  79.6%   |  Under 1.5: 20.4%
+  Over 2.5:  56.9%   |  Under 2.5: 43.1%
+  Over 3.5:  34.5%
+  BTTS Yes:  51.5%
+  Celta to Score: 58.8%
+  Real Madrid to Score: 87.5%
+  Either Team To Score: 87.5%
+  Draw:      20.0%   |  DNB Home: 18.8%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 94.8%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=2.97
+  🟢🟢 [STRONG_YES  ] Either Team To Score           89.7%  [High Value]
+       ↳ HomeBlankRate=19% AwayBlankRate=7% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] Real Madrid To Score           89.5%  [High Value]
+       ↳ AwayXG=2.08 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 79.6%  [High Value]
+       ↳ Very likely with combined xG=2.97
+  🟢   [YES         ] Celta To Score                 67.9%  [Fair]
+       ↳ HomeXG=0.89 | Historical score rate included
+  🟢   [YES         ] DNB - Real Madrid              63.1%  [Fair]
+       ↳ AwayWinProb=64.9% | AwayWinRate(away)=64%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 94.8% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Celta vs Real Madrid  →  Over 0.5 Goals [STRONG_YES]  94.8% conf
+  • Celta vs Real Madrid  →  Either Team To Score [STRONG_YES]  89.7% conf
+Celta vs Real Madrid: Away Win - Moderate Risk
+Home:28.18% vs Away:55.48% vs Draw:16.35% Diff: 27.3%
+Home Av Gls: 1.31 vs Away Av Gls: 2.26
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 2.11
+CEG: 3.57 | CEG+: 4.42
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 46.83% 
+Over 2 Gls: 21.13% 
+
+GOALS PREDICTIONS — 2026-03-06
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Paris SG  vs  Monaco
+═══════════════════════════════════════════════════════════
+  xG:  Home 2.36  |  Away 0.78  |  Total 3.14
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 9 matches | Avg goals 2.89 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  95.7%
+  Over 1.5:  82.1%   |  Under 1.5: 17.9%
+  Over 2.5:  60.8%   |  Under 2.5: 39.2%
+  Over 3.5:  38.4%
+  BTTS Yes:  49.1%
+  Paris SG to Score: 90.6%
+  Monaco to Score: 54.2%
+  Either Team To Score: 90.6%
+  Draw:      16.8%   |  DNB Home: 87.3%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 95.7%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.14
+  🟢🟢 [STRONG_YES  ] Paris SG To Score              90.9%  [High Value]
+       ↳ HomeXG=2.36 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           85.8%  [High Value]
+       ↳ HomeBlankRate=9% AwayBlankRate=26% H2H-ETTS=89%
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 82.1%  [High Value]
+       ↳ Very likely with combined xG=3.14
+  🟢🟢 [STRONG_YES  ] DNB - Paris SG                 73.5%  [High Value]
+       ↳ HomeWinProb=72.5% | HomeWinRate(home)=91%
+  🟢   [YES         ] Monaco To Score                62.1%  [Fair]
+       ↳ AwayXG=0.78 | Historical score rate included
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 95.7% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Paris SG vs Monaco  →  Over 0.5 Goals [STRONG_YES]  95.7% conf
+  • Paris SG vs Monaco  →  Paris SG To Score [STRONG_YES]  90.9% conf
+Paris SG vs Monaco: Home Win - Very High Risk
+Home:48.65% vs Away:41.12% vs Draw:10.23% Diff: 7.53%
+Home Av Gls: 2.34 vs Away Av Gls: 1.77
+Home Historical Av Gls: 2.5 vs Away Historical Av Gls: 1.88
+CEG: 4.11 | CEG+: 5.2
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 58.69% 
+Over 2 Gls: 31.63% 
+
+GOALS PREDICTIONS — 2026-03-06
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Bayern Munich  vs  M'gladbach
+═══════════════════════════════════════════════════════════
+  xG:  Home 3.24  |  Away 0.89  |  Total 4.13
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 10 matches | Avg goals 3.6 | Supports goals: YES
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  98.4%
+  Over 1.5:  91.7%   |  Under 1.5: 8.3%
+  Over 2.5:  78.0%   |  Under 2.5: 22.0%
+  Over 3.5:  59.1%
+  BTTS Yes:  56.8%
+  Bayern Munich to Score: 96.1%
+  M'gladbach to Score: 59.1%
+  Either Team To Score: 96.1%
+  Draw:      10.9%   |  DNB Home: 92.3%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 98.4%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=4.13
+  🟢🟢 [STRONG_YES  ] Bayern Munich To Score         97.6%  [High Value]
+       ↳ HomeXG=3.24 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 91.7%  [High Value]
+       ↳ Very likely with combined xG=4.13
+  🟢🟢 [STRONG_YES  ] Either Team To Score           86.5%  [High Value]
+       ↳ HomeBlankRate=0% AwayBlankRate=43% H2H-ETTS=100%
+  🟢🟢 [STRONG_YES  ] DNB - Bayern Munich            76.3%  [High Value]
+       ↳ HomeWinProb=81.7% | HomeWinRate(home)=83%
+  🟢🟢 [STRONG_YES  ] Over 2.5 Goals                 75.1%  [High Value]
+       ↳ xG=3.24+0.89=4.13 | HomeOver25Rate=100% AwayOver25Rate=57% H2H=80%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 98.4% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Bayern Munich vs M'gladbach  →  Over 0.5 Goals [STRONG_YES]  98.4% conf
+  • Bayern Munich vs M'gladbach  →  Bayern Munich To Score [STRONG_YES]  97.6% conf
+Bayern Munich vs M'gladbach: Home Win - Low Risk
+Home:67.13% vs Away:19.08% vs Draw:13.79% Diff: 48.05%
+Home Av Gls: 3.02 vs Away Av Gls: 1.38
+Home Historical Av Gls: 2.82 vs Away Historical Av Gls: 1.59
+CEG: 4.4 | CEG+: 5.5
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 69.13% 
+Over 2 Gls: 43% 
+
+GOALS PREDICTIONS — 2026-03-06
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Napoli  vs  Torino
+═══════════════════════════════════════════════════════════
+  xG:  Home 2.32  |  Away 0.73  |  Total 3.04
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 9 matches | Avg goals 2.22 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  95.2%
+  Over 1.5:  80.7%   |  Under 1.5: 19.3%
+  Over 2.5:  58.7%   |  Under 2.5: 41.3%
+  Over 3.5:  36.3%
+  BTTS Yes:  46.6%
+  Napoli to Score: 90.1%
+  Torino to Score: 51.7%
+  Either Team To Score: 90.1%
+  Draw:      16.9%   |  DNB Home: 87.9%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 95.2%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.04
+  🟢🟢 [STRONG_YES  ] Napoli To Score                84.9%  [High Value]
+       ↳ HomeXG=2.32 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 80.7%  [High Value]
+       ↳ Very likely with combined xG=3.04
+  🟢🟢 [STRONG_YES  ] Either Team To Score           80.4%  [High Value]
+       ↳ HomeBlankRate=23% AwayBlankRate=35% H2H-ETTS=100%
+  🟢   [YES         ] DNB - Napoli                   68.8%  [Fair]
+       ↳ HomeWinProb=73.0% | HomeWinRate(home)=67%
+  🟡   [BORDERLINE  ] BTTS - No                      57.6%  [Poor]
+       ↳ Low scoring match signal | Either team may blank
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 95.2% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Napoli vs Torino  →  Over 0.5 Goals [STRONG_YES]  95.2% conf
+  • Napoli vs Torino  →  Napoli To Score [STRONG_YES]  84.9% conf
+Napoli vs Torino: Home Win - High Risk
+Home:46.97% vs Away:29.79% vs Draw:23.24% Diff: 17.17%
+Home Av Gls: 1.33 vs Away Av Gls: 1
+Home Historical Av Gls: 1.94 vs Away Historical Av Gls: 1.29
+CEG: 2.33 | CEG+: 3.14
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 55/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 26.96% 
+Over 2 Gls: 8.3% 
+
+GOALS PREDICTIONS — 2026-03-06
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Famalicao  vs  Arouca
+═══════════════════════════════════════════════════════════
+  xG:  Home 2.21  |  Away 0.91  |  Total 3.12
+  Zone: HIGH_GOALS 🔥 (Over 2.5 zone)
+  H2H: 7 matches | Avg goals 2.43 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  95.6%
+  Over 1.5:  81.8%   |  Under 1.5: 18.2%
+  Over 2.5:  60.3%   |  Under 2.5: 39.7%
+  Over 3.5:  37.9%
+  BTTS Yes:  53.2%
+  Famalicao to Score: 89.0%
+  Arouca to Score: 59.8%
+  Either Team To Score: 89.0%
+  Draw:      18.9%   |  DNB Home: 82.4%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 95.6%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.12
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 81.8%  [High Value]
+       ↳ Very likely with combined xG=3.12
+  🟢🟢 [STRONG_YES  ] Famalicao To Score             81.4%  [High Value]
+       ↳ HomeXG=2.21 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           75.8%  [High Value]
+       ↳ HomeBlankRate=30% AwayBlankRate=35% H2H-ETTS=86%
+  🟢   [YES         ] Arouca To Score                61.9%  [Fair]
+       ↳ AwayXG=0.91 | Historical score rate included
+  🟡   [BORDERLINE  ] DNB - Famalicao                57.5%  [Poor]
+       ↳ HomeWinProb=66.7% | HomeWinRate(home)=40%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 95.6% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Famalicao vs Arouca  →  Over 0.5 Goals [STRONG_YES]  95.6% conf
+  • Famalicao vs Arouca  →  Over 1.5 Goals [STRONG_YES]  81.8% conf
+Famalicao vs Arouca: Away Win - Very High Risk
+Home:34.79% vs Away:43.03% vs Draw:22.18% Diff: 8.23%
+Home Av Gls: 1.18 vs Away Av Gls: 1.51
+Home Historical Av Gls: 1.25 vs Away Historical Av Gls: 1.15
+CEG: 2.69 | CEG+: 3.29
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 39.61% 
+Over 2 Gls: 15.81% 
+
+GOALS PREDICTIONS — 2026-03-06
+Min confidence: 62%
+
+═══════════════════════════════════════════════════════════
+  ⚽ Heracles  vs  Utrecht
+═══════════════════════════════════════════════════════════
+  xG:  Home 1.56  |  Away 1.93  |  Total 3.49
+  Zone: CHAOS_GOALS 💥 (3+ goals, BTTS likely)
+  H2H: 7 matches | Avg goals 2.57 | Supports goals: NO
+
+  ── MARKET PROBABILITIES ─────────────────────────────
+  Over 0.5:  96.9%
+  Over 1.5:  86.3%   |  Under 1.5: 13.7%
+  Over 2.5:  67.8%   |  Under 2.5: 32.2%
+  Over 3.5:  46.2%
+  BTTS Yes:  67.6%
+  Heracles to Score: 79.0%
+  Utrecht to Score: 85.5%
+  Either Team To Score: 85.5%
+  Draw:      21.9%   |  DNB Home: 40.2%
+
+  ── BET SIGNALS (ranked by confidence) ───────────────
+  🟢🟢 [STRONG_YES  ] Over 0.5 Goals                 97.0%  [High Value]
+       ↳ P(at least 1 goal scored) — xG=3.49
+  🟢🟢 [STRONG_YES  ] Over 1.5 Goals                 86.3%  [High Value]
+       ↳ Very likely with combined xG=3.49
+  🟢🟢 [STRONG_YES  ] Utrecht To Score               84.7%  [High Value]
+       ↳ AwayXG=1.93 | Historical score rate included
+  🟢🟢 [STRONG_YES  ] Either Team To Score           80.7%  [High Value]
+       ↳ HomeBlankRate=42% AwayBlankRate=17% H2H-ETTS=100%
+  🟢   [YES         ] Heracles To Score              70.7%  [High Value]
+       ↳ HomeXG=1.56 | Historical score rate included
+  🟡   [BORDERLINE  ] Over 2.5 Goals                 59.8%  [Fair]
+       ↳ xG=1.56+1.93=3.49 | HomeOver25Rate=75% AwayOver25Rate=54% H2H=43%
+
+  ⭐ TOP BET: Over 0.5 Goals (STRONG_YES) — 97.0% confidence [High Value]
+  Bettable: ✅ YES
+═══════════════════════════════════════════════════════════
+
+══ TODAY'S SUGGESTED SLIPS ══════════════════════════════
+  • Heracles vs Utrecht  →  Over 0.5 Goals [STRONG_YES]  97.0% conf
+  • Heracles vs Utrecht  →  Over 1.5 Goals [STRONG_YES]  86.3% conf
+Heracles vs Utrecht: Away Win - High Risk
+Home:29.07% vs Away:48.2% vs Draw:22.72% Diff: 19.13%
+Home Av Gls: 1.21 vs Away Av Gls: 1.6
+Home Historical Av Gls: 1.39 vs Away Historical Av Gls: 1.62
+CEG: 2.81 | CEG+: 3.57
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 28.9% 
+Over 2 Gls: 9.31% 
+

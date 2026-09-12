@@ -1,0 +1,35 @@
+Man United vs West Ham: Home Win - High Risk
+Home:46.1% vs Away:32.51% vs Draw:21.39% Diff: 13.59%
+Home Av Gls: 1.4 vs Away Av Gls: 1.34
+Home Historical Av Gls: 1.59 vs Away Historical Av Gls: 1.36
+Over 1 Gls: 36.96% 
+Over 2 Gls: 14.06% 
+
+Bologna vs Parma: Home Win - Moderate Risk
+Home:54.65% vs Away:10.02% vs Draw:35.33% Diff: 44.64%
+Home Av Gls: 1.46 vs Away Av Gls: 0
+Home Historical Av Gls: 1.23 vs Away Historical Av Gls: 1.19
+Over 1 Gls: 12.45% 
+Over 2 Gls: 2.39% 
+
+Lazio vs Milan: Home Win - No bet
+Home:43.07% vs Away:41.37% vs Draw:15.57% Diff: 1.7%
+Home Av Gls: 1.33 vs Away Av Gls: 1.8
+Home Historical Av Gls: 1.77 vs Away Historical Av Gls: 1.66
+Over 1 Gls: 42.23% 
+Over 2 Gls: 17.65% 
+
+Porto vs Guimaraes: Home Win - Moderate Risk
+Home:58.21% vs Away:33.09% vs Draw:8.7% Diff: 25.12%
+Home Av Gls: 1.98 vs Away Av Gls: 1.31
+Home Historical Av Gls: 2.17 vs Away Historical Av Gls: 1.37
+Over 1 Gls: 50.29% 
+Over 2 Gls: 23.95% 
+
+Wisla Plock vs Cracovia: Away Win - Moderate Risk
+Home:21.91% vs Away:51.29% vs Draw:26.8% Diff: 29.37%
+Home Av Gls: 0.74 vs Away Av Gls: 1.46
+Home Historical Av Gls: 1.31 vs Away Historical Av Gls: 1.29
+Over 1 Gls: 25.48% 
+Over 2 Gls: 7.56% 
+

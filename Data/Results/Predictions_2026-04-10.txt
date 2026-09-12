@@ -1,0 +1,270 @@
+West Ham vs Wolves: Home Win - No bet
+Home:39.08% vs Away:35.46% vs Draw:25.46% Diff: 3.62%
+Home Av Gls: 1.3 vs Away Av Gls: 0.9
+Home Historical Av Gls: 1.35 vs Away Historical Av Gls: 1.03
+CEG: 2.2 | CEG+: 2.8
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 31.89% 
+Over 2 Gls: 10.97% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.77/game  |  Away Avg: 2.23/game  |  Combined: 4.00/game  |  H2H Avg: 2.75/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡67.2%   Over 4: 🟠55.7%   Over 5: 🔴36.1%   Over 6: 🔴26.2%
+West Ham Cards:
+  Over 1: 🟢89.3%   Over 2: 🟠55.4%   Over 3: 🔴26.8%
+Wolves Cards:
+  Over 1: 🟢92.9%   Over 2: 🟡71.4%   Over 3: 🔴35.7%
+
+CORNERS
+Home Avg: 5.11/game  |  Away Avg: 3.36/game  |  Combined: 8.46/game  |  H2H Avg: 9.75/game (8 matches)
+  Over 7:  🟢85.2%   Over 8:  🟢78.7%   Over 9:  🟡70.5%   Over 10: 🟡65.6%   Over 11: 🟠50.8%
+
+
+Augsburg vs Hoffenheim: Away Win - Very High Risk
+Home:34.43% vs Away:44.13% vs Draw:21.44% Diff: 9.7%
+Home Av Gls: 1.25 vs Away Av Gls: 1.92
+Home Historical Av Gls: 1.25 vs Away Historical Av Gls: 1.77
+CEG: 3.17 | CEG+: 3.93
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 38.96% 
+Over 2 Gls: 15.37% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.56/game  |  Away Avg: 1.93/game  |  Combined: 4.48/game  |  H2H Avg: 2.86/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢77.4%   Over 4: 🟠64.2%   Over 5: 🔴35.8%   Over 6: 🔴15.1%
+Augsburg Cards:
+  Over 1: 🟢92.6%   Over 2: 🟡70.4%   Over 3: 🟠55.6%
+Hoffenheim Cards:
+  Over 1: 🟢92.6%   Over 2: 🟠59.3%   Over 3: 🔴33.3%
+
+CORNERS
+Home Avg: 4.59/game  |  Away Avg: 5.63/game  |  Combined: 10.22/game  |  H2H Avg: 9.71/game (7 matches)
+  Over 7:  🟢83.0%   Over 8:  🟡73.6%   Over 9:  🟡66.0%   Over 10: 🟠60.4%   Over 11: 🔴49.1%
+
+
+Real Madrid vs Girona: Home Win - Low Risk
+Home:60.3% vs Away:27.15% vs Draw:12.54% Diff: 33.15%
+Home Av Gls: 2.26 vs Away Av Gls: 1.59
+Home Historical Av Gls: 2.12 vs Away Historical Av Gls: 1.43
+CEG: 3.84 | CEG+: 4.73
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 60.69% 
+Over 2 Gls: 33.64% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.97/game  |  Away Avg: 2.32/game  |  Combined: 4.29/game  |  H2H Avg: 4.20/game (5 matches)
+Total Match Cards:
+  Over 3: 🟡70.2%   Over 4: 🔴49.1%   Over 5: 🔴36.8%   Over 6: 🔴31.6%
+Real Madrid Cards:
+  Over 1: 🟢90.3%   Over 2: 🔴48.4%   Over 3: 🔴16.1%
+Girona Cards:
+  Over 1: 🟢87.1%   Over 2: 🟡67.7%   Over 3: 🔴35.5%
+
+CORNERS
+Home Avg: 6.52/game  |  Away Avg: 3.90/game  |  Combined: 10.42/game  |  H2H Avg: 6.60/game (5 matches)
+  Over 7:  🟢87.7%   Over 8:  🟡73.7%   Over 9:  🟠61.4%   Over 10: 🔴45.6%   Over 11: 🔴36.8%
+
+
+Paris FC vs Monaco: Away Win - Low Risk
+Home:25.34% vs Away:60.95% vs Draw:13.71% Diff: 35.61%
+Home Av Gls: 1.19 vs Away Av Gls: 1.8
+Home Historical Av Gls: 1.19 vs Away Historical Av Gls: 1.89
+CEG: 2.99 | CEG+: 3.76
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 40% 
+Over 2 Gls: 16.08% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.15/game  |  Away Avg: 2.48/game  |  Combined: 4.63/game
+Total Match Cards:
+  Over 3: 🟢75.5%   Over 4: 🟠52.8%   Over 5: 🔴35.8%   Over 6: 🔴22.6%
+Paris FC Cards:
+  Over 1: 🟢81.5%   Over 2: 🟠55.6%   Over 3: 🔴33.3%
+Monaco Cards:
+  Over 1: 🟢92.6%   Over 2: 🟡70.4%   Over 3: 🔴44.4%
+
+CORNERS
+Home Avg: 4.37/game  |  Away Avg: 4.74/game  |  Combined: 9.11/game
+  Over 7:  🟢83.0%   Over 8:  🟡69.8%   Over 9:  🟠60.4%   Over 10: 🔴49.1%   Over 11: 🔴35.8%
+
+
+Marseille vs Metz: Home Win - Moderate Risk
+Home:59.04% vs Away:20.3% vs Draw:20.66% Diff: 38.75%
+Home Av Gls: 1.81 vs Away Av Gls: 1.02
+Home Historical Av Gls: 1.66 vs Away Historical Av Gls: 0.99
+CEG: 2.83 | CEG+: 3.49
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 45.84% 
+Over 2 Gls: 20.35% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.41/game  |  Away Avg: 1.81/game  |  Combined: 4.22/game  |  H2H Avg: 3.83/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢77.4%   Over 4: 🟠56.6%   Over 5: 🔴37.7%   Over 6: 🔴17.0%
+Marseille Cards:
+  Over 1: 🟢88.9%   Over 2: 🟡74.1%   Over 3: 🔴48.1%
+Metz Cards:
+  Over 1: 🟢81.5%   Over 2: 🟡70.4%   Over 3: 🔴25.9%
+
+CORNERS
+Home Avg: 5.00/game  |  Away Avg: 4.00/game  |  Combined: 9.00/game  |  H2H Avg: 11.33/game (6 matches)
+  Over 7:  🟢81.1%   Over 8:  🟠64.2%   Over 9:  🔴45.3%   Over 10: 🔴34.0%   Over 11: 🔴17.0%
+
+
+Roma vs Pisa: Home Win - Low Risk
+Home:66.59% vs Away:10.11% vs Draw:23.3% Diff: 56.49%
+Home Av Gls: 1.47 vs Away Av Gls: 0.77
+Home Historical Av Gls: 1.74 vs Away Historical Av Gls: 0.77
+CEG: 2.23 | CEG+: 2.86
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 30.25% 
+Over 2 Gls: 10.04% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.97/game  |  Away Avg: 2.10/game  |  Combined: 4.07/game
+Total Match Cards:
+  Over 3: 🟢83.1%   Over 4: 🟠61.0%   Over 5: 🔴37.3%   Over 6: 🔴20.3%
+Roma Cards:
+  Over 1: 🟢86.7%   Over 2: 🟠60.0%   Over 3: 🔴30.0%
+Pisa Cards:
+  Over 1: 🟢90.0%   Over 2: 🟡70.0%   Over 3: 🔴36.7%
+
+CORNERS
+Home Avg: 5.10/game  |  Away Avg: 3.77/game  |  Combined: 8.87/game
+  Over 7:  🟡74.6%   Over 8:  🟠62.7%   Over 9:  🔴45.8%   Over 10: 🔴33.9%   Over 11: 🔴27.1%
+
+
+West Brom vs Millwall: Home Win - No bet
+Home:41.54% vs Away:37.52% vs Draw:20.94% Diff: 4.03%
+Home Av Gls: 1.22 vs Away Av Gls: 1.09
+Home Historical Av Gls: 1.37 vs Away Historical Av Gls: 1.13
+CEG: 2.3 | CEG+: 2.93
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 40/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 26.45% 
+Over 2 Gls: 8.04% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.76/game  |  Away Avg: 1.73/game  |  Combined: 3.49/game  |  H2H Avg: 3.45/game (11 matches)
+Total Match Cards:
+  Over 3: 🟡68.5%   Over 4: 🔴44.8%   Over 5: 🔴29.1%   Over 6: 🔴15.8%
+West Brom Cards:
+  Over 1: 🟢81.2%   Over 2: 🟠57.0%   Over 3: 🔴22.7%
+Millwall Cards:
+  Over 1: 🟢82.0%   Over 2: 🟠51.6%   Over 3: 🔴24.2%
+
+CORNERS
+Home Avg: 5.49/game  |  Away Avg: 5.05/game  |  Combined: 10.55/game  |  H2H Avg: 8.73/game (11 matches)
+  Over 7:  🟢87.9%   Over 8:  🟡73.9%   Over 9:  🟡66.1%   Over 10: 🟠53.3%   Over 11: 🔴44.2%
+
+
+Famalicao vs Moreirense: Home Win - Moderate Risk
+Home:52.2% vs Away:29.67% vs Draw:18.13% Diff: 22.53%
+Home Av Gls: 1.19 vs Away Av Gls: 1.06
+Home Historical Av Gls: 1.25 vs Away Historical Av Gls: 1.06
+CEG: 2.25 | CEG+: 2.83
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 40/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 30% 
+Over 2 Gls: 9.91% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.59/game  |  Away Avg: 2.70/game  |  Combined: 5.30/game  |  H2H Avg: 7.00/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢77.4%   Over 4: 🟡66.0%   Over 5: 🔴49.1%   Over 6: 🔴32.1%
+Famalicao Cards:
+  Over 1: 🟢96.3%   Over 2: 🟡66.7%   Over 3: 🔴48.1%
+Moreirense Cards:
+  Over 1: 🟢100.0%   Over 2: 🟡70.4%   Over 3: 🟠51.9%
+
+CORNERS
+Home Avg: 5.26/game  |  Away Avg: 3.67/game  |  Combined: 8.93/game  |  H2H Avg: 8.83/game (6 matches)
+  Over 7:  🟢79.2%   Over 8:  🟡69.8%   Over 9:  🟠58.5%   Over 10: 🔴43.4%   Over 11: 🔴28.3%
+
+
+Twente vs Volendam: Home Win - Moderate Risk
+Home:57.68% vs Away:19.58% vs Draw:22.74% Diff: 38.1%
+Home Av Gls: 1.83 vs Away Av Gls: 1
+Home Historical Av Gls: 1.56 vs Away Historical Av Gls: 1.1
+CEG: 2.83 | CEG+: 3.49
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 45/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 60.74% 
+Over 2 Gls: 33.69% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.50/game  |  Away Avg: 1.46/game  |  Combined: 2.96/game  |  H2H Avg: 2.20/game (5 matches)
+Total Match Cards:
+  Over 3: 🟡67.3%   Over 4: 🔴43.6%   Over 5: 🔴29.1%   Over 6: 🔴16.4%
+Twente Cards:
+  Over 1: 🟢75.0%   Over 2: 🔴35.7%   Over 3: 🔴21.4%
+Volendam Cards:
+  Over 1: 🟢75.0%   Over 2: 🔴46.4%   Over 3: 🔴21.4%
+
+CORNERS
+Home Avg: 5.32/game  |  Away Avg: 3.50/game  |  Combined: 8.82/game  |  H2H Avg: 10.80/game (5 matches)
+  Over 7:  🟢89.1%   Over 8:  🟡74.5%   Over 9:  🟡65.5%   Over 10: 🟠50.9%   Over 11: 🔴40.0%
+
+
+Besiktas vs Antalyaspor: Home Win - Moderate Risk
+Home:56.49% vs Away:23.65% vs Draw:19.87% Diff: 32.84%
+Home Av Gls: 1.56 vs Away Av Gls: 1.07
+Home Historical Av Gls: 1.91 vs Away Historical Av Gls: 1.21
+CEG: 2.64 | CEG+: 3.42
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 44.85% 
+Over 2 Gls: 19.59% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.41/game  |  Away Avg: 2.52/game  |  Combined: 4.93/game  |  H2H Avg: 4.71/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢90.6%   Over 4: 🟡73.6%   Over 5: 🟠50.9%   Over 6: 🔴47.2%
+Besiktas Cards:
+  Over 1: 🟢96.3%   Over 2: 🟢77.8%   Over 3: 🔴37.0%
+Antalyaspor Cards:
+  Over 1: 🟢88.9%   Over 2: 🟡66.7%   Over 3: 🔴44.4%
+
+CORNERS
+Home Avg: 5.48/game  |  Away Avg: 3.93/game  |  Combined: 9.41/game  |  H2H Avg: 10.00/game (7 matches)
+  Over 7:  🟢83.0%   Over 8:  🟢77.4%   Over 9:  🟠62.3%   Over 10: 🟠54.7%   Over 11: 🔴45.3%
+
+

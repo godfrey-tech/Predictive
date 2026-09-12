@@ -1,0 +1,216 @@
+Man United vs Leeds: Home Win - Moderate Risk
+Home:50.52% vs Away:24.94% vs Draw:24.54% Diff: 25.57%
+Home Av Gls: 1.74 vs Away Av Gls: 1.23
+Home Historical Av Gls: 1.66 vs Away Historical Av Gls: 1.3
+CEG: 2.97 | CEG+: 3.71
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 65/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 39.54% 
+Over 2 Gls: 15.77% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.45/game  |  Away Avg: 1.54/game  |  Combined: 2.98/game  |  H2H Avg: 3.71/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡65.6%   Over 4: 🟠50.8%   Over 5: 🔴37.7%   Over 6: 🔴14.8%
+Man United Cards:
+  Over 1: 🟢85.7%   Over 2: 🟠51.8%   Over 3: 🔴7.1%
+Leeds Cards:
+  Over 1: 🟢82.1%   Over 2: 🔴42.9%   Over 3: 🔴17.9%
+
+CORNERS
+Home Avg: 4.48/game  |  Away Avg: 4.57/game  |  Combined: 9.05/game  |  H2H Avg: 9.14/game (7 matches)
+  Over 7:  🟢78.7%   Over 8:  🟡70.5%   Over 9:  🟠55.7%   Over 10: 🔴47.5%   Over 11: 🔴32.8%
+
+
+Levante vs Getafe: Away Win - Moderate Risk
+Home:26.53% vs Away:52.55% vs Draw:20.92% Diff: 26.02%
+Home Av Gls: 1.16 vs Away Av Gls: 1.02
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 1.01
+CEG: 2.17 | CEG+: 2.75
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 55/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 29.08% 
+Over 2 Gls: 9.41% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.34/game  |  Away Avg: 3.00/game  |  Combined: 5.34/game  |  H2H Avg: 6.50/game (4 matches)
+Total Match Cards:
+  Over 3: 🟢86.4%   Over 4: 🟡74.6%   Over 5: 🟠59.3%   Over 6: 🔴37.3%
+Levante Cards:
+  Over 1: 🟢93.8%   Over 2: 🟡71.9%   Over 3: 🔴46.9%
+Getafe Cards:
+  Over 1: 🟢96.9%   Over 2: 🟢87.5%   Over 3: 🔴46.9%
+
+CORNERS
+Home Avg: 3.56/game  |  Away Avg: 4.38/game  |  Combined: 7.94/game  |  H2H Avg: 9.75/game (4 matches)
+  Over 7:  🟢76.3%   Over 8:  🟠62.7%   Over 9:  🔴49.2%   Over 10: 🔴42.4%   Over 11: 🔴39.0%
+
+
+Fiorentina vs Lazio: Away Win - Very High Risk
+Home:36.8% vs Away:42.42% vs Draw:20.78% Diff: 5.63%
+Home Av Gls: 1.34 vs Away Av Gls: 1.15
+Home Historical Av Gls: 1.41 vs Away Historical Av Gls: 1.72
+CEG: 2.49 | CEG+: 3.27
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 43.35% 
+Over 2 Gls: 18.47% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.26/game  |  Away Avg: 2.19/game  |  Combined: 4.45/game  |  H2H Avg: 6.75/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢83.6%   Over 4: 🟢75.4%   Over 5: 🟠60.7%   Over 6: 🔴36.1%
+Fiorentina Cards:
+  Over 1: 🟢90.3%   Over 2: 🟢77.4%   Over 3: 🔴41.9%
+Lazio Cards:
+  Over 1: 🟢87.1%   Over 2: 🟠58.1%   Over 3: 🔴41.9%
+
+CORNERS
+Home Avg: 4.55/game  |  Away Avg: 3.74/game  |  Combined: 8.29/game  |  H2H Avg: 9.38/game (8 matches)
+  Over 7:  🟢77.0%   Over 8:  🟡68.9%   Over 9:  🔴49.2%   Over 10: 🔴37.7%   Over 11: 🔴18.0%
+
+
+Tondela vs Gil Vicente: Away Win - Very High Risk
+Home:29.2% vs Away:38.63% vs Draw:32.17% Diff: 9.43%
+Home Av Gls: 0.73 vs Away Av Gls: 1.15
+Home Historical Av Gls: 1.04 vs Away Historical Av Gls: 1.18
+CEG: 1.88 | CEG+: 2.44
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 25.61% 
+Over 2 Gls: 7.63% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.69/game  |  Away Avg: 2.59/game  |  Combined: 5.28/game  |  H2H Avg: 4.33/game (3 matches)
+Total Match Cards:
+  Over 3: 🟢86.5%   Over 4: 🟡71.2%   Over 5: 🟠53.8%   Over 6: 🔴36.5%
+Tondela Cards:
+  Over 1: 🟢80.8%   Over 2: 🟡69.2%   Over 3: 🟠53.8%
+Gil Vicente Cards:
+  Over 1: 🟢96.3%   Over 2: 🟡74.1%   Over 3: 🔴40.7%
+
+CORNERS
+Home Avg: 4.00/game  |  Away Avg: 5.67/game  |  Combined: 9.67/game  |  H2H Avg: 10.33/game (3 matches)
+  Over 7:  🟢78.8%   Over 8:  🟡65.4%   Over 9:  🟠55.8%   Over 10: 🔴48.1%   Over 11: 🔴44.2%
+
+
+Eyupspor vs Samsunspor: Away Win - High Risk
+Home:21.61% vs Away:42.85% vs Draw:35.54% Diff: 21.23%
+Home Av Gls: 0.68 vs Away Av Gls: 1.21
+Home Historical Av Gls: 0.68 vs Away Historical Av Gls: 1.12
+CEG: 1.89 | CEG+: 2.34
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 15.68% 
+Over 2 Gls: 3.45% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.46/game  |  Away Avg: 2.11/game  |  Combined: 4.57/game
+Total Match Cards:
+  Over 3: 🟢83.6%   Over 4: 🟠54.5%   Over 5: 🔴40.0%   Over 6: 🔴23.6%
+Eyupspor Cards:
+  Over 1: 🟢100.0%   Over 2: 🟢75.0%   Over 3: 🔴39.3%
+Samsunspor Cards:
+  Over 1: 🟢89.3%   Over 2: 🟠57.1%   Over 3: 🔴25.0%
+
+CORNERS
+Home Avg: 3.50/game  |  Away Avg: 6.14/game  |  Combined: 9.64/game
+  Over 7:  🟡74.5%   Over 8:  🟠61.8%   Over 9:  🟠56.4%   Over 10: 🔴45.5%   Over 11: 🔴40.0%
+
+
+Rizespor vs Gaziantep: Home Win - Very High Risk
+Home:42.54% vs Away:32.89% vs Draw:24.57% Diff: 9.65%
+Home Av Gls: 1.34 vs Away Av Gls: 1.43
+Home Historical Av Gls: 1.25 vs Away Historical Av Gls: 1.28
+CEG: 2.77 | CEG+: 3.4
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 42.19% 
+Over 2 Gls: 17.63% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.50/game  |  Away Avg: 3.07/game  |  Combined: 5.57/game  |  H2H Avg: 3.17/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢85.5%   Over 4: 🟡72.7%   Over 5: 🟠60.0%   Over 6: 🔴41.8%
+Rizespor Cards:
+  Over 1: 🟢96.4%   Over 2: 🟢82.1%   Over 3: 🟠50.0%
+Gaziantep Cards:
+  Over 1: 🟢92.9%   Over 2: 🟢78.6%   Over 3: 🟡67.9%
+
+CORNERS
+Home Avg: 3.96/game  |  Away Avg: 4.96/game  |  Combined: 8.93/game  |  H2H Avg: 10.17/game (6 matches)
+  Over 7:  🟡74.5%   Over 8:  🟡65.5%   Over 9:  🔴49.1%   Over 10: 🔴45.5%   Over 11: 🔴38.2%
+
+
+Brommapojkarna vs AIK: Away Win - Moderate Risk
+Home:27.59% vs Away:54.12% vs Draw:18.29% Diff: 26.54%
+Home Av Gls: 1.46 vs Away Av Gls: 1.46
+Home Historical Av Gls: 1.26 vs Away Historical Av Gls: 1.45
+CEG: 2.92 | CEG+: 3.6
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 38.45% 
+Over 2 Gls: 15.03% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (6 matches)
+Total Match Cards:
+  Over 3: 🔴0.0%   Over 4: 🔴0.0%   Over 5: 🔴0.0%   Over 6: 🔴0.0%
+Brommapojkarna Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+AIK Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+
+CORNERS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (6 matches)
+  Over 7:  🔴0.0%   Over 8:  🔴0.0%   Over 9:  🔴0.0%   Over 10: 🔴0.0%   Over 11: 🔴0.0%
+
+
+Sirius vs Hammarby: Away Win - No bet
+Home:43.45% vs Away:44.99% vs Draw:11.56% Diff: 1.54%
+Home Av Gls: 1.73 vs Away Av Gls: 1.79
+Home Historical Av Gls: 1.42 vs Away Historical Av Gls: 1.76
+CEG: 3.52 | CEG+: 4.32
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 47.91% 
+Over 2 Gls: 21.98% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (10 matches)
+Total Match Cards:
+  Over 3: 🔴0.0%   Over 4: 🔴0.0%   Over 5: 🔴0.0%   Over 6: 🔴0.0%
+Sirius Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+Hammarby Cards:
+  Over 1: 🔴0.0%   Over 2: 🔴0.0%   Over 3: 🔴0.0%
+
+CORNERS
+Home Avg: 0.00/game  |  Away Avg: 0.00/game  |  Combined: 0.00/game  |  H2H Avg: 0.00/game (10 matches)
+  Over 7:  🔴0.0%   Over 8:  🔴0.0%   Over 9:  🔴0.0%   Over 10: 🔴0.0%   Over 11: 🔴0.0%
+
+

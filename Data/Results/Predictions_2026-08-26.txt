@@ -1,0 +1,105 @@
+Real Madrid vs Sociedad: Home Win - Low Risk
+Home:61.72% vs Away:23.61% vs Draw:14.66% Diff: 38.11%
+Home Av Gls: 2.16 vs Away Av Gls: 1.39
+Home Historical Av Gls: 2.1 vs Away Historical Av Gls: 1.43
+CEG: 3.55 | CEG+: 4.43
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 57.01% 
+Over 2 Gls: 30% 
+
+GOALS UNDERS
+Combined Avg: 3.54/game  (Home: 2.14  Away: 1.40)  CEG: 3.55  CEG+: 4.43
+Under 1.5: 13.1%  🔴 SKIP
+Under 2.5: 31.2%  🔴 SKIP
+Under 3.5: 52.6%  🔴 SKIP
+Under 4.5: 71.6%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.95/game  |  Away Avg: 2.40/game  |  Combined: 4.35/game  |  H2H Avg: 4.25/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢79.7%   Over 4: 🟠59.5%   Over 5: 🔴41.9%   Over 6: 🔴32.4%
+Real Madrid Cards:
+  Over 1: 🟢87.5%   Over 2: 🟠52.5%   Over 3: 🔴17.5%
+Sociedad Cards:
+  Over 1: 🟢97.5%   Over 2: 🟢77.5%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 6.38/game  |  Away Avg: 5.58/game  |  Combined: 11.95/game  |  H2H Avg: 10.75/game (8 matches)
+  Over 7:  🟢86.5%   Over 8:  🟢78.4%   Over 9:  🟡66.2%   Over 10: 🟠52.7%   Over 11: 🔴40.5%
+
+═══════════════════════════════════════════════════════════
+
+Newcastle vs West Brom: Home Win - Low Risk
+Home:61.58% vs Away:9.62% vs Draw:28.8% Diff: 51.96%
+Home Av Gls: 1.59 vs Away Av Gls: 0
+Home Historical Av Gls: 1.36 vs Away Historical Av Gls: 0.96
+CEG: 1.59 | CEG+: 2.17
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 13.62% 
+Over 2 Gls: 2.75% 
+
+GOALS UNDERS
+Combined Avg: 1.85/game  (Home: 1.51  Away: 0.33)  CEG: 1.59  CEG+: 2.17
+Under 1.5: 52.8%  🔴 SKIP
+Under 2.5: 78.6%  🟢 STRONG
+Under 3.5: 92.3%  🟢 STRONG
+Under 4.5: 97.7%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.60/game  |  Away Avg: 1.90/game  |  Combined: 3.50/game
+Total Match Cards:
+  Over 3: 🟢86.8%   Over 4: 🟠60.5%   Over 5: 🔴34.2%   Over 6: 🔴21.1%
+Newcastle Cards:
+  Over 1: 🟢85.7%   Over 2: 🔴46.0%   Over 3: 🔴22.2%
+West Brom Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 6.30/game  |  Away Avg: 4.50/game  |  Combined: 10.80/game
+  Over 7:  🟢89.5%   Over 8:  🟢81.6%   Over 9:  🟢76.3%   Over 10: 🟠60.5%   Over 11: 🟠50.0%
+
+═══════════════════════════════════════════════════════════
+
+Brentford vs Burnley: Home Win - High Risk
+Home:48.97% vs Away:22.51% vs Draw:28.52% Diff: 26.45%
+Home Av Gls: 1.45 vs Away Av Gls: 1.05
+Home Historical Av Gls: 1.44 vs Away Historical Av Gls: 1.02
+CEG: 2.51 | CEG+: 3.12
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 48.27% 
+Over 2 Gls: 22.28% 
+
+GOALS UNDERS
+Combined Avg: 2.49/game  (Home: 1.45  Away: 1.04)  CEG: 2.51  CEG+: 3.12
+Under 1.5: 28.5%  🔴 SKIP
+Under 2.5: 54.1%  🔴 SKIP
+Under 3.5: 75.5%  🟡 SIGNAL
+Under 4.5: 89%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.87/game  |  Away Avg: 1.68/game  |  Combined: 3.56/game  |  H2H Avg: 4.00/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡67.6%   Over 4: 🔴45.9%   Over 5: 🔴28.4%   Over 6: 🔴10.8%
+Brentford Cards:
+  Over 1: 🟢88.9%   Over 2: 🟠63.5%   Over 3: 🔴27.0%
+Burnley Cards:
+  Over 1: 🟢77.8%   Over 2: 🟠55.6%   Over 3: 🔴22.2%
+
+CORNERS
+Home Avg: 4.86/game  |  Away Avg: 3.56/game  |  Combined: 8.41/game  |  H2H Avg: 10.00/game (7 matches)
+  Over 7:  🟢85.1%   Over 8:  🟡74.3%   Over 9:  🟠62.2%   Over 10: 🟠56.8%   Over 11: 🔴44.6%
+
+═══════════════════════════════════════════════════════════
+

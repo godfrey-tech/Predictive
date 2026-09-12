@@ -1,0 +1,44 @@
+Girona vs Barcelona: Away Win - Moderate Risk
+Home:31.08% vs Away:58.5% vs Draw:10.42% Diff: 27.42%
+Home Av Gls: 1.61 vs Away Av Gls: 2.39
+Home Historical Av Gls: 1.43 vs Away Historical Av Gls: 2.31
+CEG: 4 | CEG+: 4.94
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 65.37% 
+Over 2 Gls: 38.64% 
+
+Cagliari vs Lecce: Home Win - Moderate Risk
+Home:53.84% vs Away:18.68% vs Draw:27.47% Diff: 35.16%
+Home Av Gls: 1.2 vs Away Av Gls: 0.69
+Home Historical Av Gls: 1.12 vs Away Historical Av Gls: 0.95
+CEG: 1.88 | CEG+: 2.4
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 28.29% 
+Over 2 Gls: 8.99% 
+
+Rio Ave vs Moreirense: Away Win - High Risk
+Home:24.95% vs Away:45.79% vs Draw:29.25% Diff: 20.84%
+Home Av Gls: 1.13 vs Away Av Gls: 1.11
+Home Historical Av Gls: 1.16 vs Away Historical Av Gls: 1.06
+CEG: 2.24 | CEG+: 2.8
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 25.15% 
+Over 2 Gls: 7.4% 
+
+Kasimpasa vs Karagumruk: Away Win - No bet
+Home:35.41% vs Away:40.32% vs Draw:24.27% Diff: 4.9%
+Home Av Gls: 1.24 vs Away Av Gls: 1.18
+Home Historical Av Gls: 1.46 vs Away Historical Av Gls: 1.46
+CEG: 2.43 | CEG+: 3.16
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 33.43% 
+Over 2 Gls: 11.87% 
+

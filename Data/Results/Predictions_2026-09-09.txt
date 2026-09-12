@@ -1,0 +1,140 @@
+Charlton vs QPR: Away Win - No bet
+Home:34.91% vs Away:36.56% vs Draw:28.53% Diff: 1.65%
+Home Av Gls: 0.96 vs Away Av Gls: 1.2
+Home Historical Av Gls: 1.02 vs Away Historical Av Gls: 1.19
+CEG: 2.16 | CEG+: 2.71
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 24.13% 
+Over 2 Gls: 6.92% 
+
+GOALS UNDERS
+Combined Avg: 2.18/game  (Home: 0.98  Away: 1.20)  CEG: 2.16  CEG+: 2.71
+Under 1.5: 36.4%  🔴 SKIP
+Under 2.5: 63.3%  🟡 SIGNAL
+Under 3.5: 82.7%  🟢 STRONG
+Under 4.5: 93.2%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.11/game  |  Away Avg: 1.95/game  |  Combined: 4.06/game
+Total Match Cards:
+  Over 3: 🟢77.3%   Over 4: 🟠52.7%   Over 5: 🔴26.4%   Over 6: 🔴16.4%
+Charlton Cards:
+  Over 1: 🟢87.0%   Over 2: 🟡69.6%   Over 3: 🔴28.3%
+QPR Cards:
+  Over 1: 🟢81.2%   Over 2: 🟠63.5%   Over 3: 🔴31.8%
+
+CORNERS
+Home Avg: 4.13/game  |  Away Avg: 4.98/game  |  Combined: 9.11/game
+  Over 7:  🟢82.7%   Over 8:  🟡70.9%   Over 9:  🟠60.9%   Over 10: 🔴47.3%   Over 11: 🔴38.2%
+
+═══════════════════════════════════════════════════════════
+
+Norwich vs Birmingham: Home Win - No bet
+Home:39.92% vs Away:37.42% vs Draw:22.66% Diff: 2.5%
+Home Av Gls: 1.51 vs Away Av Gls: 1.17
+Home Historical Av Gls: 1.55 vs Away Historical Av Gls: 1.06
+CEG: 2.68 | CEG+: 3.33
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 32.51% 
+Over 2 Gls: 11.33% 
+
+GOALS UNDERS
+Combined Avg: 2.65/game  (Home: 1.52  Away: 1.13)  CEG: 2.68  CEG+: 3.33
+Under 1.5: 25.2%  🔴 SKIP
+Under 2.5: 49.9%  🔴 SKIP
+Under 3.5: 71.8%  🔴 SKIP
+Under 4.5: 86.6%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.65/game  |  Away Avg: 1.91/game  |  Combined: 3.56/game  |  H2H Avg: 3.17/game (6 matches)
+Total Match Cards:
+  Over 3: 🟡74.5%   Over 4: 🟠54.5%   Over 5: 🔴30.0%   Over 6: 🔴17.3%
+Norwich Cards:
+  Over 1: 🟢83.5%   Over 2: 🟠54.1%   Over 3: 🔴18.8%
+Birmingham Cards:
+  Over 1: 🟢87.0%   Over 2: 🟠52.2%   Over 3: 🔴32.6%
+
+CORNERS
+Home Avg: 5.24/game  |  Away Avg: 5.76/game  |  Combined: 11.00/game  |  H2H Avg: 10.00/game (6 matches)
+  Over 7:  🟢89.1%   Over 8:  🟢79.1%   Over 9:  🟠60.9%   Over 10: 🟠53.6%   Over 11: 🔴47.3%
+
+═══════════════════════════════════════════════════════════
+
+Derby vs West Brom: Away Win - No bet
+Home:35.85% vs Away:39.27% vs Draw:24.88% Diff: 3.41%
+Home Av Gls: 1.19 vs Away Av Gls: 1.21
+Home Historical Av Gls: 1.22 vs Away Historical Av Gls: 1.37
+CEG: 2.4 | CEG+: 3.05
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 41.25% 
+Over 2 Gls: 16.96% 
+
+GOALS UNDERS
+Combined Avg: 2.47/game  (Home: 1.20  Away: 1.27)  CEG: 2.40  CEG+: 3.05
+Under 1.5: 30.8%  🔴 SKIP
+Under 2.5: 57%  🟡 SIGNAL
+Under 3.5: 77.9%  🟡 SIGNAL
+Under 4.5: 90.4%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.19/game  |  Away Avg: 1.60/game  |  Combined: 3.79/game  |  H2H Avg: 3.12/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡69.8%   Over 4: 🔴43.4%   Over 5: 🔴29.5%   Over 6: 🔴17.8%
+Derby Cards:
+  Over 1: 🟢100.0%   Over 2: 🟢75.3%   Over 3: 🔴24.7%
+West Brom Cards:
+  Over 1: 🟢75.3%   Over 2: 🟠51.8%   Over 3: 🔴16.5%
+
+CORNERS
+Home Avg: 4.48/game  |  Away Avg: 5.58/game  |  Combined: 10.06/game  |  H2H Avg: 7.88/game (8 matches)
+  Over 7:  🟢85.3%   Over 8:  🟡69.8%   Over 9:  🟠57.4%   Over 10: 🔴46.5%   Over 11: 🔴35.7%
+
+═══════════════════════════════════════════════════════════
+
+Chelsea vs Leeds: Home Win - High Risk
+Home:43.49% vs Away:32.94% vs Draw:23.57% Diff: 10.55%
+Home Av Gls: 1.8 vs Away Av Gls: 1.29
+Home Historical Av Gls: 1.71 vs Away Historical Av Gls: 1.32
+CEG: 3.09 | CEG+: 3.84
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 65/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 43.79% 
+Over 2 Gls: 18.79% 
+
+GOALS UNDERS
+Combined Avg: 3.06/game  (Home: 1.77  Away: 1.30)  CEG: 3.09  CEG+: 3.84
+Under 1.5: 18.6%  🔴 SKIP
+Under 2.5: 40.3%  🔴 SKIP
+Under 3.5: 62.7%  🔴 SKIP
+Under 4.5: 80%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.51/game  |  Away Avg: 1.57/game  |  Combined: 4.08/game  |  H2H Avg: 3.57/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡68.9%   Over 4: 🟠56.8%   Over 5: 🔴43.2%   Over 6: 🔴24.3%
+Chelsea Cards:
+  Over 1: 🟢96.8%   Over 2: 🟡73.0%   Over 3: 🔴42.9%
+Leeds Cards:
+  Over 1: 🟢82.5%   Over 2: 🔴44.4%   Over 3: 🔴19.0%
+
+CORNERS
+Home Avg: 6.08/game  |  Away Avg: 4.51/game  |  Combined: 10.59/game  |  H2H Avg: 7.43/game (7 matches)
+  Over 7:  🟢83.8%   Over 8:  🟢77.0%   Over 9:  🟡71.6%   Over 10: 🟠62.2%   Over 11: 🔴47.3%
+
+═══════════════════════════════════════════════════════════
+

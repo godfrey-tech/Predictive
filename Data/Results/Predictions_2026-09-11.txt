@@ -1,0 +1,140 @@
+Sevilla vs Villarreal: Away Win - High Risk
+Home:33.1% vs Away:47.86% vs Draw:19.04% Diff: 14.75%
+Home Av Gls: 1.14 vs Away Av Gls: 1.86
+Home Historical Av Gls: 1.34 vs Away Historical Av Gls: 1.64
+CEG: 2.99 | CEG+: 3.74
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 44.09% 
+Over 2 Gls: 19.02% 
+
+GOALS UNDERS
+Combined Avg: 2.99/game  (Home: 1.21  Away: 1.78)  CEG: 2.99  CEG+: 3.74
+Under 1.5: 20.1%  🔴 SKIP
+Under 2.5: 42.5%  🔴 SKIP
+Under 3.5: 64.9%  🔴 SKIP
+Under 4.5: 81.7%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.85/game  |  Away Avg: 2.23/game  |  Combined: 5.08/game  |  H2H Avg: 5.30/game (10 matches)
+Total Match Cards:
+  Over 3: 🟢82.9%   Over 4: 🟡68.5%   Over 5: 🔴49.5%   Over 6: 🔴38.7%
+Sevilla Cards:
+  Over 1: 🟢97.3%   Over 2: 🟡74.0%   Over 3: 🔴47.9%
+Villarreal Cards:
+  Over 1: 🟢90.7%   Over 2: 🟠62.7%   Over 3: 🔴38.7%
+
+CORNERS
+Home Avg: 4.51/game  |  Away Avg: 4.83/game  |  Combined: 9.33/game  |  H2H Avg: 9.40/game (10 matches)
+  Over 7:  🟢81.1%   Over 8:  🟡72.1%   Over 9:  🟠58.6%   Over 10: 🔴47.7%   Over 11: 🔴35.1%
+
+═══════════════════════════════════════════════════════════
+
+Union Berlin vs Schalke 04: Home Win - Moderate Risk
+Home:58.35% vs Away:11.49% vs Draw:30.16% Diff: 46.85%
+Home Av Gls: 1.09 vs Away Av Gls: 0
+Home Historical Av Gls: 1.28 vs Away Historical Av Gls: 1.15
+CEG: 1.09 | CEG+: 1.7
+Goal Environment: LOW_GOALS_ENV (≤2 likely)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 15/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 8.78% 
+Over 2 Gls: 1.38% 
+
+GOALS UNDERS
+Combined Avg: 1.56/game  (Home: 1.16  Away: 0.40)  CEG: 1.09  CEG+: 1.70
+Under 1.5: 70.3%  🔴 SKIP
+Under 2.5: 90.2%  🟢 STRONG
+Under 3.5: 97.5%  🟢 STRONG
+Under 4.5: 99.5%  🟢 STRONG
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.00/game  |  Away Avg: 1.90/game  |  Combined: 3.90/game
+Total Match Cards:
+  Over 3: 🟡74.0%   Over 4: 🟠52.0%   Over 5: 🔴36.0%   Over 6: 🔴18.0%
+Union Berlin Cards:
+  Over 1: 🟢82.0%   Over 2: 🟠60.0%   Over 3: 🔴28.0%
+Schalke 04 Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 4.86/game  |  Away Avg: 4.50/game  |  Combined: 9.36/game
+  Over 7:  🟢86.0%   Over 8:  🟢82.0%   Over 9:  🟡68.0%   Over 10: 🟠54.0%   Over 11: 🔴38.0%
+
+═══════════════════════════════════════════════════════════
+
+Rennes vs Marseille: Away Win - High Risk
+Home:37.24% vs Away:49.18% vs Draw:13.58% Diff: 11.95%
+Home Av Gls: 1.59 vs Away Av Gls: 1.87
+Home Historical Av Gls: 1.52 vs Away Historical Av Gls: 1.7
+CEG: 3.46 | CEG+: 4.26
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 45.28% 
+Over 2 Gls: 19.92% 
+
+GOALS UNDERS
+Combined Avg: 3.38/game  (Home: 1.57  Away: 1.81)  CEG: 3.46  CEG+: 4.26
+Under 1.5: 14%  🔴 SKIP
+Under 2.5: 32.8%  🔴 SKIP
+Under 3.5: 54.5%  🔴 SKIP
+Under 4.5: 73.3%  🔴 SKIP
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.86/game  |  Away Avg: 2.24/game  |  Combined: 4.10/game  |  H2H Avg: 4.22/game (9 matches)
+Total Match Cards:
+  Over 3: 🟢78.1%   Over 4: 🟠61.5%   Over 5: 🔴42.7%   Over 6: 🔴20.8%
+Rennes Cards:
+  Over 1: 🟢83.7%   Over 2: 🟠57.1%   Over 3: 🔴30.6%
+Marseille Cards:
+  Over 1: 🟢89.8%   Over 2: 🟡69.4%   Over 3: 🔴42.9%
+
+CORNERS
+Home Avg: 5.67/game  |  Away Avg: 5.73/game  |  Combined: 11.41/game  |  H2H Avg: 10.44/game (9 matches)
+  Over 7:  🟢86.5%   Over 8:  🟡74.0%   Over 9:  🟠55.2%   Over 10: 🔴45.8%   Over 11: 🔴34.4%
+
+═══════════════════════════════════════════════════════════
+
+Venezia vs Fiorentina: Away Win - Moderate Risk
+Home:19.5% vs Away:55.4% vs Draw:25.1% Diff: 35.9%
+Home Av Gls: 0.81 vs Away Av Gls: 1.54
+Home Historical Av Gls: 0.84 vs Away Historical Av Gls: 1.45
+CEG: 2.35 | CEG+: 2.92
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 31.11% 
+Over 2 Gls: 10.52% 
+
+GOALS UNDERS
+Combined Avg: 2.33/game  (Home: 0.82  Away: 1.51)  CEG: 2.35  CEG+: 2.92
+Under 1.5: 31.9%  🔴 SKIP
+Under 2.5: 58.3%  🟡 SIGNAL
+Under 3.5: 78.9%  🟡 SIGNAL
+Under 4.5: 91%  🟡 SIGNAL
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.39/game  |  Away Avg: 2.47/game  |  Combined: 4.86/game  |  H2H Avg: 5.33/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢83.3%   Over 4: 🟡69.4%   Over 5: 🟠63.9%   Over 6: 🔴27.8%
+Venezia Cards:
+  Over 1: 🟢94.4%   Over 2: 🟠61.1%   Over 3: 🔴44.4%
+Fiorentina Cards:
+  Over 1: 🟢84.2%   Over 2: 🟢78.9%   Over 3: 🟠63.2%
+
+CORNERS
+Home Avg: 4.11/game  |  Away Avg: 2.89/game  |  Combined: 7.01/game  |  H2H Avg: 7.33/game (6 matches)
+  Over 7:  🟡72.2%   Over 8:  🟠58.3%   Over 9:  🟠50.0%   Over 10: 🔴33.3%   Over 11: 🔴25.0%
+
+═══════════════════════════════════════════════════════════
+

@@ -1,0 +1,55 @@
+Brighton vs Bournemouth: Away Win - Very High Risk
+Home:33.11% vs Away:40.06% vs Draw:26.83% Diff: 6.95%
+Home Av Gls: 1.43 vs Away Av Gls: 1.61
+Home Historical Av Gls: 1.26 vs Away Historical Av Gls: 1.32
+CEG: 3.04 | CEG+: 3.68
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 100/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 41.59% 
+Over 2 Gls: 17.2% 
+
+Elche vs Sevilla: Away Win - Very High Risk
+Home:32.27% vs Away:40.32% vs Draw:27.41% Diff: 8.05%
+Home Av Gls: 1.29 vs Away Av Gls: 1.2
+Home Historical Av Gls: 0.97 vs Away Historical Av Gls: 1.42
+CEG: 2.49 | CEG+: 3.09
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 41.76% 
+Over 2 Gls: 17.32% 
+
+Cremonese vs Verona: Draw - No bet
+Home:31.27% vs Away:28.32% vs Draw:40.42% Diff: 2.95%
+Home Av Gls: 1 vs Away Av Gls: 1.02
+Home Historical Av Gls: 0.97 vs Away Historical Av Gls: 1.1
+CEG: 2.02 | CEG+: 2.54
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 17.71% 
+Over 2 Gls: 4.19% 
+
+Lazio vs Como: Home Win - No bet
+Home:41.28% vs Away:40.17% vs Draw:18.56% Diff: 1.11%
+Home Av Gls: 1.19 vs Away Av Gls: 1.4
+Home Historical Av Gls: 1.73 vs Away Historical Av Gls: 1.4
+CEG: 2.59 | CEG+: 3.37
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 26.59% 
+Over 2 Gls: 8.11% 
+
+Estrela vs Estoril: Away Win - Very High Risk
+Home:30.44% vs Away:39.58% vs Draw:29.98% Diff: 9.14%
+Home Av Gls: 1.12 vs Away Av Gls: 1.5
+Home Historical Av Gls: 1.1 vs Away Historical Av Gls: 1.16
+CEG: 2.62 | CEG+: 3.18
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 29.54% 
+Over 2 Gls: 9.65% 
+

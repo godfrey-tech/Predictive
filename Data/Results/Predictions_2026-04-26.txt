@@ -1,0 +1,513 @@
+Chelsea vs Leeds: Home Win - Very High Risk
+Home:41.31% vs Away:34.21% vs Draw:24.48% Diff: 7.09%
+Home Av Gls: 1.83 vs Away Av Gls: 1.29
+Home Historical Av Gls: 1.72 vs Away Historical Av Gls: 1.32
+CEG: 3.12 | CEG+: 3.87
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 65/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 44.1% 
+Over 2 Gls: 19.03% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.46/game  |  Away Avg: 1.53/game  |  Combined: 3.98/game  |  H2H Avg: 3.57/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡66.7%   Over 4: 🟠54.5%   Over 5: 🔴42.4%   Over 6: 🔴22.7%
+Chelsea Cards:
+  Over 1: 🟢96.6%   Over 2: 🟡71.2%   Over 3: 🔴40.7%
+Leeds Cards:
+  Over 1: 🟢81.4%   Over 2: 🔴44.1%   Over 3: 🔴16.9%
+
+CORNERS
+Home Avg: 6.12/game  |  Away Avg: 4.51/game  |  Combined: 10.63/game  |  H2H Avg: 7.43/game (7 matches)
+  Over 7:  🟢83.3%   Over 8:  🟢78.8%   Over 9:  🟡72.7%   Over 10: 🟠62.1%   Over 11: 🔴47.0%
+
+
+Stuttgart vs Werder Bremen: Home Win - High Risk
+Home:48.42% vs Away:33.54% vs Draw:18.04% Diff: 14.88%
+Home Av Gls: 2.05 vs Away Av Gls: 1.25
+Home Historical Av Gls: 1.49 vs Away Historical Av Gls: 1.38
+CEG: 3.31 | CEG+: 4.03
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 53.63% 
+Over 2 Gls: 26.86% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.93/game  |  Away Avg: 2.57/game  |  Combined: 4.50/game  |  H2H Avg: 4.60/game (5 matches)
+Total Match Cards:
+  Over 3: 🟡71.2%   Over 4: 🟠54.2%   Over 5: 🔴35.6%   Over 6: 🔴23.7%
+Stuttgart Cards:
+  Over 1: 🟢90.0%   Over 2: 🟠63.3%   Over 3: 🔴26.7%
+Werder Bremen Cards:
+  Over 1: 🟢83.3%   Over 2: 🟡73.3%   Over 3: 🟠56.7%
+
+CORNERS
+Home Avg: 5.37/game  |  Away Avg: 4.57/game  |  Combined: 9.93/game  |  H2H Avg: 9.80/game (5 matches)
+  Over 7:  🟡74.6%   Over 8:  🟡66.1%   Over 9:  🟠55.9%   Over 10: 🟠54.2%   Over 11: 🔴39.0%
+
+
+Dortmund vs Freiburg: Home Win - Very High Risk
+Home:44.97% vs Away:38.74% vs Draw:16.29% Diff: 6.23%
+Home Av Gls: 1.98 vs Away Av Gls: 1.44
+Home Historical Av Gls: 2.23 vs Away Historical Av Gls: 1.38
+CEG: 3.42 | CEG+: 4.32
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 53.54% 
+Over 2 Gls: 26.78% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.00/game  |  Away Avg: 1.77/game  |  Combined: 3.77/game  |  H2H Avg: 4.71/game (7 matches)
+Total Match Cards:
+  Over 3: 🟡72.9%   Over 4: 🟠55.9%   Over 5: 🔴32.2%   Over 6: 🔴22.0%
+Dortmund Cards:
+  Over 1: 🟢90.0%   Over 2: 🟠56.7%   Over 3: 🔴40.0%
+Freiburg Cards:
+  Over 1: 🟢90.0%   Over 2: 🟠50.0%   Over 3: 🔴30.0%
+
+CORNERS
+Home Avg: 5.47/game  |  Away Avg: 4.47/game  |  Combined: 9.93/game  |  H2H Avg: 10.57/game (7 matches)
+  Over 7:  🟢83.1%   Over 8:  🟡69.5%   Over 9:  🟠54.2%   Over 10: 🔴45.8%   Over 11: 🔴32.2%
+
+
+Vallecano vs Sociedad: Away Win - Very High Risk
+Home:33.83% vs Away:40.56% vs Draw:25.62% Diff: 6.73%
+Home Av Gls: 0.79 vs Away Av Gls: 1.36
+Home Historical Av Gls: 1.01 vs Away Historical Av Gls: 1.42
+CEG: 2.15 | CEG+: 2.75
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – limited upside (likely scores: 1–0, 2–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 24.49% 
+Over 2 Gls: 7.09% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.85/game  |  Away Avg: 2.21/game  |  Combined: 5.06/game  |  H2H Avg: 3.86/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢84.1%   Over 4: 🟡69.8%   Over 5: 🟠50.8%   Over 6: 🔴31.7%
+Vallecano Cards:
+  Over 1: 🟢94.1%   Over 2: 🟡70.6%   Over 3: 🟠52.9%
+Sociedad Cards:
+  Over 1: 🟢97.1%   Over 2: 🟢76.5%   Over 3: 🔴29.4%
+
+CORNERS
+Home Avg: 5.97/game  |  Away Avg: 5.91/game  |  Combined: 11.88/game  |  H2H Avg: 8.57/game (7 matches)
+  Over 7:  🟢90.5%   Over 8:  🟢85.7%   Over 9:  🟡74.6%   Over 10: 🟠61.9%   Over 11: 🟠55.6%
+
+
+Oviedo vs Elche: Away Win - High Risk
+Home:27.66% vs Away:42.73% vs Draw:29.61% Diff: 15.06%
+Home Av Gls: 0.74 vs Away Av Gls: 1.29
+Home Historical Av Gls: 0.74 vs Away Historical Av Gls: 1
+CEG: 2.03 | CEG+: 2.46
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 17.08% 
+Over 2 Gls: 3.95% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.53/game  |  Away Avg: 2.15/game  |  Combined: 4.68/game
+Total Match Cards:
+  Over 3: 🟢85.7%   Over 4: 🟡65.1%   Over 5: 🔴42.9%   Over 6: 🔴20.6%
+Oviedo Cards:
+  Over 1: 🟢100.0%   Over 2: 🟢82.4%   Over 3: 🔴41.2%
+Elche Cards:
+  Over 1: 🟢88.2%   Over 2: 🟡73.5%   Over 3: 🔴38.2%
+
+CORNERS
+Home Avg: 3.71/game  |  Away Avg: 3.85/game  |  Combined: 7.56/game
+  Over 7:  🟡73.0%   Over 8:  🟡66.7%   Over 9:  🟠55.6%   Over 10: 🔴44.4%   Over 11: 🔴36.5%
+
+
+Osasuna vs Sevilla: Away Win - No bet
+Home:36.97% vs Away:37.4% vs Draw:25.63% Diff: 0.43%
+Home Av Gls: 1.16 vs Away Av Gls: 1.19
+Home Historical Av Gls: 1.07 vs Away Historical Av Gls: 1.41
+CEG: 2.36 | CEG+: 2.98
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 90/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 27.04% 
+Over 2 Gls: 8.34% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.53/game  |  Away Avg: 3.00/game  |  Combined: 5.53/game  |  H2H Avg: 5.43/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢90.5%   Over 4: 🟢77.8%   Over 5: 🟠55.6%   Over 6: 🔴47.6%
+Osasuna Cards:
+  Over 1: 🟢97.1%   Over 2: 🟢82.4%   Over 3: 🔴47.1%
+Sevilla Cards:
+  Over 1: 🟢100.0%   Over 2: 🟢79.4%   Over 3: 🟠50.0%
+
+CORNERS
+Home Avg: 3.44/game  |  Away Avg: 4.88/game  |  Combined: 8.32/game  |  H2H Avg: 8.29/game (7 matches)
+  Over 7:  🟢77.8%   Over 8:  🟡65.1%   Over 9:  🔴49.2%   Over 10: 🔴38.1%   Over 11: 🔴25.4%
+
+
+Villarreal vs Celta: Home Win - High Risk
+Home:48.29% vs Away:29.82% vs Draw:21.89% Diff: 18.47%
+Home Av Gls: 1.87 vs Away Av Gls: 1.33
+Home Historical Av Gls: 1.59 vs Away Historical Av Gls: 1.28
+CEG: 3.2 | CEG+: 3.91
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 50% 
+Over 2 Gls: 23.71% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.18/game  |  Away Avg: 1.97/game  |  Combined: 4.15/game  |  H2H Avg: 4.12/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢82.5%   Over 4: 🟠63.5%   Over 5: 🔴46.0%   Over 6: 🔴33.3%
+Villarreal Cards:
+  Over 1: 🟢94.1%   Over 2: 🟠61.8%   Over 3: 🔴35.3%
+Celta Cards:
+  Over 1: 🟢94.1%   Over 2: 🟠52.9%   Over 3: 🔴38.2%
+
+CORNERS
+Home Avg: 4.09/game  |  Away Avg: 4.12/game  |  Combined: 8.21/game  |  H2H Avg: 9.62/game (8 matches)
+  Over 7:  🟢76.2%   Over 8:  🟠57.1%   Over 9:  🔴44.4%   Over 10: 🔴33.3%   Over 11: 🔴28.6%
+
+
+Lorient vs Strasbourg: Away Win - No bet
+Home:37.45% vs Away:38.75% vs Draw:23.8% Diff: 1.29%
+Home Av Gls: 1.26 vs Away Av Gls: 1.42
+Home Historical Av Gls: 1.21 vs Away Historical Av Gls: 1.35
+CEG: 2.67 | CEG+: 3.31
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 85/100 - EXTREME CHAOS – trigger-based explosion (likely scores: 2–2, 3–2, 2–3; 4–2 possible)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 38.34% 
+Over 2 Gls: 14.96% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.67/game  |  Away Avg: 2.00/game  |  Combined: 3.67/game  |  H2H Avg: 3.12/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡74.1%   Over 4: 🟠58.6%   Over 5: 🔴41.4%   Over 6: 🔴22.4%
+Lorient Cards:
+  Over 1: 🟡70.0%   Over 2: 🔴46.7%   Over 3: 🔴26.7%
+Strasbourg Cards:
+  Over 1: 🟢89.7%   Over 2: 🟡65.5%   Over 3: 🔴24.1%
+
+CORNERS
+Home Avg: 3.33/game  |  Away Avg: 4.10/game  |  Combined: 7.44/game  |  H2H Avg: 9.12/game (8 matches)
+  Over 7:  🟡69.0%   Over 8:  🟠58.6%   Over 9:  🟠50.0%   Over 10: 🔴41.4%   Over 11: 🔴27.6%
+
+
+Rennes vs Nantes: Home Win - Low Risk
+Home:60.99% vs Away:20.29% vs Draw:18.72% Diff: 40.7%
+Home Av Gls: 1.65 vs Away Av Gls: 0.72
+Home Historical Av Gls: 1.51 vs Away Historical Av Gls: 1.08
+CEG: 2.37 | CEG+: 3.02
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 20/100 - NO CHAOS – controlled match (likely scores: 0–0, 1–0)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 45.13% 
+Over 2 Gls: 19.81% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.83/game  |  Away Avg: 2.17/game  |  Combined: 4.00/game  |  H2H Avg: 4.57/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢79.7%   Over 4: 🟡67.8%   Over 5: 🔴44.1%   Over 6: 🔴27.1%
+Rennes Cards:
+  Over 1: 🟢86.7%   Over 2: 🟠56.7%   Over 3: 🔴23.3%
+Nantes Cards:
+  Over 1: 🟢96.7%   Over 2: 🟠63.3%   Over 3: 🔴40.0%
+
+CORNERS
+Home Avg: 5.80/game  |  Away Avg: 3.47/game  |  Combined: 9.27/game  |  H2H Avg: 9.86/game (7 matches)
+  Over 7:  🟢84.7%   Over 8:  🟡74.6%   Over 9:  🟡66.1%   Over 10: 🟠50.8%   Over 11: 🔴42.4%
+
+
+Le Havre vs Metz: Draw - Very High Risk
+Home:35.17% vs Away:29.43% vs Draw:35.4% Diff: 5.73%
+Home Av Gls: 0.91 vs Away Av Gls: 1
+Home Historical Av Gls: 0.92 vs Away Historical Av Gls: 0.99
+CEG: 1.91 | CEG+: 2.38
+Goal Environment: VOLATILE_GOALS_ENV (1–3 range)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:True | Chaos Likelihood: 35/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:False | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 16.12% 
+Over 2 Gls: 3.6% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 1.83/game  |  Combined: 3.73/game  |  H2H Avg: 4.33/game (3 matches)
+Total Match Cards:
+  Over 3: 🟢78.0%   Over 4: 🟠55.9%   Over 5: 🔴30.5%   Over 6: 🔴11.9%
+Le Havre Cards:
+  Over 1: 🟢93.3%   Over 2: 🟠60.0%   Over 3: 🔴26.7%
+Metz Cards:
+  Over 1: 🟢83.3%   Over 2: 🟡73.3%   Over 3: 🔴23.3%
+
+CORNERS
+Home Avg: 4.33/game  |  Away Avg: 4.13/game  |  Combined: 8.47/game  |  H2H Avg: 9.00/game (3 matches)
+  Over 7:  🟢83.1%   Over 8:  🟠62.7%   Over 9:  🔴49.2%   Over 10: 🔴37.3%   Over 11: 🔴27.1%
+
+
+Paris FC vs Lille: Away Win - Very High Risk
+Home:37.61% vs Away:43.44% vs Draw:18.95% Diff: 5.83%
+Home Av Gls: 1.33 vs Away Av Gls: 1.61
+Home Historical Av Gls: 1.33 vs Away Historical Av Gls: 1.43
+CEG: 2.94 | CEG+: 3.64
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 47.28% 
+Over 2 Gls: 21.48% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.10/game  |  Away Avg: 2.43/game  |  Combined: 4.53/game
+Total Match Cards:
+  Over 3: 🟡72.9%   Over 4: 🟠55.9%   Over 5: 🔴37.3%   Over 6: 🔴20.3%
+Paris FC Cards:
+  Over 1: 🟢83.3%   Over 2: 🟠56.7%   Over 3: 🔴30.0%
+Lille Cards:
+  Over 1: 🟢93.3%   Over 2: 🟠63.3%   Over 3: 🟠53.3%
+
+CORNERS
+Home Avg: 4.33/game  |  Away Avg: 5.70/game  |  Combined: 10.03/game
+  Over 7:  🟢78.0%   Over 8:  🟡66.1%   Over 9:  🟠54.2%   Over 10: 🔴49.2%   Over 11: 🔴40.7%
+
+
+Marseille vs Nice: Home Win - High Risk
+Home:46.21% vs Away:33.58% vs Draw:20.21% Diff: 12.63%
+Home Av Gls: 1.78 vs Away Av Gls: 1.17
+Home Historical Av Gls: 1.66 vs Away Historical Av Gls: 1.29
+CEG: 2.95 | CEG+: 3.68
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 50/100 - MODERATE CHAOS – controlled superiority (likely scores: 2–0, 2–1, 3–0)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:True | EarlyGoalPressure:True
+Over 1 Gls: 58.87% 
+Over 2 Gls: 31.8% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.37/game  |  Away Avg: 2.20/game  |  Combined: 4.57/game  |  H2H Avg: 4.14/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢81.4%   Over 4: 🟠59.3%   Over 5: 🔴40.7%   Over 6: 🔴20.3%
+Marseille Cards:
+  Over 1: 🟢90.0%   Over 2: 🟡73.3%   Over 3: 🔴46.7%
+Nice Cards:
+  Over 1: 🟢100.0%   Over 2: 🟡73.3%   Over 3: 🔴30.0%
+
+CORNERS
+Home Avg: 5.23/game  |  Away Avg: 5.13/game  |  Combined: 10.37/game  |  H2H Avg: 9.00/game (7 matches)
+  Over 7:  🟢84.7%   Over 8:  🟡74.6%   Over 9:  🟠59.3%   Over 10: 🔴49.2%   Over 11: 🔴33.9%
+
+
+Fiorentina vs Sassuolo: Home Win - No bet
+Home:39.89% vs Away:37.53% vs Draw:22.57% Diff: 2.36%
+Home Av Gls: 1.33 vs Away Av Gls: 1.16
+Home Historical Av Gls: 1.4 vs Away Historical Av Gls: 1.39
+CEG: 2.49 | CEG+: 3.19
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 75/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 42.64% 
+Over 2 Gls: 17.95% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.33/game  |  Away Avg: 2.36/game  |  Combined: 4.70/game  |  H2H Avg: 6.14/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢87.7%   Over 4: 🟡70.8%   Over 5: 🟠50.8%   Over 6: 🔴29.2%
+Fiorentina Cards:
+  Over 1: 🟢90.9%   Over 2: 🟢78.8%   Over 3: 🔴45.5%
+Sassuolo Cards:
+  Over 1: 🟢93.9%   Over 2: 🟢75.8%   Over 3: 🔴45.5%
+
+CORNERS
+Home Avg: 4.48/game  |  Away Avg: 3.91/game  |  Combined: 8.39/game  |  H2H Avg: 10.29/game (7 matches)
+  Over 7:  🟢83.1%   Over 8:  🟡70.8%   Over 9:  🟠55.4%   Over 10: 🟠50.8%   Over 11: 🔴29.2%
+
+
+Genoa vs Como: Away Win - No bet
+Home:37.28% vs Away:40.62% vs Draw:22.1% Diff: 3.34%
+Home Av Gls: 1.21 vs Away Av Gls: 1.73
+Home Historical Av Gls: 1.07 vs Away Historical Av Gls: 1.73
+CEG: 2.94 | CEG+: 3.64
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 65/100 - MODERATE CHAOS – unstable balance (likely scores: 1–1, 2–1, 1–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 38.85% 
+Over 2 Gls: 15.3% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.88/game  |  Away Avg: 2.24/game  |  Combined: 4.12/game
+Total Match Cards:
+  Over 3: 🟢83.1%   Over 4: 🟢75.4%   Over 5: 🟠52.3%   Over 6: 🔴30.8%
+Genoa Cards:
+  Over 1: 🟢90.9%   Over 2: 🟠57.6%   Over 3: 🔴24.2%
+Como Cards:
+  Over 1: 🟢87.9%   Over 2: 🟡69.7%   Over 3: 🟠51.5%
+
+CORNERS
+Home Avg: 3.73/game  |  Away Avg: 4.18/game  |  Combined: 7.91/game
+  Over 7:  🟡69.2%   Over 8:  🟠58.5%   Over 9:  🔴38.5%   Over 10: 🔴32.3%   Over 11: 🔴15.4%
+
+
+Torino vs Inter: Away Win - Moderate Risk
+Home:26.79% vs Away:59.64% vs Draw:13.57% Diff: 32.85%
+Home Av Gls: 1.08 vs Away Av Gls: 2.33
+Home Historical Av Gls: 1.3 vs Away Historical Av Gls: 2.03
+CEG: 3.41 | CEG+: 4.24
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 30/100 - LOW CHAOS – cautious play (likely scores: 1–0, 0–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:True | EarlyGoalPressure:False
+Over 1 Gls: 36.38% 
+Over 2 Gls: 13.68% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.94/game  |  Away Avg: 1.73/game  |  Combined: 3.67/game  |  H2H Avg: 2.43/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢78.5%   Over 4: 🔴43.1%   Over 5: 🔴23.1%   Over 6: 🔴12.3%
+Torino Cards:
+  Over 1: 🟢87.9%   Over 2: 🟠63.6%   Over 3: 🔴33.3%
+Inter Cards:
+  Over 1: 🟢84.8%   Over 2: 🔴48.5%   Over 3: 🔴24.2%
+
+CORNERS
+Home Avg: 3.79/game  |  Away Avg: 6.45/game  |  Combined: 10.24/game  |  H2H Avg: 9.29/game (7 matches)
+  Over 7:  🟡73.8%   Over 8:  🟠63.1%   Over 9:  🟠53.8%   Over 10: 🔴46.2%   Over 11: 🔴36.9%
+
+
+Milan vs Juventus: Away Win - High Risk
+Home:37.04% vs Away:48.06% vs Draw:14.9% Diff: 11.03%
+Home Av Gls: 1.74 vs Away Av Gls: 1.56
+Home Historical Av Gls: 1.67 vs Away Historical Av Gls: 1.82
+CEG: 3.3 | CEG+: 4.17
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 35.45% 
+Over 2 Gls: 13.1% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.58/game  |  Away Avg: 1.39/game  |  Combined: 2.97/game  |  H2H Avg: 3.62/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡69.2%   Over 4: 🟠52.3%   Over 5: 🔴30.8%   Over 6: 🔴10.8%
+Milan Cards:
+  Over 1: 🟢75.8%   Over 2: 🔴45.5%   Over 3: 🔴27.3%
+Juventus Cards:
+  Over 1: 🟢75.8%   Over 2: 🔴36.4%   Over 3: 🔴21.2%
+
+CORNERS
+Home Avg: 4.45/game  |  Away Avg: 5.15/game  |  Combined: 9.61/game  |  H2H Avg: 9.00/game (8 matches)
+  Over 7:  🟢80.0%   Over 8:  🟠63.1%   Over 9:  🔴49.2%   Over 10: 🔴41.5%   Over 11: 🔴27.7%
+
+
+Coventry vs Wrexham: Away Win - No bet
+Home:41.25% vs Away:42.55% vs Draw:16.2% Diff: 1.3%
+Home Av Gls: 1.61 vs Away Av Gls: 1.5
+Home Historical Av Gls: 1.42 vs Away Historical Av Gls: 1.5
+CEG: 3.11 | CEG+: 3.84
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:True | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – open exchanges (likely scores: 2–1, 1–2, 2–2)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:True
+Over 1 Gls: 49.25% 
+Over 2 Gls: 23.08% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.63/game  |  Away Avg: 1.61/game  |  Combined: 3.24/game
+Total Match Cards:
+  Over 3: 🟡67.7%   Over 4: 🔴49.2%   Over 5: 🔴33.1%   Over 6: 🔴19.2%
+Coventry Cards:
+  Over 1: 🟢79.8%   Over 2: 🔴45.0%   Over 3: 🔴25.6%
+Wrexham Cards:
+  Over 1: 🟢77.3%   Over 2: 🔴45.5%   Over 3: 🔴27.3%
+
+CORNERS
+Home Avg: 5.67/game  |  Away Avg: 4.45/game  |  Combined: 10.12/game
+  Over 7:  🟢87.7%   Over 8:  🟢80.0%   Over 9:  🟡69.2%   Over 10: 🟠54.6%   Over 11: 🔴39.2%
+
+
+Excelsior vs Utrecht: Away Win - Moderate Risk
+Home:20.9% vs Away:53.95% vs Draw:25.15% Diff: 33.06%
+Home Av Gls: 1.19 vs Away Av Gls: 1.67
+Home Historical Av Gls: 1.22 vs Away Historical Av Gls: 1.63
+CEG: 2.85 | CEG+: 3.57
+Goal Environment: CHAOS_GOALS_ENV (4–6 possible)(BTTS)
+PATTERNS → (B)ETTS:True | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 80/100 - HIGH CHAOS – fragile structure (likely scores: 1–1 → 2–1 / 1–2; 2–2 or 3–1 if triggered)
+Patterns → BothAttack:True | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 40.92% 
+Over 2 Gls: 16.72% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.47/game  |  Away Avg: 1.53/game  |  Combined: 3.00/game  |  H2H Avg: 1.40/game (5 matches)
+Total Match Cards:
+  Over 3: 🟠62.7%   Over 4: 🔴37.3%   Over 5: 🔴18.6%   Over 6: 🔴10.2%
+Excelsior Cards:
+  Over 1: 🟢83.3%   Over 2: 🔴33.3%   Over 3: 🔴20.0%
+Utrecht Cards:
+  Over 1: 🟢86.7%   Over 2: 🔴46.7%   Over 3: 🔴16.7%
+
+CORNERS
+Home Avg: 4.03/game  |  Away Avg: 5.23/game  |  Combined: 9.27/game  |  H2H Avg: 13.60/game (5 matches)
+  Over 7:  🟢86.4%   Over 8:  🟡72.9%   Over 9:  🟠64.4%   Over 10: 🟠50.8%   Over 11: 🔴33.9%
+
+
+Heracles vs Volendam: Home Win - High Risk
+Home:41.4% vs Away:29.8% vs Draw:28.8% Diff: 11.6%
+Home Av Gls: 1.13 vs Away Av Gls: 0.98
+Home Historical Av Gls: 1.36 vs Away Historical Av Gls: 1.09
+CEG: 2.11 | CEG+: 2.72
+Goal Environment: EXPLOSIVE_GOALS_ENV (3+ likely)(BTTS)
+PATTERNS → (B)ETTS:False | Over1Reliability:False | Under2Strong:False | Chaos Likelihood: 70/100 - HIGH CHAOS – controlled dominance (likely scores: 2–0, 3–0, 3–1)
+Patterns → BothAttack:False | HistSupport:True | Imbalance:False | EarlyGoalPressure:False
+Over 1 Gls: 24.14% 
+Over 2 Gls: 6.93% 
+
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.07/game  |  Away Avg: 1.50/game  |  Combined: 3.57/game  |  H2H Avg: 2.33/game (3 matches)
+Total Match Cards:
+  Over 3: 🟡72.9%   Over 4: 🔴45.8%   Over 5: 🔴28.8%   Over 6: 🔴15.3%
+Heracles Cards:
+  Over 1: 🟢93.3%   Over 2: 🟡70.0%   Over 3: 🔴26.7%
+Volendam Cards:
+  Over 1: 🟢76.7%   Over 2: 🔴46.7%   Over 3: 🔴23.3%
+
+CORNERS
+Home Avg: 4.30/game  |  Away Avg: 3.47/game  |  Combined: 7.77/game  |  H2H Avg: 11.33/game (3 matches)
+  Over 7:  🟢96.6%   Over 8:  🟢86.4%   Over 9:  🟡72.9%   Over 10: 🟠54.2%   Over 11: 🔴39.0%
+
+
