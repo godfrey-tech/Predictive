@@ -18,10 +18,27 @@ namespace ConsoleApp1.Services
 {
     public class EPLHistoricalService
     {
+        // Historical CSVs live under <repo root>/Data/England Football. Data loading
+        // used to hardcode a specific machine's absolute path here (it silently broke
+        // every time the repo moved) — walk up from the running assembly instead so
+        // it works regardless of which machine or project runs it.
+        private static string ResolveDataRoot()
+        {
+            var dir = new DirectoryInfo(AppContext.BaseDirectory);
+            while (dir != null)
+            {
+                var candidate = Path.Combine(dir.FullName, "Data", "England Football");
+                if (Directory.Exists(candidate)) return candidate;
+                dir = dir.Parent;
+            }
+            throw new DirectoryNotFoundException(
+                $"Could not locate 'Data/England Football' by walking up from {AppContext.BaseDirectory}");
+        }
+
         public void HistoricalMatchesFromCSVFiles()
         {
             // Get all CSV files in the specified directory
-            string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Premier Leagues";
+            string directoryPath = Path.Combine(ResolveDataRoot(), "Premier Leagues");
 
             var csvFiles = Directory.GetFiles(directoryPath, "*.csv");
             var countMatches = 0;
@@ -106,8 +123,159 @@ namespace ConsoleApp1.Services
             }
             Console.WriteLine($"Total number of premier Leagues historical matches: {countMatches}");
         }
+
+        public List<HistoricalMatchFromCSVFile> LoadAndProcessCompetitionData(string competition)
+        {
+            // Base directory
+            string baseDirectory = ResolveDataRoot();
+
+            // Map competition codes/names to folder paths
+            Dictionary<string, string> competitionPaths = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)
+            {
+                { "Premier League", "Premier Leagues" },
+                { "Championship", "Championship" },
+                { "League One", "League One" },
+                { "League Two", "League Two" },
+                { "Scotland Premier League", @"Scotland\Premier League" },
+                { "Scotland Division One", @"Scotland\Division One" },
+                { "Bundesliga", @"Germany\Bundesliga One" },
+                { "Serie A", @"Italy\Serie A" },
+                { "La Liga", @"Spain\La liga" },
+                { "League One France", @"France\League One" },
+                { "Eredivisie", @"Nehterlands\Eredivisie" },
+                { "Jupiler League", @"Belgium\Jupiler League" },
+                { "Liga One Portugal", @"Portugal\Liga One" },
+                { "Futbol Ligi One", @"Turkey\Futbol Ligi One" },
+                // Add more as needed
+            };
+            if (!competitionPaths.TryGetValue(competition, out string folderPath))
+            {
+                throw new ArgumentException($"Competition '{competition}' is not recognized.");
+            }
+
+            // Full directory path
+            string directoryPath = Path.Combine(baseDirectory, folderPath);
+            var csvFiles = Directory.GetFiles(directoryPath, "*.csv");
+            var countMatches = 0;
+            var _historicalMatchFromCSVFile = new List<HistoricalMatchFromCSVFile>();
+            foreach (var filePath in csvFiles)
+            {
+                Console.WriteLine();
+                Console.WriteLine($"Processing file: {Path.GetFileName(filePath)}");
+                Console.WriteLine();
+                var config = new CsvConfiguration(CultureInfo.InvariantCulture)
+                {
+                    MissingFieldFound = null, // Ignore missing fields
+                    IgnoreBlankLines = true // Ignore blank lines
+                };
+                using (var reader = new StreamReader(filePath))
+                using (var csv = new CsvReader(reader, config))
+                {
+                    if (!csv.Read() || !csv.ReadHeader())
+                    {
+                        Console.WriteLine("No headers found. Skipping file.");
+                        continue;
+                    }
+
+                    var headerRecord = csv.Context.Reader.HeaderRecord;
+                    if (headerRecord.Count() == 120 || headerRecord.Count() == 122 || headerRecord.Count() == 121 || headerRecord.Count() == 131 || headerRecord.Count() == 132)
+                    {
+                        csv.Context.RegisterClassMap<MatchMapFiveth>();
+                        var matsches = csv.GetRecords<HistoricalMatchFromCSVFileFiveth>().ToList();
+                        var seasonMatches = MatchMapper.MapToHistoricalMatchFromCSVFileV5(matsches);
+                        _historicalMatchFromCSVFile.AddRange(seasonMatches);
+                    }
+                    else if (headerRecord.Count() == 106)
+                    {
+                        csv.Context.RegisterClassMap<MatchMap>();
+                        var matches = csv.GetRecords<HistoricalMatchFromCSVFile>().ToList();
+                        _historicalMatchFromCSVFile.AddRange(matches);
+                        //break;
+                    }
+                    else if (headerRecord.Count() == 68)
+                    {
+                        //PremierLeague2013-2014.csv, PremierLeague2014-2015.csv
+                        csv.Context.RegisterClassMap<MatchMapFirst>();
+                        var matches = csv.GetRecords<HistoricalMatchFromCSVFileFirst>().ToList();
+                        var seasonMatches = MatchMapper.MapToHistoricalMatchFromCSVFileV1(matches);
+                        _historicalMatchFromCSVFile.AddRange(seasonMatches);
+                    }
+                    else if (headerRecord.Count() == 65)
+                    {
+                        //PremierLeague2015-2016.csv, PremierLeague2016-2017.csv, PremierLeague2017-2018.csv
+                        csv.Context.RegisterClassMap<MatchMapThird>();
+                        var matches = csv.GetRecords<HistoricalMatchFromCSVFileThird>().ToList();
+                        var seasonMatches = MatchMapper.MapToHistoricalMatchFromCSVFileV3(matches);
+                        _historicalMatchFromCSVFile.AddRange(seasonMatches);
+                    }
+                    else if (headerRecord.Count() == 62)
+                    {
+                        //PremierLeague2018-2019.csv
+                        csv.Context.RegisterClassMap<MatchMapFourth>();
+                        var matches = csv.GetRecords<HistoricalMatchFromCSVFileFourth>().ToList();
+                        var seasonMatches = MatchMapper.MapToHistoricalMatchFromCSVFileV4(matches);
+                        _historicalMatchFromCSVFile.AddRange(seasonMatches);
+                    }
+                    else if (headerRecord.Count() == 55)
+                    {
+                        //PremierLeague2018-2019.csv
+                        csv.Context.RegisterClassMap<MatchMapSixth>();
+                        var matches = csv.GetRecords<HistoricalMatchFromCSVFileSixth>().ToList();
+                        var seasonMatches = MatchMapper.MapToHistoricalMatchFromCSVFileV6(matches);
+                        _historicalMatchFromCSVFile.AddRange(seasonMatches);
+                    }
+                    else if (headerRecord.Count() == 52)
+                    {
+                        //PremierLeague2018-2019.csv
+                        csv.Context.RegisterClassMap<MatchMapSeventh>();
+                        var matches = csv.GetRecords<HistoricalMatchFromCSVFileSeventh>().ToList();
+                        var seasonMatches = MatchMapper.MapToHistoricalMatchFromCSVFileV7(matches);
+                        _historicalMatchFromCSVFile.AddRange(seasonMatches);
+                    }
+                    else if (headerRecord.Count() == 67 || headerRecord.Count() == 64 || headerRecord.Count() == 61)
+                    {
+                        //PremierLeague2018-2019.csv
+                        csv.Context.RegisterClassMap<MatchMapEighth>();
+                        var matches = csv.GetRecords<HistoricalMatchFromCSVFileEighth>().ToList();
+                        var seasonMatches = MatchMapper.MapToHistoricalMatchFromCSVFileV8(matches);
+                        _historicalMatchFromCSVFile.AddRange(seasonMatches);
+                    }
+                    else if (headerRecord.Count() == 105)
+                    {
+                        //PremierLeague2018-2019.csv
+                        csv.Context.RegisterClassMap<MatchMapNinth>();
+                        var matches = csv.GetRecords<HistoricalMatchFromCSVFileEighth>().ToList();
+                        var seasonMatches = MatchMapper.MapToHistoricalMatchFromCSVFileV8(matches);
+                        _historicalMatchFromCSVFile.AddRange(seasonMatches);
+                    }
+                    else if (headerRecord.Count() == 119)
+                    {
+                        //PremierLeague2018-2019.csv
+                        csv.Context.RegisterClassMap<MatchMapTenth>();
+                        var matches = csv.GetRecords<HistoricalMatchFromCSVFileNinth>().ToList();
+                        var seasonMatches = MatchMapper.MapToHistoricalMatchFromCSVFileV9(matches);
+                        //_historicalMatchFromCSVFile.AddRange(seasonMatches);
+                    }
+                    else if (headerRecord.Count() == 22 || headerRecord.Count() == 25)
+                    {
+                        //PremierLeague2018-2019.csv
+                        csv.Context.RegisterClassMap<MatchMapExtraLeague>();
+                        var matches = csv.GetRecords<HistoricalMatchFromCSVFileExtraLeague>().ToList();
+                        var seasonMatches = MatchMapper.MapToHistoricalMatchFromCSVFileExtraLeague(matches);
+                        _historicalMatchFromCSVFile.AddRange(seasonMatches);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Unrecognized CSV format. Skipping file.");
+                    }
+                }
+            }
+            return _historicalMatchFromCSVFile;
+
+        }
         public List<HistoricalMatchFromCSVFile> LoadAndProcessChampionShipData()
         {
+
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Premier Leagues";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Championship";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\League One";
@@ -117,7 +285,7 @@ namespace ConsoleApp1.Services
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Scotland\Division Two";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Germany\Bundesliga One";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Italy\Serie A";
-            //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Spain\La liga";
+            string directoryPath = Path.Combine(ResolveDataRoot(), "Spain", "La liga");
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\France\League One";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Nehterlands\Eredivisie";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Belgium\Jupiler League";
@@ -128,7 +296,7 @@ namespace ConsoleApp1.Services
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Extra Leagues\Brasil";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Extra Leagues\USA";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Extra Leagues\DenMark";
-            string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Extra Leagues\Sweden";
+            //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Extra Leagues\Sweden";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Extra Leagues\Romania";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Extra Leagues\Switzerland";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Extra Leagues\Austria";
@@ -138,7 +306,6 @@ namespace ConsoleApp1.Services
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Extra Leagues\Ireland";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Extra Leagues\Finland";
             //string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Extra Leagues\China";
-
 
             var csvFiles = Directory.GetFiles(directoryPath, "*.csv");
             var countMatches = 0;
@@ -259,7 +426,7 @@ namespace ConsoleApp1.Services
         }
         public  List<HistoricalMatchFromCSVFile> LoadAndProcessData()
         {
-            string directoryPath = @"C:\Users\Godfrey.Masha\source\repos\Predictvie\Data\England Football\Premier Leagues";
+            string directoryPath = Path.Combine(ResolveDataRoot(), "Premier Leagues");
             var csvFiles = Directory.GetFiles(directoryPath, "*.csv");
             var countMatches = 0;
 

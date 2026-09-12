@@ -1003,8 +1003,10 @@ namespace ConsoleApp1.Mapper
                 AwayCorners = historicalMatch.AC ?? 0,
                 HomeHalfTimeCorners = historicalMatch.HC ?? 0, // Assuming same as HomeCorners for half-time
                 AwayHalfTimeCorners = historicalMatch.AC ?? 0, // Assuming same as AwayCorners for half-time
-                HomeBookings = historicalMatch.HY ?? 0,
-                AwayBookings = historicalMatch.AY ?? 0,
+                //HomeBookings = historicalMatch.HY ?? 0,
+                //AwayBookings = historicalMatch.AY ?? 0,
+                HomeBookings = (historicalMatch.HY ?? 0) + (historicalMatch.HR ?? 0),
+                AwayBookings = (historicalMatch.AY ?? 0) + (historicalMatch.AR ?? 0),
                 HomeHalfTimeBookings = historicalMatch.HY ?? 0, // Assuming same as HomeBookings for half-time
                 AwayHalfTimeBookings = historicalMatch.AY ?? 0  // Assuming same as AwayBookings for half-time
             }; 
