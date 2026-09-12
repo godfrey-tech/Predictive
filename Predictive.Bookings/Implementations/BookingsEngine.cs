@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using ConsoleApp1.Modals;
 using Predictive.Bookings.Interfaces;
+using Predictive.Bookings.Modals;
 
 // ============================================================
 //  BookingsEngine.cs — Predictive.Bookings/Implementations/
@@ -19,13 +20,15 @@ namespace Predictive.Bookings.Implementations
     {
         private readonly List<SeasonMatchRecord> _data;
         private readonly IRefereeService? _refereeService;
+        private readonly IOddsProvider? _oddsProvider;
         private const int RECENT_MONTHS = 20;
         private const int MIN_SAMPLE = 6;
 
-        public BookingsEngine(List<SeasonMatchRecord> data, IRefereeService? refereeService = null)
+        public BookingsEngine(List<SeasonMatchRecord> data, IRefereeService? refereeService = null, IOddsProvider? oddsProvider = null)
         {
             _data = data;
             _refereeService = refereeService;
+            _oddsProvider = oddsProvider;
         }
 
         // Signal emoji based on percentage
@@ -46,6 +49,23 @@ namespace Predictive.Bookings.Implementations
             double p = Math.Clamp(pct / 100.0, 0.001, 0.999);
             double odds = p / (1 - p) * biasMultiplier;
             return odds / (1 + odds) * 100.0;
+        }
+
+        // "Over 3" (t=2) means 3+ cards, i.e. the standard bookmaker "Over 2.5" line.
+        // When an odds quote is available for that line, appends EV% and a suggested
+        // Kelly stake (% of bankroll); otherwise returns the plain hit-rate text
+        // unchanged, so behaviour is identical to before odds were wired in.
+        private string FormatCardLine(string label, double pct, int t, string homeTeam, string awayTeam)
+        {
+            string baseText = $"{label}: {S(pct)}{pct:F1}%";
+            var quote = _oddsProvider?.GetCardsOdds(homeTeam, awayTeam, t + 0.5);
+            if (quote == null) return baseText;
+
+            double p = pct / 100.0;
+            double ev = EvKellyCalculator.CalculateEV(p, quote.OverOdds) * 100;
+            double kellyPct = EvKellyCalculator.CalculateKellyFraction(p, quote.OverOdds) * 100;
+            string evText = ev >= 0 ? $"+{ev:F1}%" : $"{ev:F1}%";
+            return $"{baseText} @{quote.OverOdds:F2} (EV {evText}, Kelly {kellyPct:F1}% bankroll)";
         }
 
         public string Analyse(string homeTeam, string awayTeam, string? referee = null)
@@ -116,7 +136,17 @@ namespace Predictive.Bookings.Implementations
             if (h2h.Count >= 3) sb.Append($"  |  H2H Avg: {h2hCardAvg:F2}/game ({h2h.Count} matches)");
             sb.AppendLine();
             sb.AppendLine($"Total Match Cards:");
-            sb.AppendLine($"  Over 3: {S(ft_o3)}{ft_o3:F1}%   Over 4: {S(ft_o4)}{ft_o4:F1}%   Over 5: {S(ft_o5)}{ft_o5:F1}%   Over 6: {S(ft_o6)}{ft_o6:F1}%");
+            if (_oddsProvider == null)
+            {
+                sb.AppendLine($"  Over 3: {S(ft_o3)}{ft_o3:F1}%   Over 4: {S(ft_o4)}{ft_o4:F1}%   Over 5: {S(ft_o5)}{ft_o5:F1}%   Over 6: {S(ft_o6)}{ft_o6:F1}%");
+            }
+            else
+            {
+                sb.AppendLine($"  {FormatCardLine("Over 3", ft_o3, 2, homeTeam, awayTeam)}");
+                sb.AppendLine($"  {FormatCardLine("Over 4", ft_o4, 3, homeTeam, awayTeam)}");
+                sb.AppendLine($"  {FormatCardLine("Over 5", ft_o5, 4, homeTeam, awayTeam)}");
+                sb.AppendLine($"  {FormatCardLine("Over 6", ft_o6, 5, homeTeam, awayTeam)}");
+            }
             sb.AppendLine($"{homeTeam} Cards:");
             sb.AppendLine($"  Over 1: {S(h_o1)}{h_o1:F1}%   Over 2: {S(h_o2)}{h_o2:F1}%   Over 3: {S(h_o3)}{h_o3:F1}%");
             sb.AppendLine($"{awayTeam} Cards:");
