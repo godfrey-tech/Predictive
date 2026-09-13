@@ -46,6 +46,7 @@ namespace Predictive.Bookings.Integrations.SportMonks
             // Ligue 1
             { "Angers SCO", "Angers" },
             { "Paris Saint Germain", "Paris SG" },
+            { "Paris", "Paris FC" },
             { "LOSC Lille", "Lille" },
             { "Olympique Lyonnais", "Lyon" },
             { "Olympique Marseille", "Marseille" },

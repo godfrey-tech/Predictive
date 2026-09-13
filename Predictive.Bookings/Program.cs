@@ -49,6 +49,11 @@ var leagues = new List<(string csvKey, int sportMonksLeagueId, string displayNam
     ("La Liga", 564, "La Liga"),
 };
 
+// Target date for fixtures — yesterday, so predictions can be checked against
+// results that have actually been played (today's fixtures haven't kicked off yet).
+// Change to DateTime.UtcNow.Date for the normal daily run.
+DateTime targetDate = DateTime.UtcNow.Date.AddDays(-1);
+
 var smClient = new SportMonksClient();
 var fixtureResolver = new SportMonksFixtureResolver(smClient);
 var refereeProvider = new SportMonksRefereeProvider(smClient);
@@ -63,21 +68,21 @@ foreach (var (csvKey, leagueId, displayName) in leagues)
     var refereeService = new RefereeService(matches);
     var bookingsEngine = new BookingsEngine(matches, refereeService);
 
-    var fixturesToday = await fixtureResolver.GetFixturesForDate(leagueId, DateTime.UtcNow.Date);
+    var fixturesForDate = await fixtureResolver.GetFixturesForDate(leagueId, targetDate);
 
-    output.AppendLine($"══════════ {displayName} ({fixturesToday.Count} fixture(s) today) ══════════");
+    output.AppendLine($"══════════ {displayName} ({fixturesForDate.Count} fixture(s) on {targetDate:yyyy-MM-dd}) ══════════");
     output.AppendLine();
 
-    foreach (var (fixtureId, homeTeam, awayTeam) in fixturesToday)
+    foreach (var (fixtureId, homeTeam, awayTeam) in fixturesForDate)
     {
         string? referee = await refereeProvider.GetRefereeNameForFixture(fixtureId);
 
         output.AppendLine($"{homeTeam} vs {awayTeam}" + (referee != null ? $"  (Referee: {referee})" : "  (Referee: unknown)"));
-        output.AppendLine(bookingsEngine.Analyse(homeTeam, awayTeam, referee));
+        output.AppendLine(bookingsEngine.Analyse(homeTeam, awayTeam, referee, asOf: targetDate));
     }
 }
 
-string outputPath = ResolveResultsPath($"SportMonksPredictions_{DateTime.Now:yyyy-MM-dd}.txt");
+string outputPath = ResolveResultsPath($"SportMonksPredictions_{targetDate:yyyy-MM-dd}.txt");
 string result = output.ToString();
 Console.WriteLine(result);
 await File.WriteAllTextAsync(outputPath, result);
