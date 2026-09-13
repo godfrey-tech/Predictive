@@ -30,10 +30,25 @@ namespace Predictive.Bookings.Implementations
             _allData = allData;
         }
 
-        public BookingsBacktestSummary Run(DateTime from, DateTime to)
+// European club season convention: runs Aug-May. A match in Jan-Jun belongs to
+        // the season that started the previous August.
+        public static int DaysIntoSeason(DateTime date)
+        {
+            int seasonStartYear = date.Month >= 7 ? date.Year : date.Year - 1;
+            var seasonStart = new DateTime(seasonStartYear, 8, 1);
+            return (date - seasonStart).Days;
+        }
+
+        // maxDaysIntoSeason restricts the test set to matches within that many days of
+        // their season's Aug 1 start — lets a caller check whether early-season matches
+        // specifically are miscalibrated differently than the season as a whole (cards
+        // tend to run lower early in a season; a single full-season average backtest
+        // can hide that).
+        public BookingsBacktestSummary Run(DateTime from, DateTime to, int? maxDaysIntoSeason = null)
         {
             var testMatches = _allData
                 .Where(m => m.Date >= from && m.Date <= to)
+                .Where(m => maxDaysIntoSeason == null || DaysIntoSeason(m.Date) <= maxDaysIntoSeason)
                 .OrderBy(m => m.Date)
                 .ToList();
 
@@ -86,18 +101,21 @@ namespace Predictive.Bookings.Implementations
                 To = to,
                 MatchesAnalysed = analysed,
                 Calibrators = calibrators,
-                Report = GenerateReport(from, to, analysed, rows)
+                Report = GenerateReport(from, to, analysed, rows, maxDaysIntoSeason)
             };
         }
 
         private string GenerateReport(DateTime from, DateTime to, int analysed,
-            List<(string market, int n, double rawAvg, double actualRate, double calibratedAvg)> rows)
+            List<(string market, int n, double rawAvg, double actualRate, double calibratedAvg)> rows,
+            int? maxDaysIntoSeason = null)
         {
             var sb = new StringBuilder();
             sb.AppendLine("══════════════════════════════════════════════════════════════");
             sb.AppendLine("  BOOKINGS CONFIDENCE CALIBRATION REPORT");
             sb.AppendLine("══════════════════════════════════════════════════════════════");
             sb.AppendLine($"  Period:    {from:yyyy-MM-dd}  →  {to:yyyy-MM-dd}");
+            if (maxDaysIntoSeason.HasValue)
+                sb.AppendLine($"  Filter:    only matches within {maxDaysIntoSeason} days of that season's Aug 1 start");
             sb.AppendLine($"  Matches:   {analysed}");
             sb.AppendLine();
             sb.AppendLine("  Market            |    n | RawPred% | Actual% | Miscalib | Calibrated%");

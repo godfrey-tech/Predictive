@@ -1,3 +1,4 @@
+══════════ Bundesliga: FULL SEASON ══════════
 ══════════════════════════════════════════════════════════════
   BOOKINGS CONFIDENCE CALIBRATION REPORT
 ══════════════════════════════════════════════════════════════
@@ -16,6 +17,34 @@
   TotalCardsOver4    |  612 |    55.4% |   60.9% |     0.06 |       61.1%
   TotalCardsOver5    |  612 |    40.4% |   45.3% |     0.05 |       45.3%
   TotalCardsOver6    |  612 |    24.2% |   29.2% |     0.05 |       29.3%
+
+  NOTE: RawPred% is the engine's uncalibrated hit-rate average;
+        Actual% is what really happened; Miscalibration close to
+        0 means the raw rate is already trustworthy. Calibrated%
+        is what the fitted calibrator now outputs for that same
+        sample — it should track Actual% far more closely.
+══════════════════════════════════════════════════════════════
+
+══════════ Bundesliga: FIRST 30 DAYS OF SEASON ONLY ══════════
+══════════════════════════════════════════════════════════════
+  BOOKINGS CONFIDENCE CALIBRATION REPORT
+══════════════════════════════════════════════════════════════
+  Period:    2022-08-01  →  2025-06-01
+  Filter:    only matches within 30 days of that season's Aug 1 start
+  Matches:   54
+
+  Market            |    n | RawPred% | Actual% | Miscalib | Calibrated%
+  ────────────────────────────────────────────────────────────────────
+  AwayCardsOver1     |   54 |    84.5% |   85.2% |     0.01 |       85.5%
+  AwayCardsOver2     |   54 |    57.0% |   61.1% |     0.04 |       61.6%
+  AwayCardsOver3     |   54 |    27.8% |   38.9% |     0.11 |       39.1%
+  HomeCardsOver1     |   54 |    84.7% |   92.6% |     0.08 |       92.3%
+  HomeCardsOver2     |   54 |    57.2% |   50.0% |    -0.07 |       49.5%
+  HomeCardsOver3     |   54 |    28.1% |   16.7% |    -0.11 |       16.5%
+  TotalCardsOver3    |   54 |    71.0% |   74.1% |     0.03 |       74.1%
+  TotalCardsOver4    |   54 |    50.0% |   57.4% |     0.07 |       57.5%
+  TotalCardsOver5    |   54 |    34.6% |   40.7% |     0.06 |       40.8%
+  TotalCardsOver6    |   54 |    19.3% |   25.9% |     0.07 |       25.9%
 
   NOTE: RawPred% is the engine's uncalibrated hit-rate average;
         Actual% is what really happened; Miscalibration close to

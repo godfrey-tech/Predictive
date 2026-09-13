@@ -72,13 +72,20 @@ if (RUN_BOOKINGS_BACKTEST)
         List<SeasonMatchRecord> matches = MatchMapper.MapToSeasonMatchRecords(historicalData);
 
         var backtester = new BookingsBacktester(matches);
-        var summary = backtester.Run(new DateTime(2022, 8, 1), new DateTime(2025, 6, 1));
 
-        Console.WriteLine($"══════════ {displayName} backtest ══════════");
-        Console.WriteLine(summary.Report);
+        // Full-season baseline vs. early-season-only (first 30 days from that
+        // season's Aug 1 start) — tests whether cards specifically run lower early
+        // in a season, which a full-season average backtest would mask.
+        var fullSummary = backtester.Run(new DateTime(2022, 8, 1), new DateTime(2025, 6, 1));
+        var earlySummary = backtester.Run(new DateTime(2022, 8, 1), new DateTime(2025, 6, 1), maxDaysIntoSeason: 30);
+
+        string combinedReport = $"══════════ {displayName}: FULL SEASON ══════════\n{fullSummary.Report}\n" +
+                                 $"══════════ {displayName}: FIRST 30 DAYS OF SEASON ONLY ══════════\n{earlySummary.Report}";
+
+        Console.WriteLine(combinedReport);
 
         string backtestPath = ResolveResultsPath($"BookingsBacktest_{displayName.Replace(" ", "")}_{DateTime.Now:yyyy-MM-dd}.txt");
-        await File.WriteAllTextAsync(backtestPath, summary.Report);
+        await File.WriteAllTextAsync(backtestPath, combinedReport);
     }
 }
 
