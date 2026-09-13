@@ -1,5 +1,7 @@
 using System;
 using System.Collections.Generic;
+using System.Globalization;
+using System.IO;
 using System.Linq;
 using System.Text.Json;
 using System.Threading.Tasks;
@@ -7,13 +9,15 @@ using ConsoleApp1.Modals;
 
 namespace Predictive.Bookings.Integrations.SportMonks
 {
-    // Prototype: builds SeasonMatchRecord history directly from SportMonks instead of
-    // CSV. Kept fully separate from EPLHistoricalService/MatchMapper — the existing
-    // CSV-based pipeline is untouched, this is purely for evaluating whether
-    // SportMonks' available history (currently 3 seasons on the Starter plan for
-    // Premier League) is deep enough to be a viable alternative. Produces the same
-    // SeasonMatchRecord type so it can be fed into the existing BookingsEngine /
-    // BookingsBacktester unchanged for an apples-to-apples comparison.
+    // Builds SeasonMatchRecord history directly from SportMonks instead of CSV. Kept
+    // fully separate from EPLHistoricalService/MatchMapper — the existing CSV-based
+    // pipeline is untouched. Two uses: (1) evaluating whether SportMonks' available
+    // history is deep enough to be a viable CSV alternative (see the 2026-09-13
+    // Premier League comparison), and (2) the real, ongoing reason — football-data.
+    // co.uk's CSVs only carry a Referee column for English leagues, so this is the
+    // only source of historical referee-vs-cards data for Bundesliga/Ligue 1/Serie A/
+    // La Liga. Produces the same SeasonMatchRecord type so it plugs into the existing
+    // RefereeService/BookingsEngine/BookingsBacktester unchanged.
     public class SportMonksHistoricalService
     {
         private const int RedCardsTypeId = 83;
@@ -44,7 +48,9 @@ namespace Predictive.Bookings.Integrations.SportMonks
         public async Task<List<SeasonMatchRecord>> LoadSeasonMatches(int seasonId, string leagueIdentifier)
         {
             var records = new List<SeasonMatchRecord>();
-            string? nextUrl = $"football/fixtures?filters=fixtureSeasons:{seasonId}&include=statistics;referees;participants&per_page=50";
+            // referees.referee (nested include) returns the referee's name directly on
+            // each fixture — avoids a separate per-fixture lookup call.
+            string? nextUrl = $"football/fixtures?filters=fixtureSeasons:{seasonId}&include=statistics;referees.referee;participants&per_page=50";
 
             while (nextUrl != null)
             {
@@ -63,6 +69,63 @@ namespace Predictive.Bookings.Integrations.SportMonks
 
             return records;
         }
+
+        // Fetching every finished fixture for a league (with stats+referee) is a real
+        // API cost (a few hundred paginated calls per league) — cache to disk and
+        // reuse across runs instead of refetching every daily run. Deleting the cache
+        // file (or letting it exceed maxAge) forces a fresh pull.
+        public async Task<List<SeasonMatchRecord>> LoadAllSeasonsCached(
+            int leagueId, string leagueIdentifier, string cachePath, TimeSpan maxAge)
+        {
+            if (File.Exists(cachePath) && DateTime.UtcNow - File.GetLastWriteTimeUtc(cachePath) < maxAge)
+                return ReadCache(cachePath);
+
+            var seasons = await GetSeasons(leagueId);
+            var all = new List<SeasonMatchRecord>();
+            foreach (var (seasonId, _) in seasons)
+                all.AddRange(await LoadSeasonMatches(seasonId, leagueIdentifier));
+
+            WriteCache(cachePath, all);
+            return all;
+        }
+
+        private static void WriteCache(string path, List<SeasonMatchRecord> records)
+        {
+            using var writer = new StreamWriter(path, append: false);
+            writer.WriteLine("Date,HomeTeam,AwayTeam,HomeBookings,AwayBookings,HomeCorners,AwayCorners,Referee");
+            foreach (var r in records)
+            {
+                writer.WriteLine(string.Join(",",
+                    r.Date.ToString("yyyy-MM-dd"), Escape(r.HomeTeam), Escape(r.AwayTeam),
+                    r.HomeBookings, r.AwayBookings, r.HomeCorners, r.AwayCorners,
+                    Escape(r.Referee ?? "")));
+            }
+        }
+
+        private static List<SeasonMatchRecord> ReadCache(string path)
+        {
+            return File.ReadAllLines(path)
+                .Skip(1)
+                .Where(line => !string.IsNullOrWhiteSpace(line))
+                .Select(line =>
+                {
+                    var p = line.Split(',');
+                    return new SeasonMatchRecord
+                    {
+                        Date = DateTime.Parse(p[0], CultureInfo.InvariantCulture),
+                        HomeTeam = p[1],
+                        AwayTeam = p[2],
+                        HomeBookings = int.Parse(p[3]),
+                        AwayBookings = int.Parse(p[4]),
+                        HomeCorners = int.Parse(p[5]),
+                        AwayCorners = int.Parse(p[6]),
+                        Referee = string.IsNullOrEmpty(p[7]) ? null : p[7]
+                    };
+                })
+                .ToList();
+        }
+
+        private static string Escape(string value) => value.Contains(',') ? $"\"{value}\"" : value;
 
         private const int FinishedStateId = 5;
 
@@ -111,12 +174,13 @@ namespace Predictive.Bookings.Integrations.SportMonks
             {
                 foreach (var r in referees.EnumerateArray())
                 {
-                    if (r.GetProperty("type_id").GetInt32() == RefereeTypeId)
+                    if (r.GetProperty("type_id").GetInt32() == RefereeTypeId &&
+                        r.TryGetProperty("referee", out var refereeObj))
                     {
-                        // Referee name isn't included here (only referee_id) — left null
-                        // for this prototype; a full version would resolve it the same
-                        // way SportMonksRefereeProvider does.
-                        referee = null;
+                        // SportMonks formats this "R. Jones"; strip the period to match
+                        // this project's CSV convention ("R Jones"), same as
+                        // SportMonksRefereeProvider.
+                        referee = refereeObj.GetProperty("common_name").GetString()?.Replace(".", "");
                         break;
                     }
                 }

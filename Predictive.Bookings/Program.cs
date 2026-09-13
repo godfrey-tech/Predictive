@@ -58,6 +58,7 @@ var smClient = new SportMonksClient();
 var fixtureResolver = new SportMonksFixtureResolver(smClient);
 var refereeProvider = new SportMonksRefereeProvider(smClient);
 var tracker = new PredictionTracker(ResolveResultsPath("PredictionLog.csv"), smClient);
+var smHistorical = new SportMonksHistoricalService(smClient);
 
 var output = new StringBuilder();
 var historicalService = new EPLHistoricalService();
@@ -101,7 +102,16 @@ foreach (var (csvKey, leagueId, displayName) in leagues)
 {
     var historicalData = historicalService.LoadAndProcessCompetitionData(csvKey);
     List<SeasonMatchRecord> matches = MatchMapper.MapToSeasonMatchRecords(historicalData);
-    var refereeService = new RefereeService(matches);
+
+    // Referee bias is sourced from SportMonks for every league (not CSV) — SportMonks
+    // has referee data uniformly across all 5 leagues, whereas football-data.co.uk's
+    // CSVs only carry a Referee column for English leagues, which would leave
+    // Bundesliga/Ligue 1/Serie A/La Liga with no historical sample at all (always
+    // neutral bias). Cached to disk for 7 days so this isn't refetched every run.
+    var refereeData = await smHistorical.LoadAllSeasonsCached(
+        leagueId, csvKey, ResolveResultsPath($"SportMonksRefereeHistory_{displayName.Replace(" ", "")}.csv"), TimeSpan.FromDays(7));
+
+    var refereeService = new RefereeService(refereeData);
     var bookingsEngine = new BookingsEngine(matches, refereeService);
 
     var fixturesForDate = await fixtureResolver.GetFixturesForDate(leagueId, targetDate);

@@ -1,0 +1,807 @@
+Date,HomeTeam,AwayTeam,HomeBookings,AwayBookings,HomeCorners,AwayCorners,Referee
+2024-08-15,Ath Bilbao,Getafe,4,1,5,6,A Muñíz Ruiz
+2024-08-15,Betis,Girona,2,0,4,4,M Ortiz Arias
+2024-08-18,Mallorca,Real Madrid,1,1,8,7,C Soto Grado
+2024-08-16,Las Palmas,Sevilla,2,2,6,3,F Hernández Maeso
+2024-08-19,Villarreal,Ath Madrid,1,3,2,3,G Cuadra Fernández
+2024-08-17,Valencia,Barcelona,2,3,3,8,J Sánchez Martínez
+2024-08-18,Sociedad,Vallecano,2,4,10,5,A Hernández Hernández
+2024-08-16,Celta,Alaves,2,2,3,3,A Quintero González
+2024-08-17,Osasuna,Leganés,3,2,6,4,J Pulido Santana
+2024-08-19,Real Valladolid,Espanol,2,2,3,2,P González Fuertes
+2024-08-25,Ath Madrid,Girona,1,3,1,9,J Martínez Munuera
+2024-08-23,Celta,Valencia,3,0,4,7,J Munuera Montero
+2024-08-24,Getafe,Vallecano,1,2,3,2,Javier Alberola Rojas
+2024-08-25,Real Madrid,Real Valladolid,1,1,5,5,V García Verdura
+2024-08-23,Sevilla,Villarreal,3,5,7,2,I Díaz de Mera Escuderos
+2024-08-25,Alaves,Betis,2,4,3,8,M Busquets Ferrer
+2024-08-25,Leganés,Las Palmas,1,1,3,7,R De Burgos Bengoetxea
+2024-08-24,Espanol,Sociedad,2,2,7,4,M Melero López
+2024-08-24,Barcelona,Ath Bilbao,4,5,5,6,J Gil Manzano
+2024-08-24,Osasuna,Mallorca,2,1,5,4,A Cordero Vega
+2024-08-28,Ath Bilbao,Valencia,1,3,5,3,P González Fuertes
+2024-09-18,Betis,Getafe,3,5,8,4,J Pulido Santana
+2024-08-29,Girona,Osasuna,0,0,5,0,F Hernández Maeso
+2024-08-27,Mallorca,Sevilla,0,2,5,9,A Muñíz Ruiz
+2024-08-29,Las Palmas,Real Madrid,0,3,2,6,M Busquets Ferrer
+2024-08-27,Vallecano,Barcelona,3,1,6,6,C Soto Grado
+2024-08-26,Villarreal,Celta,4,3,7,4,M Ortiz Arias
+2024-08-28,Sociedad,Alaves,5,4,8,6,J Sánchez Martínez
+2024-08-28,Real Valladolid,Leganés,1,4,4,4,A Quintero González
+2024-08-28,Ath Madrid,Espanol,0,2,9,3,R De Burgos Bengoetxea
+2024-08-31,Ath Bilbao,Ath Madrid,3,1,2,2,A Hernández Hernández
+2024-08-31,Barcelona,Real Valladolid,0,3,10,1,I Díaz de Mera Escuderos
+2024-09-01,Getafe,Sociedad,1,1,4,1,J Munuera Montero
+2024-08-31,Valencia,Villarreal,3,6,14,3,J Gil Manzano
+2024-09-01,Alaves,Las Palmas,3,0,6,5,V García Verdura
+2024-08-31,Leganés,Mallorca,1,3,1,3,M Melero López
+2024-08-31,Espanol,Vallecano,3,2,3,7,A Cordero Vega
+2024-09-01,Real Madrid,Betis,2,0,7,3,Javier Alberola Rojas
+2024-09-01,Osasuna,Celta,2,1,6,3,J Martínez Munuera
+2024-09-01,Sevilla,Girona,3,2,7,5,J Sánchez Martínez
+2024-09-15,Ath Madrid,Valencia,1,2,7,3,C Soto Grado
+2024-09-13,Betis,Leganés,1,2,11,1,P González Fuertes
+2024-09-15,Celta,Real Valladolid,3,6,5,3,F Hernández Maeso
+2024-09-14,Mallorca,Villarreal,4,3,7,6,R De Burgos Bengoetxea
+2024-09-15,Las Palmas,Ath Bilbao,1,3,9,3,M Ortiz Arias
+2024-09-15,Girona,Barcelona,3,3,1,6,A Muñíz Ruiz
+2024-09-14,Sevilla,Getafe,4,4,3,4,M Busquets Ferrer
+2024-09-16,Vallecano,Osasuna,3,2,7,4,A Quintero González
+2024-09-14,Sociedad,Real Madrid,4,1,6,6,J Martínez Munuera
+2024-09-14,Espanol,Alaves,2,3,0,5,J Pulido Santana
+2024-09-22,Ath Bilbao,Celta,3,2,3,6,J Sánchez Martínez
+2024-09-23,Betis,Mallorca,3,3,6,3,V García Verdura
+2024-09-22,Getafe,Leganés,3,2,6,2,A Cordero Vega
+2024-09-20,Alaves,Sevilla,1,4,3,5,Javier Alberola Rojas
+2024-09-22,Vallecano,Ath Madrid,0,0,3,4,M Melero López
+2024-09-22,Villarreal,Barcelona,6,1,7,3,M Busquets Ferrer
+2024-09-21,Valencia,Girona,3,2,5,4,A Hernández Hernández
+2024-09-21,Real Valladolid,Sociedad,4,4,5,7,G Cuadra Fernández
+2024-09-21,Osasuna,Las Palmas,2,5,2,4,I Díaz de Mera Escuderos
+2024-09-21,Real Madrid,Espanol,4,3,9,4,J Munuera Montero
+2024-09-25,Barcelona,Getafe,1,1,7,5,P González Fuertes
+2024-09-25,Girona,Vallecano,3,4,4,3,J Martínez Munuera
+2024-09-17,Mallorca,Sociedad,1,1,5,5,A Cordero Vega
+2024-09-24,Sevilla,Real Valladolid,6,4,6,4,J Pulido Santana
+2024-09-26,Espanol,Villarreal,5,3,4,1,A Quintero González
+2024-09-19,Leganés,Ath Bilbao,3,0,4,7,F Hernández Maeso
+2024-09-26,Celta,Ath Madrid,2,2,2,3,V García Verdura
+2024-09-26,Las Palmas,Betis,4,2,1,4,J Sánchez Martínez
+2024-09-24,Valencia,Osasuna,2,3,10,5,M Ortiz Arias
+2024-09-24,Real Madrid,Alaves,4,0,4,4,A Muñíz Ruiz
+2024-09-29,Ath Bilbao,Sevilla,1,3,4,7,C Soto Grado
+2024-09-29,Ath Madrid,Real Madrid,4,1,5,5,M Busquets Ferrer
+2024-09-29,Celta,Girona,1,0,4,4,R De Burgos Bengoetxea
+2024-09-28,Sociedad,Valencia,0,0,6,4,Javier Alberola Rojas
+2024-09-28,Osasuna,Barcelona,2,2,5,8,G Cuadra Fernández
+2024-09-27,Real Valladolid,Mallorca,3,2,7,4,J Munuera Montero
+2024-09-30,Villarreal,Las Palmas,0,4,3,2,M Melero López
+2024-09-28,Getafe,Alaves,3,6,2,2,I Díaz de Mera Escuderos
+2024-09-28,Vallecano,Leganés,2,1,5,5,A Muñíz Ruiz
+2024-09-29,Betis,Espanol,2,4,8,4,A Hernández Hernández
+2024-10-05,Getafe,Osasuna,2,4,4,2,J Sánchez Martínez
+2024-10-05,Real Madrid,Villarreal,0,1,2,5,G Cuadra Fernández
+2024-10-06,Alaves,Barcelona,2,2,11,3,M Ortiz Arias
+2024-10-04,Leganés,Valencia,2,2,1,2,A Quintero González
+2024-10-05,Espanol,Mallorca,1,5,4,6,F Hernández Maeso
+2024-10-06,Girona,Ath Bilbao,4,4,6,1,J Pulido Santana
+2024-10-06,Sociedad,Ath Madrid,0,2,5,1,I Díaz de Mera Escuderos
+2024-10-06,Sevilla,Betis,7,4,4,1,J Martínez Munuera
+2024-10-05,Las Palmas,Celta,3,10,11,2,A Cordero Vega
+2024-10-05,Real Valladolid,Vallecano,4,2,5,13,P González Fuertes
+2024-10-20,Ath Madrid,Leganés,5,1,8,2,J Munuera Montero
+2024-10-20,Barcelona,Sevilla,1,2,5,5,R De Burgos Bengoetxea
+2024-10-19,Celta,Real Madrid,2,1,6,2,A Hernández Hernández
+2024-10-19,Girona,Sociedad,2,1,6,6,C Soto Grado
+2024-10-20,Mallorca,Vallecano,1,1,9,2,Javier Alberola Rojas
+2024-10-18,Alaves,Real Valladolid,7,2,5,6,M Melero López
+2024-10-19,Osasuna,Betis,2,2,10,2,A Muñíz Ruiz
+2024-10-20,Villarreal,Getafe,4,3,5,5,V García Verdura
+2024-10-21,Valencia,Las Palmas,4,9,11,2,J Gil Manzano
+2024-10-19,Ath Bilbao,Espanol,2,3,5,5,M Busquets Ferrer
+2024-10-27,Getafe,Valencia,3,7,8,2,G Cuadra Fernández
+2024-10-25,Espanol,Sevilla,2,0,13,2,M Ortiz Arias
+2024-10-28,Mallorca,Ath Bilbao,6,1,1,14,J Martínez Munuera
+2024-10-27,Betis,Ath Madrid,3,2,3,10,J Gil Manzano
+2024-10-26,Real Madrid,Barcelona,2,5,10,3,J Sánchez Martínez
+2024-10-27,Leganés,Celta,2,2,4,2,M Melero López
+2024-10-26,Las Palmas,Girona,4,6,3,5,A Quintero González
+2024-10-27,Sociedad,Osasuna,3,4,14,4,J Pulido Santana
+2024-10-26,Real Valladolid,Villarreal,4,2,4,6,F Hernández Maeso
+2024-10-26,Vallecano,Alaves,3,4,6,2,A Cordero Vega
+2024-11-03,Ath Bilbao,Betis,0,0,6,2,Javier Alberola Rojas
+2024-11-03,Ath Madrid,Las Palmas,1,1,9,1,R De Burgos Bengoetxea
+2024-11-04,Celta,Getafe,1,5,0,2,J Gil Manzano
+2024-11-02,Girona,Leganés,3,4,6,1,M Busquets Ferrer
+2024-11-02,Osasuna,Real Valladolid,1,5,7,2,V García Verdura
+2024-11-01,Alaves,Mallorca,3,2,7,2,P González Fuertes
+2024-12-18,Villarreal,Vallecano,5,3,7,7,A Hernández Hernández
+2025-01-03,Valencia,Real Madrid,2,4,2,5,C Soto Grado
+2024-11-03,Sevilla,Sociedad,2,1,5,9,A Muñíz Ruiz
+2024-11-03,Barcelona,Espanol,0,3,9,5,J Munuera Montero
+2024-11-10,Betis,Celta,3,0,2,0,M Ortiz Arias
+2024-11-10,Getafe,Girona,3,3,5,2,J Martínez Munuera
+2024-11-09,Leganés,Sevilla,2,2,0,6,J Pulido Santana
+2024-12-18,Espanol,Valencia,1,0,4,7,P González Fuertes
+2024-11-10,Real Valladolid,Ath Bilbao,4,4,5,5,A Cordero Vega
+2024-11-10,Mallorca,Ath Madrid,1,3,7,2,J Sánchez Martínez
+2024-11-10,Sociedad,Barcelona,3,1,7,6,G Cuadra Fernández
+2024-11-09,Real Madrid,Osasuna,0,2,11,3,M Melero López
+2024-11-08,Vallecano,Las Palmas,1,3,12,4,F Hernández Maeso
+2024-11-09,Villarreal,Alaves,1,3,7,2,A Quintero González
+2024-11-24,Ath Bilbao,Sociedad,3,4,4,4,J Gil Manzano
+2024-11-22,Getafe,Real Valladolid,3,2,3,2,P González Fuertes
+2024-11-24,Osasuna,Villarreal,6,4,0,8,J Munuera Montero
+2024-11-23,Las Palmas,Mallorca,4,3,4,3,A Muñíz Ruiz
+2024-11-24,Leganés,Real Madrid,2,0,2,4,Javier Alberola Rojas
+2024-11-23,Celta,Barcelona,5,6,5,1,C Soto Grado
+2024-11-23,Valencia,Betis,4,2,2,4,R De Burgos Bengoetxea
+2024-11-24,Sevilla,Vallecano,2,6,8,3,M Busquets Ferrer
+2024-11-23,Ath Madrid,Alaves,3,3,5,0,V García Verdura
+2024-11-23,Girona,Espanol,0,3,6,3,A Hernández Hernández
+2024-11-30,Barcelona,Las Palmas,0,0,7,0,A Cordero Vega
+2024-11-29,Mallorca,Valencia,1,1,3,6,A Quintero González
+2024-11-30,Alaves,Leganés,1,4,13,8,I Díaz de Mera Escuderos
+2024-11-30,Espanol,Celta,2,2,2,5,J Sánchez Martínez
+2024-12-01,Vallecano,Ath Bilbao,3,0,1,7,M Melero López
+2024-11-30,Real Valladolid,Ath Madrid,1,2,3,5,G Cuadra Fernández
+2024-12-01,Sociedad,Betis,3,2,0,4,F Hernández Maeso
+2024-12-01,Real Madrid,Getafe,2,6,5,3,A Hernández Hernández
+2024-12-01,Villarreal,Girona,2,6,1,5,M Ortiz Arias
+2024-12-02,Sevilla,Osasuna,1,1,5,1,J Martínez Munuera
+2024-12-08,Ath Bilbao,Villarreal,2,1,3,3,V García Verdura
+2024-12-08,Ath Madrid,Sevilla,4,3,5,3,Javier Alberola Rojas
+2024-12-06,Celta,Mallorca,1,1,3,3,R De Burgos Bengoetxea
+2024-12-07,Girona,Real Madrid,3,2,6,3,J Gil Manzano
+2024-12-07,Las Palmas,Real Valladolid,4,2,3,3,I Díaz de Mera Escuderos
+2024-12-08,Leganés,Sociedad,2,2,5,3,P González Fuertes
+2024-12-07,Betis,Barcelona,1,2,6,4,A Muñíz Ruiz
+2024-12-07,Valencia,Vallecano,2,2,9,4,J Munuera Montero
+2024-12-08,Osasuna,Alaves,5,3,8,3,C Soto Grado
+2024-12-09,Getafe,Espanol,3,6,3,3,M Busquets Ferrer
+2024-12-15,Ath Madrid,Getafe,3,1,8,3,C Soto Grado
+2024-12-15,Barcelona,Leganés,0,2,8,2,A Quintero González
+2024-12-14,Vallecano,Real Madrid,4,2,4,3,J Martínez Munuera
+2024-12-15,Alaves,Ath Bilbao,2,2,2,4,J Sánchez Martínez
+2024-12-14,Espanol,Osasuna,3,1,5,4,A Cordero Vega
+2024-12-15,Villarreal,Betis,5,5,5,5,G Cuadra Fernández
+2024-12-14,Sevilla,Celta,7,3,3,4,J Gil Manzano
+2024-12-14,Mallorca,Girona,6,2,2,4,F Hernández Maeso
+2024-12-13,Real Valladolid,Valencia,5,2,1,7,M Ortiz Arias
+2024-12-15,Sociedad,Las Palmas,2,3,8,6,M Melero López
+2024-12-22,Betis,Vallecano,0,4,5,5,V García Verdura
+2024-12-21,Celta,Sociedad,3,5,4,7,M Busquets Ferrer
+2024-12-21,Getafe,Mallorca,4,3,3,0,J Munuera Montero
+2024-12-20,Girona,Real Valladolid,3,1,9,1,P González Fuertes
+2024-12-22,Real Madrid,Sevilla,1,2,6,6,I Díaz de Mera Escuderos
+2024-12-22,Leganés,Villarreal,3,2,1,5,A Muñíz Ruiz
+2024-12-21,Osasuna,Ath Bilbao,0,1,4,3,A Quintero González
+2024-12-21,Barcelona,Ath Madrid,0,3,11,3,R De Burgos Bengoetxea
+2024-12-22,Valencia,Alaves,2,1,5,4,Javier Alberola Rojas
+2024-12-22,Las Palmas,Espanol,4,2,2,2,C Soto Grado
+2024-12-04,Ath Bilbao,Real Madrid,3,3,5,2,J Sánchez Martínez
+2025-01-12,Ath Madrid,Osasuna,1,0,4,0,I Díaz de Mera Escuderos
+2025-01-13,Sociedad,Villarreal,4,2,3,7,C Soto Grado
+2025-01-11,Sevilla,Valencia,1,2,10,1,F Hernández Maeso
+2025-01-11,Alaves,Girona,1,4,6,3,M Busquets Ferrer
+2025-01-11,Espanol,Leganés,2,3,8,4,J Martínez Munuera
+2024-12-03,Mallorca,Barcelona,4,3,2,5,J Gil Manzano
+2025-01-11,Real Valladolid,Betis,2,4,1,8,A Cordero Vega
+2025-01-10,Vallecano,Celta,2,4,3,3,G Cuadra Fernández
+2025-01-12,Las Palmas,Getafe,2,3,4,5,Javier Alberola Rojas
+2025-01-18,Girona,Sevilla,0,4,7,4,J Martínez Munuera
+2025-01-19,Osasuna,Vallecano,3,2,6,3,A Muñíz Ruiz
+2025-01-17,Espanol,Real Valladolid,2,2,1,7,R De Burgos Bengoetxea
+2025-01-19,Celta,Ath Bilbao,2,0,3,4,M Ortiz Arias
+2025-01-18,Leganés,Ath Madrid,1,3,2,9,M Melero López
+2025-01-18,Getafe,Barcelona,3,2,2,10,P González Fuertes
+2025-01-20,Villarreal,Mallorca,1,3,6,5,J Munuera Montero
+2025-01-19,Valencia,Sociedad,3,4,4,7,V García Verdura
+2025-01-19,Real Madrid,Las Palmas,0,2,8,2,A Quintero González
+2025-01-18,Betis,Alaves,5,5,2,3,A Hernández Hernández
+2025-01-26,Ath Bilbao,Leganés,1,1,16,1,A Hernández Hernández
+2025-01-25,Ath Madrid,Villarreal,4,2,5,6,J Sánchez Martínez
+2025-01-26,Barcelona,Valencia,0,1,14,4,C Soto Grado
+2025-01-24,Las Palmas,Osasuna,8,8,4,2,J Gil Manzano
+2025-01-27,Alaves,Celta,2,3,3,4,F Hernández Maeso
+2025-01-25,Mallorca,Betis,3,2,4,4,Javier Alberola Rojas
+2025-01-26,Sociedad,Getafe,3,6,5,2,G Cuadra Fernández
+2025-01-26,Vallecano,Girona,3,1,4,1,I Díaz de Mera Escuderos
+2025-01-25,Real Valladolid,Real Madrid,4,3,1,7,M Busquets Ferrer
+2025-01-25,Sevilla,Espanol,1,4,5,1,A Cordero Vega
+2025-02-01,Ath Madrid,Mallorca,2,3,10,4,V García Verdura
+2025-02-01,Getafe,Sevilla,4,6,6,5,R De Burgos Bengoetxea
+2025-02-03,Girona,Las Palmas,2,3,11,3,M Melero López
+2025-02-02,Osasuna,Sociedad,3,3,3,5,M Ortiz Arias
+2025-02-01,Villarreal,Real Valladolid,1,2,3,6,I Díaz de Mera Escuderos
+2025-01-31,Leganés,Vallecano,3,4,2,9,A Quintero González
+2025-02-01,Espanol,Real Madrid,2,0,1,8,A Muñíz Ruiz
+2025-02-02,Betis,Ath Bilbao,3,1,3,7,J Martínez Munuera
+2025-02-02,Valencia,Celta,1,2,5,2,P González Fuertes
+2025-02-02,Barcelona,Alaves,5,2,5,2,J Munuera Montero
+2025-02-08,Ath Bilbao,Girona,0,4,11,2,J Sánchez Martínez
+2025-02-10,Mallorca,Osasuna,1,4,7,11,A Cordero Vega
+2025-02-07,Vallecano,Real Valladolid,2,2,4,2,J Gil Manzano
+2025-02-08,Las Palmas,Villarreal,6,3,6,5,F Hernández Maeso
+2025-02-09,Alaves,Getafe,2,6,8,3,I Díaz de Mera Escuderos
+2025-02-08,Real Madrid,Ath Madrid,1,3,6,1,C Soto Grado
+2025-02-09,Sevilla,Barcelona,5,3,5,6,A Hernández Hernández
+2025-02-08,Celta,Betis,3,5,4,7,M Busquets Ferrer
+2025-02-09,Valencia,Leganés,1,1,9,3,G Cuadra Fernández
+2025-02-09,Sociedad,Espanol,1,2,6,0,Javier Alberola Rojas
+2025-02-15,Ath Madrid,Celta,4,5,2,7,J Martínez Munuera
+2025-02-17,Barcelona,Vallecano,2,3,4,5,M Melero López
+2025-02-16,Betis,Sociedad,0,4,5,5,J Gil Manzano
+2025-02-15,Osasuna,Real Madrid,3,2,6,2,J Munuera Montero
+2025-02-16,Espanol,Ath Bilbao,1,1,2,7,G Cuadra Fernández
+2025-02-14,Girona,Getafe,3,3,3,3,A Quintero González
+2025-02-16,Real Valladolid,Sevilla,4,2,3,2,Javier Alberola Rojas
+2025-02-15,Villarreal,Valencia,0,5,4,5,R De Burgos Bengoetxea
+2025-02-16,Mallorca,Las Palmas,1,4,3,5,M Ortiz Arias
+2025-02-15,Leganés,Alaves,5,5,3,2,P González Fuertes
+2025-02-23,Ath Bilbao,Real Valladolid,2,4,4,4,C Soto Grado
+2025-02-21,Celta,Osasuna,1,0,5,4,J Sánchez Martínez
+2025-02-22,Vallecano,Villarreal,2,4,3,5,V García Verdura
+2025-02-22,Alaves,Espanol,2,2,7,0,J Pulido Santana
+2025-02-22,Valencia,Ath Madrid,1,3,7,0,M Busquets Ferrer
+2025-02-22,Las Palmas,Barcelona,1,1,5,3,A Cordero Vega
+2025-02-23,Getafe,Betis,4,1,2,5,Javier Alberola Rojas
+2025-02-23,Real Madrid,Girona,0,2,11,5,G Cuadra Fernández
+2025-02-24,Sevilla,Mallorca,1,3,4,4,A Muñíz Ruiz
+2025-02-23,Sociedad,Leganés,3,3,3,3,F Hernández Maeso
+2025-03-02,Barcelona,Sociedad,0,1,12,0,A Quintero González
+2025-03-01,Betis,Real Madrid,3,4,9,2,A Hernández Hernández
+2025-03-02,Osasuna,Valencia,2,1,3,3,M Melero López
+2025-03-01,Vallecano,Sevilla,1,0,6,6,P González Fuertes
+2025-03-01,Ath Madrid,Ath Bilbao,2,3,6,2,J Gil Manzano
+2025-03-01,Girona,Celta,0,0,4,2,M Ortiz Arias
+2025-03-02,Leganés,Getafe,1,1,2,6,A Muñíz Ruiz
+2025-02-28,Real Valladolid,Las Palmas,2,2,13,4,R De Burgos Bengoetxea
+2025-03-02,Mallorca,Alaves,0,2,3,9,C Soto Grado
+2025-04-27,Villarreal,Espanol,4,0,8,6,J Munuera Montero
+2025-03-09,Ath Bilbao,Mallorca,1,3,3,3,A Hernández Hernández
+2025-03-27,Barcelona,Osasuna,1,3,8,4,M Busquets Ferrer
+2025-03-09,Betis,Las Palmas,2,9,11,1,J Sánchez Martínez
+2025-03-08,Celta,Leganés,3,2,2,5,I Díaz de Mera Escuderos
+2025-03-09,Sociedad,Sevilla,2,1,6,3,V García Verdura
+2025-03-08,Valencia,Real Valladolid,1,3,5,4,J Pulido Santana
+2025-03-08,Alaves,Villarreal,6,1,1,6,M Ortiz Arias
+2025-03-10,Espanol,Girona,3,3,4,9,A Cordero Vega
+2025-03-09,Getafe,Ath Madrid,6,3,4,4,G Cuadra Fernández
+2025-03-09,Real Madrid,Vallecano,3,1,4,6,F Hernández Maeso
+2025-03-16,Ath Madrid,Barcelona,1,3,6,6,R De Burgos Bengoetxea
+2025-03-15,Girona,Valencia,2,1,9,4,J Munuera Montero
+2025-03-16,Vallecano,Sociedad,3,2,4,4,A Muñíz Ruiz
+2025-03-16,Sevilla,Ath Bilbao,4,2,4,6,J Pulido Santana
+2025-03-16,Leganés,Betis,2,0,3,7,C Soto Grado
+2025-03-15,Real Valladolid,Celta,3,3,3,4,V García Verdura
+2025-03-16,Osasuna,Getafe,2,5,3,2,A Hernández Hernández
+2025-03-15,Villarreal,Real Madrid,2,1,11,4,J Gil Manzano
+2025-03-14,Las Palmas,Alaves,5,4,4,5,M Melero López
+2025-03-15,Mallorca,Espanol,0,2,6,2,A Quintero González
+2025-03-30,Ath Bilbao,Osasuna,1,1,3,4,G Cuadra Fernández
+2025-03-30,Barcelona,Girona,0,1,10,2,J Pulido Santana
+2025-03-30,Betis,Sevilla,3,3,2,2,M Busquets Ferrer
+2025-03-31,Celta,Las Palmas,3,0,4,2,J Martínez Munuera
+2025-03-30,Getafe,Villarreal,1,4,3,1,I Díaz de Mera Escuderos
+2025-03-29,Sociedad,Real Valladolid,2,3,3,6,A Cordero Vega
+2025-03-29,Alaves,Vallecano,3,5,8,5,J Munuera Montero
+2025-03-29,Espanol,Ath Madrid,2,1,4,3,Javier Alberola Rojas
+2025-03-30,Valencia,Mallorca,4,4,4,5,F Hernández Maeso
+2025-03-29,Real Madrid,Leganés,1,4,8,3,P González Fuertes
+2025-04-05,Barcelona,Betis,2,1,9,3,J Gil Manzano
+2025-04-05,Real Madrid,Valencia,0,4,9,4,G Cuadra Fernández
+2025-04-06,Las Palmas,Sociedad,0,2,5,4,M Ortiz Arias
+2025-04-07,Leganés,Osasuna,3,3,4,8,V García Verdura
+2025-04-06,Villarreal,Ath Bilbao,1,1,6,5,M Melero López
+2025-04-06,Sevilla,Ath Madrid,1,4,7,7,C Soto Grado
+2025-04-05,Mallorca,Celta,3,0,4,2,R De Burgos Bengoetxea
+2025-04-06,Real Valladolid,Getafe,4,1,3,4,A Quintero González
+2025-04-05,Girona,Alaves,1,5,5,3,A Muñíz Ruiz
+2025-04-04,Vallecano,Espanol,2,2,8,4,A Hernández Hernández
+2025-04-13,Ath Bilbao,Vallecano,4,3,7,1,A Cordero Vega
+2025-04-14,Ath Madrid,Real Valladolid,1,1,5,1,I Díaz de Mera Escuderos
+2025-04-13,Betis,Villarreal,0,4,5,5,J Pulido Santana
+2025-04-12,Getafe,Las Palmas,1,2,3,2,Javier Alberola Rojas
+2025-04-13,Alaves,Real Madrid,5,5,4,4,C Soto Grado
+2025-04-12,Leganés,Barcelona,2,1,4,8,F Hernández Maeso
+2025-04-13,Osasuna,Girona,2,1,4,4,P González Fuertes
+2025-04-12,Sociedad,Mallorca,3,1,8,2,J Munuera Montero
+2025-04-11,Valencia,Sevilla,3,2,3,3,J Sánchez Martínez
+2025-04-12,Celta,Espanol,2,2,13,5,M Busquets Ferrer
+2025-04-19,Barcelona,Celta,2,2,4,1,M Melero López
+2025-04-19,Vallecano,Valencia,3,1,5,2,A Quintero González
+2025-04-18,Espanol,Getafe,0,3,6,8,R De Burgos Bengoetxea
+2025-04-20,Real Madrid,Ath Bilbao,1,2,14,1,J Martínez Munuera
+2025-04-19,Las Palmas,Ath Madrid,3,1,4,4,V García Verdura
+2025-04-21,Girona,Betis,3,2,8,9,A Hernández Hernández
+2025-04-20,Real Valladolid,Osasuna,1,1,5,2,J Gil Manzano
+2025-04-20,Villarreal,Sociedad,4,1,10,4,G Cuadra Fernández
+2025-04-20,Sevilla,Alaves,2,2,3,6,M Ortiz Arias
+2025-04-19,Mallorca,Leganés,2,1,4,4,A Muñíz Ruiz
+2025-04-23,Ath Bilbao,Las Palmas,1,3,3,3,I Díaz de Mera Escuderos
+2025-04-24,Ath Madrid,Vallecano,0,2,6,3,P González Fuertes
+2025-04-22,Barcelona,Mallorca,0,1,13,2,M Ortiz Arias
+2025-04-24,Betis,Real Valladolid,1,0,4,4,F Hernández Maeso
+2025-04-23,Celta,Villarreal,2,2,6,3,Javier Alberola Rojas
+2025-04-23,Getafe,Real Madrid,2,1,4,4,J Sánchez Martínez
+2025-04-24,Osasuna,Sevilla,4,3,4,4,A Cordero Vega
+2025-04-23,Alaves,Sociedad,3,5,6,6,M Busquets Ferrer
+2025-04-24,Leganés,Girona,5,2,4,5,J Munuera Montero
+2025-04-22,Valencia,Espanol,1,1,6,4,J Pulido Santana
+2025-05-05,Girona,Mallorca,0,2,5,2,M Melero López
+2025-05-03,Las Palmas,Valencia,1,1,9,5,R De Burgos Bengoetxea
+2025-05-03,Alaves,Ath Madrid,3,2,3,5,J Martínez Munuera
+2025-05-04,Espanol,Betis,2,0,3,7,G Cuadra Fernández
+2025-05-04,Sociedad,Ath Bilbao,1,2,7,3,C Soto Grado
+2025-05-03,Real Valladolid,Barcelona,3,2,4,8,A Muñíz Ruiz
+2025-05-04,Real Madrid,Celta,2,1,4,6,J Gil Manzano
+2025-05-02,Vallecano,Getafe,3,3,7,3,V García Verdura
+2025-05-03,Villarreal,Osasuna,4,1,2,8,A Quintero González
+2025-05-04,Sevilla,Leganés,4,5,8,2,A Hernández Hernández
+2025-05-10,Ath Madrid,Sociedad,0,1,3,3,J Sánchez Martínez
+2025-05-11,Barcelona,Real Madrid,4,3,10,2,A Hernández Hernández
+2025-05-11,Betis,Osasuna,3,2,6,7,M Ortiz Arias
+2025-05-10,Celta,Sevilla,1,2,3,6,P González Fuertes
+2025-05-10,Girona,Villarreal,2,3,5,3,I Díaz de Mera Escuderos
+2025-05-10,Mallorca,Real Valladolid,2,1,5,10,J Pulido Santana
+2025-05-09,Las Palmas,Vallecano,2,3,8,8,F Hernández Maeso
+2025-05-10,Valencia,Getafe,3,5,2,6,A Cordero Vega
+2025-05-11,Ath Bilbao,Alaves,1,1,9,2,J Munuera Montero
+2025-05-11,Leganés,Espanol,2,2,3,8,Javier Alberola Rojas
+2025-05-14,Alaves,Valencia,4,3,9,4,J Gil Manzano
+2025-05-15,Espanol,Barcelona,5,1,3,3,C Soto Grado
+2025-05-15,Getafe,Ath Bilbao,1,0,2,5,G Cuadra Fernández
+2025-05-15,Osasuna,Ath Madrid,1,1,3,5,M Melero López
+2025-05-15,Vallecano,Betis,1,3,10,7,P González Fuertes
+2025-05-13,Sociedad,Celta,3,1,14,1,V García Verdura
+2025-05-13,Real Valladolid,Girona,0,0,6,4,A Quintero González
+2025-05-14,Real Madrid,Mallorca,0,3,26,0,Javier Alberola Rojas
+2025-05-13,Sevilla,Las Palmas,6,6,4,2,J Martínez Munuera
+2025-05-14,Villarreal,Leganés,1,1,3,6,R De Burgos Bengoetxea
+2025-05-18,Ath Madrid,Betis,1,1,7,4,A Cordero Vega
+2025-05-18,Barcelona,Villarreal,2,0,11,3,J Munuera Montero
+2025-05-18,Celta,Vallecano,2,3,9,2,J Pulido Santana
+2025-05-18,Valencia,Ath Bilbao,3,1,5,3,A Muñíz Ruiz
+2025-05-18,Mallorca,Getafe,2,2,3,4,A Hernández Hernández
+2025-05-18,Sociedad,Girona,1,3,9,2,M Ortiz Arias
+2025-05-18,Sevilla,Real Madrid,2,1,1,7,M Busquets Ferrer
+2025-05-18,Real Valladolid,Alaves,0,2,5,9,I Díaz de Mera Escuderos
+2025-05-18,Las Palmas,Leganés,2,2,9,2,J Sánchez Martínez
+2025-05-18,Osasuna,Espanol,1,1,8,6,F Hernández Maeso
+2025-05-25,Ath Bilbao,Barcelona,1,0,2,6,P González Fuertes
+2025-05-23,Betis,Valencia,1,3,3,2,V García Verdura
+2025-05-24,Real Madrid,Sociedad,0,0,11,4,M Melero López
+2025-05-24,Alaves,Osasuna,2,2,5,9,G Cuadra Fernández
+2025-05-24,Leganés,Real Valladolid,0,1,3,4,C Soto Grado
+2025-05-24,Espanol,Las Palmas,3,2,3,6,A Muñíz Ruiz
+2025-05-25,Girona,Ath Madrid,0,0,1,8,J Gil Manzano
+2025-05-24,Getafe,Celta,4,4,2,6,J Martínez Munuera
+2025-05-24,Vallecano,Mallorca,2,2,11,2,R De Burgos Bengoetxea
+2025-05-25,Villarreal,Sevilla,0,1,3,5,Javier Alberola Rojas
+2025-08-17,Ath Bilbao,Sevilla,0,2,10,1,F Hernández Maeso
+2025-08-17,Celta,Getafe,3,2,9,3,I Galech Apezteguía
+2025-08-16,Alaves,Levante,0,1,10,1,M Sesma Espinosa
+2025-08-18,Elche,Betis,0,1,1,3,V García Verdura
+2025-08-17,Espanol,Ath Madrid,3,3,1,3,M Busquets Ferrer
+2025-08-15,Girona,Vallecano,1,1,2,4,Javier Alberola Rojas
+2025-08-16,Mallorca,Barcelona,6,1,3,6,J Munuera Montero
+2025-08-19,Real Madrid,Osasuna,1,1,7,0,A Cordero Vega
+2025-08-16,Valencia,Sociedad,1,2,8,7,J Sánchez Martínez
+2025-08-15,Villarreal,Real Oviedo,1,3,10,1,A Muñíz Ruiz
+2025-08-25,Ath Bilbao,Vallecano,0,4,3,6,J Martínez Munuera
+2025-08-23,Ath Madrid,Elche,0,3,10,2,C Soto Grado
+2025-08-23,Levante,Barcelona,3,1,0,11,A Hernández Hernández
+2025-08-23,Mallorca,Celta,3,3,3,4,J Guzmán Mansilla
+2025-08-24,Osasuna,Valencia,2,2,3,4,J Gil Manzano
+2025-08-22,Betis,Alaves,2,3,5,2,M Ortiz Arias
+2025-08-24,Real Oviedo,Real Madrid,2,1,1,9,R De Burgos Bengoetxea
+2025-08-24,Sociedad,Espanol,2,2,5,2,A Quintero González
+2025-08-25,Sevilla,Getafe,2,2,5,3,I Díaz de Mera Escuderos
+2025-08-24,Villarreal,Girona,1,2,8,1,G Cuadra Fernández
+2025-08-31,Celta,Villarreal,1,1,1,5,A Quintero González
+2025-08-30,Alaves,Ath Madrid,2,3,1,6,V García Verdura
+2025-08-29,Elche,Levante,1,2,4,2,I Galech Apezteguía
+2025-08-31,Espanol,Osasuna,2,3,2,3,M Sesma Espinosa
+2025-08-30,Girona,Sevilla,0,2,11,3,M Ortiz Arias
+2025-08-31,Vallecano,Barcelona,4,1,9,4,M Busquets Ferrer
+2025-08-31,Betis,Ath Bilbao,1,5,4,10,I Díaz de Mera Escuderos
+2025-08-30,Real Madrid,Mallorca,2,0,4,5,J Sánchez Martínez
+2025-08-30,Real Oviedo,Sociedad,2,1,1,10,A Cordero Vega
+2025-08-29,Valencia,Getafe,2,0,8,6,F Hernández Maeso
+2025-09-13,Ath Bilbao,Alaves,2,4,6,6,J Sánchez Martínez
+2025-09-13,Ath Madrid,Villarreal,2,4,8,3,J Munuera Montero
+2025-09-14,Barcelona,Valencia,0,1,5,4,G Cuadra Fernández
+2025-09-14,Celta,Girona,0,3,10,3,A Cordero Vega
+2025-09-15,Espanol,Mallorca,3,1,3,9,A Hernández Hernández
+2025-09-13,Getafe,Real Oviedo,2,6,4,3,J Guzmán Mansilla
+2025-09-14,Levante,Betis,4,2,4,12,A Muñíz Ruiz
+2025-09-14,Osasuna,Vallecano,3,2,3,6,C Soto Grado
+2025-09-13,Sociedad,Real Madrid,2,2,12,4,J Gil Manzano
+2025-09-12,Sevilla,Elche,4,3,2,2,Javier Alberola Rojas
+2025-09-21,Barcelona,Getafe,2,4,3,2,R De Burgos Bengoetxea
+2025-09-20,Alaves,Sevilla,1,7,4,4,I Galech Apezteguía
+2025-09-21,Elche,Real Oviedo,2,2,3,3,M Sesma Espinosa
+2025-09-20,Girona,Levante,6,3,5,4,A Quintero González
+2025-09-21,Mallorca,Ath Madrid,0,1,3,6,F Hernández Maeso
+2025-09-21,Vallecano,Celta,1,1,5,7,V García Verdura
+2025-09-19,Betis,Sociedad,3,6,3,5,M Busquets Ferrer
+2025-09-20,Real Madrid,Espanol,2,0,5,3,J Martínez Munuera
+2025-09-20,Valencia,Ath Bilbao,1,2,5,6,M Ortiz Arias
+2025-09-20,Villarreal,Osasuna,2,4,7,0,I Díaz de Mera Escuderos
+2025-09-23,Ath Bilbao,Girona,0,2,8,1,J Munuera Montero
+2025-09-24,Ath Madrid,Vallecano,3,5,8,6,A Hernández Hernández
+2025-08-27,Celta,Betis,1,2,10,4,J Gil Manzano
+2025-09-23,Espanol,Valencia,1,4,8,3,J Guzmán Mansilla
+2025-09-24,Getafe,Alaves,2,3,2,7,A Quintero González
+2025-09-23,Levante,Real Madrid,1,1,1,7,I Díaz de Mera Escuderos
+2025-09-25,Osasuna,Elche,2,2,2,3,A Cordero Vega
+2025-09-25,Real Oviedo,Barcelona,1,0,6,9,M Ortiz Arias
+2025-09-24,Sociedad,Mallorca,2,2,11,2,I Galech Apezteguía
+2025-09-23,Sevilla,Villarreal,2,3,3,3,C Soto Grado
+2025-09-27,Ath Madrid,Real Madrid,5,4,7,2,Javier Alberola Rojas
+2025-09-28,Barcelona,Sociedad,1,2,12,1,A Hernández Hernández
+2025-09-28,Elche,Celta,3,3,7,2,G Cuadra Fernández
+2025-09-27,Getafe,Levante,4,3,6,2,M Busquets Ferrer
+2025-09-26,Girona,Espanol,0,1,8,4,F Hernández Maeso
+2025-09-27,Mallorca,Alaves,2,3,4,8,A Cordero Vega
+2025-09-28,Vallecano,Sevilla,4,2,12,4,J Gil Manzano
+2025-09-28,Betis,Osasuna,0,1,5,5,V García Verdura
+2025-09-30,Valencia,Real Oviedo,1,5,5,4,R De Burgos Bengoetxea
+2025-09-27,Villarreal,Ath Bilbao,2,0,6,5,M Sesma Espinosa
+2025-10-04,Ath Bilbao,Mallorca,4,7,7,2,A Quintero González
+2025-10-05,Celta,Ath Madrid,1,4,6,3,C Soto Grado
+2025-10-05,Alaves,Elche,3,2,14,4,M Ortiz Arias
+2025-10-05,Espanol,Betis,2,6,10,5,I Galech Apezteguía
+2025-10-04,Girona,Valencia,6,1,0,7,I Díaz de Mera Escuderos
+2025-10-03,Osasuna,Getafe,1,4,1,6,Javier Alberola Rojas
+2025-10-04,Real Madrid,Villarreal,2,5,4,0,G Cuadra Fernández
+2025-10-04,Real Oviedo,Levante,2,2,9,3,J Munuera Montero
+2025-10-05,Sociedad,Vallecano,1,2,7,5,J Guzmán Mansilla
+2025-10-05,Sevilla,Barcelona,7,5,7,6,A Muñíz Ruiz
+2025-10-18,Ath Madrid,Osasuna,1,3,4,2,R De Burgos Bengoetxea
+2025-10-18,Barcelona,Girona,2,2,11,5,J Gil Manzano
+2025-10-19,Celta,Sociedad,5,3,1,10,J Martínez Munuera
+2025-10-20,Alaves,Valencia,1,2,7,0,I Galech Apezteguía
+2025-10-19,Elche,Ath Bilbao,2,3,6,2,J Guzmán Mansilla
+2025-10-19,Getafe,Real Madrid,6,1,1,4,J Munuera Montero
+2025-10-19,Levante,Vallecano,0,1,11,4,M Sesma Espinosa
+2025-10-17,Real Oviedo,Espanol,2,1,3,5,M Busquets Ferrer
+2025-10-18,Sevilla,Mallorca,2,1,9,2,V García Verdura
+2025-10-18,Villarreal,Betis,1,1,5,6,F Hernández Maeso
+2025-10-25,Ath Bilbao,Getafe,2,3,1,5,I Díaz de Mera Escuderos
+2025-10-25,Espanol,Elche,4,2,4,2,R De Burgos Bengoetxea
+2025-10-25,Girona,Real Oviedo,4,3,11,4,A Muñíz Ruiz
+2025-10-26,Mallorca,Levante,3,2,5,4,M Ortiz Arias
+2025-10-26,Osasuna,Celta,3,4,5,2,A Hernández Hernández
+2025-10-26,Vallecano,Alaves,1,3,7,5,V García Verdura
+2025-10-27,Betis,Ath Madrid,2,1,2,5,J Martínez Munuera
+2025-10-26,Real Madrid,Barcelona,6,6,12,4,C Soto Grado
+2025-10-24,Sociedad,Sevilla,1,3,1,9,A Cordero Vega
+2025-10-25,Valencia,Villarreal,2,4,7,5,Javier Alberola Rojas
+2025-11-01,Ath Madrid,Sevilla,0,3,9,4,F Hernández Maeso
+2025-11-02,Barcelona,Elche,0,1,6,3,M Sesma Espinosa
+2025-11-02,Alaves,Espanol,5,2,1,6,G Cuadra Fernández
+2025-10-31,Getafe,Girona,1,2,8,3,J Sánchez Martínez
+2025-11-02,Levante,Celta,3,3,4,4,A Quintero González
+2025-11-02,Betis,Mallorca,0,3,4,5,J Gil Manzano
+2025-11-01,Real Madrid,Valencia,1,1,7,1,M Busquets Ferrer
+2025-11-03,Real Oviedo,Osasuna,3,1,4,2,J Guzmán Mansilla
+2025-11-01,Sociedad,Ath Bilbao,2,3,6,2,J Munuera Montero
+2025-11-01,Villarreal,Vallecano,1,1,3,5,I Galech Apezteguía
+2025-11-09,Ath Bilbao,Real Oviedo,1,1,7,4,C Soto Grado
+2025-11-08,Ath Madrid,Levante,3,1,21,4,J Gil Manzano
+2025-11-09,Celta,Barcelona,1,6,2,5,Javier Alberola Rojas
+2025-11-07,Elche,Sociedad,1,3,1,3,I Díaz de Mera Escuderos
+2025-11-08,Espanol,Villarreal,0,2,4,2,A Hernández Hernández
+2025-11-08,Girona,Alaves,0,3,6,1,A Cordero Vega
+2025-11-09,Mallorca,Getafe,0,2,1,14,R De Burgos Bengoetxea
+2025-11-09,Vallecano,Real Madrid,3,2,5,8,J Martínez Munuera
+2025-11-08,Sevilla,Osasuna,5,3,5,6,M Ortiz Arias
+2025-11-09,Valencia,Betis,4,4,7,2,V García Verdura
+2025-11-22,Barcelona,Ath Bilbao,0,3,5,7,J Sánchez Martínez
+2025-11-22,Alaves,Celta,2,2,4,2,J Martínez Munuera
+2025-11-23,Elche,Real Madrid,5,1,2,8,F Hernández Maeso
+2025-11-24,Espanol,Sevilla,4,1,4,13,M Sesma Espinosa
+2025-11-23,Getafe,Ath Madrid,2,3,6,7,G Cuadra Fernández
+2025-11-22,Osasuna,Sociedad,4,2,3,3,M Busquets Ferrer
+2025-11-23,Betis,Girona,4,4,8,0,I Galech Apezteguía
+2025-11-23,Real Oviedo,Vallecano,2,3,5,6,A Quintero González
+2025-11-21,Valencia,Levante,4,4,7,0,A Muñíz Ruiz
+2025-11-22,Villarreal,Mallorca,2,2,3,1,J Guzmán Mansilla
+2025-11-29,Ath Madrid,Real Oviedo,0,1,7,2,V García Verdura
+2025-11-29,Barcelona,Alaves,2,3,5,4,M Ortiz Arias
+2025-11-30,Celta,Espanol,1,2,4,3,I Díaz de Mera Escuderos
+2025-11-28,Getafe,Elche,2,2,3,5,A Hernández Hernández
+2025-11-30,Girona,Real Madrid,3,0,2,5,R De Burgos Bengoetxea
+2025-11-29,Levante,Ath Bilbao,3,2,4,2,A Cordero Vega
+2025-11-29,Mallorca,Osasuna,3,4,2,8,J Gil Manzano
+2025-12-01,Vallecano,Valencia,1,1,10,5,Javier Alberola Rojas
+2025-11-30,Sociedad,Villarreal,4,8,8,2,C Soto Grado
+2025-11-30,Sevilla,Betis,3,3,6,4,J Munuera Montero
+2025-12-06,Ath Bilbao,Ath Madrid,3,2,5,6,A Muñíz Ruiz
+2025-12-06,Alaves,Sociedad,2,2,5,8,Javier Alberola Rojas
+2025-12-07,Elche,Girona,0,3,2,2,M Sesma Espinosa
+2025-12-07,Espanol,Vallecano,5,9,6,2,J Sánchez Martínez
+2025-12-08,Osasuna,Levante,2,2,3,3,J Guzmán Mansilla
+2025-12-06,Betis,Barcelona,4,2,7,7,F Hernández Maeso
+2025-12-07,Real Madrid,Celta,9,1,8,1,A Quintero González
+2025-12-05,Real Oviedo,Mallorca,4,1,8,5,I Galech Apezteguía
+2025-12-07,Valencia,Sevilla,3,6,2,2,G Cuadra Fernández
+2025-12-06,Villarreal,Getafe,2,5,5,3,M Busquets Ferrer
+2025-12-13,Ath Madrid,Valencia,3,1,5,7,C Soto Grado
+2025-12-13,Barcelona,Osasuna,0,3,14,1,A Cordero Vega
+2025-12-14,Celta,Ath Bilbao,3,2,1,4,A Hernández Hernández
+2025-12-14,Alaves,Real Madrid,3,1,5,7,V García Verdura
+2025-12-13,Getafe,Espanol,5,1,6,4,J Gil Manzano
+2026-02-18,Levante,Villarreal,3,4,3,2,J Martínez Munuera
+2025-12-13,Mallorca,Elche,3,0,1,1,J Munuera Montero
+2025-12-15,Vallecano,Betis,4,1,8,3,R De Burgos Bengoetxea
+2025-12-12,Sociedad,Girona,1,2,4,3,M Ortiz Arias
+2025-12-14,Sevilla,Real Oviedo,1,3,5,3,I Díaz de Mera Escuderos
+2025-12-22,Ath Bilbao,Espanol,5,2,8,4,M Busquets Ferrer
+2025-12-21,Elche,Vallecano,3,2,4,5,A Cordero Vega
+2025-12-21,Girona,Ath Madrid,2,0,3,4,J Guzmán Mansilla
+2025-12-20,Levante,Sociedad,6,2,7,10,G Cuadra Fernández
+2025-12-20,Osasuna,Alaves,2,2,9,0,C Soto Grado
+2025-12-21,Betis,Getafe,0,1,7,5,M Sesma Espinosa
+2025-12-20,Real Madrid,Sevilla,2,7,6,5,A Muñíz Ruiz
+2025-12-20,Real Oviedo,Celta,2,1,4,3,F Hernández Maeso
+2025-12-19,Valencia,Mallorca,2,3,12,3,A Quintero González
+2025-12-21,Villarreal,Barcelona,2,1,5,10,Javier Alberola Rojas
+2026-01-03,Celta,Valencia,1,3,2,4,R De Burgos Bengoetxea
+2026-01-04,Alaves,Real Oviedo,4,4,6,7,J Gil Manzano
+2026-01-03,Elche,Villarreal,3,3,6,2,I Díaz de Mera Escuderos
+2026-01-03,Espanol,Barcelona,1,0,5,7,V García Verdura
+2026-01-04,Mallorca,Girona,2,1,3,6,Javier Alberola Rojas
+2026-01-03,Osasuna,Ath Bilbao,3,3,1,9,J Munuera Montero
+2026-01-02,Vallecano,Getafe,3,4,3,2,M Ortiz Arias
+2026-01-04,Real Madrid,Betis,1,1,5,8,A Hernández Hernández
+2026-01-04,Sociedad,Ath Madrid,3,2,6,6,J Martínez Munuera
+2026-01-04,Sevilla,Levante,3,4,5,1,I Galech Apezteguía
+2025-12-03,Ath Bilbao,Real Madrid,2,0,5,7,J Gil Manzano
+2025-12-02,Barcelona,Ath Madrid,1,1,5,4,R De Burgos Bengoetxea
+2026-01-09,Getafe,Sociedad,2,1,2,4,F Hernández Maeso
+2026-01-10,Girona,Osasuna,3,6,2,1,A Hernández Hernández
+2026-01-11,Levante,Espanol,0,1,4,3,C Soto Grado
+2026-01-11,Vallecano,Mallorca,2,5,6,5,J Martínez Munuera
+2026-01-10,Real Oviedo,Betis,3,1,5,2,G Cuadra Fernández
+2026-01-12,Sevilla,Celta,3,3,6,1,J Sánchez Martínez
+2026-01-10,Valencia,Elche,2,3,8,6,M Ortiz Arias
+2026-01-10,Villarreal,Alaves,0,2,1,6,A Muñíz Ruiz
+2026-01-18,Ath Madrid,Alaves,1,1,6,6,G Cuadra Fernández
+2026-01-18,Celta,Vallecano,4,4,5,7,M Busquets Ferrer
+2026-01-19,Elche,Sevilla,3,1,9,7,R De Burgos Bengoetxea
+2026-01-16,Espanol,Girona,5,5,5,4,I Galech Apezteguía
+2026-01-18,Getafe,Valencia,2,4,9,3,I Díaz de Mera Escuderos
+2026-01-17,Mallorca,Ath Bilbao,1,7,3,7,J Guzmán Mansilla
+2026-01-17,Osasuna,Real Oviedo,2,4,3,6,A Quintero González
+2026-01-17,Betis,Villarreal,3,3,2,3,V García Verdura
+2026-01-17,Real Madrid,Levante,2,1,8,0,M Sesma Espinosa
+2026-01-18,Sociedad,Barcelona,4,4,6,8,J Gil Manzano
+2026-01-25,Ath Madrid,Mallorca,2,1,10,3,J Sánchez Martínez
+2026-01-25,Barcelona,Real Oviedo,1,2,10,1,J Martínez Munuera
+2026-01-25,Alaves,Betis,1,1,6,4,M Ortiz Arias
+2026-01-26,Girona,Getafe,5,3,3,4,A Quintero González
+2026-01-23,Levante,Elche,2,3,9,1,J Munuera Montero
+2026-01-24,Vallecano,Osasuna,2,2,4,3,M Sesma Espinosa
+2026-01-25,Sociedad,Celta,2,1,2,9,Javier Alberola Rojas
+2026-01-24,Sevilla,Ath Bilbao,2,1,5,5,F Hernández Maeso
+2026-01-24,Valencia,Espanol,1,5,2,7,A Hernández Hernández
+2026-01-24,Villarreal,Real Madrid,3,1,6,6,C Soto Grado
+2026-02-01,Ath Bilbao,Sociedad,4,3,6,3,G Cuadra Fernández
+2026-01-31,Elche,Barcelona,2,1,2,8,A Muñíz Ruiz
+2026-01-30,Espanol,Alaves,0,1,4,2,M Sesma Espinosa
+2026-02-01,Getafe,Celta,1,2,5,3,I Galech Apezteguía
+2026-01-31,Levante,Ath Madrid,2,1,4,7,V García Verdura
+2026-02-02,Mallorca,Sevilla,1,1,4,8,C Soto Grado
+2026-01-31,Osasuna,Villarreal,2,2,6,2,R De Burgos Bengoetxea
+2026-02-01,Betis,Valencia,0,4,3,5,J Sánchez Martínez
+2026-02-01,Real Madrid,Vallecano,2,10,9,4,I Díaz de Mera Escuderos
+2026-01-31,Real Oviedo,Girona,1,1,4,4,Javier Alberola Rojas
+2026-02-08,Ath Bilbao,Levante,2,2,4,3,A Muñíz Ruiz
+2026-02-08,Ath Madrid,Betis,3,1,7,3,M Busquets Ferrer
+2026-02-07,Barcelona,Mallorca,0,0,12,3,A Quintero González
+2026-02-06,Celta,Osasuna,2,2,7,3,J Munuera Montero
+2026-02-08,Alaves,Getafe,2,4,6,3,J Martínez Munuera
+2026-03-04,Vallecano,Real Oviedo,1,2,12,2,A Hernández Hernández
+2026-02-07,Sociedad,Elche,0,4,2,4,J Guzmán Mansilla
+2026-02-08,Sevilla,Girona,3,3,5,7,J Gil Manzano
+2026-02-08,Valencia,Real Madrid,1,1,5,8,Javier Alberola Rojas
+2026-02-09,Villarreal,Espanol,3,3,5,8,A Cordero Vega
+2026-02-13,Elche,Osasuna,2,4,10,3,J Sánchez Martínez
+2026-02-14,Espanol,Celta,1,0,2,2,G Cuadra Fernández
+2026-02-14,Getafe,Villarreal,2,3,3,4,M Sesma Espinosa
+2026-02-16,Girona,Barcelona,2,3,3,7,C Soto Grado
+2026-02-15,Levante,Valencia,4,2,3,2,M Ortiz Arias
+2026-02-15,Mallorca,Betis,4,3,7,3,I Díaz de Mera Escuderos
+2026-02-15,Vallecano,Ath Madrid,1,3,4,8,R De Burgos Bengoetxea
+2026-02-14,Real Madrid,Sociedad,1,1,4,6,F Hernández Maeso
+2026-02-15,Real Oviedo,Ath Bilbao,2,3,2,3,M Busquets Ferrer
+2026-02-14,Sevilla,Alaves,7,0,0,3,I Galech Apezteguía
+2026-02-20,Ath Bilbao,Elche,3,4,4,1,A Hernández Hernández
+2026-02-21,Ath Madrid,Espanol,0,1,5,3,A Muñíz Ruiz
+2026-02-22,Barcelona,Levante,2,1,13,6,Javier Alberola Rojas
+2026-02-22,Celta,Mallorca,1,5,7,2,J Guzmán Mansilla
+2026-02-23,Alaves,Girona,2,2,7,6,A Cordero Vega
+2026-02-22,Getafe,Sevilla,2,1,2,2,M Busquets Ferrer
+2026-02-21,Osasuna,Real Madrid,2,4,3,7,A Quintero González
+2026-02-21,Betis,Vallecano,4,3,3,5,J Martínez Munuera
+2026-02-21,Sociedad,Real Oviedo,2,1,7,6,J Munuera Montero
+2026-02-22,Villarreal,Valencia,2,4,5,4,J Gil Manzano
+2026-02-28,Barcelona,Villarreal,2,1,3,2,I Díaz de Mera Escuderos
+2026-03-01,Elche,Espanol,1,7,3,1,I Galech Apezteguía
+2026-03-01,Girona,Celta,2,2,10,6,M Ortiz Arias
+2026-02-27,Levante,Alaves,1,7,10,6,F Hernández Maeso
+2026-02-28,Mallorca,Sociedad,0,2,3,7,M Sesma Espinosa
+2026-02-28,Vallecano,Ath Bilbao,2,3,5,4,V García Verdura
+2026-03-01,Betis,Sevilla,3,3,4,3,R De Burgos Bengoetxea
+2026-03-02,Real Madrid,Getafe,5,7,10,2,A Muñíz Ruiz
+2026-02-28,Real Oviedo,Ath Madrid,2,2,8,3,C Soto Grado
+2026-03-01,Valencia,Osasuna,2,4,5,4,A Cordero Vega
+2026-03-07,Ath Bilbao,Barcelona,2,1,2,4,J Munuera Montero
+2026-03-07,Ath Madrid,Sociedad,1,1,8,1,A Cordero Vega
+2026-03-06,Celta,Real Madrid,1,2,1,6,I Díaz de Mera Escuderos
+2026-03-09,Espanol,Real Oviedo,3,2,8,0,Javier Alberola Rojas
+2026-03-08,Getafe,Betis,3,2,3,8,F Hernández Maeso
+2026-03-07,Levante,Girona,3,2,2,3,G Cuadra Fernández
+2026-03-07,Osasuna,Mallorca,3,6,8,0,A Hernández Hernández
+2026-03-08,Sevilla,Vallecano,1,3,6,2,A Muñíz Ruiz
+2026-03-08,Valencia,Alaves,1,8,10,2,J Guzmán Mansilla
+2026-03-08,Villarreal,Elche,1,2,4,6,V García Verdura
+2026-03-14,Ath Madrid,Getafe,3,4,10,3,M Ortiz Arias
+2026-03-15,Barcelona,Sevilla,0,1,3,4,J Martínez Munuera
+2026-03-13,Alaves,Villarreal,4,1,5,2,A Quintero González
+2026-03-14,Girona,Ath Bilbao,0,2,2,9,I Galech Apezteguía
+2026-03-15,Mallorca,Espanol,3,4,5,6,R De Burgos Bengoetxea
+2026-03-16,Vallecano,Levante,4,5,5,6,C Soto Grado
+2026-03-15,Betis,Celta,3,3,3,4,J Sánchez Martínez
+2026-03-14,Real Madrid,Elche,1,3,5,4,J Gil Manzano
+2026-03-14,Real Oviedo,Valencia,3,2,4,7,M Sesma Espinosa
+2026-03-15,Sociedad,Osasuna,3,0,3,5,G Cuadra Fernández
+2026-03-22,Ath Bilbao,Betis,1,1,6,5,A Muñíz Ruiz
+2026-03-22,Barcelona,Vallecano,3,4,6,9,A Cordero Vega
+2026-03-22,Celta,Alaves,2,2,4,1,M Sesma Espinosa
+2026-03-21,Elche,Mallorca,2,3,2,2,Javier Alberola Rojas
+2026-03-21,Espanol,Getafe,2,7,12,9,I Díaz de Mera Escuderos
+2026-03-21,Levante,Real Oviedo,2,3,3,1,J Gil Manzano
+2026-03-21,Osasuna,Girona,2,1,6,2,J Guzmán Mansilla
+2026-03-22,Real Madrid,Ath Madrid,2,4,4,1,J Munuera Montero
+2026-03-21,Sevilla,Valencia,2,1,1,3,V García Verdura
+2026-03-20,Villarreal,Sociedad,0,2,4,5,M Ortiz Arias
+2026-04-04,Ath Madrid,Barcelona,7,3,1,9,M Busquets Ferrer
+2026-04-05,Alaves,Osasuna,2,7,7,1,C Soto Grado
+2026-04-05,Getafe,Ath Bilbao,3,1,4,3,J Martínez Munuera
+2026-04-06,Girona,Villarreal,2,2,7,4,A Cordero Vega
+2026-04-04,Mallorca,Real Madrid,4,2,6,4,J Sánchez Martínez
+2026-04-03,Vallecano,Elche,0,5,9,4,J Munuera Montero
+2026-04-04,Betis,Espanol,1,3,4,3,G Cuadra Fernández
+2026-04-05,Real Oviedo,Sevilla,5,4,5,9,A Hernández Hernández
+2026-04-04,Sociedad,Levante,2,3,11,5,A Muñíz Ruiz
+2026-04-05,Valencia,Celta,1,3,6,0,I Galech Apezteguía
+2026-04-12,Ath Bilbao,Villarreal,2,3,15,3,J Guzmán Mansilla
+2026-04-11,Barcelona,Espanol,3,6,7,5,A Hernández Hernández
+2026-04-12,Celta,Real Oviedo,1,2,4,1,M Ortiz Arias
+2026-04-11,Elche,Valencia,1,1,5,9,F Hernández Maeso
+2026-04-13,Levante,Getafe,2,7,8,2,A Quintero González
+2026-04-12,Mallorca,Vallecano,1,4,6,7,J Gil Manzano
+2026-04-12,Osasuna,Betis,3,4,6,3,M Sesma Espinosa
+2026-04-10,Real Madrid,Girona,2,1,10,1,Javier Alberola Rojas
+2026-04-11,Sociedad,Alaves,3,4,9,5,V García Verdura
+2026-04-11,Sevilla,Ath Madrid,4,4,6,6,I Díaz de Mera Escuderos
+2026-04-25,Ath Madrid,Ath Bilbao,0,0,3,4,J Gil Manzano
+2026-04-25,Alaves,Mallorca,2,1,9,4,Javier Alberola Rojas
+2026-04-27,Espanol,Levante,4,3,4,4,M Busquets Ferrer
+2026-04-25,Getafe,Barcelona,2,2,6,3,F Hernández Maeso
+2026-04-26,Osasuna,Sevilla,2,2,4,4,M Ortiz Arias
+2026-04-26,Vallecano,Sociedad,7,4,6,4,J Guzmán Mansilla
+2026-04-24,Betis,Real Madrid,1,2,7,6,C Soto Grado
+2026-04-26,Real Oviedo,Elche,2,1,6,1,J Sánchez Martínez
+2026-04-25,Valencia,Girona,2,2,4,4,A Muñíz Ruiz
+2026-04-26,Villarreal,Celta,3,6,7,5,A Quintero González
+2026-04-21,Ath Bilbao,Osasuna,4,2,5,4,V García Verdura
+2026-04-22,Barcelona,Celta,1,1,5,3,J Munuera Montero
+2026-04-22,Elche,Ath Madrid,2,4,13,3,G Cuadra Fernández
+2026-04-21,Girona,Betis,1,3,3,1,I Galech Apezteguía
+2026-04-23,Levante,Sevilla,3,4,3,6,J Sánchez Martínez
+2026-04-21,Mallorca,Valencia,0,2,7,4,C Soto Grado
+2026-04-23,Vallecano,Espanol,2,4,6,5,A Cordero Vega
+2026-04-21,Real Madrid,Alaves,1,1,9,6,J Martínez Munuera
+2026-04-23,Real Oviedo,Villarreal,1,1,7,0,R De Burgos Bengoetxea
+2026-04-22,Sociedad,Getafe,4,5,6,3,M Busquets Ferrer
+2026-05-03,Celta,Elche,2,1,4,2,R De Burgos Bengoetxea
+2026-05-02,Alaves,Ath Bilbao,4,3,4,7,A Quintero González
+2026-05-03,Espanol,Real Madrid,3,4,5,6,J Gil Manzano
+2026-05-03,Getafe,Vallecano,3,5,4,1,M Sesma Espinosa
+2026-05-01,Girona,Mallorca,4,2,5,2,F Hernández Maeso
+2026-05-02,Osasuna,Barcelona,2,2,3,7,I Díaz de Mera Escuderos
+2026-05-03,Betis,Real Oviedo,0,0,5,4,A Cordero Vega
+2026-05-04,Sevilla,Sociedad,2,1,3,3,J Martínez Munuera
+2026-05-02,Valencia,Ath Madrid,1,3,1,7,J Munuera Montero
+2026-05-02,Villarreal,Levante,3,1,7,3,A Hernández Hernández
+2026-05-10,Ath Bilbao,Valencia,2,3,13,5,M Ortiz Arias
+2026-05-09,Ath Madrid,Celta,1,2,10,0,I Galech Apezteguía
+2026-05-10,Barcelona,Real Madrid,2,4,4,8,A Hernández Hernández
+2026-05-09,Elche,Alaves,3,6,7,3,M Busquets Ferrer
+2026-05-08,Levante,Osasuna,2,1,15,1,J Munuera Montero
+2026-05-10,Mallorca,Villarreal,2,0,5,4,V García Verdura
+2026-05-11,Vallecano,Girona,1,1,9,5,G Cuadra Fernández
+2026-05-10,Real Oviedo,Getafe,4,3,1,9,C Soto Grado
+2026-05-09,Sociedad,Betis,2,4,4,3,A Muñíz Ruiz
+2026-05-09,Sevilla,Espanol,5,5,4,6,Javier Alberola Rojas
+2026-05-12,Celta,Levante,0,2,4,4,A Cordero Vega
+2026-05-13,Alaves,Barcelona,1,2,6,4,J Sánchez Martínez
+2026-05-13,Espanol,Ath Bilbao,0,0,8,9,F Hernández Maeso
+2026-05-13,Getafe,Mallorca,3,4,3,3,J Martínez Munuera
+2026-05-14,Girona,Sociedad,2,7,6,3,M Sesma Espinosa
+2026-05-12,Osasuna,Ath Madrid,6,6,8,4,J Guzmán Mansilla
+2026-05-12,Betis,Elche,3,4,8,1,I Díaz de Mera Escuderos
+2026-05-14,Real Madrid,Real Oviedo,0,0,4,5,R De Burgos Bengoetxea
+2026-05-14,Valencia,Vallecano,1,1,5,1,A Quintero González
+2026-05-13,Villarreal,Sevilla,2,1,6,4,M Busquets Ferrer
+2026-05-17,Ath Bilbao,Celta,2,2,5,0,I Díaz de Mera Escuderos
+2026-05-17,Ath Madrid,Girona,2,0,9,8,A Muñíz Ruiz
+2026-05-17,Barcelona,Betis,1,0,6,4,G Cuadra Fernández
+2026-05-17,Elche,Getafe,3,2,4,0,V García Verdura
+2026-05-17,Levante,Mallorca,3,2,4,6,Javier Alberola Rojas
+2026-05-17,Osasuna,Espanol,1,2,9,2,M Ortiz Arias
+2026-05-17,Vallecano,Villarreal,2,1,1,9,R De Burgos Bengoetxea
+2026-05-17,Real Oviedo,Alaves,3,1,5,2,J Munuera Montero
+2026-05-17,Sociedad,Valencia,4,1,3,2,I Galech Apezteguía
+2026-05-17,Sevilla,Real Madrid,4,0,4,4,J Sánchez Martínez
+2026-05-23,Celta,Sevilla,1,1,4,3,F Hernández Maeso
+2026-05-23,Alaves,Vallecano,3,3,10,5,J Gil Manzano
+2026-05-23,Espanol,Sociedad,1,3,3,5,J Munuera Montero
+2026-05-23,Getafe,Osasuna,1,2,2,4,A Quintero González
+2026-05-23,Girona,Elche,4,4,2,1,A Hernández Hernández
+2026-05-23,Mallorca,Real Oviedo,2,1,5,5,J Sánchez Martínez
+2026-05-23,Betis,Levante,1,2,4,8,M Busquets Ferrer
+2026-05-23,Real Madrid,Ath Bilbao,2,0,2,1,J Martínez Munuera
+2026-05-23,Valencia,Barcelona,2,2,7,8,A Cordero Vega
+2026-05-24,Villarreal,Ath Madrid,0,1,5,9,M Sesma Espinosa
+2026-09-03,Sociedad,Celta,2,3,11,3,V García Verdura
+2026-09-11,Sevilla,Valencia,1,2,6,4,M Busquets Ferrer
+2026-09-12,Real Madrid,Vallecano,0,1,11,5,V García Verdura
+2026-09-12,Racing Santander,Alaves,3,3,4,6,Javier Alberola Rojas
+2026-09-12,Osasuna,Espanol,2,3,3,4,L Bestard Servera
+2026-09-12,Ath Bilbao,Elche,3,3,7,1,M Orellana Cid
+2026-09-05,Villarreal,Deportivo A Coruña,2,2,7,1,J Gil Manzano
+2026-09-06,Valencia,Barcelona,1,3,1,4,I Díaz de Mera Escuderos
+2026-09-05,Vallecano,Racing Santander,5,2,9,6,A Quintero González
+2026-09-06,Málaga,Levante,4,2,6,4,L Bestard Servera
+2026-09-07,Getafe,Celta,5,2,3,5,C Soto Grado
+2026-09-06,Espanol,Sevilla,2,4,0,4,M Sesma Espinosa
+2026-09-07,Elche,Sociedad,4,2,6,7,M Ortiz Arias
+2026-09-04,Betis,Real Madrid,3,4,6,10,A Hernández Hernández
+2026-09-05,Ath Bilbao,Ath Madrid,0,1,3,8,J Munuera Montero
+2026-09-06,Alaves,Osasuna,1,2,4,1,J Sánchez Martínez
+2026-08-29,Sevilla,Ath Madrid,2,2,4,2,Javier Alberola Rojas
+2026-08-29,Sociedad,Espanol,2,4,7,3,M Orellana Cid
+2026-08-30,Real Madrid,Málaga,0,2,9,6,J Martínez Munuera
+2026-08-28,Racing Santander,Elche,2,1,5,10,C Muñiz Muñoz
+2026-08-31,Osasuna,Getafe,5,4,1,3,J González Esteban
+2026-08-29,Levante,Betis,1,1,5,8,R De Burgos Bengoetxea
+2026-08-31,Barcelona,Vallecano,0,1,9,5,F Hernández Maeso
+2026-08-30,Deportivo A Coruña,Valencia,3,1,5,5,M Ortiz Arias
+2026-08-30,Celta,Ath Bilbao,0,3,4,7,M Busquets Ferrer
+2026-08-28,Alaves,Villarreal,3,1,5,9,I Díaz de Mera Escuderos
+2026-08-22,Valencia,Celta,2,3,1,2,J Gil Manzano
+2026-08-20,Vallecano,Alaves,1,2,9,7,J Munuera Montero
+2026-08-24,Osasuna,Levante,2,1,9,4,V García Verdura
+2026-08-24,Málaga,Deportivo A Coruña,1,4,7,4,Javier Alberola Rojas
+2026-08-23,Getafe,Racing Santander,1,3,8,6,J Martínez Munuera
+2026-08-22,Espanol,Real Madrid,5,1,0,8,J Sánchez Martínez
+2026-08-23,Elche,Barcelona,1,0,3,1,A Quintero González
+2026-08-21,Betis,Sociedad,3,3,4,5,I Díaz de Mera Escuderos
+2026-08-23,Ath Madrid,Villarreal,4,2,5,3,A Hernández Hernández
+2026-08-22,Ath Bilbao,Sevilla,3,4,10,3,C Soto Grado
+2026-08-25,Valencia,Betis,2,1,8,2,J González Esteban
+2026-08-15,Sevilla,Vallecano,5,4,1,2,R De Burgos Bengoetxea
+2026-08-26,Real Madrid,Sociedad,3,3,4,7,M Busquets Ferrer
+2026-08-16,Racing Santander,Villarreal,2,4,6,10,M Sesma Espinosa
+2026-08-27,Barcelona,Ath Bilbao,1,2,12,5,M Ortiz Arias
+2026-08-16,Espanol,Levante,3,0,0,1,C Muñiz Muñoz
+2026-08-17,Deportivo A Coruña,Elche,2,2,2,6,F Hernández Maeso
+2026-08-27,Celta,Osasuna,2,1,5,3,M Sesma Espinosa
+2026-08-19,Ath Madrid,Málaga,2,3,6,1,A Cordero Vega
+2026-08-15,Alaves,Getafe,4,4,5,3,M Orellana Cid

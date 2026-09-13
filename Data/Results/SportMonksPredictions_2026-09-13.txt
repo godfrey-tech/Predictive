@@ -2,16 +2,16 @@
 
 Coventry City vs Brighton  (Referee: T Harrington)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
-Referee: T Harrington  (bias x0.93)
+Referee: T Harrington  (bias x0.94)
 
 BOOKINGS & CARDS
-Home Avg: 1.77/game  |  Away Avg: 2.18/game  |  Combined: 3.95/game
+Home Avg: 1.79/game  |  Away Avg: 2.21/game  |  Combined: 4.00/game
 Total Match Cards:
-  Over 3: 🟢80.5%   Over 4: 🟠61.4%   Over 5: 🔴37.7%   Over 6: 🔴24.9%
+  Over 3: 🟢80.7%   Over 4: 🟠61.7%   Over 5: 🔴38.0%   Over 6: 🔴25.2%
 Coventry City Cards:
-  Over 1: 🟢84.0%   Over 2: 🟠58.2%   Over 3: 🔴33.4%
+  Over 1: 🟢84.2%   Over 2: 🟠58.5%   Over 3: 🔴33.6%
 Brighton Cards:
-  Over 1: 🟢86.5%   Over 2: 🟡65.0%   Over 3: 🔴39.5%
+  Over 1: 🟢86.6%   Over 2: 🟡65.3%   Over 3: 🔴39.8%
 
 CORNERS
 Home Avg: 4.50/game  |  Away Avg: 4.90/game  |  Combined: 9.40/game
@@ -20,16 +20,16 @@ Home Avg: 4.50/game  |  Away Avg: 4.90/game  |  Combined: 9.40/game
 
 Man United vs Man City  (Referee: M Oliver)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
-Referee: M Oliver  (bias x0.92)
+Referee: M Oliver  (bias x0.94)
 
 BOOKINGS & CARDS
-Home Avg: 1.43/game  |  Away Avg: 1.62/game  |  Combined: 3.05/game  |  H2H Avg: 2.39/game (10 matches)
+Home Avg: 1.46/game  |  Away Avg: 1.66/game  |  Combined: 3.12/game  |  H2H Avg: 2.45/game (10 matches)
 Total Match Cards:
-  Over 3: 🟡72.7%   Over 4: 🟠58.8%   Over 5: 🔴37.2%   Over 6: 🔴17.6%
+  Over 3: 🟡73.1%   Over 4: 🟠59.3%   Over 5: 🔴37.7%   Over 6: 🔴18.0%
 Man United Cards:
-  Over 1: 🟢86.3%   Over 2: 🟠53.4%   Over 3: 🔴10.3%
+  Over 1: 🟢86.6%   Over 2: 🟠54.0%   Over 3: 🔴10.5%
 Man City Cards:
-  Over 1: 🟢84.6%   Over 2: 🟠53.4%   Over 3: 🔴23.8%
+  Over 1: 🟢84.9%   Over 2: 🟠54.0%   Over 3: 🔴24.3%
 
 CORNERS
 Home Avg: 4.62/game  |  Away Avg: 6.17/game  |  Combined: 10.79/game  |  H2H Avg: 9.30/game (10 matches)
@@ -40,15 +40,16 @@ Home Avg: 4.62/game  |  Away Avg: 6.17/game  |  Combined: 10.79/game  |  H2H Avg
 
 RB Leipzig vs Hamburg  (Referee: F Badstübner)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: F Badstübner  (bias x0.70)
 
 BOOKINGS & CARDS
-Home Avg: 1.53/game  |  Away Avg: 2.50/game  |  Combined: 4.03/game
+Home Avg: 1.07/game  |  Away Avg: 1.76/game  |  Combined: 2.83/game
 Total Match Cards:
-  Over 3: 🟢75.8%   Over 4: 🟠56.1%   Over 5: 🔴39.4%   Over 6: 🔴25.8%
+  Over 3: 🟡68.7%   Over 4: 🔴47.3%   Over 5: 🔴31.3%   Over 6: 🔴19.6%
 RB Leipzig Cards:
-  Over 1: 🟢85.3%   Over 2: 🔴41.2%   Over 3: 🔴20.6%
+  Over 1: 🟢80.3%   Over 2: 🔴33.0%   Over 3: 🔴15.4%
 Hamburg Cards:
-  Over 1: 🟢94.1%   Over 2: 🟡67.6%   Over 3: 🔴44.1%
+  Over 1: 🟢91.8%   Over 2: 🟠59.5%   Over 3: 🔴35.7%
 
 CORNERS
 Home Avg: 5.29/game  |  Away Avg: 3.68/game  |  Combined: 8.97/game
@@ -57,15 +58,16 @@ Home Avg: 5.29/game  |  Away Avg: 3.68/game  |  Combined: 8.97/game
 
 Elversberg vs Bayern Munich  (Referee: S Stegemann)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: S Stegemann  (bias x0.92)
 
 BOOKINGS & CARDS
-Home Avg: 1.90/game  |  Away Avg: 1.76/game  |  Combined: 3.66/game
+Home Avg: 1.75/game  |  Away Avg: 1.63/game  |  Combined: 3.38/game
 Total Match Cards:
-  Over 3: 🟠58.8%   Over 4: 🔴41.2%   Over 5: 🔴26.5%   Over 6: 🔴17.6%
+  Over 3: 🟠56.9%   Over 4: 🔴39.2%   Over 5: 🔴24.9%   Over 6: 🔴16.5%
 Elversberg Cards:
-  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+  Over 1: 🟢83.9%   Over 2: 🟠58.0%   Over 3: 🔴33.2%
 Bayern Munich Cards:
-  Over 1: 🟢76.5%   Over 2: 🟠50.0%   Over 3: 🔴26.5%
+  Over 1: 🟡75.0%   Over 2: 🔴48.0%   Over 3: 🔴24.9%
 
 CORNERS
 Home Avg: 4.50/game  |  Away Avg: 6.35/game  |  Combined: 10.85/game
@@ -76,15 +78,16 @@ Home Avg: 4.50/game  |  Away Avg: 6.35/game  |  Combined: 10.85/game
 
 Lille vs Troyes  (Referee: R Lissorgue)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: R Lissorgue  (bias x1.11)
 
 BOOKINGS & CARDS
-Home Avg: 2.47/game  |  Away Avg: 1.90/game  |  Combined: 4.37/game  |  H2H Avg: 4.50/game (4 matches)
+Home Avg: 2.75/game  |  Away Avg: 2.12/game  |  Combined: 4.87/game  |  H2H Avg: 5.01/game (4 matches)
 Total Match Cards:
-  Over 3: 🟢82.4%   Over 4: 🟡67.6%   Over 5: 🔴47.1%   Over 6: 🔴23.5%
+  Over 3: 🟢83.9%   Over 4: 🟡70.0%   Over 5: 🔴49.7%   Over 6: 🔴25.5%
 Lille Cards:
-  Over 1: 🟢94.1%   Over 2: 🟡67.6%   Over 3: 🟠55.9%
+  Over 1: 🟢94.7%   Over 2: 🟡70.0%   Over 3: 🟠58.5%
 Troyes Cards:
-  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+  Over 1: 🟢86.3%   Over 2: 🟠62.6%   Over 3: 🔴37.5%
 
 CORNERS
 Home Avg: 5.71/game  |  Away Avg: 4.50/game  |  Combined: 10.21/game  |  H2H Avg: 9.50/game (4 matches)
@@ -93,15 +96,16 @@ Home Avg: 5.71/game  |  Away Avg: 4.50/game  |  Combined: 10.21/game  |  H2H Avg
 
 Le Mans vs Lens  (Referee: H Ben El Hadj)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: H Ben El Hadj  (bias x1.01)
 
 BOOKINGS & CARDS
-Home Avg: 1.90/game  |  Away Avg: 2.09/game  |  Combined: 3.99/game
+Home Avg: 1.91/game  |  Away Avg: 2.10/game  |  Combined: 4.02/game
 Total Match Cards:
-  Over 3: 🟢85.3%   Over 4: 🟠61.8%   Over 5: 🔴44.1%   Over 6: 🔴26.5%
+  Over 3: 🟢85.4%   Over 4: 🟠61.9%   Over 5: 🔴44.3%   Over 6: 🔴26.6%
 Le Mans Cards:
-  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+  Over 1: 🟢85.1%   Over 2: 🟠60.2%   Over 3: 🔴35.2%
 Lens Cards:
-  Over 1: 🟢85.3%   Over 2: 🟠64.7%   Over 3: 🔴32.4%
+  Over 1: 🟢85.4%   Over 2: 🟠64.9%   Over 3: 🔴32.5%
 
 CORNERS
 Home Avg: 4.50/game  |  Away Avg: 6.24/game  |  Combined: 10.74/game
@@ -110,15 +114,16 @@ Home Avg: 4.50/game  |  Away Avg: 6.24/game  |  Combined: 10.74/game
 
 Brest vs Paris SG  (Referee: W Delajod)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: W Delajod  (bias x0.90)
 
 BOOKINGS & CARDS
-Home Avg: 1.82/game  |  Away Avg: 1.12/game  |  Combined: 2.94/game  |  H2H Avg: 4.86/game (7 matches)
+Home Avg: 1.64/game  |  Away Avg: 1.00/game  |  Combined: 2.64/game  |  H2H Avg: 4.36/game (7 matches)
 Total Match Cards:
-  Over 3: 🟠62.1%   Over 4: 🔴36.4%   Over 5: 🔴24.2%   Over 6: 🔴9.1%
+  Over 3: 🟠59.5%   Over 4: 🔴33.9%   Over 5: 🔴22.3%   Over 6: 🔴8.2%
 Brest Cards:
-  Over 1: 🟢91.2%   Over 2: 🟠55.9%   Over 3: 🔴29.4%
+  Over 1: 🟢90.3%   Over 2: 🟠53.2%   Over 3: 🔴27.2%
 Paris SG Cards:
-  Over 1: 🟡70.6%   Over 2: 🔴26.5%   Over 3: 🔴8.8%
+  Over 1: 🟡68.3%   Over 2: 🔴24.4%   Over 3: 🔴8.0%
 
 CORNERS
 Home Avg: 3.85/game  |  Away Avg: 6.35/game  |  Combined: 10.21/game  |  H2H Avg: 11.00/game (7 matches)
@@ -129,15 +134,16 @@ Home Avg: 3.85/game  |  Away Avg: 6.35/game  |  Combined: 10.21/game  |  H2H Avg
 
 Lecce vs Monza  (Referee: V Crezzini)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: V Crezzini  (bias x0.80)
 
 BOOKINGS & CARDS
-Home Avg: 1.87/game  |  Away Avg: 1.90/game  |  Combined: 3.77/game  |  H2H Avg: 6.25/game (4 matches)
+Home Avg: 1.50/game  |  Away Avg: 1.52/game  |  Combined: 3.02/game  |  H2H Avg: 5.01/game (4 matches)
 Total Match Cards:
-  Over 3: 🟡71.1%   Over 4: 🔴47.4%   Over 5: 🔴34.2%   Over 6: 🔴18.4%
+  Over 3: 🟡66.3%   Over 4: 🔴41.9%   Over 5: 🔴29.4%   Over 6: 🔴15.3%
 Lecce Cards:
-  Over 1: 🟢92.1%   Over 2: 🟠60.5%   Over 3: 🔴18.4%
+  Over 1: 🟢90.3%   Over 2: 🟠55.1%   Over 3: 🔴15.3%
 Monza Cards:
-  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+  Over 1: 🟢81.9%   Over 2: 🟠54.6%   Over 3: 🔴30.1%
 
 CORNERS
 Home Avg: 4.29/game  |  Away Avg: 4.50/game  |  Combined: 8.79/game  |  H2H Avg: 8.25/game (4 matches)
@@ -146,15 +152,16 @@ Home Avg: 4.29/game  |  Away Avg: 4.50/game  |  Combined: 8.79/game  |  H2H Avg:
 
 Napoli vs Bologna  (Referee: K Bonacina)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: K Bonacina  (bias x0.90)
 
 BOOKINGS & CARDS
-Home Avg: 1.34/game  |  Away Avg: 1.92/game  |  Combined: 3.26/game  |  H2H Avg: 4.38/game (8 matches)
+Home Avg: 1.20/game  |  Away Avg: 1.72/game  |  Combined: 2.93/game  |  H2H Avg: 3.92/game (8 matches)
 Total Match Cards:
-  Over 3: 🟡67.6%   Over 4: 🔴43.2%   Over 5: 🔴29.7%   Over 6: 🔴18.9%
+  Over 3: 🟡65.1%   Over 4: 🔴40.6%   Over 5: 🔴27.5%   Over 6: 🔴17.3%
 Napoli Cards:
-  Over 1: 🟡73.7%   Over 2: 🔴39.5%   Over 3: 🔴13.2%
+  Over 1: 🟡71.5%   Over 2: 🔴36.9%   Over 3: 🔴12.0%
 Bologna Cards:
-  Over 1: 🟢81.6%   Over 2: 🟠57.9%   Over 3: 🔴31.6%
+  Over 1: 🟢79.9%   Over 2: 🟠55.2%   Over 3: 🔴29.3%
 
 CORNERS
 Home Avg: 5.47/game  |  Away Avg: 4.47/game  |  Combined: 9.95/game  |  H2H Avg: 8.50/game (8 matches)
@@ -163,15 +170,16 @@ Home Avg: 5.47/game  |  Away Avg: 4.47/game  |  Combined: 9.95/game  |  H2H Avg:
 
 Sassuolo vs Juventus  (Referee: J Sacchi)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: J Sacchi  (bias x0.90)
 
 BOOKINGS & CARDS
-Home Avg: 2.32/game  |  Away Avg: 1.42/game  |  Combined: 3.74/game  |  H2H Avg: 3.25/game (8 matches)
+Home Avg: 2.09/game  |  Away Avg: 1.28/game  |  Combined: 3.38/game  |  H2H Avg: 2.94/game (8 matches)
 Total Match Cards:
-  Over 3: 🟢83.8%   Over 4: 🟠62.2%   Over 5: 🔴37.8%   Over 6: 🔴17.6%
+  Over 3: 🟢82.4%   Over 4: 🟠59.8%   Over 5: 🔴35.5%   Over 6: 🔴16.2%
 Sassuolo Cards:
-  Over 1: 🟢94.7%   Over 2: 🟡73.7%   Over 3: 🔴42.1%
+  Over 1: 🟢94.2%   Over 2: 🟡71.7%   Over 3: 🔴39.7%
 Juventus Cards:
-  Over 1: 🟢78.9%   Over 2: 🔴36.8%   Over 3: 🔴21.1%
+  Over 1: 🟢77.2%   Over 2: 🔴34.5%   Over 3: 🔴19.4%
 
 CORNERS
 Home Avg: 3.76/game  |  Away Avg: 5.42/game  |  Combined: 9.18/game  |  H2H Avg: 10.62/game (8 matches)
@@ -216,15 +224,16 @@ Home Avg: 4.08/game  |  Away Avg: 6.97/game  |  Combined: 11.05/game  |  H2H Avg
 
 Getafe vs Deportivo A Coruña  (Referee: R De Burgos Bengoetxea)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: R De Burgos Bengoetxea  (bias x0.82)
 
 BOOKINGS & CARDS
-Home Avg: 3.08/game  |  Away Avg: 1.90/game  |  Combined: 4.97/game
+Home Avg: 2.52/game  |  Away Avg: 1.56/game  |  Combined: 4.07/game
 Total Match Cards:
-  Over 3: 🟢89.5%   Over 4: 🟢78.9%   Over 5: 🟡65.8%   Over 6: 🔴47.4%
+  Over 3: 🟢87.4%   Over 4: 🟢75.4%   Over 5: 🟠61.2%   Over 6: 🔴42.4%
 Getafe Cards:
-  Over 1: 🟢97.5%   Over 2: 🟢87.5%   Over 3: 🟠50.0%
+  Over 1: 🟢97.0%   Over 2: 🟢85.1%   Over 3: 🔴45.0%
 Deportivo A Coruña Cards:
-  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+  Over 1: 🟢82.3%   Over 2: 🟠55.1%   Over 3: 🔴30.6%
 
 CORNERS
 Home Avg: 4.22/game  |  Away Avg: 4.50/game  |  Combined: 8.72/game
@@ -233,15 +242,16 @@ Home Avg: 4.22/game  |  Away Avg: 4.50/game  |  Combined: 8.72/game
 
 Sociedad vs Ath Madrid  (Referee: J Martínez Munuera)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: J Martínez Munuera  (bias x1.06)
 
 BOOKINGS & CARDS
-Home Avg: 2.40/game  |  Away Avg: 2.17/game  |  Combined: 4.57/game  |  H2H Avg: 5.62/game (8 matches)
+Home Avg: 2.55/game  |  Away Avg: 2.31/game  |  Combined: 4.86/game  |  H2H Avg: 5.98/game (8 matches)
 Total Match Cards:
-  Over 3: 🟢82.4%   Over 4: 🟠62.2%   Over 5: 🔴40.5%   Over 6: 🔴28.4%
+  Over 3: 🟢83.3%   Over 4: 🟠63.6%   Over 5: 🔴42.0%   Over 6: 🔴29.6%
 Sociedad Cards:
-  Over 1: 🟢97.5%   Over 2: 🟢77.5%   Over 3: 🔴35.0%
+  Over 1: 🟢97.6%   Over 2: 🟢78.5%   Over 3: 🔴36.4%
 Ath Madrid Cards:
-  Over 1: 🟢82.5%   Over 2: 🟠60.0%   Over 3: 🔴45.0%
+  Over 1: 🟢83.4%   Over 2: 🟠61.5%   Over 3: 🔴46.5%
 
 CORNERS
 Home Avg: 5.58/game  |  Away Avg: 6.47/game  |  Combined: 12.05/game  |  H2H Avg: 9.25/game (8 matches)

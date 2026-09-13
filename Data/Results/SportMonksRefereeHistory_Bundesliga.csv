@@ -1,0 +1,637 @@
+Date,HomeTeam,AwayTeam,HomeBookings,AwayBookings,HomeCorners,AwayCorners,Referee
+2024-08-23,M'gladbach,Leverkusen,1,0,2,4,R Schröder
+2024-08-24,RB Leipzig,VfL Bochum 1848,2,3,9,3,B Brand
+2024-08-24,Dortmund,Ein Frankfurt,0,1,7,7,F Zwayer
+2024-08-24,Hoffenheim,Holstein Kiel,2,4,8,6,T Stieler
+2024-08-24,Freiburg,Stuttgart,2,1,6,3,T Welz
+2024-08-24,Augsburg,Werder Bremen,3,1,4,2,S Stegemann
+2024-08-25,VfL Wolfsburg,Bayern Munich,2,3,1,7,D Siebert
+2024-08-24,Mainz,Union Berlin,1,3,8,9,H Osmers
+2024-08-25,St. Pauli,FC Heidenheim,2,3,4,2,Sven Jablonski
+2024-08-31,Leverkusen,RB Leipzig,3,1,18,2,M Jöllenbeck
+2024-08-31,Stuttgart,Mainz,4,2,11,2,T Gerach
+2024-09-01,Bayern Munich,Freiburg,1,0,2,4,C Dingert
+2024-08-31,Ein Frankfurt,Hoffenheim,0,3,1,4,F Badstübner
+2024-09-01,FC Heidenheim,Augsburg,1,4,5,6,M Petersen
+2024-08-31,Werder Bremen,Dortmund,2,8,5,6,R Hartmann
+2024-08-30,Union Berlin,St. Pauli,3,1,5,4,B Dankert
+2024-08-31,VfL Bochum 1848,M'gladbach,1,0,3,4,S Storks
+2024-08-31,Holstein Kiel,VfL Wolfsburg,4,7,1,7,F Exner
+2024-09-14,RB Leipzig,Union Berlin,2,3,6,5,Sven Jablonski
+2024-09-13,Dortmund,FC Heidenheim,2,2,8,1,R Schröder
+2024-09-14,Hoffenheim,Leverkusen,2,2,4,12,D Schlager
+2024-09-14,Freiburg,VfL Bochum 1848,0,3,5,6,D Siebert
+2024-09-15,Augsburg,St. Pauli,4,3,7,7,F Zwayer
+2024-09-14,VfL Wolfsburg,Ein Frankfurt,1,2,5,4,H Osmers
+2024-09-15,Mainz,Werder Bremen,3,2,10,4,B Brand
+2024-09-14,M'gladbach,Stuttgart,2,2,6,2,F Brych
+2024-09-14,Holstein Kiel,Bayern Munich,0,1,2,10,T Reichel
+2024-09-22,Leverkusen,VfL Wolfsburg,4,6,6,2,S Stegemann
+2024-09-22,Stuttgart,Dortmund,1,3,6,4,F Badstübner
+2024-09-21,Ein Frankfurt,M'gladbach,1,1,8,5,T Welz
+2024-09-21,FC Heidenheim,Freiburg,1,1,3,9,B Brand
+2024-09-21,Werder Bremen,Bayern Munich,0,3,1,4,B Dankert
+2024-09-20,Augsburg,Mainz,4,6,14,1,S Storks
+2024-09-21,Union Berlin,Hoffenheim,3,3,5,5,M Jöllenbeck
+2024-09-21,VfL Bochum 1848,Holstein Kiel,4,1,2,5,M Petersen
+2024-09-22,St. Pauli,RB Leipzig,2,1,3,1,R Hartmann
+2024-09-28,Bayern Munich,Leverkusen,1,3,6,1,F Zwayer
+2024-09-28,RB Leipzig,Augsburg,1,2,8,5,D Siebert
+2024-09-27,Dortmund,VfL Bochum 1848,2,0,11,0,F Brych
+2024-09-29,Hoffenheim,Werder Bremen,4,3,2,6,T Reichel
+2024-09-28,Freiburg,St. Pauli,3,3,4,2,T Gerach
+2024-09-28,VfL Wolfsburg,Stuttgart,5,3,1,3,Sven Jablonski
+2024-09-28,Mainz,FC Heidenheim,5,5,7,6,F Exner
+2024-09-28,M'gladbach,Union Berlin,3,1,2,4,D Schlager
+2024-09-29,Holstein Kiel,Ein Frankfurt,1,3,4,9,T Stieler
+2024-10-05,Leverkusen,Holstein Kiel,2,2,12,3,R Hartmann
+2024-10-06,Stuttgart,Hoffenheim,1,4,10,5,H Osmers
+2024-10-06,Ein Frankfurt,Bayern Munich,1,1,0,11,B Brand
+2024-10-06,FC Heidenheim,RB Leipzig,2,2,3,2,S Stegemann
+2024-10-05,Werder Bremen,Freiburg,1,1,7,5,T Welz
+2024-10-04,Augsburg,M'gladbach,2,4,6,5,F Badstübner
+2024-10-05,Union Berlin,Dortmund,4,4,3,3,T Reichel
+2024-10-05,VfL Bochum 1848,VfL Wolfsburg,1,2,7,6,M Burda
+2024-10-05,St. Pauli,Mainz,0,3,2,2,C Dingert
+2024-10-19,Leverkusen,Ein Frankfurt,2,1,8,3,F Brych
+2024-10-19,Bayern Munich,Stuttgart,0,2,7,3,T Stieler
+2024-10-18,Dortmund,St. Pauli,2,1,7,1,M Jöllenbeck
+2024-10-19,Hoffenheim,VfL Bochum 1848,1,1,4,2,S Storks
+2024-10-19,Freiburg,Augsburg,1,1,5,4,B Dankert
+2024-10-20,VfL Wolfsburg,Werder Bremen,2,1,4,4,D Schlager
+2024-10-19,Mainz,RB Leipzig,1,3,5,3,F Zwayer
+2024-10-19,M'gladbach,FC Heidenheim,3,3,6,3,D Siebert
+2024-10-20,Holstein Kiel,Union Berlin,2,1,7,3,T Gerach
+2024-10-26,Stuttgart,Holstein Kiel,4,7,9,5,R Hartmann
+2024-10-26,RB Leipzig,Freiburg,3,2,3,3,Sven Jablonski
+2024-10-27,FC Heidenheim,Hoffenheim,1,2,7,3,C Dingert
+2024-10-26,Werder Bremen,Leverkusen,1,1,3,5,F Badstübner
+2024-10-26,Augsburg,Dortmund,3,4,3,5,W Haslberger
+2024-10-25,Mainz,M'gladbach,3,2,2,4,M Petersen
+2024-10-27,Union Berlin,Ein Frankfurt,5,4,4,5,H Osmers
+2024-10-27,VfL Bochum 1848,Bayern Munich,1,1,2,6,F Exner
+2024-10-26,St. Pauli,VfL Wolfsburg,0,3,7,6,T Reichel
+2024-11-01,Leverkusen,Stuttgart,3,4,10,2,D Siebert
+2024-11-02,Bayern Munich,Union Berlin,0,2,7,4,M Jöllenbeck
+2024-11-02,Dortmund,RB Leipzig,3,4,4,0,T Stieler
+2024-11-02,Ein Frankfurt,VfL Bochum 1848,1,2,5,2,D Schlager
+2024-11-02,Hoffenheim,St. Pauli,0,1,7,2,S Stegemann
+2024-11-03,Freiburg,Mainz,1,2,8,4,B Brand
+2024-11-02,VfL Wolfsburg,Augsburg,1,3,8,1,F Brych
+2024-11-03,M'gladbach,Werder Bremen,1,5,7,7,B Dankert
+2024-11-02,Holstein Kiel,FC Heidenheim,4,5,5,6,F Willenborg
+2024-11-10,Stuttgart,Ein Frankfurt,2,2,8,3,F Zwayer
+2024-11-09,RB Leipzig,M'gladbach,2,2,8,4,C Dingert
+2024-11-10,FC Heidenheim,VfL Wolfsburg,1,6,5,5,H Osmers
+2024-11-09,Werder Bremen,Holstein Kiel,3,2,6,3,S Storks
+2024-11-10,Augsburg,Hoffenheim,2,3,10,6,M Petersen
+2024-11-09,Mainz,Dortmund,3,2,8,0,F Badstübner
+2024-11-08,Union Berlin,Freiburg,2,0,4,1,T Reichel
+2024-11-09,VfL Bochum 1848,Leverkusen,0,1,6,4,R Hartmann
+2024-11-09,St. Pauli,Bayern Munich,2,2,5,10,T Gerach
+2024-11-23,Leverkusen,FC Heidenheim,0,0,6,0,B Dankert
+2024-11-23,Stuttgart,VfL Bochum 1848,2,3,7,4,B Brand
+2024-11-22,Bayern Munich,Augsburg,0,3,8,0,D Schlager
+2024-11-23,Dortmund,Freiburg,1,4,7,0,F Brych
+2024-11-23,Ein Frankfurt,Werder Bremen,2,2,5,6,F Badstübner
+2024-11-23,Hoffenheim,RB Leipzig,2,1,4,3,F Willenborg
+2024-11-23,VfL Wolfsburg,Union Berlin,1,2,8,5,T Stieler
+2024-11-24,M'gladbach,St. Pauli,1,0,5,4,R Braun
+2024-11-24,Holstein Kiel,Mainz,1,0,2,6,S Stegemann
+2024-11-30,RB Leipzig,VfL Wolfsburg,2,1,7,3,M Petersen
+2024-11-30,Dortmund,Bayern Munich,2,2,2,3,Sven Jablonski
+2024-12-01,FC Heidenheim,Ein Frankfurt,0,2,6,5,F Exner
+2024-11-30,Werder Bremen,Stuttgart,1,1,11,2,H Osmers
+2024-11-30,Freiburg,M'gladbach,1,1,4,6,R Hartmann
+2024-11-30,Augsburg,VfL Bochum 1848,3,3,6,1,T Reichel
+2024-12-01,Mainz,Hoffenheim,1,3,8,3,D Siebert
+2024-11-30,Union Berlin,Leverkusen,4,2,1,3,C Dingert
+2024-11-29,St. Pauli,Holstein Kiel,2,5,4,4,F Zwayer
+2024-12-07,Leverkusen,St. Pauli,1,3,7,4,M Jöllenbeck
+2024-12-06,Stuttgart,Union Berlin,1,6,1,6,T Welz
+2024-12-07,Bayern Munich,FC Heidenheim,1,0,8,0,S Storks
+2024-12-07,Ein Frankfurt,Augsburg,2,2,4,0,B Dankert
+2024-12-08,Hoffenheim,Freiburg,1,1,6,1,Sven Jablonski
+2024-12-08,VfL Wolfsburg,Mainz,3,4,3,5,T Gerach
+2024-12-07,M'gladbach,Dortmund,4,2,7,4,T Stieler
+2024-12-07,VfL Bochum 1848,Werder Bremen,1,1,9,5,F Brych
+2024-12-07,Holstein Kiel,RB Leipzig,4,3,6,1,F Badstübner
+2024-12-15,RB Leipzig,Ein Frankfurt,1,3,6,7,B Brand
+2024-12-15,Dortmund,Hoffenheim,5,2,3,9,H Osmers
+2024-12-15,FC Heidenheim,Stuttgart,4,3,9,6,C Dingert
+2024-12-13,Freiburg,VfL Wolfsburg,4,1,5,6,S Stegemann
+2024-12-14,Augsburg,Leverkusen,3,0,4,9,F Zwayer
+2024-12-14,Mainz,Bayern Munich,3,2,3,2,F Willenborg
+2024-12-14,M'gladbach,Holstein Kiel,1,1,5,2,D Schlager
+2024-12-14,St. Pauli,Werder Bremen,2,3,4,5,R Hartmann
+2024-12-21,Leverkusen,Freiburg,1,2,4,2,T Stieler
+2024-12-21,Stuttgart,St. Pauli,2,2,9,1,F Brych
+2024-12-20,Bayern Munich,RB Leipzig,5,2,8,1,D Siebert
+2024-12-21,Ein Frankfurt,Mainz,1,2,17,2,F Badstübner
+2024-12-21,Hoffenheim,M'gladbach,0,0,8,4,B Dankert
+2024-12-21,Werder Bremen,Union Berlin,2,2,4,9,F Exner
+2024-12-22,VfL Wolfsburg,Dortmund,3,3,10,4,M Jöllenbeck
+2024-12-22,VfL Bochum 1848,FC Heidenheim,2,7,5,2,Sven Jablonski
+2024-12-21,Holstein Kiel,Augsburg,0,4,3,8,T Welz
+2025-01-12,RB Leipzig,Werder Bremen,1,1,4,1,T Reichel
+2025-01-10,Dortmund,Leverkusen,1,2,6,1,T Stieler
+2025-01-11,Hoffenheim,VfL Wolfsburg,1,2,4,8,C Dingert
+2025-01-11,FC Heidenheim,Union Berlin,0,2,5,4,R Hartmann
+2025-01-11,Freiburg,Holstein Kiel,2,3,7,1,S Storks
+2025-01-12,Augsburg,Stuttgart,5,1,3,9,D Schlager
+2025-01-11,Mainz,VfL Bochum 1848,0,2,5,6,B Brand
+2025-01-11,M'gladbach,Bayern Munich,3,1,4,10,F Zwayer
+2025-01-11,St. Pauli,Ein Frankfurt,0,3,3,3,H Osmers
+2025-01-14,Leverkusen,Mainz,2,3,8,4,T Welz
+2025-01-15,Stuttgart,RB Leipzig,2,9,5,0,S Stegemann
+2025-01-15,Bayern Munich,Hoffenheim,1,1,13,1,T Gerach
+2025-01-14,Ein Frankfurt,Freiburg,1,1,8,1,Sven Jablonski
+2025-01-15,Werder Bremen,FC Heidenheim,6,3,4,2,M Jöllenbeck
+2025-01-14,VfL Wolfsburg,M'gladbach,1,0,4,7,F Badstübner
+2025-01-15,Union Berlin,Augsburg,1,2,7,4,F Willenborg
+2025-01-15,VfL Bochum 1848,St. Pauli,1,4,6,7,D Siebert
+2025-01-14,Holstein Kiel,Dortmund,3,2,1,9,M Petersen
+2025-01-18,Leverkusen,M'gladbach,0,2,7,6,H Osmers
+2025-01-18,Stuttgart,Freiburg,5,3,4,1,F Zwayer
+2025-01-18,Bayern Munich,VfL Wolfsburg,2,3,6,2,T Reichel
+2025-01-17,Ein Frankfurt,Dortmund,0,2,5,7,D Schlager
+2025-01-18,FC Heidenheim,St. Pauli,1,2,4,4,B Dankert
+2025-01-19,Werder Bremen,Augsburg,1,2,6,2,B Brand
+2025-01-19,Union Berlin,Mainz,2,2,2,2,F Exner
+2025-01-18,VfL Bochum 1848,RB Leipzig,4,0,6,3,R Hartmann
+2025-01-18,Holstein Kiel,Hoffenheim,2,1,4,3,F Brych
+2025-01-25,RB Leipzig,Leverkusen,2,2,7,3,B Dankert
+2025-01-25,Dortmund,Werder Bremen,2,4,5,5,C Dingert
+2025-01-26,Hoffenheim,Ein Frankfurt,3,0,9,3,S Stegemann
+2025-01-25,Freiburg,Bayern Munich,4,2,2,4,D Siebert
+2025-01-25,Augsburg,FC Heidenheim,1,0,6,4,F Badstübner
+2025-01-24,VfL Wolfsburg,Holstein Kiel,2,4,10,3,Sven Jablonski
+2025-01-25,Mainz,Stuttgart,4,3,9,2,T Stieler
+2025-01-25,M'gladbach,VfL Bochum 1848,1,3,8,7,M Jöllenbeck
+2025-01-26,St. Pauli,Union Berlin,0,3,5,7,S Storks
+2025-02-02,Leverkusen,Hoffenheim,5,3,3,3,R Braun
+2025-02-01,Stuttgart,M'gladbach,2,2,2,0,R Hartmann
+2025-02-01,Bayern Munich,Holstein Kiel,1,1,12,1,F Exner
+2025-02-02,Ein Frankfurt,VfL Wolfsburg,1,3,9,1,B Brand
+2025-02-01,FC Heidenheim,Dortmund,1,4,4,5,F Willenborg
+2025-01-31,Werder Bremen,Mainz,10,3,3,8,M Petersen
+2025-02-01,Union Berlin,RB Leipzig,3,2,4,5,D Schlager
+2025-02-01,VfL Bochum 1848,Freiburg,3,2,9,7,T Welz
+2025-02-01,St. Pauli,Augsburg,1,3,3,1,T Reichel
+2025-02-07,Bayern Munich,Werder Bremen,1,3,5,2,S Storks
+2025-02-09,RB Leipzig,St. Pauli,3,2,5,4,F Badstübner
+2025-02-08,Dortmund,Stuttgart,6,2,9,4,D Siebert
+2025-02-08,Hoffenheim,Union Berlin,2,1,8,4,T Stieler
+2025-02-08,Freiburg,FC Heidenheim,3,1,6,3,T Reichel
+2025-02-08,VfL Wolfsburg,Leverkusen,2,3,3,9,S Stegemann
+2025-02-08,Mainz,Augsburg,3,3,1,3,D Schlager
+2025-02-08,M'gladbach,Ein Frankfurt,3,3,6,1,C Dingert
+2025-02-09,Holstein Kiel,VfL Bochum 1848,2,2,3,5,F Zwayer
+2025-02-15,Leverkusen,Bayern Munich,2,3,6,0,D Siebert
+2025-02-15,Stuttgart,VfL Wolfsburg,3,3,7,5,T Welz
+2025-02-16,Ein Frankfurt,Holstein Kiel,2,0,4,6,R Hartmann
+2025-02-16,FC Heidenheim,Mainz,1,3,8,4,F Brych
+2025-02-16,Werder Bremen,Hoffenheim,2,3,6,4,F Willenborg
+2025-02-14,Augsburg,RB Leipzig,2,1,8,9,S Stegemann
+2025-02-15,Union Berlin,M'gladbach,0,1,4,5,Sven Jablonski
+2025-02-15,VfL Bochum 1848,Dortmund,1,0,2,8,H Osmers
+2025-02-15,St. Pauli,Freiburg,1,0,2,6,B Brand
+2025-02-23,Bayern Munich,Ein Frankfurt,1,1,4,1,S Stegemann
+2025-02-23,RB Leipzig,FC Heidenheim,3,3,7,4,M Petersen
+2025-02-22,Dortmund,Union Berlin,2,2,5,3,B Dankert
+2025-02-23,Hoffenheim,Stuttgart,0,0,4,8,C Dingert
+2025-02-21,Freiburg,Werder Bremen,3,0,3,7,M Burda
+2025-02-22,VfL Wolfsburg,VfL Bochum 1848,2,3,3,5,T Gerach
+2025-02-22,Mainz,St. Pauli,3,3,6,5,F Zwayer
+2025-02-22,M'gladbach,Augsburg,4,2,2,4,F Exner
+2025-02-22,Holstein Kiel,Leverkusen,4,1,5,11,D Schlager
+2025-02-28,Stuttgart,Bayern Munich,5,3,4,6,B Brand
+2025-03-01,RB Leipzig,Mainz,1,1,7,1,D Siebert
+2025-03-01,Ein Frankfurt,Leverkusen,1,1,2,6,F Zwayer
+2025-03-01,FC Heidenheim,M'gladbach,2,3,6,2,S Storks
+2025-03-01,Werder Bremen,VfL Wolfsburg,2,0,8,2,F Brych
+2025-03-02,Augsburg,Freiburg,1,1,5,2,H Osmers
+2025-03-02,Union Berlin,Holstein Kiel,4,0,11,3,T Reichel
+2025-03-01,VfL Bochum 1848,Hoffenheim,0,1,8,5,F Badstübner
+2025-03-01,St. Pauli,Dortmund,1,2,7,1,T Stieler
+2025-03-08,Leverkusen,Werder Bremen,4,4,10,3,T Welz
+2025-03-08,Bayern Munich,VfL Bochum 1848,1,6,9,3,C Dingert
+2025-03-08,Dortmund,Augsburg,1,4,12,3,D Aytekin
+2025-03-09,Ein Frankfurt,Union Berlin,3,0,1,5,F Willenborg
+2025-03-09,Hoffenheim,FC Heidenheim,2,3,6,4,D Schlager
+2025-03-08,Freiburg,RB Leipzig,0,3,2,6,Sven Jablonski
+2025-03-08,VfL Wolfsburg,St. Pauli,1,0,6,6,R Hartmann
+2025-03-07,M'gladbach,Mainz,0,1,4,3,S Stegemann
+2025-03-08,Holstein Kiel,Stuttgart,1,3,3,1,B Dankert
+2025-03-16,Stuttgart,Leverkusen,3,2,1,10,D Siebert
+2025-03-15,RB Leipzig,Dortmund,3,3,3,12,M Jöllenbeck
+2025-03-16,FC Heidenheim,Holstein Kiel,1,3,3,5,H Osmers
+2025-03-15,Werder Bremen,M'gladbach,1,3,4,1,T Gerach
+2025-03-15,Augsburg,VfL Wolfsburg,1,2,1,4,M Petersen
+2025-03-15,Mainz,Freiburg,2,2,1,4,B Brand
+2025-03-15,Union Berlin,Bayern Munich,1,2,2,14,F Exner
+2025-03-16,VfL Bochum 1848,Ein Frankfurt,4,1,8,3,F Zwayer
+2025-03-14,St. Pauli,Hoffenheim,0,1,11,2,F Brych
+2025-03-28,Leverkusen,VfL Bochum 1848,0,1,3,2,Sven Jablonski
+2025-03-29,Bayern Munich,St. Pauli,3,0,5,4,F Badstübner
+2025-03-30,Dortmund,Mainz,2,0,6,4,D Schlager
+2025-03-29,Ein Frankfurt,Stuttgart,1,4,6,10,D Aytekin
+2025-03-29,Hoffenheim,Augsburg,1,2,2,2,T Reichel
+2025-03-30,Freiburg,Union Berlin,3,4,3,3,S Storks
+2025-03-29,VfL Wolfsburg,FC Heidenheim,2,4,4,5,B Dankert
+2025-03-29,M'gladbach,RB Leipzig,2,2,5,8,T Stieler
+2025-03-29,Holstein Kiel,Werder Bremen,4,1,3,4,S Stegemann
+2025-04-05,RB Leipzig,Hoffenheim,0,4,8,2,R Hartmann
+2025-04-05,FC Heidenheim,Leverkusen,1,0,4,0,T Stieler
+2025-04-05,Werder Bremen,Ein Frankfurt,3,3,5,6,D Siebert
+2025-04-05,Freiburg,Dortmund,1,0,3,4,F Zwayer
+2025-04-04,Augsburg,Bayern Munich,5,0,2,4,M Jöllenbeck
+2025-04-05,Mainz,Holstein Kiel,3,4,4,4,F Willenborg
+2025-04-06,Union Berlin,VfL Wolfsburg,0,1,6,4,H Osmers
+2025-04-05,VfL Bochum 1848,Stuttgart,1,1,2,4,F Brych
+2025-04-06,St. Pauli,M'gladbach,0,2,11,2,C Dingert
+2025-04-12,Leverkusen,Union Berlin,2,1,7,3,B Dankert
+2025-04-13,Stuttgart,Werder Bremen,4,2,3,4,D Schlager
+2025-04-12,Bayern Munich,Dortmund,0,0,6,5,T Welz
+2025-04-13,Ein Frankfurt,FC Heidenheim,1,1,5,3,T Gerach
+2025-04-12,Hoffenheim,Mainz,4,3,4,7,Sven Jablonski
+2025-04-11,VfL Wolfsburg,RB Leipzig,2,3,8,5,F Exner
+2025-04-12,M'gladbach,Freiburg,0,1,4,6,D Aytekin
+2025-04-12,VfL Bochum 1848,Augsburg,2,2,7,6,M Petersen
+2025-04-12,Holstein Kiel,St. Pauli,3,4,3,3,B Brand
+2025-04-19,RB Leipzig,Holstein Kiel,1,2,9,7,F Brych
+2025-04-20,Dortmund,M'gladbach,1,2,6,2,D Siebert
+2025-04-19,FC Heidenheim,Bayern Munich,3,1,4,4,F Willenborg
+2025-04-19,Werder Bremen,VfL Bochum 1848,3,5,2,7,R Schröder
+2025-04-19,Freiburg,Hoffenheim,3,2,2,6,S Stegemann
+2025-04-20,Augsburg,Ein Frankfurt,2,1,3,9,F Badstübner
+2025-04-19,Mainz,VfL Wolfsburg,2,3,7,5,F Zwayer
+2025-04-19,Union Berlin,Stuttgart,0,2,3,5,T Stieler
+2025-04-20,St. Pauli,Leverkusen,1,4,4,4,S Storks
+2025-04-26,Leverkusen,Augsburg,0,1,3,7,C Dingert
+2025-04-25,Stuttgart,FC Heidenheim,0,4,6,5,T Welz
+2025-04-26,Bayern Munich,Mainz,2,2,4,4,B Dankert
+2025-04-26,Ein Frankfurt,RB Leipzig,1,3,8,4,M Jöllenbeck
+2025-04-26,Hoffenheim,Dortmund,5,1,2,5,B Brand
+2025-04-27,Werder Bremen,St. Pauli,2,4,1,3,T Reichel
+2025-04-26,VfL Wolfsburg,Freiburg,4,1,3,2,Sven Jablonski
+2025-04-27,VfL Bochum 1848,Union Berlin,3,2,10,4,D Aytekin
+2025-04-26,Holstein Kiel,M'gladbach,2,1,7,8,R Hartmann
+2025-05-03,RB Leipzig,Bayern Munich,3,1,2,7,F Zwayer
+2025-05-03,Dortmund,VfL Wolfsburg,0,1,4,3,F Brych
+2025-05-02,FC Heidenheim,VfL Bochum 1848,0,1,6,4,S Stegemann
+2025-05-04,Freiburg,Leverkusen,1,2,4,1,D Siebert
+2025-05-04,Augsburg,Holstein Kiel,0,2,12,0,H Osmers
+2025-05-04,Mainz,Ein Frankfurt,1,0,8,1,M Petersen
+2025-05-03,M'gladbach,Hoffenheim,0,0,4,7,F Willenborg
+2025-05-03,Union Berlin,Werder Bremen,2,3,5,5,S Storks
+2025-05-03,St. Pauli,Stuttgart,8,3,4,4,F Exner
+2025-05-11,Leverkusen,Dortmund,0,2,12,0,D Aytekin
+2025-05-11,Stuttgart,Augsburg,1,2,11,2,T Gerach
+2025-05-10,Bayern Munich,M'gladbach,1,1,4,9,Sven Jablonski
+2025-05-11,Ein Frankfurt,St. Pauli,2,2,3,1,C Dingert
+2025-05-10,Werder Bremen,RB Leipzig,1,3,11,4,B Dankert
+2025-05-09,VfL Wolfsburg,Hoffenheim,0,2,5,6,M Jöllenbeck
+2025-05-10,Union Berlin,FC Heidenheim,2,0,1,2,F Badstübner
+2025-05-10,VfL Bochum 1848,Mainz,3,0,6,6,T Stieler
+2025-05-10,Holstein Kiel,Freiburg,1,0,2,5,R Schröder
+2025-05-17,RB Leipzig,Stuttgart,1,0,5,8,D Siebert
+2025-05-17,Dortmund,Holstein Kiel,3,2,7,1,H Osmers
+2025-05-17,Hoffenheim,Bayern Munich,0,0,1,4,D Schlager
+2025-05-17,FC Heidenheim,Werder Bremen,3,2,6,4,T Welz
+2025-05-17,Freiburg,Ein Frankfurt,2,4,4,7,B Brand
+2025-05-17,Augsburg,Union Berlin,0,0,4,0,F Brych
+2025-05-17,Mainz,Leverkusen,2,6,8,3,T Reichel
+2025-05-17,M'gladbach,VfL Wolfsburg,0,0,7,10,S Stegemann
+2025-05-17,St. Pauli,VfL Bochum 1848,0,0,7,4,F Zwayer
+2025-08-22,Bayern Munich,RB Leipzig,4,1,5,5,F Badstübner
+2025-08-23,Ein Frankfurt,Werder Bremen,1,3,7,1,H Osmers
+2025-09-13,Bayern Munich,Hamburg,2,2,5,3,T Stieler
+2025-08-23,FC Heidenheim,VfL Wolfsburg,2,3,2,5,B Brand
+2025-08-23,Union Berlin,Stuttgart,4,4,5,11,R Hartmann
+2025-08-24,Mainz,FC Koln,1,2,8,3,T Stieler
+2025-08-23,Leverkusen,Hoffenheim,0,4,6,4,D Siebert
+2025-08-24,M'gladbach,Hamburg,2,1,7,6,S Stegemann
+2025-08-23,St. Pauli,Dortmund,2,4,5,2,M Jöllenbeck
+2025-08-23,Freiburg,Augsburg,4,5,5,5,F Zwayer
+2025-08-31,FC Koln,Freiburg,2,1,3,5,T Reichel
+2025-08-31,Dortmund,Union Berlin,0,0,4,6,D Schlager
+2025-08-30,Augsburg,Bayern Munich,3,4,7,5,F Exner
+2025-08-29,Hamburg,St. Pauli,4,3,2,5,C Dingert
+2025-08-30,RB Leipzig,FC Heidenheim,2,5,4,3,F Willenborg
+2025-08-30,Werder Bremen,Leverkusen,5,3,3,7,R Braun
+2025-08-30,Hoffenheim,Ein Frankfurt,2,3,4,5,T Gerach
+2025-08-30,Stuttgart,M'gladbach,2,1,6,10,Sven Jablonski
+2025-08-31,VfL Wolfsburg,Mainz,4,5,3,10,S Storks
+2025-09-13,FC Heidenheim,Dortmund,3,3,5,4,F Zwayer
+2025-09-13,Union Berlin,Hoffenheim,1,1,9,2,T Welz
+2025-09-13,Mainz,RB Leipzig,1,0,3,5,Sven Jablonski
+2025-09-12,Leverkusen,Ein Frankfurt,7,3,4,8,D Aytekin
+2025-09-14,M'gladbach,Werder Bremen,1,0,9,4,M Jöllenbeck
+2025-09-14,St. Pauli,Augsburg,1,4,3,1,H Osmers
+2025-09-13,Freiburg,Stuttgart,1,1,7,1,D Siebert
+2025-09-13,VfL Wolfsburg,FC Koln,2,3,7,4,B Dankert
+2025-09-21,Leverkusen,M'gladbach,5,5,3,4,F Zwayer
+2025-09-21,Dortmund,VfL Wolfsburg,1,0,9,3,D Siebert
+2025-09-21,Ein Frankfurt,Union Berlin,3,2,5,1,Sven Jablonski
+2025-09-20,Augsburg,Mainz,1,3,6,6,D Schlager
+2025-09-20,Hamburg,FC Heidenheim,5,1,1,12,F Exner
+2025-09-20,RB Leipzig,FC Koln,1,1,9,5,B Brand
+2025-09-20,Werder Bremen,Freiburg,5,2,2,0,T Gerach
+2025-09-20,Hoffenheim,Bayern Munich,1,2,5,5,R Hartmann
+2025-09-19,Stuttgart,St. Pauli,0,2,8,4,S Stegemann
+2025-09-27,FC Heidenheim,Augsburg,1,6,3,2,T Welz
+2025-09-28,FC Koln,Stuttgart,2,2,8,8,M Jöllenbeck
+2025-09-28,Union Berlin,Hamburg,2,3,5,3,D Aytekin
+2025-09-27,Mainz,Dortmund,3,1,7,5,T Reichel
+2025-09-27,M'gladbach,Ein Frankfurt,1,2,4,6,F Exner
+2025-09-26,Bayern Munich,Werder Bremen,2,0,7,6,F Willenborg
+2025-09-27,St. Pauli,Leverkusen,3,5,13,1,M Petersen
+2025-09-28,Freiburg,Hoffenheim,2,1,6,8,B Dankert
+2025-09-27,VfL Wolfsburg,RB Leipzig,2,2,6,11,R Braun
+2025-10-04,Leverkusen,Union Berlin,1,3,4,4,C Dingert
+2025-10-04,Dortmund,RB Leipzig,1,3,7,7,S Stegemann
+2025-10-05,M'gladbach,Freiburg,3,1,4,1,D Schlager
+2025-10-04,Ein Frankfurt,Bayern Munich,1,2,4,3,D Siebert
+2025-10-04,Augsburg,VfL Wolfsburg,2,1,10,5,B Brand
+2025-10-05,Hamburg,Mainz,2,3,1,4,R Hartmann
+2025-10-04,Werder Bremen,St. Pauli,3,1,4,0,S Storks
+2025-10-03,Hoffenheim,FC Koln,3,1,11,6,F Zwayer
+2025-10-05,Stuttgart,FC Heidenheim,1,1,1,1,T Stieler
+2025-10-18,FC Heidenheim,Werder Bremen,1,3,12,2,P Ittrich
+2025-10-18,FC Koln,Augsburg,2,2,5,2,T Gerach
+2025-10-17,Union Berlin,M'gladbach,5,3,6,6,T Reichel
+2025-10-18,Mainz,Leverkusen,4,4,2,3,F Exner
+2025-10-18,Bayern Munich,Dortmund,1,3,4,3,B Dankert
+2025-10-19,St. Pauli,Hoffenheim,1,3,9,7,Sven Jablonski
+2025-10-18,RB Leipzig,Hamburg,3,1,3,5,T Welz
+2025-10-19,Freiburg,Ein Frankfurt,2,3,3,1,D Aytekin
+2025-10-18,VfL Wolfsburg,Stuttgart,1,1,3,8,F Badstübner
+2025-10-26,Leverkusen,Freiburg,1,3,2,3,H Osmers
+2025-10-25,Dortmund,FC Koln,2,2,17,2,B Brand
+2025-10-25,M'gladbach,Bayern Munich,1,3,1,8,S Stegemann
+2025-10-25,Ein Frankfurt,St. Pauli,0,1,1,3,R Braun
+2025-10-25,Augsburg,RB Leipzig,3,1,2,3,D Siebert
+2025-10-25,Hamburg,VfL Wolfsburg,1,5,11,1,M Petersen
+2025-10-24,Werder Bremen,Union Berlin,4,0,5,6,D Schlager
+2025-10-25,Hoffenheim,FC Heidenheim,1,1,7,5,M Jöllenbeck
+2025-10-26,Stuttgart,Mainz,4,3,7,5,F Zwayer
+2025-11-01,FC Heidenheim,Ein Frankfurt,0,2,2,8,C Dingert
+2025-11-02,FC Koln,Hamburg,1,8,2,3,D Schlager
+2025-11-01,Union Berlin,Freiburg,6,1,5,5,S Storks
+2025-11-01,Mainz,Werder Bremen,1,3,2,0,F Badstübner
+2025-10-31,Augsburg,Dortmund,4,1,4,3,T Stieler
+2025-11-01,Bayern Munich,Leverkusen,1,1,10,4,D Aytekin
+2025-11-01,St. Pauli,M'gladbach,4,0,8,1,R Hartmann
+2025-11-01,RB Leipzig,Stuttgart,1,2,5,5,Sven Jablonski
+2025-11-02,VfL Wolfsburg,Hoffenheim,0,2,2,2,F Willenborg
+2025-11-08,Union Berlin,Bayern Munich,2,4,6,5,F Exner
+2025-11-08,Leverkusen,FC Heidenheim,0,1,11,1,B Dankert
+2025-11-08,M'gladbach,FC Koln,2,3,2,6,D Aytekin
+2025-11-09,Ein Frankfurt,Mainz,0,5,4,3,M Jöllenbeck
+2025-11-08,Hamburg,Dortmund,1,1,2,6,T Reichel
+2025-11-09,Freiburg,St. Pauli,2,2,9,3,B Brand
+2025-11-07,Werder Bremen,VfL Wolfsburg,2,0,13,3,F Zwayer
+2025-11-08,Hoffenheim,RB Leipzig,3,2,5,5,P Ittrich
+2025-11-09,Stuttgart,Augsburg,2,3,4,4,H Osmers
+2025-11-22,FC Heidenheim,M'gladbach,2,0,4,5,F Willenborg
+2025-11-22,FC Koln,Ein Frankfurt,0,0,3,3,F Badstübner
+2025-11-21,Mainz,Hoffenheim,4,2,7,4,S Stegemann
+2025-11-22,Dortmund,Stuttgart,1,1,2,4,B Brand
+2025-11-22,Augsburg,Hamburg,3,3,4,3,R Braun
+2025-11-22,Bayern Munich,Freiburg,1,0,3,5,Sven Jablonski
+2025-11-23,St. Pauli,Union Berlin,1,1,8,2,T Stieler
+2025-11-23,RB Leipzig,Werder Bremen,1,2,13,7,M Petersen
+2025-11-22,VfL Wolfsburg,Leverkusen,2,1,9,1,R Hartmann
+2025-11-29,Union Berlin,FC Heidenheim,3,2,5,5,P Ittrich
+2025-11-29,Leverkusen,Dortmund,3,4,10,3,T Welz
+2025-11-28,M'gladbach,RB Leipzig,0,3,5,6,T Gerach
+2025-11-30,Ein Frankfurt,VfL Wolfsburg,1,4,14,1,H Osmers
+2025-11-29,Bayern Munich,St. Pauli,1,1,10,2,F Zwayer
+2025-11-30,Hamburg,Stuttgart,3,4,4,6,S Storks
+2025-11-30,Freiburg,Mainz,0,3,6,2,D Schlager
+2025-11-29,Werder Bremen,FC Koln,3,4,4,0,B Dankert
+2025-11-29,Hoffenheim,Augsburg,1,0,7,2,C Dingert
+2025-12-06,FC Heidenheim,Freiburg,2,1,8,6,F Exner
+2025-12-06,FC Koln,St. Pauli,0,1,5,4,T Reichel
+2025-12-05,Mainz,M'gladbach,2,1,8,6,B Brand
+2025-12-07,Dortmund,Hoffenheim,0,2,7,5,F Badstübner
+2025-12-06,Augsburg,Leverkusen,4,3,5,7,Sven Jablonski
+2025-12-07,Hamburg,Werder Bremen,2,6,5,3,S Stegemann
+2025-12-06,RB Leipzig,Ein Frankfurt,1,2,4,0,D Siebert
+2025-12-06,Stuttgart,Bayern Munich,3,4,3,4,T Stieler
+2025-12-06,VfL Wolfsburg,Union Berlin,4,1,0,11,R Schröder
+2025-12-12,Union Berlin,RB Leipzig,2,2,4,6,D Schlager
+2025-12-13,Leverkusen,FC Koln,2,1,8,3,H Osmers
+2025-12-13,M'gladbach,VfL Wolfsburg,0,1,6,3,P Ittrich
+2025-12-13,Ein Frankfurt,Augsburg,2,3,2,6,F Willenborg
+2025-12-14,Bayern Munich,Mainz,2,2,7,0,R Braun
+2025-12-13,St. Pauli,FC Heidenheim,3,3,4,11,S Storks
+2025-12-14,Freiburg,Dortmund,3,3,6,0,F Zwayer
+2025-12-14,Werder Bremen,Stuttgart,3,0,1,9,R Hartmann
+2025-12-13,Hoffenheim,Hamburg,1,3,3,3,M Petersen
+2025-12-21,FC Heidenheim,Bayern Munich,0,0,0,6,F Badstübner
+2025-12-20,FC Koln,Union Berlin,3,5,3,6,C Dingert
+2025-12-21,Mainz,St. Pauli,1,1,9,5,M Jöllenbeck
+2025-12-19,Dortmund,M'gladbach,2,1,6,4,Sven Jablonski
+2025-12-20,Augsburg,Werder Bremen,3,4,6,11,T Welz
+2025-12-20,Hamburg,Ein Frankfurt,0,0,5,5,T Stieler
+2025-12-20,RB Leipzig,Leverkusen,1,2,2,8,B Brand
+2025-12-20,Stuttgart,Hoffenheim,3,2,4,2,D Siebert
+2025-12-20,VfL Wolfsburg,Freiburg,1,1,2,6,S Stegemann
+2026-01-10,FC Heidenheim,FC Koln,2,1,5,4,R Schröder
+2026-01-10,Union Berlin,Mainz,2,0,2,1,B Dankert
+2026-01-10,Leverkusen,Stuttgart,4,2,5,3,F Zwayer
+2026-01-11,M'gladbach,Augsburg,0,1,2,2,H Osmers
+2026-01-09,Ein Frankfurt,Dortmund,3,3,2,5,D Schlager
+2026-01-11,Bayern Munich,VfL Wolfsburg,0,1,6,2,F Badstübner
+2026-01-27,St. Pauli,RB Leipzig,0,1,4,3,F Exner
+2026-01-10,Freiburg,Hamburg,3,6,0,3,T Gerach
+2026-01-27,Werder Bremen,Hoffenheim,2,3,6,7,F Willenborg
+2026-01-14,FC Koln,Bayern Munich,0,0,4,6,P Ittrich
+2026-01-13,Mainz,FC Heidenheim,2,2,4,1,Sven Jablonski
+2026-01-13,Dortmund,Werder Bremen,2,0,3,3,D Siebert
+2026-01-15,Augsburg,Union Berlin,1,1,3,3,F Badstübner
+2026-03-04,Hamburg,Leverkusen,0,2,2,7,S Storks
+2026-01-14,RB Leipzig,Freiburg,0,4,7,2,R Hartmann
+2026-01-14,Hoffenheim,M'gladbach,1,1,6,2,C Dingert
+2026-01-13,Stuttgart,Ein Frankfurt,2,2,10,2,M Jöllenbeck
+2026-01-14,VfL Wolfsburg,St. Pauli,1,2,7,4,F Willenborg
+2026-01-17,FC Koln,Mainz,4,4,9,5,F Zwayer
+2026-01-17,Dortmund,St. Pauli,3,1,5,5,H Osmers
+2026-01-18,Augsburg,Freiburg,3,2,9,6,M Petersen
+2026-01-17,Hamburg,M'gladbach,1,2,2,5,R Schröder
+2026-01-17,RB Leipzig,Bayern Munich,1,0,5,9,S Stegemann
+2026-01-16,Werder Bremen,Ein Frankfurt,1,4,4,1,B Brand
+2026-01-17,Hoffenheim,Leverkusen,2,1,3,5,D Schlager
+2026-01-18,Stuttgart,Union Berlin,1,1,3,8,D Aytekin
+2026-01-17,VfL Wolfsburg,FC Heidenheim,4,3,9,6,T Welz
+2026-01-24,FC Heidenheim,RB Leipzig,1,0,4,0,T Stieler
+2026-01-24,Union Berlin,Dortmund,0,1,7,2,R Hartmann
+2026-01-24,Mainz,VfL Wolfsburg,3,2,15,1,D Siebert
+2026-01-24,Leverkusen,Werder Bremen,2,3,5,5,T Reichel
+2026-01-25,M'gladbach,Stuttgart,1,1,1,4,S Storks
+2026-01-24,Ein Frankfurt,Hoffenheim,0,4,6,6,Sven Jablonski
+2026-01-24,Bayern Munich,Augsburg,1,1,9,3,F Exner
+2026-01-23,St. Pauli,Hamburg,1,1,5,4,T Welz
+2026-01-25,Freiburg,FC Koln,1,2,5,5,B Dankert
+2026-01-30,FC Koln,VfL Wolfsburg,1,4,3,4,M Petersen
+2026-02-01,Dortmund,FC Heidenheim,2,2,12,3,M Jöllenbeck
+2026-01-31,Ein Frankfurt,Leverkusen,4,1,8,3,R Schröder
+2026-01-31,Augsburg,St. Pauli,3,1,5,5,S Stegemann
+2026-01-31,Hamburg,Bayern Munich,6,4,3,9,H Osmers
+2026-01-31,RB Leipzig,Mainz,0,4,5,4,D Schlager
+2026-01-31,Werder Bremen,M'gladbach,0,1,7,3,F Zwayer
+2026-01-31,Hoffenheim,Union Berlin,2,2,3,10,R Braun
+2026-02-01,Stuttgart,Freiburg,3,1,6,2,F Badstübner
+2026-02-07,FC Heidenheim,Hamburg,0,2,10,8,D Siebert
+2026-02-08,FC Koln,RB Leipzig,1,4,4,3,F Willenborg
+2026-02-06,Union Berlin,Ein Frankfurt,4,4,5,2,S Storks
+2026-02-07,Mainz,Augsburg,2,2,6,4,P Ittrich
+2026-02-07,M'gladbach,Leverkusen,2,3,2,2,C Dingert
+2026-02-08,Bayern Munich,Hoffenheim,2,3,8,3,T Stieler
+2026-02-07,St. Pauli,Stuttgart,0,2,5,5,B Brand
+2026-02-07,Freiburg,Werder Bremen,1,1,4,8,D Aytekin
+2026-02-07,VfL Wolfsburg,Dortmund,1,1,4,8,T Gerach
+2026-02-14,Leverkusen,St. Pauli,0,1,8,3,Sven Jablonski
+2026-02-13,Dortmund,Mainz,3,2,7,2,T Welz
+2026-02-14,Ein Frankfurt,M'gladbach,3,2,2,8,M Petersen
+2026-02-15,Augsburg,FC Heidenheim,1,2,4,5,F Zwayer
+2026-02-14,Hamburg,Union Berlin,3,0,6,3,F Badstübner
+2026-02-15,RB Leipzig,VfL Wolfsburg,1,2,6,2,M Jöllenbeck
+2026-02-14,Werder Bremen,Bayern Munich,3,1,2,4,B Dankert
+2026-02-14,Hoffenheim,Freiburg,3,1,6,6,F Exner
+2026-02-14,Stuttgart,FC Koln,4,1,2,5,R Hartmann
+2026-02-22,FC Heidenheim,Stuttgart,1,2,3,4,S Stegemann
+2026-02-21,FC Koln,Hoffenheim,1,3,3,10,R Schröder
+2026-02-21,Union Berlin,Leverkusen,5,2,4,5,H Osmers
+2026-02-20,Mainz,Hamburg,3,2,7,2,R Braun
+2026-02-21,Bayern Munich,Ein Frankfurt,0,3,8,2,T Reichel
+2026-02-22,St. Pauli,Werder Bremen,2,5,1,5,S Storks
+2026-02-21,RB Leipzig,Dortmund,3,4,6,2,B Brand
+2026-02-22,Freiburg,M'gladbach,1,2,3,3,D Siebert
+2026-02-21,VfL Wolfsburg,Augsburg,3,4,4,10,D Schlager
+2026-02-28,Leverkusen,Mainz,1,2,6,2,T Stieler
+2026-02-28,Dortmund,Bayern Munich,1,0,5,2,Sven Jablonski
+2026-02-28,M'gladbach,Union Berlin,4,5,6,2,M Jöllenbeck
+2026-03-01,Ein Frankfurt,Freiburg,1,2,5,6,C Dingert
+2026-02-27,Augsburg,FC Koln,4,1,6,9,T Welz
+2026-03-01,Hamburg,RB Leipzig,3,2,4,9,B Dankert
+2026-02-28,Werder Bremen,FC Heidenheim,1,0,3,2,F Badstübner
+2026-02-28,Hoffenheim,St. Pauli,1,2,10,3,D Aytekin
+2026-03-01,Stuttgart,VfL Wolfsburg,1,0,7,3,P Ittrich
+2026-03-07,FC Heidenheim,Hoffenheim,0,0,4,3,R Hartmann
+2026-03-07,FC Koln,Dortmund,2,1,9,4,D Siebert
+2026-03-08,Union Berlin,Werder Bremen,2,3,1,3,T Gerach
+2026-03-07,Mainz,Stuttgart,0,2,5,6,M Jöllenbeck
+2026-03-06,Bayern Munich,M'gladbach,1,1,7,1,R Schröder
+2026-03-08,St. Pauli,Ein Frankfurt,2,1,6,5,F Zwayer
+2026-03-07,RB Leipzig,Augsburg,0,2,6,8,M Petersen
+2026-03-07,Freiburg,Leverkusen,3,3,5,2,B Brand
+2026-03-07,VfL Wolfsburg,Hamburg,4,3,7,3,F Exner
+2026-03-14,Leverkusen,Bayern Munich,3,6,4,1,C Dingert
+2026-03-14,Dortmund,Augsburg,0,0,12,2,B Dankert
+2026-03-13,M'gladbach,St. Pauli,1,2,2,2,D Schlager
+2026-03-14,Ein Frankfurt,FC Heidenheim,4,2,5,4,H Osmers
+2026-03-14,Hamburg,FC Koln,2,4,1,8,T Welz
+2026-03-15,Freiburg,Union Berlin,0,2,6,2,Sven Jablonski
+2026-03-15,Werder Bremen,Mainz,2,1,9,4,S Stegemann
+2026-03-14,Hoffenheim,VfL Wolfsburg,0,3,16,4,T Reichel
+2026-03-15,Stuttgart,RB Leipzig,1,2,5,6,D Aytekin
+2026-03-21,FC Heidenheim,Leverkusen,4,4,2,5,R Braun
+2026-03-21,FC Koln,M'gladbach,9,2,5,3,S Storks
+2026-03-22,Mainz,Ein Frankfurt,2,1,5,3,T Stieler
+2026-03-21,Dortmund,Hamburg,2,3,11,3,M Jöllenbeck
+2026-03-22,Augsburg,Stuttgart,1,3,2,5,F Zwayer
+2026-03-21,Bayern Munich,Union Berlin,1,2,12,1,P Ittrich
+2026-03-22,St. Pauli,Freiburg,1,1,3,2,F Badstübner
+2026-03-20,RB Leipzig,Hoffenheim,1,1,1,3,Sven Jablonski
+2026-03-21,VfL Wolfsburg,Werder Bremen,4,0,8,4,B Brand
+2026-04-05,Union Berlin,St. Pauli,0,3,7,2,T Welz
+2026-04-04,Leverkusen,VfL Wolfsburg,1,3,12,2,M Petersen
+2026-04-04,M'gladbach,FC Heidenheim,4,0,2,3,B Dankert
+2026-04-05,Ein Frankfurt,FC Koln,1,2,8,0,F Exner
+2026-04-04,Hamburg,Augsburg,3,3,9,2,D Aytekin
+2026-04-04,Freiburg,Bayern Munich,3,3,5,8,D Siebert
+2026-04-04,Werder Bremen,RB Leipzig,2,1,1,0,R Hartmann
+2026-04-04,Hoffenheim,Mainz,4,1,7,3,H Osmers
+2026-04-04,Stuttgart,Dortmund,2,4,5,2,R Schröder
+2026-04-11,FC Heidenheim,Union Berlin,0,2,3,5,C Dingert
+2026-04-12,FC Koln,Werder Bremen,3,3,8,5,T Reichel
+2026-04-12,Mainz,Freiburg,1,3,6,4,F Zwayer
+2026-04-11,Dortmund,Leverkusen,3,0,5,5,D Aytekin
+2026-04-10,Augsburg,Hoffenheim,5,3,4,4,D Schlager
+2026-04-11,St. Pauli,Bayern Munich,1,2,3,4,T Stieler
+2026-04-11,RB Leipzig,M'gladbach,4,1,11,4,S Stegemann
+2026-04-12,Stuttgart,Hamburg,2,1,8,2,Sven Jablonski
+2026-04-11,VfL Wolfsburg,Ein Frankfurt,2,1,7,7,T Gerach
+2026-04-18,Union Berlin,VfL Wolfsburg,1,1,11,4,F Badstübner
+2026-04-18,Leverkusen,Augsburg,2,1,11,4,B Brand
+2026-04-19,M'gladbach,Mainz,5,2,0,6,T Welz
+2026-04-18,Ein Frankfurt,RB Leipzig,0,1,4,6,B Dankert
+2026-04-19,Bayern Munich,Stuttgart,0,0,11,3,S Storks
+2026-04-17,St. Pauli,FC Koln,4,1,8,5,M Jöllenbeck
+2026-04-19,Freiburg,FC Heidenheim,1,0,5,4,P Ittrich
+2026-04-18,Werder Bremen,Hamburg,4,4,7,3,F Exner
+2026-04-18,Hoffenheim,Dortmund,2,3,4,3,D Siebert
+2026-04-25,FC Heidenheim,St. Pauli,0,1,6,6,F Zwayer
+2026-04-25,FC Koln,Leverkusen,1,2,2,5,R Hartmann
+2026-04-25,Mainz,Bayern Munich,1,2,4,4,M Petersen
+2026-04-26,Dortmund,Freiburg,1,0,5,0,R Braun
+2026-04-25,Augsburg,Ein Frankfurt,1,2,9,7,H Osmers
+2026-04-25,Hamburg,Hoffenheim,2,4,4,9,R Schröder
+2026-04-24,RB Leipzig,Union Berlin,1,1,10,4,Sven Jablonski
+2026-04-26,Stuttgart,Werder Bremen,0,1,14,2,C Dingert
+2026-04-25,VfL Wolfsburg,M'gladbach,1,4,8,5,T Stieler
+2026-05-02,Union Berlin,FC Koln,2,3,2,5,D Schlager
+2026-05-02,Leverkusen,RB Leipzig,1,3,7,3,T Welz
+2026-05-03,M'gladbach,Dortmund,3,1,1,1,F Badstübner
+2026-05-02,Ein Frankfurt,Hamburg,7,1,9,4,D Aytekin
+2026-05-02,Bayern Munich,FC Heidenheim,3,2,13,5,F Willenborg
+2026-05-03,St. Pauli,Mainz,3,1,7,7,T Gerach
+2026-05-03,Freiburg,VfL Wolfsburg,1,1,1,7,B Dankert
+2026-05-02,Werder Bremen,Augsburg,1,1,8,2,D Siebert
+2026-05-02,Hoffenheim,Stuttgart,3,2,4,5,S Stegemann
+2026-05-10,FC Koln,FC Heidenheim,2,2,6,4,Sven Jablonski
+2026-05-10,Mainz,Union Berlin,2,1,7,8,F Exner
+2026-05-08,Dortmund,Ein Frankfurt,3,0,6,2,P Ittrich
+2026-05-09,Augsburg,M'gladbach,2,2,3,2,T Reichel
+2026-05-10,Hamburg,Freiburg,2,2,2,4,F Zwayer
+2026-05-09,RB Leipzig,St. Pauli,2,0,3,5,B Brand
+2026-05-09,Hoffenheim,Werder Bremen,1,3,8,3,S Storks
+2026-05-09,Stuttgart,Leverkusen,2,1,7,6,R Schröder
+2026-05-09,VfL Wolfsburg,Bayern Munich,1,0,6,3,M Jöllenbeck
+2026-05-16,FC Heidenheim,Mainz,1,1,6,3,R Hartmann
+2026-05-16,Union Berlin,Augsburg,3,1,4,9,P Ittrich
+2026-05-16,Leverkusen,Hamburg,1,2,8,3,T Stieler
+2026-05-16,M'gladbach,Hoffenheim,4,7,2,9,F Willenborg
+2026-05-16,Ein Frankfurt,Stuttgart,2,3,6,6,T Welz
+2026-05-16,Bayern Munich,FC Koln,1,1,5,5,D Aytekin
+2026-05-16,St. Pauli,VfL Wolfsburg,2,3,8,9,D Siebert
+2026-05-16,Freiburg,RB Leipzig,0,1,1,2,S Stegemann
+2026-05-16,Werder Bremen,Dortmund,0,0,4,5,B Dankert
+2026-09-12,FC Koln,Werder Bremen,2,1,8,5,F Exner
+2026-09-11,Union Berlin,Schalke 04,3,1,4,5,T Gerach
+2026-09-12,Mainz,Ein Frankfurt,0,2,4,5,F Zwayer
+2026-09-12,Augsburg,Leverkusen,1,1,2,14,D Siebert
+2026-09-12,Freiburg,M'gladbach,1,5,6,2,R Hempel
+2026-09-12,Hoffenheim,Stuttgart,1,0,5,7,Sven Jablonski
+2026-09-12,Dortmund,Paderborn,1,1,7,3,H Osmers
+2026-09-05,Paderborn,Freiburg,3,3,5,4,M Burda
+2026-09-05,Schalke 04,Bayern Munich,2,2,0,11,R Schröder
+2026-09-05,Werder Bremen,RB Leipzig,1,0,2,7,B Brand
+2026-09-06,Hamburg,Mainz,1,3,4,5,T Reichel
+2026-09-05,M'gladbach,Elversberg,3,1,13,4,M Petersen
+2026-09-06,Ein Frankfurt,Augsburg,1,1,9,4,D Schlager
+2026-09-05,Leverkusen,Union Berlin,2,2,11,1,R Braun
+2026-09-05,Hoffenheim,Dortmund,4,2,10,3,M Jöllenbeck
+2026-09-04,Stuttgart,FC Koln,1,3,10,8,C Dingert
+2026-08-29,Elversberg,Leverkusen,3,2,4,3,R Hartmann
+2026-08-29,FC Koln,Hoffenheim,0,2,6,7,F Badstübner
+2026-08-29,Union Berlin,Ein Frankfurt,2,4,5,2,B Dankert
+2026-08-29,Mainz,Paderborn,1,2,11,2,T Stieler
+2026-08-30,Augsburg,Schalke 04,1,1,11,3,S Stegemann
+2026-08-30,Freiburg,Werder Bremen,1,1,6,5,D Siebert
+2026-08-29,RB Leipzig,M'gladbach,1,0,7,6,Sven Jablonski
+2026-08-29,Dortmund,Hamburg,3,1,3,1,F Zwayer
+2026-08-28,Bayern Munich,Stuttgart,1,3,9,3,S Storks

@@ -1,0 +1,798 @@
+Date,HomeTeam,AwayTeam,HomeBookings,AwayBookings,HomeCorners,AwayCorners,Referee
+2024-08-16,Man United,Fulham,2,3,7,8,R Jones
+2024-08-17,Ipswich Town,Liverpool,3,1,2,10,T Robinson
+2024-08-17,Arsenal,Wolves,2,2,8,2,J Gillett
+2024-08-17,Everton,Brighton,2,1,1,5,S Hooper
+2024-08-17,Newcastle,Southampton,3,4,3,12,C Pawson
+2024-08-17,Nott'm Forest,Bournemouth,1,3,2,6,M Oliver
+2024-08-17,West Ham,Aston Villa,1,2,5,3,T Harrington
+2024-08-18,Brentford,Crystal Palace,1,5,4,7,S Barrott
+2024-08-18,Chelsea,Man City,1,1,4,3,A Taylor
+2024-08-19,Leicester City,Tottenham,1,1,2,13,C Kavanagh
+2024-08-25,Bournemouth,Newcastle,2,2,8,9,D Coote
+2024-08-24,Aston Villa,Arsenal,1,3,4,1,M Oliver
+2024-08-24,Brighton,Man United,1,2,4,4,C Pawson
+2024-08-24,Crystal Palace,West Ham,1,1,3,3,R Jones
+2024-08-24,Fulham,Leicester City,2,2,7,5,D Bond
+2024-08-25,Liverpool,Brentford,2,3,9,4,S Attwell
+2024-08-24,Man City,Ipswich Town,2,3,10,1,M Salisbury
+2024-08-24,Southampton,Nott'm Forest,3,3,4,10,S Barrott
+2024-08-24,Tottenham,Everton,0,0,12,5,A Taylor
+2024-08-25,Wolves,Chelsea,2,3,5,5,D England
+2024-08-31,Arsenal,Brighton,6,2,3,7,C Kavanagh
+2024-08-31,Brentford,Southampton,2,1,2,8,J Smith
+2024-09-01,Chelsea,Crystal Palace,4,2,4,4,J Gillett
+2024-08-31,Everton,Bournemouth,2,1,8,4,S Attwell
+2024-08-31,Ipswich Town,Fulham,2,3,8,6,L Smith
+2024-08-31,Leicester City,Aston Villa,4,5,1,4,D Coote
+2024-09-01,Man United,Liverpool,4,1,5,2,A Taylor
+2024-09-01,Newcastle,Tottenham,4,4,7,12,R Jones
+2024-08-31,Nott'm Forest,Wolves,3,4,7,3,S Hooper
+2024-08-31,West Ham,Man City,3,2,3,11,M Oliver
+2024-09-21,Aston Villa,Wolves,3,6,6,5,T Robinson
+2024-09-22,Brighton,Nott'm Forest,3,7,9,1,R Jones
+2024-09-21,Crystal Palace,Man United,3,2,4,11,D Coote
+2024-09-21,Fulham,Newcastle,6,0,6,0,P Bankes
+2024-09-21,Leicester City,Everton,1,2,6,1,D England
+2024-09-21,Liverpool,Bournemouth,1,4,3,9,T Harrington
+2024-09-22,Man City,Arsenal,3,7,8,2,M Oliver
+2024-09-21,Southampton,Ipswich Town,4,4,2,10,S Allison
+2024-09-21,Tottenham,Brentford,3,1,9,4,J Brooks
+2024-09-21,West Ham,Chelsea,5,2,6,5,S Barrott
+2024-09-30,Bournemouth,Southampton,2,5,6,4,M Oliver
+2024-09-28,Arsenal,Leicester City,2,4,17,0,S Barrott
+2024-09-28,Brentford,West Ham,2,3,7,6,S Hooper
+2024-09-28,Chelsea,Brighton,3,2,8,2,P Bankes
+2024-09-28,Everton,Crystal Palace,2,0,5,8,A Madley
+2024-09-29,Ipswich Town,Aston Villa,4,1,10,0,S Attwell
+2024-09-29,Man United,Tottenham,6,3,5,3,C Kavanagh
+2024-09-28,Newcastle,Man City,4,4,5,6,J Gillett
+2024-09-28,Nott'm Forest,Fulham,2,4,6,5,J Smith
+2024-09-28,Wolves,Liverpool,2,3,2,10,A Taylor
+2024-10-05,Arsenal,Southampton,0,3,13,1,T Harrington
+2024-10-06,Aston Villa,Man United,1,5,6,3,R Jones
+2024-10-05,Brentford,Wolves,2,3,10,3,A Madley
+2024-10-06,Brighton,Tottenham,2,2,4,7,D Coote
+2024-10-06,Chelsea,Nott'm Forest,6,5,11,3,C Kavanagh
+2024-10-05,Crystal Palace,Liverpool,4,2,3,8,S Hooper
+2024-10-05,Everton,Newcastle,1,2,0,10,C Pawson
+2024-10-05,Leicester City,Bournemouth,4,1,0,9,D Bond
+2024-10-05,Man City,Fulham,2,1,8,3,P Bankes
+2024-10-05,West Ham,Ipswich Town,0,1,5,5,A Taylor
+2024-10-19,Bournemouth,Arsenal,1,2,7,4,R Jones
+2024-10-19,Fulham,Aston Villa,4,6,6,11,D England
+2024-10-19,Ipswich Town,Everton,1,1,5,7,M Oliver
+2024-10-20,Liverpool,Chelsea,4,3,1,5,J Brooks
+2024-10-19,Man United,Brentford,2,2,9,2,S Barrott
+2024-10-19,Newcastle,Brighton,2,2,9,4,P Bankes
+2024-10-21,Nott'm Forest,Crystal Palace,2,3,6,6,T Robinson
+2024-10-19,Southampton,Leicester City,6,3,10,6,A Taylor
+2024-10-19,Tottenham,West Ham,1,4,13,5,A Madley
+2024-10-20,Wolves,Man City,4,1,1,18,C Kavanagh
+2024-10-27,Arsenal,Liverpool,2,2,1,3,A Taylor
+2024-10-26,Aston Villa,Bournemouth,7,6,9,7,C Kavanagh
+2024-10-26,Brentford,Ipswich Town,0,4,4,5,L Smith
+2024-10-26,Brighton,Wolves,3,3,9,6,M Oliver
+2024-10-27,Chelsea,Newcastle,6,3,7,4,S Hooper
+2024-10-27,Crystal Palace,Tottenham,4,4,8,8,D Bond
+2024-10-26,Everton,Fulham,1,0,4,2,J Brooks
+2024-10-25,Leicester City,Nott'm Forest,5,3,6,7,C Pawson
+2024-10-26,Man City,Southampton,1,3,12,1,T Harrington
+2024-10-27,West Ham,Man United,5,1,6,5,D Coote
+2024-11-09,Brentford,Bournemouth,2,4,6,4,D Bond
+2024-11-09,Brighton,Man City,3,3,0,4,S Barrott
+2024-11-10,Chelsea,Arsenal,4,2,4,3,M Oliver
+2024-11-09,Crystal Palace,Fulham,2,1,1,8,M Salisbury
+2024-11-09,Liverpool,Aston Villa,0,3,2,9,D Coote
+2024-11-10,Man United,Leicester City,0,1,1,5,P Bankes
+2024-11-10,Nott'm Forest,Newcastle,1,1,4,5,A Taylor
+2024-11-10,Tottenham,Ipswich Town,1,5,12,2,D England
+2024-11-09,West Ham,Everton,1,2,7,6,S Attwell
+2024-11-09,Wolves,Southampton,1,4,1,9,T Bramall
+2024-12-07,Aston Villa,Southampton,1,3,14,1,D Bond
+2024-12-07,Brentford,Newcastle,3,0,3,4,S Hooper
+2024-12-07,Crystal Palace,Man City,1,3,6,8,R Jones
+2025-02-12,Everton,Liverpool,5,5,2,3,M Oliver
+2024-12-08,Fulham,Arsenal,4,2,0,6,C Kavanagh
+2024-12-08,Ipswich Town,Bournemouth,2,1,6,13,M Salisbury
+2024-12-08,Leicester City,Brighton,1,2,4,5,S Attwell
+2024-12-07,Man United,Nott'm Forest,0,2,5,3,D England
+2024-12-08,Tottenham,Chelsea,2,3,5,10,A Taylor
+2024-12-09,West Ham,Wolves,5,4,11,0,J Brooks
+2025-01-15,Arsenal,Tottenham,3,1,10,4,S Hooper
+2025-01-14,Brentford,Man City,0,0,4,5,A Taylor
+2025-01-15,Everton,Aston Villa,2,1,8,5,S Barrott
+2025-01-16,Ipswich Town,Brighton,2,2,1,9,T Harrington
+2025-01-15,Leicester City,Crystal Palace,0,0,4,3,A Madley
+2025-01-14,Nott'm Forest,Liverpool,2,1,0,9,C Kavanagh
+2025-01-14,West Ham,Fulham,3,3,0,3,C Pawson
+2025-01-14,Chelsea,Bournemouth,2,3,9,3,R Jones
+2025-01-15,Newcastle,Wolves,0,2,4,2,D England
+2025-01-16,Man United,Southampton,1,3,4,4,J Brooks
+2025-02-01,Bournemouth,Liverpool,2,3,3,3,D England
+2025-02-02,Arsenal,Man City,2,0,5,2,P Bankes
+2025-02-02,Brentford,Tottenham,0,1,10,3,J Gillett
+2025-02-03,Chelsea,West Ham,3,1,4,3,S Attwell
+2025-02-01,Everton,Leicester City,0,0,5,6,D Bond
+2025-02-01,Ipswich Town,Southampton,0,3,1,2,M Oliver
+2025-02-02,Man United,Crystal Palace,3,1,11,0,J Brooks
+2025-02-01,Newcastle,Fulham,4,4,3,7,C Kavanagh
+2025-02-01,Nott'm Forest,Brighton,1,3,4,6,S Hooper
+2025-02-01,Wolves,Aston Villa,2,3,5,8,A Madley
+2025-02-15,Aston Villa,Ipswich Town,0,6,16,1,R Jones
+2025-02-14,Brighton,Chelsea,1,2,2,9,C Kavanagh
+2025-02-15,Crystal Palace,Everton,0,1,6,2,A Taylor
+2025-02-15,Fulham,Nott'm Forest,0,0,8,4,T Bramall
+2025-02-15,Leicester City,Arsenal,2,1,3,7,S Barrott
+2025-02-16,Liverpool,Wolves,2,2,4,3,S Hooper
+2025-02-15,Man City,Newcastle,0,1,7,4,A Madley
+2025-02-15,Southampton,Bournemouth,1,3,4,6,J Gillett
+2025-02-16,Tottenham,Man United,1,2,10,5,P Bankes
+2025-02-15,West Ham,Brentford,1,1,9,2,D England
+2025-02-22,Bournemouth,Wolves,4,3,6,7,M Salisbury
+2025-02-22,Arsenal,West Ham,2,3,2,0,C Pawson
+2025-02-22,Aston Villa,Chelsea,1,3,2,3,M Oliver
+2025-02-22,Everton,Man United,4,1,7,8,A Madley
+2025-02-22,Fulham,Crystal Palace,1,3,7,7,R Jones
+2025-02-22,Ipswich Town,Tottenham,2,1,4,4,T Robinson
+2025-02-21,Leicester City,Brentford,4,0,5,6,T Harrington
+2025-02-23,Man City,Liverpool,0,0,7,5,A Taylor
+2025-02-23,Newcastle,Nott'm Forest,1,4,7,6,J Gillett
+2025-02-22,Southampton,Brighton,2,0,5,6,D Bond
+2024-11-23,Bournemouth,Brighton,2,5,7,0,S Attwell
+2024-11-23,Arsenal,Nott'm Forest,3,2,8,1,S Hooper
+2024-11-23,Aston Villa,Crystal Palace,3,2,10,1,T Robinson
+2024-11-23,Everton,Brentford,0,1,10,4,C Kavanagh
+2024-11-23,Fulham,Wolves,3,0,7,2,R Jones
+2024-11-24,Ipswich Town,Man United,0,0,4,3,A Taylor
+2024-11-23,Leicester City,Chelsea,4,3,2,9,A Madley
+2024-11-23,Man City,Tottenham,4,2,9,3,J Brooks
+2024-11-25,Newcastle,West Ham,1,0,8,3,C Pawson
+2024-11-24,Southampton,Liverpool,3,4,3,10,S Barrott
+2024-11-30,Brentford,Leicester City,1,1,5,4,M Oliver
+2024-11-29,Brighton,Southampton,2,4,7,6,R Jones
+2024-12-01,Chelsea,Aston Villa,2,2,3,4,S Attwell
+2024-11-30,Crystal Palace,Newcastle,3,3,8,9,D England
+2024-12-01,Liverpool,Man City,1,3,7,4,C Kavanagh
+2024-12-01,Man United,Everton,2,3,2,2,J Brooks
+2024-11-30,Nott'm Forest,Ipswich Town,1,3,8,7,T Harrington
+2024-12-01,Tottenham,Fulham,0,2,7,11,D Bond
+2024-11-30,West Ham,Arsenal,4,1,2,10,A Taylor
+2024-11-30,Wolves,Bournemouth,5,1,3,4,P Bankes
+2025-01-18,Arsenal,Aston Villa,2,3,10,1,C Kavanagh
+2025-01-18,Brentford,Liverpool,2,3,2,15,A Madley
+2025-01-20,Chelsea,Wolves,4,2,3,6,S Hooper
+2025-01-19,Everton,Tottenham,2,1,3,8,D England
+2025-01-19,Ipswich Town,Man City,0,1,4,7,S Barrott
+2025-01-18,Leicester City,Fulham,3,1,5,2,M Salisbury
+2025-01-19,Man United,Brighton,3,3,4,2,P Bankes
+2025-01-18,Newcastle,Bournemouth,1,6,7,6,S Attwell
+2025-01-19,Nott'm Forest,Southampton,0,4,2,8,A Taylor
+2025-01-18,West Ham,Crystal Palace,4,0,2,4,T Bramall
+2024-09-14,Bournemouth,Chelsea,6,8,6,3,A Taylor
+2024-09-14,Aston Villa,Everton,1,4,6,2,C Pawson
+2024-09-14,Brighton,Ipswich Town,4,3,9,2,S Barrott
+2024-09-14,Crystal Palace,Leicester City,0,3,5,2,T Harrington
+2024-09-14,Fulham,West Ham,2,3,3,2,T Robinson
+2024-09-14,Liverpool,Nott'm Forest,4,4,7,2,M Oliver
+2024-09-14,Man City,Brentford,3,1,12,3,D Bond
+2024-09-14,Southampton,Man United,2,4,0,7,S Attwell
+2024-09-15,Tottenham,Arsenal,5,3,7,6,J Gillett
+2024-09-15,Wolves,Newcastle,3,3,4,7,C Kavanagh
+2024-12-16,Bournemouth,West Ham,0,2,12,6,C Kavanagh
+2024-12-14,Arsenal,Everton,0,3,8,2,C Pawson
+2024-12-15,Brighton,Crystal Palace,1,4,8,5,M Oliver
+2024-12-15,Chelsea,Brentford,3,2,8,5,P Bankes
+2024-12-14,Liverpool,Fulham,4,4,5,4,T Harrington
+2024-12-15,Man City,Man United,1,1,8,2,A Taylor
+2024-12-14,Newcastle,Leicester City,3,3,5,2,T Bramall
+2024-12-14,Nott'm Forest,Aston Villa,0,1,4,3,S Barrott
+2024-12-15,Southampton,Tottenham,1,3,2,5,D England
+2024-12-14,Wolves,Ipswich Town,3,3,7,3,S Hooper
+2025-01-25,Bournemouth,Nott'm Forest,2,3,3,9,C Pawson
+2025-01-26,Aston Villa,West Ham,2,3,4,3,P Bankes
+2025-01-25,Brighton,Everton,4,4,9,1,T Robinson
+2025-01-26,Crystal Palace,Brentford,2,2,4,7,T Harrington
+2025-01-26,Fulham,Man United,0,1,3,0,A Taylor
+2025-01-25,Liverpool,Ipswich Town,0,2,3,4,M Salisbury
+2025-01-25,Man City,Chelsea,3,2,2,3,J Brooks
+2025-01-25,Southampton,Newcastle,1,0,3,8,S Barrott
+2025-01-26,Tottenham,Leicester City,1,5,6,4,R Jones
+2025-01-25,Wolves,Arsenal,3,2,1,5,M Oliver
+2024-11-02,Bournemouth,Man City,2,1,3,10,M Oliver
+2024-11-04,Fulham,Brentford,2,1,11,3,S Attwell
+2024-11-02,Ipswich Town,Leicester City,7,2,4,6,T Robinson
+2024-11-02,Liverpool,Brighton,1,2,9,7,T Harrington
+2024-11-03,Man United,Chelsea,6,2,4,8,R Jones
+2024-11-02,Newcastle,Arsenal,4,4,4,6,J Brooks
+2024-11-02,Nott'm Forest,West Ham,1,5,10,6,P Bankes
+2024-11-02,Southampton,Everton,4,2,3,6,A Madley
+2024-11-03,Tottenham,Aston Villa,2,0,6,4,C Pawson
+2024-11-02,Wolves,Crystal Palace,1,2,3,6,A Taylor
+2024-12-05,Bournemouth,Tottenham,2,2,5,9,S Hooper
+2024-12-04,Arsenal,Man United,1,3,13,0,S Barrott
+2024-12-04,Aston Villa,Brentford,2,2,10,5,L Smith
+2024-12-04,Everton,Wolves,2,0,3,4,M Salisbury
+2024-12-05,Fulham,Brighton,2,2,5,6,P Bankes
+2024-12-03,Ipswich Town,Crystal Palace,2,4,4,7,C Pawson
+2024-12-03,Leicester City,West Ham,2,2,3,9,J Smith
+2024-12-04,Man City,Nott'm Forest,2,4,8,2,M Oliver
+2024-12-04,Newcastle,Liverpool,2,5,5,6,A Madley
+2024-12-04,Southampton,Chelsea,2,0,5,7,T Harrington
+2024-12-21,Aston Villa,Man City,3,3,5,4,P Bankes
+2024-12-21,Brentford,Nott'm Forest,3,4,9,5,M Oliver
+2024-12-21,Crystal Palace,Arsenal,2,2,3,3,S Hooper
+2024-12-22,Everton,Chelsea,4,1,2,5,C Kavanagh
+2024-12-22,Fulham,Southampton,1,3,6,5,T Robinson
+2024-12-21,Ipswich Town,Newcastle,2,0,2,1,S Attwell
+2024-12-22,Leicester City,Wolves,2,0,6,1,A Taylor
+2024-12-22,Man United,Bournemouth,1,3,13,1,C Pawson
+2024-12-22,Tottenham,Liverpool,1,2,7,5,S Barrott
+2024-12-21,West Ham,Brighton,2,2,8,4,R Jones
+2024-12-26,Bournemouth,Crystal Palace,2,2,5,2,T Bramall
+2024-12-27,Arsenal,Ipswich Town,1,1,5,1,D England
+2024-12-27,Brighton,Brentford,0,2,5,3,A Madley
+2024-12-26,Chelsea,Fulham,1,3,3,1,S Barrott
+2024-12-26,Liverpool,Leicester City,3,2,14,1,D Bond
+2024-12-26,Man City,Everton,1,4,8,5,S Hooper
+2024-12-26,Newcastle,Aston Villa,2,2,9,6,A Taylor
+2024-12-26,Nott'm Forest,Tottenham,3,5,2,7,C Pawson
+2024-12-26,Southampton,West Ham,1,2,2,2,L Smith
+2024-12-26,Wolves,Man United,2,5,4,4,T Harrington
+2024-12-30,Aston Villa,Brighton,2,3,12,3,C Pawson
+2025-01-01,Brentford,Arsenal,1,2,4,3,P Bankes
+2024-12-29,Crystal Palace,Southampton,2,3,8,7,M Salisbury
+2024-12-29,Everton,Nott'm Forest,4,1,5,4,T Harrington
+2024-12-29,Fulham,Bournemouth,1,3,1,7,R Jones
+2024-12-30,Ipswich Town,Chelsea,4,4,4,7,J Brooks
+2024-12-29,Leicester City,Man City,2,1,4,4,M Oliver
+2024-12-30,Man United,Newcastle,1,1,2,3,S Hooper
+2024-12-29,Tottenham,Wolves,1,2,5,5,C Kavanagh
+2024-12-29,West Ham,Liverpool,0,0,2,6,A Taylor
+2025-01-04,Bournemouth,Everton,2,2,9,3,J Brooks
+2025-01-04,Aston Villa,Leicester City,0,1,6,2,J Gillett
+2025-01-04,Brighton,Arsenal,2,3,2,5,A Taylor
+2025-01-04,Crystal Palace,Chelsea,0,2,6,6,T Robinson
+2025-01-05,Fulham,Ipswich Town,1,5,9,2,D Bond
+2025-01-05,Liverpool,Man United,2,4,6,9,M Oliver
+2025-01-04,Man City,West Ham,2,1,7,1,M Salisbury
+2025-01-04,Southampton,Brentford,2,0,2,2,S Attwell
+2025-01-04,Tottenham,Newcastle,1,4,9,10,A Madley
+2025-01-06,Wolves,Nott'm Forest,1,2,5,3,P Bankes
+2025-02-26,Brentford,Everton,2,1,2,5,S Hooper
+2025-02-25,Brighton,Bournemouth,2,1,1,9,M Oliver
+2025-02-26,Nott'm Forest,Arsenal,1,1,3,11,A Madley
+2025-02-26,Tottenham,Man City,3,0,8,3,J Gillett
+2025-02-27,West Ham,Leicester City,0,0,3,3,A Taylor
+2025-02-25,Wolves,Fulham,1,3,7,4,P Bankes
+2025-02-25,Crystal Palace,Aston Villa,3,1,3,8,S Barrott
+2025-02-25,Chelsea,Southampton,1,2,4,2,T Bramall
+2025-02-26,Liverpool,Newcastle,0,1,4,2,S Attwell
+2025-02-26,Man United,Ipswich Town,5,4,5,6,D England
+2025-03-08,Brentford,Aston Villa,2,2,6,5,J Gillett
+2025-03-08,Brighton,Fulham,0,2,3,7,S Barrott
+2025-03-09,Chelsea,Leicester City,1,0,12,2,T Robinson
+2025-03-08,Crystal Palace,Ipswich Town,4,3,5,4,S Hooper
+2025-03-08,Liverpool,Southampton,2,1,6,4,L Smith
+2025-03-09,Man United,Arsenal,0,1,2,9,A Taylor
+2025-03-08,Nott'm Forest,Man City,3,2,3,2,C Kavanagh
+2025-03-09,Tottenham,Bournemouth,3,3,3,6,J Brooks
+2025-03-10,West Ham,Newcastle,0,1,3,4,M Salisbury
+2025-03-08,Wolves,Everton,2,2,5,5,S Attwell
+2025-03-15,Bournemouth,Brentford,3,0,4,3,C Pawson
+2025-03-16,Arsenal,Chelsea,3,3,5,4,C Kavanagh
+2025-02-19,Aston Villa,Liverpool,1,0,6,8,C Pawson
+2025-03-15,Everton,West Ham,1,2,6,5,D Bond
+2025-03-16,Fulham,Tottenham,0,0,6,5,A Madley
+2025-03-15,Ipswich Town,Nott'm Forest,1,1,6,3,M Salisbury
+2025-03-16,Leicester City,Man United,2,0,6,4,T Bramall
+2025-03-15,Man City,Brighton,2,5,4,5,S Hooper
+2025-04-16,Newcastle,Crystal Palace,2,3,5,4,D England
+2025-03-15,Southampton,Wolves,0,0,5,1,R Jones
+2025-04-02,Bournemouth,Ipswich Town,1,2,8,3,R Jones
+2025-04-01,Arsenal,Fulham,1,3,5,4,J Brooks
+2025-04-02,Brighton,Aston Villa,2,3,4,0,S Attwell
+2025-04-01,Nott'm Forest,Man United,1,3,3,10,J Gillett
+2025-04-01,Wolves,West Ham,4,2,1,2,T Harrington
+2025-04-03,Chelsea,Tottenham,5,5,4,6,C Pawson
+2025-04-02,Man City,Leicester City,1,4,5,0,D England
+2025-04-02,Newcastle,Brentford,1,1,4,5,P Bankes
+2025-04-02,Southampton,Crystal Palace,2,1,2,2,A Madley
+2025-04-02,Liverpool,Everton,2,2,11,5,S Barrott
+2025-04-05,Aston Villa,Nott'm Forest,2,2,4,4,S Hooper
+2025-04-06,Brentford,Chelsea,1,3,3,6,M Oliver
+2025-04-05,Crystal Palace,Brighton,6,4,2,4,A Taylor
+2025-04-05,Everton,Arsenal,3,1,3,8,D England
+2025-04-06,Fulham,Liverpool,3,0,4,4,C Kavanagh
+2025-04-05,Ipswich Town,Wolves,2,2,4,8,P Bankes
+2025-04-07,Leicester City,Newcastle,2,0,12,2,R Jones
+2025-04-06,Man United,Man City,3,2,5,3,J Brooks
+2025-04-06,Tottenham,Southampton,1,1,4,1,M Salisbury
+2025-04-05,West Ham,Bournemouth,2,2,4,7,T Robinson
+2025-04-14,Bournemouth,Fulham,3,2,6,9,M Oliver
+2025-04-12,Arsenal,Brentford,1,3,13,5,S Hooper
+2025-04-12,Brighton,Leicester City,2,5,3,6,D Bond
+2025-04-13,Chelsea,Ipswich Town,2,2,15,4,S Attwell
+2025-04-13,Liverpool,West Ham,0,2,10,3,A Madley
+2025-04-12,Man City,Crystal Palace,2,3,1,4,J Gillett
+2025-04-13,Newcastle,Man United,0,2,7,2,C Kavanagh
+2025-04-12,Nott'm Forest,Everton,0,3,1,7,C Pawson
+2025-04-12,Southampton,Aston Villa,3,1,2,13,T Bramall
+2025-04-13,Wolves,Tottenham,1,2,1,4,A Taylor
+2025-04-19,Aston Villa,Newcastle,1,3,7,7,J Gillett
+2025-04-19,Brentford,Brighton,3,4,4,7,T Robinson
+2025-04-19,Crystal Palace,Bournemouth,6,4,5,4,S Barrott
+2025-04-19,Everton,Man City,4,0,2,5,S Hooper
+2025-04-20,Fulham,Chelsea,1,3,5,4,A Taylor
+2025-04-20,Ipswich Town,Arsenal,1,0,0,12,C Kavanagh
+2025-04-20,Leicester City,Liverpool,1,2,1,13,S Attwell
+2025-04-20,Man United,Wolves,2,3,9,2,R Jones
+2025-04-21,Tottenham,Nott'm Forest,1,4,7,1,P Bankes
+2025-04-19,West Ham,Southampton,2,1,2,5,A Kitchen
+2025-04-27,Bournemouth,Man United,5,2,5,10,P Bankes
+2025-04-23,Arsenal,Crystal Palace,1,1,3,6,M Salisbury
+2025-04-26,Brighton,West Ham,2,1,8,1,D England
+2025-04-26,Chelsea,Everton,0,0,10,2,C Kavanagh
+2025-04-27,Liverpool,Tottenham,2,1,8,2,T Bramall
+2025-04-22,Man City,Aston Villa,3,3,10,2,C Pawson
+2025-04-26,Newcastle,Ipswich Town,1,5,11,2,M Salisbury
+2025-05-01,Nott'm Forest,Brentford,3,5,4,5,D England
+2025-04-26,Southampton,Fulham,1,1,0,13,T Harrington
+2025-04-26,Wolves,Leicester City,1,4,4,2,S Barrott
+2025-05-03,Arsenal,Bournemouth,0,2,2,3,J Gillett
+2025-05-03,Aston Villa,Fulham,0,5,5,3,R Jones
+2025-05-04,Brentford,Man United,0,2,7,3,A Taylor
+2025-05-04,Brighton,Newcastle,2,1,1,4,C Pawson
+2025-05-04,Chelsea,Liverpool,2,2,3,6,S Hooper
+2025-05-05,Crystal Palace,Nott'm Forest,3,8,7,4,A Madley
+2025-05-03,Everton,Ipswich Town,4,4,2,3,L Smith
+2025-05-03,Leicester City,Southampton,1,3,6,7,D Webb
+2025-05-02,Man City,Wolves,0,0,4,5,P Bankes
+2025-05-04,West Ham,Tottenham,2,2,1,3,M Oliver
+2025-05-10,Bournemouth,Aston Villa,4,6,10,0,S Attwell
+2025-05-10,Fulham,Everton,1,0,5,5,D England
+2025-05-10,Ipswich Town,Brentford,2,4,5,6,S Barrott
+2025-05-11,Liverpool,Arsenal,1,4,3,1,A Taylor
+2025-05-11,Man United,West Ham,0,1,8,5,J Gillett
+2025-05-11,Newcastle,Chelsea,4,3,2,8,J Brooks
+2025-05-11,Nott'm Forest,Leicester City,3,3,4,4,T Harrington
+2025-05-10,Southampton,Man City,2,0,1,15,T Robinson
+2025-05-11,Tottenham,Crystal Palace,1,1,4,8,C Kavanagh
+2025-05-10,Wolves,Brighton,1,1,7,4,M Oliver
+2025-05-18,Arsenal,Newcastle,3,3,10,7,S Hooper
+2025-05-16,Aston Villa,Tottenham,1,2,9,1,P Bankes
+2025-05-18,Brentford,Fulham,4,4,5,3,J Gillett
+2025-05-19,Brighton,Liverpool,1,0,3,3,A Madley
+2025-05-16,Chelsea,Man United,1,6,7,2,C Kavanagh
+2025-05-20,Crystal Palace,Wolves,1,2,0,9,D Webb
+2025-05-18,Everton,Southampton,1,1,4,5,M Oliver
+2025-05-18,Leicester City,Ipswich Town,1,0,2,2,A Kitchen
+2025-05-20,Man City,Bournemouth,2,4,3,1,T Bramall
+2025-05-18,West Ham,Nott'm Forest,6,3,8,7,S Barrott
+2025-05-25,Bournemouth,Leicester City,0,2,6,1,L Smith
+2025-05-25,Fulham,Man City,0,0,1,6,A Madley
+2025-05-25,Ipswich Town,West Ham,1,1,4,0,T Robinson
+2025-05-25,Liverpool,Crystal Palace,3,0,11,0,D England
+2025-05-25,Man United,Aston Villa,2,3,4,3,T Bramall
+2025-05-25,Newcastle,Everton,1,4,12,3,T Harrington
+2025-05-25,Nott'm Forest,Chelsea,2,2,7,4,A Taylor
+2025-05-25,Southampton,Arsenal,0,0,5,8,D Bond
+2025-05-25,Tottenham,Brighton,3,1,2,11,R Jones
+2025-05-25,Wolves,Brentford,2,1,8,3,C Pawson
+2026-02-21,Brentford,Brighton,1,2,6,4,J Gillett
+2026-02-21,Chelsea,Burnley,5,2,9,5,L Smith
+2026-02-22,Crystal Palace,Wolves,5,4,7,3,T Kirk
+2026-02-23,Everton,Man United,2,3,10,1,D England
+2026-02-21,Man City,Newcastle,2,5,5,5,T Bramall
+2026-02-22,Nott'm Forest,Liverpool,2,0,7,2,A Taylor
+2026-02-22,Sunderland,Fulham,1,1,6,4,C Pawson
+2026-02-22,Tottenham,Arsenal,2,1,2,5,P Bankes
+2026-02-21,West Ham,Bournemouth,1,1,9,5,S Barrott
+2026-03-01,Arsenal,Chelsea,1,6,5,10,D England
+2026-02-28,Bournemouth,Sunderland,4,2,7,3,J Gillett
+2026-03-01,Brighton,Nott'm Forest,3,1,4,4,A Madley
+2026-02-28,Burnley,Brentford,2,2,4,8,S Barrott
+2026-03-01,Fulham,Tottenham,3,3,5,8,T Bramall
+2026-02-28,Leeds,Man City,0,3,5,3,P Bankes
+2026-02-28,Liverpool,West Ham,2,2,10,5,T Robinson
+2026-03-01,Man United,Crystal Palace,2,3,7,1,C Kavanagh
+2026-02-28,Newcastle,Everton,2,3,7,2,S Attwell
+2026-02-27,Wolves,Aston Villa,3,3,0,5,C Pawson
+2026-03-04,Aston Villa,Chelsea,3,2,3,8,J Gillett
+2026-03-03,Bournemouth,Brentford,2,1,4,3,C Pawson
+2026-03-04,Brighton,Arsenal,4,1,4,3,C Kavanagh
+2026-03-03,Everton,Burnley,0,1,6,3,T Robinson
+2026-03-04,Fulham,West Ham,2,4,6,5,M Donohue
+2026-03-03,Leeds,Sunderland,1,3,9,2,S Attwell
+2026-03-04,Man City,Nott'm Forest,0,4,6,1,D England
+2026-03-04,Newcastle,Man United,5,3,2,4,P Bankes
+2026-03-05,Tottenham,Crystal Palace,4,2,6,3,A Madley
+2026-03-03,Wolves,Liverpool,2,1,2,11,T Bramall
+2026-03-14,Arsenal,Everton,0,0,8,3,A Madley
+2026-03-16,Brentford,Wolves,2,4,1,5,S Attwell
+2026-03-14,Burnley,Bournemouth,1,0,5,8,P Bankes
+2026-03-14,Chelsea,Newcastle,2,2,8,1,P Tierney
+2026-03-15,Crystal Palace,Leeds,2,4,8,3,T Bramall
+2026-03-15,Liverpool,Tottenham,0,0,3,4,C Kavanagh
+2026-03-15,Man United,Aston Villa,3,2,6,6,A Taylor
+2026-03-15,Nott'm Forest,Fulham,2,3,5,4,S Barrott
+2026-03-14,Sunderland,Brighton,1,2,7,3,T Kirk
+2026-03-14,West Ham,Man City,2,2,1,15,M Oliver
+2026-03-22,Aston Villa,West Ham,0,1,6,6,P Tierney
+2026-03-20,Bournemouth,Man United,2,3,6,8,S Attwell
+2026-03-21,Brighton,Liverpool,5,5,4,8,D England
+2026-03-21,Everton,Chelsea,0,2,3,9,S Barrott
+2026-03-21,Fulham,Burnley,2,3,6,6,C Kavanagh
+2026-03-21,Leeds,Brentford,2,0,6,2,J Gillett
+2026-05-13,Man City,Crystal Palace,0,2,9,4,S Attwell
+2026-03-22,Newcastle,Sunderland,1,6,9,5,A Taylor
+2026-03-22,Tottenham,Nott'm Forest,1,2,13,3,M Oliver
+2026-04-11,Burnley,Brighton,2,1,8,2,T Bramall
+2026-04-12,Chelsea,Man City,3,1,4,12,C Kavanagh
+2026-04-12,Crystal Palace,Newcastle,0,3,2,4,A Madley
+2026-04-11,Liverpool,Fulham,0,0,6,9,A Taylor
+2026-04-21,Brighton,Chelsea,1,1,6,5,C Pawson
+2026-04-22,Burnley,Man City,0,0,3,11,A Madley
+2026-04-25,Fulham,Aston Villa,2,2,2,5,M Oliver
+2026-04-25,Liverpool,Crystal Palace,1,3,5,8,A Madley
+2026-04-27,Man United,Brentford,2,4,7,8,C Kavanagh
+2026-04-24,Sunderland,Nott'm Forest,2,5,3,6,D England
+2026-04-25,West Ham,Everton,3,4,3,4,S Attwell
+2026-04-25,Wolves,Tottenham,3,4,5,5,A Taylor
+2026-05-02,Arsenal,Fulham,0,1,3,4,J Gillett
+2026-05-03,Aston Villa,Tottenham,2,5,5,5,S Barrott
+2026-05-03,Bournemouth,Crystal Palace,0,2,7,1,R Jones
+2026-05-02,Brentford,West Ham,1,3,2,6,C Pawson
+2026-05-04,Chelsea,Nott'm Forest,3,1,10,1,A Taylor
+2026-05-04,Everton,Man City,4,1,5,9,M Oliver
+2026-05-01,Leeds,Burnley,4,3,5,0,T Bramall
+2026-05-03,Man United,Liverpool,2,2,3,2,D England
+2026-05-02,Newcastle,Brighton,3,3,2,10,C Kavanagh
+2026-05-02,Wolves,Sunderland,0,5,6,3,P Tierney
+2026-05-09,Brighton,Wolves,1,2,7,1,J Brooks
+2026-05-10,Burnley,Aston Villa,1,1,2,8,A Taylor
+2026-05-10,Crystal Palace,Everton,0,2,5,10,T Bramall
+2026-05-09,Fulham,Bournemouth,5,3,11,2,A Madley
+2026-05-09,Liverpool,Chelsea,2,4,5,2,C Pawson
+2026-05-09,Man City,Brentford,4,2,10,2,M Salisbury
+2026-05-10,Nott'm Forest,Newcastle,2,0,2,1,P Tierney
+2026-05-09,Sunderland,Man United,0,3,6,7,S Attwell
+2026-05-11,Tottenham,Leeds,3,1,14,2,J Gillett
+2026-05-10,West Ham,Arsenal,3,4,4,3,C Kavanagh
+2026-05-18,Arsenal,Burnley,1,3,3,3,P Tierney
+2026-05-15,Aston Villa,Liverpool,3,1,4,9,C Kavanagh
+2026-05-19,Bournemouth,Man City,4,2,7,6,A Taylor
+2026-05-17,Brentford,Crystal Palace,1,3,9,4,S Barrott
+2026-05-19,Chelsea,Tottenham,4,3,3,4,S Attwell
+2026-05-17,Everton,Sunderland,3,0,3,2,J Brooks
+2026-05-17,Leeds,Brighton,1,0,7,8,M Oliver
+2026-05-17,Man United,Nott'm Forest,2,1,7,6,M Salisbury
+2026-05-17,Newcastle,West Ham,1,3,9,1,J Gillett
+2026-05-17,Wolves,Fulham,1,0,3,6,T Kirk
+2026-05-24,Brighton,Man United,0,1,0,3,S Barrott
+2026-05-24,Burnley,Wolves,2,2,7,7,A Kitchen
+2026-05-24,Crystal Palace,Arsenal,0,1,3,4,F Hallam
+2026-05-24,Fulham,Newcastle,2,2,6,6,R Jones
+2026-05-24,Liverpool,Brentford,2,3,14,2,D England
+2026-05-24,Man City,Aston Villa,1,0,9,4,A Madley
+2026-05-24,Nott'm Forest,Bournemouth,1,1,6,3,C Pawson
+2026-05-24,Sunderland,Chelsea,5,6,6,2,C Kavanagh
+2026-05-24,Tottenham,Everton,3,2,7,7,M Oliver
+2026-05-24,West Ham,Leeds,0,3,6,4,A Taylor
+2025-08-15,Liverpool,Bournemouth,1,2,6,7,A Taylor
+2025-08-16,Aston Villa,Newcastle,2,1,3,6,C Pawson
+2025-08-16,Brighton,Fulham,3,3,4,3,S Barrott
+2025-08-17,Nott'm Forest,Brentford,1,2,5,5,P Bankes
+2025-08-16,Sunderland,West Ham,0,1,5,7,R Jones
+2025-08-16,Tottenham,Burnley,0,0,6,5,M Oliver
+2025-08-16,Wolves,Man City,1,2,4,5,J Gillett
+2025-08-17,Chelsea,Crystal Palace,2,3,11,2,D England
+2025-08-17,Man United,Arsenal,1,4,3,4,S Hooper
+2025-08-18,Leeds,Everton,0,2,7,2,C Kavanagh
+2025-08-23,Arsenal,Leeds,0,2,2,2,J Gillett
+2025-08-23,Bournemouth,Wolves,2,5,8,3,T Bramall
+2025-08-23,Brentford,Aston Villa,1,2,2,9,T Harrington
+2025-08-23,Burnley,Sunderland,0,1,4,3,M Salisbury
+2025-08-24,Crystal Palace,Nott'm Forest,3,3,1,3,A Taylor
+2025-08-24,Everton,Brighton,4,3,2,2,S Attwell
+2025-08-24,Fulham,Man United,1,1,9,6,C Kavanagh
+2025-08-23,Man City,Tottenham,1,4,7,2,P Bankes
+2025-08-25,Newcastle,Liverpool,3,3,7,1,S Hooper
+2025-08-22,West Ham,Chelsea,0,1,7,5,M Oliver
+2025-08-31,Aston Villa,Crystal Palace,2,3,10,1,S Attwell
+2025-08-31,Brighton,Man City,2,2,3,2,D England
+2025-08-30,Chelsea,Fulham,2,2,6,4,R Jones
+2025-08-30,Leeds,Newcastle,1,1,5,5,P Bankes
+2025-08-31,Liverpool,Arsenal,2,2,3,8,C Kavanagh
+2025-08-30,Man United,Burnley,1,5,7,1,S Barrott
+2025-08-31,Nott'm Forest,West Ham,0,0,9,7,C Pawson
+2025-08-30,Sunderland,Brentford,3,2,3,4,A Taylor
+2025-08-30,Tottenham,Bournemouth,2,4,0,8,S Hooper
+2025-08-30,Wolves,Everton,0,1,2,2,M Oliver
+2025-09-13,Arsenal,Nott'm Forest,1,1,8,3,D England
+2025-09-13,Bournemouth,Brighton,4,4,4,4,P Bankes
+2025-09-13,Brentford,Chelsea,3,2,5,6,S Attwell
+2025-09-14,Burnley,Liverpool,3,2,1,13,M Oliver
+2025-09-13,Crystal Palace,Sunderland,1,1,5,3,T Bramall
+2025-09-13,Everton,Aston Villa,3,3,10,3,S Hooper
+2025-09-13,Fulham,Leeds,1,2,3,3,C Pawson
+2025-09-14,Man City,Man United,0,0,2,4,A Taylor
+2025-09-13,Newcastle,Wolves,1,4,9,4,C Kavanagh
+2025-09-13,West Ham,Tottenham,1,1,2,13,J Gillett
+2025-09-21,Arsenal,Man City,1,2,11,1,S Attwell
+2025-09-21,Bournemouth,Newcastle,2,1,5,2,R Jones
+2025-09-20,Brighton,Tottenham,1,2,2,10,C Kavanagh
+2025-09-20,Burnley,Nott'm Forest,1,1,4,5,T Bramall
+2025-09-20,Fulham,Brentford,4,1,2,10,M Oliver
+2025-09-20,Liverpool,Everton,2,3,5,4,D England
+2025-09-20,Man United,Chelsea,3,6,5,5,P Bankes
+2025-09-21,Sunderland,Aston Villa,3,1,6,5,S Barrott
+2025-09-20,West Ham,Crystal Palace,3,3,8,8,T Harrington
+2025-09-20,Wolves,Leeds,1,1,4,0,A Taylor
+2025-09-28,Aston Villa,Fulham,1,4,2,8,A Madley
+2025-09-27,Brentford,Man United,2,2,4,2,C Pawson
+2025-09-27,Chelsea,Brighton,4,5,5,7,S Hooper
+2025-09-27,Crystal Palace,Liverpool,1,3,2,6,C Kavanagh
+2025-09-29,Everton,West Ham,3,4,3,5,S Barrott
+2025-09-27,Leeds,Bournemouth,2,2,7,4,M Oliver
+2025-09-27,Man City,Burnley,1,3,10,2,R Jones
+2025-09-28,Newcastle,Arsenal,2,1,7,12,J Gillett
+2025-09-27,Nott'm Forest,Sunderland,4,2,7,4,T Harrington
+2025-09-27,Tottenham,Wolves,3,2,10,9,M Salisbury
+2025-10-04,Arsenal,West Ham,0,2,8,3,J Brooks
+2025-10-05,Aston Villa,Burnley,3,1,6,4,A Kitchen
+2025-10-03,Bournemouth,Fulham,0,1,4,3,S Hooper
+2025-10-05,Brentford,Man City,3,2,3,2,D England
+2025-10-04,Chelsea,Liverpool,0,2,7,2,A Taylor
+2025-10-05,Everton,Crystal Palace,2,3,2,4,M Salisbury
+2025-10-04,Leeds,Tottenham,2,3,4,1,T Bramall
+2025-10-04,Man United,Sunderland,1,4,2,3,S Attwell
+2025-10-05,Newcastle,Nott'm Forest,0,4,8,1,P Bankes
+2025-10-05,Wolves,Brighton,2,4,2,8,J Gillett
+2025-10-18,Brighton,Newcastle,0,1,8,4,C Pawson
+2025-10-18,Burnley,Leeds,2,1,1,5,T Robinson
+2025-10-18,Crystal Palace,Bournemouth,1,4,6,5,J Gillett
+2025-10-18,Fulham,Arsenal,0,0,6,10,A Taylor
+2025-10-19,Liverpool,Man United,0,2,9,4,M Oliver
+2025-10-18,Man City,Everton,0,2,11,3,T Harrington
+2025-10-18,Nott'm Forest,Chelsea,2,5,5,2,C Kavanagh
+2025-10-18,Sunderland,Wolves,0,0,2,2,R Jones
+2025-10-19,Tottenham,Aston Villa,2,0,6,6,S Hooper
+2025-10-20,West Ham,Brentford,1,1,6,10,A Madley
+2025-10-26,Arsenal,Crystal Palace,0,0,4,3,T Bramall
+2025-10-26,Aston Villa,Man City,1,4,5,6,M Oliver
+2025-10-26,Bournemouth,Nott'm Forest,3,1,6,4,S Barrott
+2025-10-25,Brentford,Liverpool,3,2,5,4,S Hooper
+2025-10-25,Chelsea,Sunderland,1,1,9,1,A Madley
+2025-10-26,Everton,Tottenham,2,0,9,8,C Pawson
+2025-10-24,Leeds,West Ham,3,3,3,4,S Attwell
+2025-10-25,Man United,Brighton,2,2,1,6,A Taylor
+2025-10-25,Newcastle,Fulham,0,2,4,3,T Harrington
+2025-10-26,Wolves,Burnley,1,0,4,3,P Bankes
+2025-11-01,Brighton,Leeds,0,1,4,7,M Oliver
+2025-11-01,Burnley,Arsenal,2,1,1,6,C Kavanagh
+2025-11-01,Crystal Palace,Brentford,0,3,6,5,P Bankes
+2025-11-01,Fulham,Wolves,1,4,10,1,J Brooks
+2025-11-01,Liverpool,Aston Villa,2,3,1,4,S Attwell
+2025-11-02,Man City,Bournemouth,2,2,9,4,A Taylor
+2025-11-01,Nott'm Forest,Man United,1,1,8,5,D England
+2025-11-03,Sunderland,Everton,3,2,4,1,T Bramall
+2025-11-01,Tottenham,Chelsea,4,2,6,5,J Gillett
+2025-11-02,West Ham,Newcastle,1,2,7,6,R Jones
+2025-11-09,Aston Villa,Bournemouth,2,2,6,9,J Brooks
+2025-11-09,Brentford,Newcastle,2,4,6,2,S Attwell
+2025-11-08,Chelsea,Wolves,1,2,10,1,A Kitchen
+2025-11-09,Crystal Palace,Brighton,1,4,4,8,T Robinson
+2025-11-08,Everton,Fulham,2,2,7,5,A Madley
+2025-11-09,Man City,Liverpool,2,4,7,7,C Kavanagh
+2025-11-09,Nott'm Forest,Leeds,2,1,6,4,J Gillett
+2025-11-08,Sunderland,Arsenal,2,1,2,2,C Pawson
+2025-11-08,Tottenham,Man United,5,1,5,3,S Barrott
+2025-11-08,West Ham,Burnley,2,2,7,4,M Salisbury
+2025-11-23,Arsenal,Tottenham,1,3,4,1,M Oliver
+2025-11-22,Bournemouth,West Ham,3,2,9,2,T Bramall
+2025-11-22,Brighton,Brentford,4,2,7,4,J Brooks
+2025-11-22,Burnley,Chelsea,2,3,1,9,P Bankes
+2025-11-22,Fulham,Sunderland,3,3,7,4,D England
+2025-11-23,Leeds,Aston Villa,5,1,3,3,R Jones
+2025-11-22,Liverpool,Nott'm Forest,2,0,8,6,A Madley
+2025-11-24,Man United,Everton,2,1,9,1,T Harrington
+2025-11-22,Newcastle,Man City,1,3,5,9,S Barrott
+2025-11-22,Wolves,Crystal Palace,2,3,1,4,A Taylor
+2025-11-30,Aston Villa,Wolves,0,4,7,3,C Kavanagh
+2025-11-29,Brentford,Burnley,0,2,5,6,S Barrott
+2025-11-30,Chelsea,Arsenal,2,6,3,3,A Taylor
+2025-11-30,Crystal Palace,Man United,3,2,4,4,R Jones
+2025-11-29,Everton,Newcastle,0,0,8,7,C Pawson
+2025-11-29,Man City,Leeds,4,1,8,1,P Bankes
+2025-11-30,Nott'm Forest,Brighton,0,1,9,2,M Oliver
+2025-11-29,Sunderland,Bournemouth,5,6,6,3,T Robinson
+2025-11-29,Tottenham,Fulham,3,2,8,2,S Attwell
+2025-11-30,West Ham,Liverpool,4,0,7,2,D England
+2025-12-03,Arsenal,Brentford,0,1,4,8,T Harrington
+2025-12-02,Bournemouth,Everton,3,3,1,6,M Salisbury
+2025-12-03,Brighton,Aston Villa,2,2,5,6,A Madley
+2025-12-03,Burnley,Crystal Palace,0,0,3,3,T Kirk
+2025-12-02,Fulham,Man City,0,1,7,2,C Pawson
+2025-12-03,Leeds,Chelsea,1,1,4,2,D England
+2025-12-03,Liverpool,Sunderland,1,1,7,3,S Attwell
+2025-12-04,Man United,West Ham,2,2,6,6,A Kitchen
+2025-12-02,Newcastle,Tottenham,0,3,11,8,T Bramall
+2025-12-03,Wolves,Nott'm Forest,2,2,3,9,T Robinson
+2025-12-06,Aston Villa,Arsenal,0,2,3,3,P Bankes
+2025-12-06,Bournemouth,Chelsea,0,2,5,0,M Oliver
+2025-12-07,Brighton,West Ham,2,2,10,6,S Hooper
+2025-12-06,Everton,Nott'm Forest,4,3,6,3,C Kavanagh
+2025-12-07,Fulham,Crystal Palace,0,0,6,4,S Barrott
+2025-12-06,Leeds,Liverpool,3,3,5,4,A Taylor
+2025-12-06,Man City,Sunderland,1,1,6,5,A Madley
+2025-12-06,Newcastle,Burnley,2,3,9,9,S Attwell
+2025-12-06,Tottenham,Brentford,3,4,7,6,R Jones
+2025-12-08,Wolves,Man United,3,2,1,9,M Salisbury
+2025-12-13,Arsenal,Wolves,0,4,8,0,R Jones
+2025-12-14,Brentford,Leeds,0,0,0,3,J Brooks
+2025-12-13,Burnley,Fulham,1,2,10,4,M Oliver
+2025-12-13,Chelsea,Everton,1,0,4,7,T Bramall
+2025-12-14,Crystal Palace,Man City,2,0,2,2,D England
+2025-12-13,Liverpool,Brighton,1,2,2,2,C Pawson
+2025-12-15,Man United,Bournemouth,2,3,5,4,S Hooper
+2025-12-14,Nott'm Forest,Tottenham,1,3,3,3,S Barrott
+2025-12-14,Sunderland,Newcastle,5,4,3,6,P Bankes
+2025-12-14,West Ham,Aston Villa,1,2,5,3,A Taylor
+2025-12-21,Aston Villa,Man United,1,2,5,5,M Oliver
+2025-12-20,Bournemouth,Burnley,1,1,5,3,C Kavanagh
+2025-12-20,Brighton,Sunderland,2,2,3,4,D England
+2025-12-20,Everton,Arsenal,2,2,2,3,S Barrott
+2025-12-20,Leeds,Crystal Palace,1,3,9,5,T Bramall
+2025-12-20,Man City,West Ham,1,1,6,0,P Tierney
+2025-12-20,Newcastle,Chelsea,3,6,6,4,A Madley
+2025-12-20,Tottenham,Liverpool,7,3,2,6,J Brooks
+2025-12-20,Wolves,Brentford,2,4,3,4,M Donohue
+2025-12-27,Arsenal,Brighton,2,3,7,2,J Brooks
+2025-12-27,Brentford,Bournemouth,2,2,2,15,P Bankes
+2025-12-27,Burnley,Everton,0,2,6,5,C Pawson
+2025-12-27,Chelsea,Aston Villa,5,3,6,7,S Attwell
+2025-12-28,Crystal Palace,Tottenham,3,2,3,2,J Gillett
+2025-12-27,Liverpool,Wolves,0,1,6,4,S Hooper
+2025-12-26,Man United,Newcastle,2,1,2,11,A Taylor
+2025-12-27,Nott'm Forest,Man City,1,2,5,5,R Jones
+2025-12-28,Sunderland,Leeds,1,0,3,9,T Harrington
+2025-12-27,West Ham,Fulham,1,3,5,4,C Kavanagh
+2025-12-30,Arsenal,Aston Villa,2,3,3,3,D England
+2026-01-01,Brentford,Tottenham,1,2,3,1,A Madley
+2025-12-30,Burnley,Newcastle,2,1,3,4,R Jones
+2025-12-30,Chelsea,Bournemouth,1,1,12,3,S Barrott
+2026-01-01,Crystal Palace,Fulham,0,5,6,3,T Harrington
+2026-01-01,Liverpool,Leeds,0,2,8,3,C Kavanagh
+2025-12-30,Man United,Wolves,0,2,8,4,T Bramall
+2025-12-30,Nott'm Forest,Everton,1,0,9,2,M Oliver
+2026-01-01,Sunderland,Man City,1,1,3,5,J Gillett
+2025-12-30,West Ham,Brighton,3,5,5,5,M Salisbury
+2026-01-03,Aston Villa,Nott'm Forest,1,2,4,4,S Hooper
+2026-01-03,Bournemouth,Arsenal,3,1,7,5,C Kavanagh
+2026-01-03,Brighton,Burnley,0,4,4,4,T Robinson
+2026-01-04,Everton,Brentford,0,2,4,5,A Taylor
+2026-01-04,Fulham,Liverpool,1,1,3,8,C Pawson
+2026-01-04,Leeds,Man United,0,1,6,4,J Gillett
+2026-01-04,Man City,Chelsea,3,3,8,2,M Oliver
+2026-01-04,Newcastle,Crystal Palace,1,3,8,6,J Brooks
+2026-01-04,Tottenham,Sunderland,2,3,3,5,S Attwell
+2026-01-03,Wolves,West Ham,1,0,6,7,P Bankes
+2026-01-08,Arsenal,Liverpool,2,2,3,0,A Taylor
+2026-01-07,Bournemouth,Tottenham,3,3,3,7,D England
+2026-01-07,Brentford,Sunderland,2,1,7,4,M Donohue
+2026-01-07,Burnley,Man United,2,0,2,6,S Attwell
+2026-01-07,Crystal Palace,Aston Villa,2,0,3,5,A Madley
+2026-01-07,Everton,Wolves,5,3,2,7,T Kirk
+2026-01-07,Fulham,Chelsea,3,4,2,11,P Bankes
+2026-01-07,Man City,Brighton,1,6,6,2,T Bramall
+2026-01-07,Newcastle,Leeds,3,2,8,4,M Salisbury
+2026-01-06,West Ham,Nott'm Forest,3,0,6,5,T Harrington
+2026-01-18,Aston Villa,Everton,1,2,6,4,T Harrington
+2026-01-19,Brighton,Bournemouth,2,3,11,6,P Tierney
+2026-01-17,Chelsea,Brentford,3,2,3,9,J Brooks
+2026-01-17,Leeds,Fulham,1,5,7,3,C Kavanagh
+2026-01-17,Liverpool,Burnley,1,2,9,1,A Madley
+2026-01-17,Man United,Man City,2,3,1,6,A Taylor
+2026-01-17,Nott'm Forest,Arsenal,1,1,4,9,M Oliver
+2026-01-17,Sunderland,Crystal Palace,3,3,3,4,R Jones
+2026-01-17,Tottenham,West Ham,5,3,11,5,J Gillett
+2026-01-18,Wolves,Newcastle,2,2,4,7,S Barrott
+2026-01-25,Arsenal,Man United,2,0,9,2,C Pawson
+2026-01-24,Bournemouth,Liverpool,1,1,3,11,M Salisbury
+2026-01-25,Brentford,Nott'm Forest,1,0,6,5,S Barrott
+2026-01-24,Burnley,Tottenham,1,0,1,3,P Bankes
+2026-01-25,Crystal Palace,Chelsea,5,2,4,5,D England
+2026-01-26,Everton,Leeds,0,3,4,4,S Hooper
+2026-01-24,Fulham,Brighton,1,1,6,6,M Oliver
+2026-01-24,Man City,Wolves,1,3,4,6,F Hallam
+2026-01-25,Newcastle,Aston Villa,1,2,6,5,J Gillett
+2026-01-24,West Ham,Sunderland,2,4,3,3,T Bramall
+2026-02-01,Aston Villa,Brentford,1,4,12,1,T Robinson
+2026-01-31,Brighton,Everton,1,2,5,2,C Kavanagh
+2026-01-31,Chelsea,West Ham,3,3,9,3,A Taylor
+2026-01-31,Leeds,Arsenal,1,1,4,12,S Attwell
+2026-01-31,Liverpool,Newcastle,1,3,7,11,S Hooper
+2026-02-01,Man United,Fulham,2,1,3,7,J Brooks
+2026-02-01,Nott'm Forest,Crystal Palace,2,3,5,7,M Salisbury
+2026-02-02,Sunderland,Burnley,1,4,1,2,P Tierney
+2026-02-01,Tottenham,Man City,3,3,3,4,R Jones
+2026-01-31,Wolves,Bournemouth,2,3,5,6,M Oliver
+2026-02-07,Arsenal,Sunderland,1,2,5,2,S Barrott
+2026-02-07,Bournemouth,Aston Villa,1,1,11,4,A Taylor
+2026-02-08,Brighton,Crystal Palace,1,3,3,4,T Bramall
+2026-02-07,Burnley,West Ham,3,1,5,2,D England
+2026-02-07,Fulham,Everton,1,5,6,6,S Attwell
+2026-02-06,Leeds,Nott'm Forest,1,1,5,10,P Bankes
+2026-02-08,Liverpool,Man City,3,4,5,4,C Pawson
+2026-02-07,Man United,Tottenham,1,3,7,0,M Oliver
+2026-02-07,Newcastle,Brentford,2,2,9,3,A Madley
+2026-02-07,Wolves,Chelsea,1,1,3,4,J Gillett
+2026-02-11,Aston Villa,Brighton,2,3,7,5,P Bankes
+2026-02-12,Brentford,Arsenal,3,2,6,4,J Brooks
+2026-02-10,Chelsea,Leeds,4,4,4,1,R Jones
+2026-02-11,Crystal Palace,Burnley,2,1,8,2,F Hallam
+2026-02-10,Everton,Bournemouth,2,3,7,2,A Madley
+2026-02-11,Man City,Fulham,3,1,4,4,P Tierney
+2026-02-11,Nott'm Forest,Wolves,0,2,8,2,T Robinson
+2026-02-11,Sunderland,Liverpool,1,0,3,11,C Kavanagh
+2026-02-10,Tottenham,Newcastle,3,2,2,12,A Taylor
+2026-02-10,West Ham,Man United,1,1,5,3,S Hooper
+2026-02-21,Aston Villa,Leeds,1,4,7,2,M Oliver
+2026-02-18,Wolves,Arsenal,2,1,1,3,P Tierney
+2026-04-11,Arsenal,Bournemouth,1,3,10,1,M Oliver
+2026-04-11,Brentford,Everton,0,2,2,3,F Hallam
+2026-04-13,Man United,Leeds,4,2,11,4,P Tierney
+2026-04-12,Nott'm Forest,Aston Villa,2,2,7,3,M Salisbury
+2026-04-12,Sunderland,Tottenham,3,3,2,6,R Jones
+2026-04-10,West Ham,Wolves,2,2,5,2,J Gillett
+2026-04-19,Aston Villa,Sunderland,1,3,4,5,S Barrott
+2026-04-18,Brentford,Fulham,0,1,9,3,P Tierney
+2026-04-18,Chelsea,Man United,1,3,7,1,M Oliver
+2026-04-20,Crystal Palace,West Ham,2,1,4,6,D England
+2026-04-19,Everton,Liverpool,2,0,1,6,C Kavanagh
+2026-04-18,Leeds,Wolves,2,1,5,6,T Robinson
+2026-04-19,Man City,Arsenal,2,2,8,5,A Taylor
+2026-04-18,Newcastle,Bournemouth,2,4,2,3,T Bramall
+2026-04-19,Nott'm Forest,Burnley,0,2,4,4,T Kirk
+2026-04-18,Tottenham,Brighton,3,1,7,5,S Attwell
+2026-04-25,Arsenal,Newcastle,2,2,7,2,S Barrott
+2026-04-22,Bournemouth,Leeds,3,0,12,1,M Salisbury
+2025-12-22,Fulham,Nott'm Forest,5,4,1,5,A Taylor
+2026-09-12,Tottenham,Everton,0,2,5,6,D England
+2026-09-12,Sunderland,Arsenal,7,2,4,2,J Brooks
+2026-09-12,Liverpool,Fulham,0,1,5,8,T Bramall
+2026-09-12,Crystal Palace,Ipswich Town,2,3,6,3,C Kavanagh
+2026-09-12,Chelsea,Hull City,1,5,10,4,F Hallam
+2026-09-12,Aston Villa,Nott'm Forest,2,5,6,1,A Madley
+2026-09-12,Bournemouth,Brentford,5,1,2,1,J Gillett
+2026-09-05,Nott'm Forest,Tottenham,2,2,2,10,C Pawson
+2026-09-05,Newcastle,Bournemouth,2,3,4,3,R Jones
+2026-09-05,Man City,Coventry City,1,2,4,5,P Tierney
+2026-09-04,Ipswich Town,Liverpool,1,3,4,3,D England
+2026-09-05,Hull City,Aston Villa,2,0,3,4,M Oliver
+2026-09-05,Fulham,Crystal Palace,0,0,7,1,S Barrott
+2026-09-06,Everton,Man United,3,3,4,3,J Brooks
+2026-09-05,Brighton,Leeds,3,3,7,6,S Attwell
+2026-09-05,Brentford,Sunderland,3,2,4,3,T Bramall
+2026-09-06,Arsenal,Chelsea,2,4,5,3,C Kavanagh
+2026-08-29,Tottenham,Newcastle,1,2,9,7,P Bankes
+2026-08-30,Sunderland,Fulham,0,2,3,4,M Salisbury
+2026-08-30,Man United,Ipswich Town,1,3,8,4,C Pawson
+2026-08-29,Liverpool,Nott'm Forest,4,2,3,5,S Barrott
+2026-08-30,Leeds,Brentford,0,4,5,6,T Harrington
+2026-08-28,Crystal Palace,Man City,1,2,2,6,A Madley
+2026-08-29,Coventry City,Hull City,1,4,6,2,J Smith
+2026-08-30,Chelsea,Brighton,1,3,4,7,M Oliver
+2026-08-31,Aston Villa,Arsenal,3,1,2,4,J Gillett
+2026-08-29,Bournemouth,Everton,3,2,10,7,C Kavanagh
+2026-08-24,Fulham,Chelsea,2,3,6,4,J Brooks
+2026-08-23,Newcastle,Liverpool,5,3,2,6,S Attwell
+2026-08-23,Man City,Bournemouth,1,2,8,3,J Gillett
+2026-08-23,Brighton,Aston Villa,2,4,5,2,P Bankes
+2026-08-22,Brentford,Tottenham,1,1,7,3,M Oliver
+2026-08-22,Nott'm Forest,Leeds,2,1,3,2,R Jones
+2026-08-22,Ipswich Town,Sunderland,0,3,3,5,F Hallam
+2026-08-22,Everton,Crystal Palace,0,1,4,0,P Tierney
+2026-08-22,Hull City,Man United,2,1,1,6,D England
+2026-08-21,Arsenal,Coventry City,1,1,8,2,T Bramall
