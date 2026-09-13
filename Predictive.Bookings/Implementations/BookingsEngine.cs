@@ -25,6 +25,23 @@ namespace Predictive.Bookings.Implementations
         private const int RECENT_MONTHS = 20;
         private const int MIN_SAMPLE = 6;
 
+        // Recency weighting: a match's influence decays by half every HALF_LIFE_DAYS,
+        // so within the 20-month window, this week's matches count far more than ones
+        // from over a year ago instead of every match in the window counting equally.
+        // 90 days (~a quarter of a season) means a team's current-season tendency
+        // dominates once enough current-season matches exist, while older matches
+        // still contribute when recent sample is thin — validated against a real
+        // finding (2026-09-13): Bundesliga/Ligue 1/Serie A are running meaningfully
+        // calmer this season than their historical average, a flat average misses
+        // that entirely until it eventually ages out of the whole 20-month window.
+        private const double HALF_LIFE_DAYS = 90.0;
+
+        private static double Weight(DateTime matchDate, DateTime now)
+        {
+            double daysAgo = Math.Max(0, (now - matchDate).TotalDays);
+            return Math.Pow(0.5, daysAgo / HALF_LIFE_DAYS);
+        }
+
         public BookingsEngine(
             List<SeasonMatchRecord> data,
             IRefereeService? refereeService = null,
@@ -80,28 +97,28 @@ namespace Predictive.Bookings.Implementations
                 ? _refereeService.GetRefereeBiasMultiplier(referee)
                 : 1.0;
 
-            double homeCardAvg = AvgCards(homeTeam, hm, asHome: true) * refereeBias;
-            double awayCardAvg = AvgCards(awayTeam, am, asHome: false) * refereeBias;
+            double homeCardAvg = AvgCards(homeTeam, hm, asHome: true, now) * refereeBias;
+            double awayCardAvg = AvgCards(awayTeam, am, asHome: false, now) * refereeBias;
             double h2hCardAvg = h2h.Count >= 3
-                ? h2h.Average(m => m.HomeBookings + m.AwayBookings) * refereeBias : 0;
+                ? WeightedAverage(h2h, now, m => m.HomeBookings + m.AwayBookings) * refereeBias : 0;
 
-            double ft_o3 = AdjustRateForBias(Calibrate(BookingsMarkets.Over3, TotalCardRate(hm, am, t: 2)), refereeBias);
-            double ft_o4 = AdjustRateForBias(Calibrate(BookingsMarkets.Over4, TotalCardRate(hm, am, t: 3)), refereeBias);
-            double ft_o5 = AdjustRateForBias(Calibrate(BookingsMarkets.Over5, TotalCardRate(hm, am, t: 4)), refereeBias);
-            double ft_o6 = AdjustRateForBias(Calibrate(BookingsMarkets.Over6, TotalCardRate(hm, am, t: 5)), refereeBias);
+            double ft_o3 = AdjustRateForBias(Calibrate(BookingsMarkets.Over3, TotalCardRate(hm, am, t: 2, now)), refereeBias);
+            double ft_o4 = AdjustRateForBias(Calibrate(BookingsMarkets.Over4, TotalCardRate(hm, am, t: 3, now)), refereeBias);
+            double ft_o5 = AdjustRateForBias(Calibrate(BookingsMarkets.Over5, TotalCardRate(hm, am, t: 4, now)), refereeBias);
+            double ft_o6 = AdjustRateForBias(Calibrate(BookingsMarkets.Over6, TotalCardRate(hm, am, t: 5, now)), refereeBias);
 
-            double h_o1 = AdjustRateForBias(Calibrate(BookingsMarkets.HomeOver1, CardRate(homeTeam, hm, asHome: true, t: 0)), refereeBias);
-            double h_o2 = AdjustRateForBias(Calibrate(BookingsMarkets.HomeOver2, CardRate(homeTeam, hm, asHome: true, t: 1)), refereeBias);
-            double h_o3 = AdjustRateForBias(Calibrate(BookingsMarkets.HomeOver3, CardRate(homeTeam, hm, asHome: true, t: 2)), refereeBias);
+            double h_o1 = AdjustRateForBias(Calibrate(BookingsMarkets.HomeOver1, CardRate(homeTeam, hm, asHome: true, t: 0, now)), refereeBias);
+            double h_o2 = AdjustRateForBias(Calibrate(BookingsMarkets.HomeOver2, CardRate(homeTeam, hm, asHome: true, t: 1, now)), refereeBias);
+            double h_o3 = AdjustRateForBias(Calibrate(BookingsMarkets.HomeOver3, CardRate(homeTeam, hm, asHome: true, t: 2, now)), refereeBias);
 
-            double a_o1 = AdjustRateForBias(Calibrate(BookingsMarkets.AwayOver1, CardRate(awayTeam, am, asHome: false, t: 0)), refereeBias);
-            double a_o2 = AdjustRateForBias(Calibrate(BookingsMarkets.AwayOver2, CardRate(awayTeam, am, asHome: false, t: 1)), refereeBias);
-            double a_o3 = AdjustRateForBias(Calibrate(BookingsMarkets.AwayOver3, CardRate(awayTeam, am, asHome: false, t: 2)), refereeBias);
+            double a_o1 = AdjustRateForBias(Calibrate(BookingsMarkets.AwayOver1, CardRate(awayTeam, am, asHome: false, t: 0, now)), refereeBias);
+            double a_o2 = AdjustRateForBias(Calibrate(BookingsMarkets.AwayOver2, CardRate(awayTeam, am, asHome: false, t: 1, now)), refereeBias);
+            double a_o3 = AdjustRateForBias(Calibrate(BookingsMarkets.AwayOver3, CardRate(awayTeam, am, asHome: false, t: 2, now)), refereeBias);
 
-            double homeCornerAvg = AvgCorners(homeTeam, hm, asHome: true);
-            double awayCornerAvg = AvgCorners(awayTeam, am, asHome: false);
+            double homeCornerAvg = AvgCorners(homeTeam, hm, asHome: true, now);
+            double awayCornerAvg = AvgCorners(awayTeam, am, asHome: false, now);
             double h2hCornerAvg = h2h.Count >= 3
-                ? h2h.Average(m => m.HomeCorners + m.AwayCorners) : 0;
+                ? WeightedAverage(h2h, now, m => m.HomeCorners + m.AwayCorners) : 0;
 
             return new BookingsPrediction
             {
@@ -129,11 +146,11 @@ namespace Predictive.Bookings.Implementations
                 TotalCornerAvg = homeCornerAvg + awayCornerAvg,
                 H2HCornerAvg = h2hCornerAvg,
 
-                CornerOver7 = CornerRate(hm, am, t: 6),
-                CornerOver8 = CornerRate(hm, am, t: 7),
-                CornerOver9 = CornerRate(hm, am, t: 8),
-                CornerOver10 = CornerRate(hm, am, t: 9),
-                CornerOver11 = CornerRate(hm, am, t: 10),
+                CornerOver7 = CornerRate(hm, am, t: 6, now),
+                CornerOver8 = CornerRate(hm, am, t: 7, now),
+                CornerOver9 = CornerRate(hm, am, t: 8, now),
+                CornerOver10 = CornerRate(hm, am, t: 9, now),
+                CornerOver11 = CornerRate(hm, am, t: 10, now),
 
                 RefereeBias = refereeBias
             };
@@ -205,60 +222,83 @@ namespace Predictive.Bookings.Implementations
         //  CALCULATIONS — CARDS
         // ════════════════════════════════════════════════════
 
-        private double AvgCards(string team, List<SeasonMatchRecord> matches, bool asHome)
+        private double AvgCards(string team, List<SeasonMatchRecord> matches, bool asHome, DateTime now)
         {
             if (matches.Count < MIN_SAMPLE) return 1.90;
-            return matches.Average(m => asHome
+            return WeightedAverage(matches, now, m => asHome
                 ? (m.HomeTeam == team ? m.HomeBookings : m.AwayBookings)
                 : (m.AwayTeam == team ? m.AwayBookings : m.HomeBookings));
         }
 
-        private double CardRate(string team, List<SeasonMatchRecord> matches, bool asHome, int t)
+        private double CardRate(string team, List<SeasonMatchRecord> matches, bool asHome, int t, DateTime now)
         {
             if (matches.Count < MIN_SAMPLE)
                 return t == 0 ? 85.0 : t == 1 ? 60.0 : 35.0;
-            int count = matches.Count(m =>
+            return WeightedRate(matches, now, m =>
             {
                 int cards = asHome
                     ? (m.HomeTeam == team ? m.HomeBookings : m.AwayBookings)
                     : (m.AwayTeam == team ? m.AwayBookings : m.HomeBookings);
                 return cards > t;
             });
-            return count / (double)matches.Count * 100;
         }
 
-        private double TotalCardRate(List<SeasonMatchRecord> hm, List<SeasonMatchRecord> am, int t)
+        private double TotalCardRate(List<SeasonMatchRecord> hm, List<SeasonMatchRecord> am, int t, DateTime now)
         {
             var all = hm.Concat(am)
                         .GroupBy(m => $"{m.HomeTeam}_{m.AwayTeam}_{m.Date:yyyyMMdd}")
                         .Select(g => g.First()).ToList();
             if (all.Count < MIN_SAMPLE)
                 return t == 2 ? 76.0 : t == 3 ? 56.0 : t == 4 ? 37.0 : 22.0;
-            return all.Count(m => m.HomeBookings + m.AwayBookings > t)
-                   / (double)all.Count * 100;
+            return WeightedRate(all, now, m => m.HomeBookings + m.AwayBookings > t);
         }
 
         // ════════════════════════════════════════════════════
         //  CALCULATIONS — CORNERS
         // ════════════════════════════════════════════════════
 
-        private double AvgCorners(string team, List<SeasonMatchRecord> matches, bool asHome)
+        private double AvgCorners(string team, List<SeasonMatchRecord> matches, bool asHome, DateTime now)
         {
             if (matches.Count < MIN_SAMPLE) return 4.5;
-            return matches.Average(m => asHome
+            return WeightedAverage(matches, now, m => asHome
                 ? (m.HomeTeam == team ? m.HomeCorners : m.AwayCorners)
                 : (m.AwayTeam == team ? m.AwayCorners : m.HomeCorners));
         }
 
-        private double CornerRate(List<SeasonMatchRecord> hm, List<SeasonMatchRecord> am, int t)
+        private double CornerRate(List<SeasonMatchRecord> hm, List<SeasonMatchRecord> am, int t, DateTime now)
         {
             var all = hm.Concat(am)
                         .GroupBy(m => $"{m.HomeTeam}_{m.AwayTeam}_{m.Date:yyyyMMdd}")
                         .Select(g => g.First()).ToList();
             if (all.Count < MIN_SAMPLE)
                 return t == 6 ? 80.0 : t == 7 ? 69.0 : t == 8 ? 57.0 : t == 9 ? 47.0 : 38.0;
-            return all.Count(m => m.HomeCorners + m.AwayCorners > t)
-                   / (double)all.Count * 100;
+            return WeightedRate(all, now, m => m.HomeCorners + m.AwayCorners > t);
+        }
+
+        // Recency-weighted mean of a numeric value across matches.
+        private static double WeightedAverage(List<SeasonMatchRecord> matches, DateTime now, Func<SeasonMatchRecord, int> value)
+        {
+            double weightSum = 0, valueSum = 0;
+            foreach (var m in matches)
+            {
+                double w = Weight(m.Date, now);
+                weightSum += w;
+                valueSum += w * value(m);
+            }
+            return weightSum > 0 ? valueSum / weightSum : 0;
+        }
+
+        // Recency-weighted hit-rate (%) for a boolean condition across matches.
+        private static double WeightedRate(List<SeasonMatchRecord> matches, DateTime now, Func<SeasonMatchRecord, bool> hit)
+        {
+            double weightSum = 0, hitWeightSum = 0;
+            foreach (var m in matches)
+            {
+                double w = Weight(m.Date, now);
+                weightSum += w;
+                if (hit(m)) hitWeightSum += w;
+            }
+            return weightSum > 0 ? hitWeightSum / weightSum * 100 : 0;
         }
 
         // ════════════════════════════════════════════════════

@@ -29,8 +29,16 @@ namespace Predictive.Bookings.Implementations
             _client = client;
         }
 
+        // Idempotent on (Date, FixtureId) — re-running the program for the same day
+        // (e.g. testing, or a re-run after a crash) must not log the same fixture
+        // twice, or accuracy stats get double/triple-counted for whichever matches
+        // happened to be re-run more often than others.
         public void LogPrediction(PredictionLogEntry entry)
         {
+            var all = LoadAll();
+            if (all.Any(e => e.Date.Date == entry.Date.Date && e.FixtureId == entry.FixtureId))
+                return;
+
             bool writeHeader = !File.Exists(_logPath);
             using var writer = new StreamWriter(_logPath, append: true);
             if (writeHeader) writer.WriteLine(Header);
@@ -48,13 +56,17 @@ namespace Predictive.Bookings.Implementations
                 .ToList();
         }
 
-        // Fetches the actual result for every logged prediction whose fixture is
-        // in the past and hasn't been checked yet, then rewrites the log with those
-        // filled in. Safe to call every run — already-checked rows are left alone.
+        // Fetches the actual result for every logged prediction that hasn't been
+        // checked yet, then rewrites the log with those filled in. Deliberately not
+        // restricted to past dates — a same-day early kickoff can already be finished
+        // by the time this runs later that day, and GetActualTotalCards already
+        // returns null for anything not yet finished (state_id != 5), so it's safe to
+        // just try every unchecked row regardless of date. Safe to call every run —
+        // already-checked rows are left alone.
         public async Task<int> CheckPendingResultsAsync()
         {
             var all = LoadAll();
-            var pending = all.Where(e => e.ActualTotalCards == null && e.Date.Date < DateTime.UtcNow.Date).ToList();
+            var pending = all.Where(e => e.ActualTotalCards == null).ToList();
             if (pending.Count == 0) return 0;
 
             int checkedCount = 0;
