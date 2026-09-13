@@ -54,5 +54,28 @@ namespace Predictive.Bookings.Integrations.SportMonks
 
         private static string Alias(string team)
             => TeamNameAliases.TryGetValue(team, out var alias) ? alias : team;
+
+        // All fixtures in a league on a given date, with team names normalized to
+        // this project's CSV convention (via SportMonksTeamNameNormalizer) so the
+        // result can be fed straight into BookingsEngine.Analyse.
+        public async Task<List<(int fixtureId, string homeTeam, string awayTeam)>> GetFixturesForDate(
+            int leagueId, DateTime date)
+        {
+            string dateStr = date.ToString("yyyy-MM-dd");
+            var doc = await _client.GetAsync(
+                $"football/fixtures/between/{dateStr}/{dateStr}?filters=fixtureLeagues:{leagueId}&per_page=100");
+
+            var results = new List<(int, string, string)>();
+            foreach (var fixture in doc.RootElement.GetProperty("data").EnumerateArray())
+            {
+                var name = fixture.GetProperty("name").GetString() ?? "";
+                var parts = name.Split(" vs ", StringSplitOptions.TrimEntries);
+                if (parts.Length != 2) continue;
+
+                int id = fixture.GetProperty("id").GetInt32();
+                results.Add((id, SportMonksTeamNameNormalizer.Normalize(parts[0]), SportMonksTeamNameNormalizer.Normalize(parts[1])));
+            }
+            return results;
+        }
     }
 }

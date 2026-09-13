@@ -1,15 +1,19 @@
+using System.Text;
 using ConsoleApp1.Mapper;
 using ConsoleApp1.Modals;
 using ConsoleApp1.Services;
 using Predictive.Bookings.Implementations;
+using Predictive.Bookings.Integrations.SportMonks;
 
 // ============================================================
 //  Predictive.Bookings — focused daily runner for the advanced
 //  cards/bookings engine. Kept free of the other markets
 //  (goals/corners/1X2/HT-FT) that ConsoleApp1 still runs as-is.
-//  See docs/HTFT.md's sibling plan doc for the phased roadmap
-//  (referee bias, real odds/EV, calibration, accumulators,
-//  SportMonks) this project is meant to grow into.
+//
+//  Runs today's fixtures across the 5 leagues covered by the current
+//  SportMonks plan (Premier League, Bundesliga, Ligue 1, Serie A,
+//  La Liga) — Championship is on hold until the plan covers it.
+//  See docs/HTFT.md's sibling plan doc for the phased roadmap.
 // ============================================================
 
 // Resolves Data/Results relative to the repo root by walking up from the running
@@ -22,9 +26,6 @@ static string ResolveResultsPath(string fileName)
     var dir = new DirectoryInfo(AppContext.BaseDirectory);
     while (dir != null)
     {
-        // Anchor on Data/England Football specifically (same signal EPLHistoricalService
-        // uses) rather than a bare "Data" folder — a bare check can false-positive on a
-        // stray Data/Results directory a previous buggy run left behind in bin output.
         if (Directory.Exists(Path.Combine(dir.FullName, "Data", "England Football")))
         {
             var resultsDir = Path.Combine(dir.FullName, "Data", "Results");
@@ -36,67 +37,47 @@ static string ResolveResultsPath(string fileName)
     throw new DirectoryNotFoundException($"Could not locate 'Data/England Football' by walking up from {AppContext.BaseDirectory}");
 }
 
-var historicalService = new EPLHistoricalService();
-var championshipData = historicalService.LoadAndProcessCompetitionData("Championship");
-List<SeasonMatchRecord> seasonMatches = MatchMapper.MapToSeasonMatchRecords(championshipData);
-
-var refereeService = new RefereeService(seasonMatches);
-
-bool RUN_BOOKINGS_BACKTEST = false;
-Dictionary<string, ConfidenceCalibrator>? calibrators = null;
-
-if (RUN_BOOKINGS_BACKTEST)
+// (csvCompetitionKey, SportMonks league id, display name) — csvCompetitionKey must
+// match EPLHistoricalService.LoadAndProcessCompetitionData's dictionary; league id
+// confirmed against /v3/football/leagues for this SportMonks plan.
+var leagues = new List<(string csvKey, int sportMonksLeagueId, string displayName)>
 {
-    var backtester = new BookingsBacktester(seasonMatches);
-    var summary = backtester.Run(new DateTime(2022, 8, 1), new DateTime(2024, 6, 1));
-    Console.WriteLine(summary.Report);
-
-    string backtestPath = ResolveResultsPath($"BookingsBacktest_{DateTime.Now:yyyy-MM-dd}.txt");
-    await File.WriteAllTextAsync(backtestPath, summary.Report);
-
-    calibrators = summary.Calibrators;
-}
-
-var bookingsEngine = new BookingsEngine(seasonMatches, refereeService, oddsProvider: null, calibrators: calibrators);
-
-var todaysFixtures = new List<(string homeTeam, string awayTeam)>
-{
-    ("Blackburn", "Millwall"),
-    ("Charlton", "Portsmouth"),
-    //("Coventry", "Hull"),
-    //("Southampton", "Wrexham"),
-    //("Middlesbrough", "Swansea"),
-    //("Norwich", "Millwall"),
+    ("Premier League", 8, "Premier League"),
+    ("Bundesliga", 82, "Bundesliga"),
+    ("League One France", 301, "Ligue 1"),
+    ("Serie A", 384, "Serie A"),
+    ("La Liga", 564, "La Liga"),
 };
 
-string currentDate = DateTime.Now.ToString("yyyy-MM-dd");
-string outputPath = ResolveResultsPath($"BookingsPredictions_{currentDate}.txt");
+var smClient = new SportMonksClient();
+var fixtureResolver = new SportMonksFixtureResolver(smClient);
+var refereeProvider = new SportMonksRefereeProvider(smClient);
 
-foreach (var (homeTeam, awayTeam) in todaysFixtures)
+var output = new StringBuilder();
+var historicalService = new EPLHistoricalService();
+
+foreach (var (csvKey, leagueId, displayName) in leagues)
 {
-    string output = $"{homeTeam} vs {awayTeam}\n" + bookingsEngine.Analyse(homeTeam, awayTeam) + "\n";
-    Console.WriteLine(output);
-    await File.AppendAllTextAsync(outputPath, output);
-}
+    var historicalData = historicalService.LoadAndProcessCompetitionData(csvKey);
+    List<SeasonMatchRecord> matches = MatchMapper.MapToSeasonMatchRecords(historicalData);
+    var refereeService = new RefereeService(matches);
+    var bookingsEngine = new BookingsEngine(matches, refereeService);
 
-bool RUN_CARD_ACCUMULATORS = false;
-if (RUN_CARD_ACCUMULATORS)
-{
-    var accumulatorBuilder = new CardAccumulatorBuilder(bookingsEngine);
-    var topAccumulators = accumulatorBuilder.BuildTopAccumulators(todaysFixtures);
+    var fixturesToday = await fixtureResolver.GetFixturesForDate(leagueId, DateTime.UtcNow.Date);
 
-    var sb = new System.Text.StringBuilder();
-    sb.AppendLine("CARD ACCUMULATORS");
-    foreach (var acc in topAccumulators)
+    output.AppendLine($"══════════ {displayName} ({fixturesToday.Count} fixture(s) today) ══════════");
+    output.AppendLine();
+
+    foreach (var (fixtureId, homeTeam, awayTeam) in fixturesToday)
     {
-        sb.AppendLine(string.Join(" + ", acc.Legs.Select(l => $"{l.HomeTeam} v {l.AwayTeam}: {l.Market} ({l.Probability * 100:F1}%)")));
-        string oddsText = acc.CombinedOdds.HasValue ? $"@{acc.CombinedOdds:F2}" : "(no odds available)";
-        string evText = acc.ExpectedValue.HasValue ? $"EV {acc.ExpectedValue * 100:F1}%, Kelly {acc.KellyFraction * 100:F1}% bankroll" : "";
-        sb.AppendLine($"  Combined: {acc.CombinedProbability * 100:F1}% {oddsText} {evText}");
-        sb.AppendLine();
-    }
+        string? referee = await refereeProvider.GetRefereeNameForFixture(fixtureId);
 
-    string accumulatorOutput = sb.ToString();
-    Console.WriteLine(accumulatorOutput);
-    await File.AppendAllTextAsync(outputPath, accumulatorOutput);
+        output.AppendLine($"{homeTeam} vs {awayTeam}" + (referee != null ? $"  (Referee: {referee})" : "  (Referee: unknown)"));
+        output.AppendLine(bookingsEngine.Analyse(homeTeam, awayTeam, referee));
+    }
 }
+
+string outputPath = ResolveResultsPath($"SportMonksPredictions_{DateTime.Now:yyyy-MM-dd}.txt");
+string result = output.ToString();
+Console.WriteLine(result);
+await File.WriteAllTextAsync(outputPath, result);
