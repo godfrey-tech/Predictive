@@ -3,3 +3,7 @@ bin/
 obj/
 *.user
 *.suo
+
+# Local secrets — never commit API tokens/keys
+appsettings.local.json
+*.local.json
