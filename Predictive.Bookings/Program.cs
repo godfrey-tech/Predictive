@@ -61,6 +61,27 @@ var refereeProvider = new SportMonksRefereeProvider(smClient);
 var output = new StringBuilder();
 var historicalService = new EPLHistoricalService();
 
+// Per-league calibration check — validates whether BookingsEngine's raw hit-rates
+// hold up outside Championship (the only league Phase 4's backtest ever covered).
+bool RUN_BOOKINGS_BACKTEST = false;
+if (RUN_BOOKINGS_BACKTEST)
+{
+    foreach (var (csvKey, _, displayName) in leagues)
+    {
+        var historicalData = historicalService.LoadAndProcessCompetitionData(csvKey);
+        List<SeasonMatchRecord> matches = MatchMapper.MapToSeasonMatchRecords(historicalData);
+
+        var backtester = new BookingsBacktester(matches);
+        var summary = backtester.Run(new DateTime(2022, 8, 1), new DateTime(2025, 6, 1));
+
+        Console.WriteLine($"══════════ {displayName} backtest ══════════");
+        Console.WriteLine(summary.Report);
+
+        string backtestPath = ResolveResultsPath($"BookingsBacktest_{displayName.Replace(" ", "")}_{DateTime.Now:yyyy-MM-dd}.txt");
+        await File.WriteAllTextAsync(backtestPath, summary.Report);
+    }
+}
+
 foreach (var (csvKey, leagueId, displayName) in leagues)
 {
     var historicalData = historicalService.LoadAndProcessCompetitionData(csvKey);
@@ -86,3 +107,4 @@ string outputPath = ResolveResultsPath($"SportMonksPredictions_{targetDate:yyyy-
 string result = output.ToString();
 Console.WriteLine(result);
 await File.WriteAllTextAsync(outputPath, result);
+

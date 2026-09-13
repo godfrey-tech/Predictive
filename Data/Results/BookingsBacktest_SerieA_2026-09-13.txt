@@ -1,0 +1,25 @@
+══════════════════════════════════════════════════════════════
+  BOOKINGS CONFIDENCE CALIBRATION REPORT
+══════════════════════════════════════════════════════════════
+  Period:    2022-08-01  →  2025-06-01
+  Matches:   760
+
+  Market            |    n | RawPred% | Actual% | Miscalib | Calibrated%
+  ────────────────────────────────────────────────────────────────────
+  AwayCardsOver1     |  760 |    92.1% |   94.6% |     0.03 |       94.6%
+  AwayCardsOver2     |  760 |    70.2% |   74.6% |     0.04 |       74.6%
+  AwayCardsOver3     |  760 |    40.7% |   41.7% |     0.01 |       41.8%
+  HomeCardsOver1     |  760 |    92.1% |   88.4% |    -0.04 |       88.5%
+  HomeCardsOver2     |  760 |    70.2% |   62.2% |    -0.08 |       62.4%
+  HomeCardsOver3     |  760 |    40.7% |   35.1% |    -0.06 |       35.3%
+  TotalCardsOver3    |  760 |    85.6% |   83.3% |    -0.02 |       83.4%
+  TotalCardsOver4    |  760 |    70.3% |   67.8% |    -0.03 |       67.9%
+  TotalCardsOver5    |  760 |    51.6% |   48.6% |    -0.03 |       48.6%
+  TotalCardsOver6    |  760 |    32.8% |   29.6% |    -0.03 |       29.6%
+
+  NOTE: RawPred% is the engine's uncalibrated hit-rate average;
+        Actual% is what really happened; Miscalibration close to
+        0 means the raw rate is already trustworthy. Calibrated%
+        is what the fitted calibrator now outputs for that same
+        sample — it should track Actual% far more closely.
+══════════════════════════════════════════════════════════════
