@@ -1,4 +1,4 @@
-══════════ Premier League (2 fixture(s) today) ══════════
+══════════ Premier League (2 fixture(s) on 2026-09-13) ══════════
 
 Coventry City vs Brighton  (Referee: T Harrington)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
@@ -36,7 +36,7 @@ Home Avg: 4.62/game  |  Away Avg: 6.17/game  |  Combined: 10.79/game  |  H2H Avg
   Over 7:  🟢86.5%   Over 8:  🟢78.4%   Over 9:  🟠63.5%   Over 10: 🟠56.8%   Over 11: 🔴41.9%
 
 
-══════════ Bundesliga (2 fixture(s) today) ══════════
+══════════ Bundesliga (2 fixture(s) on 2026-09-13) ══════════
 
 RB Leipzig vs Hamburg  (Referee: F Badstübner)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
@@ -72,7 +72,7 @@ Home Avg: 4.50/game  |  Away Avg: 6.35/game  |  Combined: 10.85/game
   Over 7:  🟢91.2%   Over 8:  🟡73.5%   Over 9:  🟠58.8%   Over 10: 🟠52.9%   Over 11: 🔴38.2%
 
 
-══════════ Ligue 1 (3 fixture(s) today) ══════════
+══════════ Ligue 1 (3 fixture(s) on 2026-09-13) ══════════
 
 Lille vs Troyes  (Referee: R Lissorgue)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
@@ -125,7 +125,7 @@ Home Avg: 3.85/game  |  Away Avg: 6.35/game  |  Combined: 10.21/game  |  H2H Avg
   Over 7:  🟢78.8%   Over 8:  🟡69.7%   Over 9:  🟠57.6%   Over 10: 🔴43.9%   Over 11: 🔴34.8%
 
 
-══════════ Serie A (3 fixture(s) today) ══════════
+══════════ Serie A (3 fixture(s) on 2026-09-13) ══════════
 
 Lecce vs Monza  (Referee: V Crezzini)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
@@ -178,7 +178,7 @@ Home Avg: 3.76/game  |  Away Avg: 5.42/game  |  Combined: 9.18/game  |  H2H Avg:
   Over 7:  🟢77.0%   Over 8:  🟠64.9%   Over 9:  🟠50.0%   Over 10: 🔴41.9%   Over 11: 🔴28.4%
 
 
-══════════ La Liga (4 fixture(s) today) ══════════
+══════════ La Liga (4 fixture(s) on 2026-09-13) ══════════
 
 Celta vs Málaga  (Referee: C Muñiz Muñoz)
 🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)

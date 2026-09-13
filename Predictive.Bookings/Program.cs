@@ -49,17 +49,25 @@ var leagues = new List<(string csvKey, int sportMonksLeagueId, string displayNam
     ("La Liga", 564, "La Liga"),
 };
 
-// Target date for fixtures — yesterday, so predictions can be checked against
-// results that have actually been played (today's fixtures haven't kicked off yet).
-// Change to DateTime.UtcNow.Date for the normal daily run.
-DateTime targetDate = DateTime.UtcNow.Date.AddDays(-1);
+// Target date for today's fixture predictions. The accuracy tracker below checks
+// *previously logged* predictions against actual results regardless of this value,
+// so this only controls which fixtures get newly predicted/logged this run.
+DateTime targetDate = DateTime.UtcNow.Date;
 
 var smClient = new SportMonksClient();
 var fixtureResolver = new SportMonksFixtureResolver(smClient);
 var refereeProvider = new SportMonksRefereeProvider(smClient);
+var tracker = new PredictionTracker(ResolveResultsPath("PredictionLog.csv"), smClient);
 
 var output = new StringBuilder();
 var historicalService = new EPLHistoricalService();
+
+// Backfill actual results for any prior predictions whose fixtures have since been
+// played, then report how the model's live track record looks so far — turns the
+// one-off manual accuracy check from 2026-09-13 into a running, automatic log.
+int newlyChecked = await tracker.CheckPendingResultsAsync();
+Console.WriteLine($"[Tracker] Checked {newlyChecked} newly-completed fixture(s) against actual results.");
+Console.WriteLine(tracker.GenerateSummary());
 
 // Per-league calibration check — validates whether BookingsEngine's raw hit-rates
 // hold up outside Championship (the only league Phase 4's backtest ever covered).
@@ -107,6 +115,21 @@ foreach (var (csvKey, leagueId, displayName) in leagues)
 
         output.AppendLine($"{homeTeam} vs {awayTeam}" + (referee != null ? $"  (Referee: {referee})" : "  (Referee: unknown)"));
         output.AppendLine(bookingsEngine.Analyse(homeTeam, awayTeam, referee, asOf: targetDate));
+
+        var pred = bookingsEngine.Predict(homeTeam, awayTeam, referee, asOf: targetDate);
+        tracker.LogPrediction(new Predictive.Bookings.Modals.PredictionLogEntry
+        {
+            Date = targetDate,
+            League = displayName,
+            HomeTeam = homeTeam,
+            AwayTeam = awayTeam,
+            FixtureId = fixtureId,
+            Referee = referee ?? "",
+            FtOver3Pred = pred.FtOver3,
+            FtOver4Pred = pred.FtOver4,
+            FtOver5Pred = pred.FtOver5,
+            FtOver6Pred = pred.FtOver6
+        });
     }
 }
 
