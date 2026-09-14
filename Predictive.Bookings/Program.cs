@@ -11,15 +11,17 @@ using Predictive.Bookings.Modals;
 //  cards/bookings engine. Kept free of the other markets
 //  (goals/corners/1X2/HT-FT) that ConsoleApp1 still runs as-is.
 //
-//  Runs today's fixtures across the 5 leagues covered by the current
-//  SportMonks plan (Premier League, Bundesliga, Ligue 1, Serie A,
-//  La Liga) — Championship is on hold until the plan covers it.
+//  Runs today's fixtures across the 6 leagues covered by the current
+//  SportMonks plan (Premier League, Championship, Bundesliga, Ligue 1,
+//  Serie A, La Liga) — Championship added back 2026-09-13 via the
+//  Extra Leagues add-on (currently trialing, 3 seasons of history).
 //  See docs/HTFT.md's sibling plan doc for the phased roadmap.
 // ============================================================
 
 var leagues = new List<LeagueConfig>
 {
     new("Premier League", 8, "Premier League"),
+    new("Championship", 9, "Championship"),
     new("Bundesliga", 82, "Bundesliga"),
     new("League One France", 301, "Ligue 1"),
     new("Serie A", 384, "Serie A"),

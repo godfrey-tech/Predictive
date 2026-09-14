@@ -36,6 +36,26 @@ Home Avg: 4.86/game  |  Away Avg: 6.85/game  |  Combined: 11.71/game  |  H2H Avg
   Over 7:  🟢87.9%   Over 8:  🟢81.2%   Over 9:  🟡67.1%   Over 10: 🟠62.7%   Over 11: 🟠51.7%
 
 
+══════════ Championship (1 fixture(s) on 2026-09-13) ══════════
+
+Sheffield United vs Wolves  (Referee: R Jones)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: R Jones  (bias x0.86)
+
+BOOKINGS & CARDS
+Home Avg: 1.70/game  |  Away Avg: 1.63/game  |  Combined: 3.32/game
+Total Match Cards:
+  Over 3: 🟢82.3%   Over 4: 🟠61.0%   Over 5: 🔴42.4%   Over 6: 🔴28.2%
+Sheffield United Cards:
+  Over 1: 🟢88.1%   Over 2: 🟠56.4%   Over 3: 🔴29.3%
+Wolves Cards:
+  Over 1: 🟢82.9%   Over 2: 🟠56.2%   Over 3: 🔴31.6%
+
+CORNERS
+Home Avg: 6.22/game  |  Away Avg: 4.50/game  |  Combined: 10.72/game
+  Over 7:  🟢86.8%   Over 8:  🟢82.5%   Over 9:  🟡74.0%   Over 10: 🟡69.1%   Over 11: 🟠57.3%
+
+
 ══════════ Bundesliga (2 fixture(s) on 2026-09-13) ══════════
 
 RB Leipzig vs Hamburg  (Referee: F Badstübner)
