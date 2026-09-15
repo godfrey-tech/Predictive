@@ -1,0 +1,97 @@
+══════════ Premier League (1 fixture(s) on 2026-09-14) — NO REFEREE BIAS ══════════
+
+Leeds vs Newcastle  (Referee bias not applied)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.67/game  |  Away Avg: 1.77/game  |  Combined: 3.44/game  |  H2H Avg: 4.19/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢79.7%   Over 4: 🟠57.2%   Over 5: 🔴31.7%   Over 6: 🔴23.1%
+Leeds Cards:
+  Over 1: 🟢83.6%   Over 2: 🔴47.3%   Over 3: 🔴23.2%
+Newcastle Cards:
+  Over 1: 🟢87.7%   Over 2: 🟠56.1%   Over 3: 🔴25.7%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 5.98/game  |  Combined: 10.48/game  |  H2H Avg: 11.46/game (8 matches)
+  Over 7:  🟢81.2%   Over 8:  🟢78.3%   Over 9:  🟡72.2%   Over 10: 🟠60.4%   Over 11: 🔴48.0%
+
+
+══════════ Championship (0 fixture(s) on 2026-09-14) — NO REFEREE BIAS ══════════
+
+══════════ Bundesliga (0 fixture(s) on 2026-09-14) — NO REFEREE BIAS ══════════
+
+══════════ Ligue 1 (0 fixture(s) on 2026-09-14) — NO REFEREE BIAS ══════════
+
+══════════ Serie A (3 fixture(s) on 2026-09-14) — NO REFEREE BIAS ══════════
+
+Torino vs Roma  (Referee bias not applied)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.87/game  |  Away Avg: 1.81/game  |  Combined: 3.67/game  |  H2H Avg: 3.55/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢75.5%   Over 4: 🟠50.6%   Over 5: 🔴29.6%   Over 6: 🔴15.7%
+Torino Cards:
+  Over 1: 🟢92.5%   Over 2: 🔴49.8%   Over 3: 🔴30.2%
+Roma Cards:
+  Over 1: 🟢87.7%   Over 2: 🟠52.1%   Over 3: 🔴29.2%
+
+CORNERS
+Home Avg: 3.70/game  |  Away Avg: 5.26/game  |  Combined: 8.96/game  |  H2H Avg: 5.20/game (8 matches)
+  Over 7:  🟢76.3%   Over 8:  🟡66.6%   Over 9:  🟠58.7%   Over 10: 🔴42.7%   Over 11: 🔴35.6%
+
+
+Como vs Parma  (Referee bias not applied)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.06/game  |  Away Avg: 1.71/game  |  Combined: 3.77/game
+Total Match Cards:
+  Over 3: 🟡70.7%   Over 4: 🟠59.3%   Over 5: 🔴39.6%   Over 6: 🔴27.0%
+Como Cards:
+  Over 1: 🟢87.5%   Over 2: 🟡65.1%   Over 3: 🔴42.1%
+Parma Cards:
+  Over 1: 🟡74.1%   Over 2: 🟠51.4%   Over 3: 🔴26.4%
+
+CORNERS
+Home Avg: 4.92/game  |  Away Avg: 3.85/game  |  Combined: 8.77/game
+  Over 7:  🟡65.2%   Over 8:  🟠61.1%   Over 9:  🔴44.4%   Over 10: 🔴31.5%   Over 11: 🔴26.2%
+
+
+Inter vs Udinese  (Referee bias not applied)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.71/game  |  Away Avg: 1.92/game  |  Combined: 3.63/game  |  H2H Avg: 1.77/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡67.1%   Over 4: 🔴45.8%   Over 5: 🔴23.5%   Over 6: 🔴13.6%
+Inter Cards:
+  Over 1: 🟢79.7%   Over 2: 🟠50.6%   Over 3: 🔴19.7%
+Udinese Cards:
+  Over 1: 🟢93.7%   Over 2: 🔴49.7%   Over 3: 🔴28.5%
+
+CORNERS
+Home Avg: 5.86/game  |  Away Avg: 4.50/game  |  Combined: 10.36/game  |  H2H Avg: 9.03/game (8 matches)
+  Over 7:  🟢77.6%   Over 8:  🟠63.8%   Over 9:  🟠53.5%   Over 10: 🔴46.8%   Over 11: 🔴39.2%
+
+
+══════════ La Liga (1 fixture(s) on 2026-09-14) — NO REFEREE BIAS ══════════
+
+Villarreal vs Betis  (Referee bias not applied)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.88/game  |  Away Avg: 1.92/game  |  Combined: 3.79/game  |  H2H Avg: 4.69/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡74.6%   Over 4: 🟠57.1%   Over 5: 🔴40.5%   Over 6: 🔴29.5%
+Villarreal Cards:
+  Over 1: 🟢83.1%   Over 2: 🟠57.2%   Over 3: 🔴34.3%
+Betis Cards:
+  Over 1: 🟢82.6%   Over 2: 🔴49.9%   Over 3: 🔴38.8%
+
+CORNERS
+Home Avg: 4.36/game  |  Away Avg: 4.39/game  |  Combined: 8.75/game  |  H2H Avg: 7.02/game (8 matches)
+  Over 7:  🟢90.2%   Over 8:  🟡72.8%   Over 9:  🟠64.9%   Over 10: 🔴49.5%   Over 11: 🔴30.4%
+
+

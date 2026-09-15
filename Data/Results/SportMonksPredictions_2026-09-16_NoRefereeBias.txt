@@ -1,0 +1,80 @@
+══════════ Premier League (0 fixture(s) on 2026-09-16) — NO REFEREE BIAS ══════════
+
+══════════ Championship (0 fixture(s) on 2026-09-16) — NO REFEREE BIAS ══════════
+
+══════════ Bundesliga (0 fixture(s) on 2026-09-16) — NO REFEREE BIAS ══════════
+
+══════════ Ligue 1 (0 fixture(s) on 2026-09-16) — NO REFEREE BIAS ══════════
+
+══════════ Serie A (0 fixture(s) on 2026-09-16) — NO REFEREE BIAS ══════════
+
+══════════ La Liga (4 fixture(s) on 2026-09-16) — NO REFEREE BIAS ══════════
+
+Deportivo A Coruña vs Sevilla  (Referee bias not applied)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 2.86/game  |  Combined: 4.76/game
+Total Match Cards:
+  Over 3: 🟢86.4%   Over 4: 🟡69.3%   Over 5: 🔴44.2%   Over 6: 🔴41.8%
+Deportivo A Coruña Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+Sevilla Cards:
+  Over 1: 🟢100.0%   Over 2: 🟡70.8%   Over 3: 🟠53.4%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.58/game  |  Combined: 9.08/game
+  Over 7:  🟢79.8%   Over 8:  🟠64.9%   Over 9:  🔴47.5%   Over 10: 🔴42.7%   Over 11: 🔴26.6%
+
+
+Ath Madrid vs Osasuna  (Referee bias not applied)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.38/game  |  Away Avg: 2.53/game  |  Combined: 4.91/game  |  H2H Avg: 10.62/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢82.9%   Over 4: 🟠62.3%   Over 5: 🔴40.4%   Over 6: 🔴32.9%
+Ath Madrid Cards:
+  Over 1: 🟢86.1%   Over 2: 🟠61.8%   Over 3: 🔴46.0%
+Osasuna Cards:
+  Over 1: 🟢96.5%   Over 2: 🟢80.9%   Over 3: 🔴38.2%
+
+CORNERS
+Home Avg: 6.30/game  |  Away Avg: 4.20/game  |  Combined: 10.50/game  |  H2H Avg: 10.98/game (8 matches)
+  Over 7:  🟢89.6%   Over 8:  🟢82.1%   Over 9:  🟡65.8%   Over 10: 🟠51.9%   Over 11: 🔴37.6%
+
+
+Levante vs Ath Bilbao  (Referee bias not applied)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.37/game  |  Away Avg: 2.10/game  |  Combined: 4.48/game  |  H2H Avg: 4.37/game (4 matches)
+Total Match Cards:
+  Over 3: 🟢79.8%   Over 4: 🟡65.4%   Over 5: 🟠50.0%   Over 6: 🔴30.2%
+Levante Cards:
+  Over 1: 🟢96.8%   Over 2: 🟢80.0%   Over 3: 🔴43.6%
+Ath Bilbao Cards:
+  Over 1: 🟢78.9%   Over 2: 🟡66.2%   Over 3: 🔴35.5%
+
+CORNERS
+Home Avg: 4.91/game  |  Away Avg: 5.98/game  |  Combined: 10.89/game  |  H2H Avg: 6.63/game (4 matches)
+  Over 7:  🟢78.2%   Over 8:  🟡70.4%   Over 9:  🟠61.1%   Over 10: 🟠50.9%   Over 11: 🔴38.4%
+
+
+Barcelona vs Racing Santander  (Referee bias not applied)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.67/game  |  Away Avg: 1.90/game  |  Combined: 3.57/game
+Total Match Cards:
+  Over 3: 🟢76.4%   Over 4: 🔴49.0%   Over 5: 🔴29.3%   Over 6: 🔴27.0%
+Barcelona Cards:
+  Over 1: 🟢85.5%   Over 2: 🟠57.8%   Over 3: 🔴13.8%
+Racing Santander Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 6.58/game  |  Away Avg: 4.50/game  |  Combined: 11.08/game
+  Over 7:  🟢92.6%   Over 8:  🟢87.6%   Over 9:  🟢82.9%   Over 10: 🟡72.0%   Over 11: 🔴45.8%
+
+

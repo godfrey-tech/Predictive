@@ -1,0 +1,102 @@
+══════════ Premier League (0 fixture(s) on 2026-09-15) ══════════
+
+══════════ Championship (2 fixture(s) on 2026-09-15) ══════════
+
+Bristol City vs Lincoln City  (Referee: T Robinson)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: T Robinson  (bias x1.12)
+
+BOOKINGS & CARDS
+Home Avg: 2.00/game  |  Away Avg: 2.13/game  |  Combined: 4.13/game
+Total Match Cards:
+  Over 3: 🟢78.2%   Over 4: 🟡68.7%   Over 5: 🔴45.4%   Over 6: 🔴25.4%
+Bristol City Cards:
+  Over 1: 🟢81.2%   Over 2: 🟠54.7%   Over 3: 🔴30.7%
+Lincoln City Cards:
+  Over 1: 🟢86.4%   Over 2: 🟠62.7%   Over 3: 🔴37.6%
+
+CORNERS
+Home Avg: 4.58/game  |  Away Avg: 4.50/game  |  Combined: 9.08/game
+  Over 7:  🟢78.1%   Over 8:  🟢77.6%   Over 9:  🟡72.9%   Over 10: 🟠54.8%   Over 11: 🔴41.6%
+
+
+Middlesbrough vs Millwall  (Referee: R Madley)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: R Madley  (bias x1.09)
+
+BOOKINGS & CARDS
+Home Avg: 1.62/game  |  Away Avg: 1.96/game  |  Combined: 3.59/game  |  H2H Avg: 3.11/game (12 matches)
+Total Match Cards:
+  Over 3: 🟡74.1%   Over 4: 🟠50.0%   Over 5: 🔴29.9%   Over 6: 🔴16.6%
+Middlesbrough Cards:
+  Over 1: 🟢76.2%   Over 2: 🔴45.6%   Over 3: 🔴21.3%
+Millwall Cards:
+  Over 1: 🟢91.7%   Over 2: 🟠52.1%   Over 3: 🔴28.7%
+
+CORNERS
+Home Avg: 7.23/game  |  Away Avg: 5.97/game  |  Combined: 13.20/game  |  H2H Avg: 19.87/game (12 matches)
+  Over 7:  🟢93.3%   Over 8:  🟢85.7%   Over 9:  🟢75.3%   Over 10: 🟠59.7%   Over 11: 🟠53.9%
+
+
+══════════ Bundesliga (0 fixture(s) on 2026-09-15) ══════════
+
+══════════ Ligue 1 (0 fixture(s) on 2026-09-15) ══════════
+
+══════════ Serie A (0 fixture(s) on 2026-09-15) ══════════
+
+══════════ La Liga (3 fixture(s) on 2026-09-15) ══════════
+
+Vallecano vs Espanol  (Referee: I Díaz de Mera Escuderos)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: I Díaz de Mera Escuderos  (bias x1.07)
+
+BOOKINGS & CARDS
+Home Avg: 3.13/game  |  Away Avg: 2.94/game  |  Combined: 6.07/game  |  H2H Avg: 8.62/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢79.8%   Over 4: 🟡72.3%   Over 5: 🟠61.0%   Over 6: 🔴47.5%
+Vallecano Cards:
+  Over 1: 🟢93.2%   Over 2: 🟡73.2%   Over 3: 🟠53.8%
+Espanol Cards:
+  Over 1: 🟢90.4%   Over 2: 🟡70.7%   Over 3: 🟠53.8%
+
+CORNERS
+Home Avg: 5.35/game  |  Away Avg: 4.82/game  |  Combined: 10.17/game  |  H2H Avg: 10.22/game (6 matches)
+  Over 7:  🟢86.6%   Over 8:  🟢80.3%   Over 9:  🟡65.6%   Over 10: 🟠59.8%   Over 11: 🟠50.6%
+
+
+Alaves vs Valencia  (Referee: M Sesma Espinosa)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: M Sesma Espinosa  (bias x0.80)
+
+BOOKINGS & CARDS
+Home Avg: 2.20/game  |  Away Avg: 1.51/game  |  Combined: 3.71/game  |  H2H Avg: 5.99/game (5 matches)
+Total Match Cards:
+  Over 3: 🟢77.7%   Over 4: 🟡67.3%   Over 5: 🔴42.1%   Over 6: 🔴28.0%
+Alaves Cards:
+  Over 1: 🟢94.9%   Over 2: 🟡66.1%   Over 3: 🔴39.4%
+Valencia Cards:
+  Over 1: 🟢99.9%   Over 2: 🔴48.3%   Over 3: 🔴19.9%
+
+CORNERS
+Home Avg: 5.11/game  |  Away Avg: 4.97/game  |  Combined: 10.07/game  |  H2H Avg: 10.72/game (5 matches)
+  Over 7:  🟢81.4%   Over 8:  🟡71.2%   Over 9:  🟠61.5%   Over 10: 🟠51.9%   Over 11: 🔴45.0%
+
+
+Elche vs Real Madrid  (Referee: J Gil Manzano)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: J Gil Manzano  (bias x1.17)
+
+BOOKINGS & CARDS
+Home Avg: 2.85/game  |  Away Avg: 2.30/game  |  Combined: 5.14/game  |  H2H Avg: 5.02/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢83.4%   Over 4: 🟡65.3%   Over 5: 🟠51.3%   Over 6: 🔴35.3%
+Elche Cards:
+  Over 1: 🟢95.9%   Over 2: 🟢77.4%   Over 3: 🟠52.9%
+Real Madrid Cards:
+  Over 1: 🟢86.0%   Over 2: 🟠61.8%   Over 3: 🔴23.1%
+
+CORNERS
+Home Avg: 3.92/game  |  Away Avg: 6.16/game  |  Combined: 10.08/game  |  H2H Avg: 9.30/game (6 matches)
+  Over 7:  🟡73.5%   Over 8:  🟡68.1%   Over 9:  🟠59.9%   Over 10: 🔴48.5%   Over 11: 🔴35.2%
+
+

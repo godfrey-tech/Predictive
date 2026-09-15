@@ -28,10 +28,13 @@ var leagues = new List<LeagueConfig>
     new("La Liga", 564, "La Liga"),
 };
 
-// Target date for today's fixture predictions. The accuracy tracker checks
-// *previously logged* predictions against actual results regardless of this value,
-// so this only controls which fixtures get newly predicted/logged this run.
-DateTime targetDate = DateTime.UtcNow.Date;
+// Target date for today's fixture predictions — the user's LOCAL day, not UTC.
+// DateTime.UtcNow.Date lags local date by several hours right after local midnight
+// (e.g. at 00:03 SAST/UTC+2, UTC is still 22:03 the previous day), which would
+// silently generate "today's" predictions for what the user considers yesterday.
+// The accuracy tracker checks *previously logged* predictions regardless of this
+// value, so this only controls which fixtures get newly predicted/logged this run.
+DateTime targetDate = DateTime.Now.Date;
 
 var historicalService = new EPLHistoricalService();
 var smClient = new SportMonksClient();
