@@ -1,0 +1,119 @@
+══════════ Premier League (1 fixture(s) on 2026-09-18) ══════════
+
+Brentford vs Chelsea  (Referee: A Madley)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: A Madley  (bias x0.88)
+
+BOOKINGS & CARDS
+Home Avg: 1.58/game  |  Away Avg: 2.29/game  |  Combined: 3.87/game  |  H2H Avg: 4.40/game (10 matches)
+Total Match Cards:
+  Over 3: 🟡73.8%   Over 4: 🟠63.5%   Over 5: 🔴42.7%   Over 6: 🔴23.5%
+Brentford Cards:
+  Over 1: 🟢83.7%   Over 2: 🟠55.8%   Over 3: 🔴23.9%
+Chelsea Cards:
+  Over 1: 🟢98.2%   Over 2: 🟡73.9%   Over 3: 🔴45.8%
+
+CORNERS
+Home Avg: 4.72/game  |  Away Avg: 6.04/game  |  Combined: 10.76/game  |  H2H Avg: 11.71/game (10 matches)
+  Over 7:  🟢88.6%   Over 8:  🟢77.3%   Over 9:  🟡69.4%   Over 10: 🟠63.9%   Over 11: 🟠55.9%
+
+
+══════════ Championship (1 fixture(s) on 2026-09-18) ══════════
+
+Bristol City vs Watford  (Referee: O Langford)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: O Langford  (bias x0.94)
+
+BOOKINGS & CARDS
+Home Avg: 1.67/game  |  Away Avg: 2.08/game  |  Combined: 3.75/game  |  H2H Avg: 3.88/game (10 matches)
+Total Match Cards:
+  Over 3: 🟢77.9%   Over 4: 🟠61.1%   Over 5: 🔴42.5%   Over 6: 🔴29.7%
+Bristol City Cards:
+  Over 1: 🟢78.3%   Over 2: 🟠50.2%   Over 3: 🔴27.0%
+Watford Cards:
+  Over 1: 🟢96.8%   Over 2: 🟢77.4%   Over 3: 🔴29.4%
+
+CORNERS
+Home Avg: 4.58/game  |  Away Avg: 5.19/game  |  Combined: 9.77/game  |  H2H Avg: 6.96/game (10 matches)
+  Over 7:  🟢81.9%   Over 8:  🟢77.3%   Over 9:  🟡70.7%   Over 10: 🟠55.8%   Over 11: 🔴46.3%
+
+
+══════════ Bundesliga (1 fixture(s) on 2026-09-18) ══════════
+
+Bayern Munich vs Union Berlin  (Referee: B Brand)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: B Brand  (bias x0.96)
+
+BOOKINGS & CARDS
+Home Avg: 1.55/game  |  Away Avg: 1.95/game  |  Combined: 3.50/game  |  H2H Avg: 3.65/game (8 matches)
+Total Match Cards:
+  Over 3: 🟠59.2%   Over 4: 🔴40.6%   Over 5: 🔴28.9%   Over 6: 🔴16.0%
+Bayern Munich Cards:
+  Over 1: 🟡70.7%   Over 2: 🔴43.5%   Over 3: 🔴23.6%
+Union Berlin Cards:
+  Over 1: 🟢86.4%   Over 2: 🟠59.9%   Over 3: 🔴24.8%
+
+CORNERS
+Home Avg: 6.56/game  |  Away Avg: 4.90/game  |  Combined: 11.46/game  |  H2H Avg: 12.46/game (8 matches)
+  Over 7:  🟢90.0%   Over 8:  🟢77.5%   Over 9:  🟠62.2%   Over 10: 🔴49.9%   Over 11: 🔴38.3%
+
+
+══════════ Ligue 1 (1 fixture(s) on 2026-09-18) ══════════
+
+Monaco vs Lens  (Referee: C Turpin)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: C Turpin  (bias x0.81)
+
+BOOKINGS & CARDS
+Home Avg: 1.69/game  |  Away Avg: 1.68/game  |  Combined: 3.37/game  |  H2H Avg: 2.69/game (7 matches)
+Total Match Cards:
+  Over 3: 🟢79.2%   Over 4: 🟠50.1%   Over 5: 🔴34.7%   Over 6: 🔴16.5%
+Monaco Cards:
+  Over 1: 🟢88.3%   Over 2: 🟡65.6%   Over 3: 🔴23.3%
+Lens Cards:
+  Over 1: 🟢77.8%   Over 2: 🟠60.0%   Over 3: 🔴31.6%
+
+CORNERS
+Home Avg: 5.41/game  |  Away Avg: 6.62/game  |  Combined: 12.02/game  |  H2H Avg: 9.01/game (7 matches)
+  Over 7:  🟢84.2%   Over 8:  🟡71.1%   Over 9:  🟠62.0%   Over 10: 🟠53.8%   Over 11: 🔴38.1%
+
+
+══════════ Serie A (1 fixture(s) on 2026-09-18) ══════════
+
+Monza vs Sassuolo  (Referee: D Perenzoni)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: D Perenzoni  (bias x0.91)
+
+BOOKINGS & CARDS
+Home Avg: 1.72/game  |  Away Avg: 2.07/game  |  Combined: 3.79/game  |  H2H Avg: 3.03/game (4 matches)
+Total Match Cards:
+  Over 3: 🟢91.5%   Over 4: 🟡65.8%   Over 5: 🔴42.9%   Over 6: 🔴28.5%
+Monza Cards:
+  Over 1: 🟢83.7%   Over 2: 🟠57.6%   Over 3: 🔴32.8%
+Sassuolo Cards:
+  Over 1: 🟢96.6%   Over 2: 🟡69.8%   Over 3: 🔴39.2%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 3.74/game  |  Combined: 8.24/game  |  H2H Avg: 9.68/game (4 matches)
+  Over 7:  🟢76.3%   Over 8:  🟡66.5%   Over 9:  🟠56.3%   Over 10: 🟠53.2%   Over 11: 🔴39.1%
+
+
+══════════ La Liga (1 fixture(s) on 2026-09-18) ══════════
+
+Espanol vs Elche  (Referee: J González Esteban)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.75/game  |  Away Avg: 2.44/game  |  Combined: 5.19/game  |  H2H Avg: 7.45/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢85.8%   Over 4: 🟡70.9%   Over 5: 🟠56.2%   Over 6: 🔴40.2%
+Espanol Cards:
+  Over 1: 🟢89.8%   Over 2: 🟡69.3%   Over 3: 🟠52.1%
+Elche Cards:
+  Over 1: 🟢95.2%   Over 2: 🟡74.5%   Over 3: 🔴49.1%
+
+CORNERS
+Home Avg: 4.82/game  |  Away Avg: 3.92/game  |  Combined: 8.74/game  |  H2H Avg: 4.55/game (6 matches)
+  Over 7:  🟢75.6%   Over 8:  🟡68.0%   Over 9:  🟠54.8%   Over 10: 🔴45.7%   Over 11: 🔴34.3%
+
+

@@ -1,0 +1,584 @@
+══════════ Premier League (5 fixture(s) on 2026-09-19) ══════════
+
+Tottenham vs Aston Villa  (Referee: S Barrott)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: S Barrott  (bias x1.01)
+
+BOOKINGS & CARDS
+Home Avg: 2.90/game  |  Away Avg: 1.51/game  |  Combined: 4.40/game  |  H2H Avg: 5.52/game (9 matches)
+Total Match Cards:
+  Over 3: 🟢82.9%   Over 4: 🟡69.0%   Over 5: 🔴46.0%   Over 6: 🔴27.9%
+Tottenham Cards:
+  Over 1: 🟢90.3%   Over 2: 🟢86.2%   Over 3: 🟡70.5%
+Aston Villa Cards:
+  Over 1: 🟢79.0%   Over 2: 🟠50.7%   Over 3: 🔴20.1%
+
+CORNERS
+Home Avg: 5.56/game  |  Away Avg: 5.24/game  |  Combined: 10.80/game  |  H2H Avg: 10.61/game (9 matches)
+  Over 7:  🟢89.0%   Over 8:  🟢76.7%   Over 9:  🟠64.5%   Over 10: 🟠57.7%   Over 11: 🔴40.7%
+
+
+Newcastle vs Hull City  (Referee: T Harrington)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: T Harrington  (bias x0.94)
+
+BOOKINGS & CARDS
+Home Avg: 1.66/game  |  Away Avg: 1.79/game  |  Combined: 3.45/game
+Total Match Cards:
+  Over 3: 🟢88.7%   Over 4: 🟡69.5%   Over 5: 🔴35.2%   Over 6: 🔴24.3%
+Newcastle Cards:
+  Over 1: 🟢87.0%   Over 2: 🟠54.6%   Over 3: 🔴24.5%
+Hull City Cards:
+  Over 1: 🟢84.2%   Over 2: 🟠58.5%   Over 3: 🔴33.6%
+
+CORNERS
+Home Avg: 5.98/game  |  Away Avg: 4.50/game  |  Combined: 10.48/game
+  Over 7:  🟢81.3%   Over 8:  🟢76.9%   Over 9:  🟡74.7%   Over 10: 🟠58.9%   Over 11: 🔴46.8%
+
+
+Everton vs Ipswich Town  (Referee: S Attwell)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: S Attwell  (bias x1.13)
+
+BOOKINGS & CARDS
+Home Avg: 2.32/game  |  Away Avg: 2.14/game  |  Combined: 4.46/game
+Total Match Cards:
+  Over 3: 🟠62.7%   Over 4: 🔴47.5%   Over 5: 🔴44.1%   Over 6: 🔴25.0%
+Everton Cards:
+  Over 1: 🟢79.2%   Over 2: 🟢76.0%   Over 3: 🔴37.3%
+Ipswich Town Cards:
+  Over 1: 🟢86.5%   Over 2: 🟠62.9%   Over 3: 🔴37.8%
+
+CORNERS
+Home Avg: 4.21/game  |  Away Avg: 4.50/game  |  Combined: 8.71/game
+  Over 7:  🟢83.3%   Over 8:  🟡68.9%   Over 9:  🟠58.9%   Over 10: 🔴41.4%   Over 11: 🔴37.4%
+
+
+Brighton vs Arsenal  (Referee: D England)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: D England  (bias x1.08)
+
+BOOKINGS & CARDS
+Home Avg: 2.25/game  |  Away Avg: 1.51/game  |  Combined: 3.76/game  |  H2H Avg: 5.37/game (9 matches)
+Total Match Cards:
+  Over 3: 🟡72.5%   Over 4: 🟠53.9%   Over 5: 🔴26.5%   Over 6: 🔴15.0%
+Brighton Cards:
+  Over 1: 🟢85.2%   Over 2: 🟠58.1%   Over 3: 🔴36.0%
+Arsenal Cards:
+  Over 1: 🟢83.1%   Over 2: 🔴38.8%   Over 3: 🔴8.8%
+
+CORNERS
+Home Avg: 4.98/game  |  Away Avg: 5.57/game  |  Combined: 10.54/game  |  H2H Avg: 8.11/game (9 matches)
+  Over 7:  🟢83.2%   Over 8:  🟠62.5%   Over 9:  🟠54.1%   Over 10: 🟠50.4%   Over 11: 🔴41.3%
+
+
+Nott'm Forest vs Coventry City  (Referee: J Gillett)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: J Gillett  (bias x0.95)
+
+BOOKINGS & CARDS
+Home Avg: 1.45/game  |  Away Avg: 1.80/game  |  Combined: 3.25/game
+Total Match Cards:
+  Over 3: 🟠58.4%   Over 4: 🔴39.8%   Over 5: 🔴14.8%   Over 6: 🔴10.1%
+Nott'm Forest Cards:
+  Over 1: 🟢80.8%   Over 2: 🔴39.0%   Over 3: 🔴14.9%
+Coventry City Cards:
+  Over 1: 🟢84.3%   Over 2: 🟠58.7%   Over 3: 🔴33.8%
+
+CORNERS
+Home Avg: 5.11/game  |  Away Avg: 4.50/game  |  Combined: 9.61/game
+  Over 7:  🟢89.6%   Over 8:  🟢85.0%   Over 9:  🟡74.6%   Over 10: 🟠52.4%   Over 11: 🔴39.3%
+
+
+══════════ Championship (9 fixture(s) on 2026-09-19) ══════════
+
+Stoke City vs Sheffield United  (Referee: T Robinson)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: T Robinson  (bias x1.12)
+
+BOOKINGS & CARDS
+Home Avg: 2.13/game  |  Away Avg: 2.22/game  |  Combined: 4.35/game
+Total Match Cards:
+  Over 3: 🟢85.9%   Over 4: 🟡67.2%   Over 5: 🔴49.1%   Over 6: 🔴34.0%
+Stoke City Cards:
+  Over 1: 🟢86.4%   Over 2: 🟠62.7%   Over 3: 🔴37.6%
+Sheffield United Cards:
+  Over 1: 🟢90.6%   Over 2: 🟠63.0%   Over 3: 🔴35.2%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 6.22/game  |  Combined: 10.72/game
+  Over 7:  🟢86.7%   Over 8:  🟢82.4%   Over 9:  🟡73.9%   Over 10: 🟡69.0%   Over 11: 🟠57.2%
+
+
+Millwall vs West Ham  (Referee: P Tierney)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: P Tierney  (bias x0.69)
+
+BOOKINGS & CARDS
+Home Avg: 1.25/game  |  Away Avg: 1.31/game  |  Combined: 2.56/game
+Total Match Cards:
+  Over 3: 🟡68.3%   Over 4: 🔴31.6%   Over 5: 🔴15.3%   Over 6: 🔴7.5%
+Millwall Cards:
+  Over 1: 🟢87.5%   Over 2: 🔴41.0%   Over 3: 🔴20.4%
+West Ham Cards:
+  Over 1: 🟢79.6%   Over 2: 🟠50.8%   Over 3: 🔴27.1%
+
+CORNERS
+Home Avg: 5.98/game  |  Away Avg: 4.50/game  |  Combined: 10.48/game
+  Over 7:  🟢93.1%   Over 8:  🟢80.6%   Over 9:  🟡72.2%   Over 10: 🟠61.3%   Over 11: 🟠57.3%
+
+
+Cardiff City vs Charlton Athletic  (Referee: E Bell)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: E Bell  (bias x1.17)
+
+BOOKINGS & CARDS
+Home Avg: 2.22/game  |  Away Avg: 2.22/game  |  Combined: 4.44/game
+Total Match Cards:
+  Over 3: 🟢78.7%   Over 4: 🟠59.8%   Over 5: 🔴40.7%   Over 6: 🔴24.8%
+Cardiff City Cards:
+  Over 1: 🟢86.9%   Over 2: 🟠63.7%   Over 3: 🔴38.6%
+Charlton Athletic Cards:
+  Over 1: 🟢86.9%   Over 2: 🟠63.7%   Over 3: 🔴38.6%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.50/game  |  Combined: 9.00/game
+  Over 7:  🟢80.0%   Over 8:  🟡69.0%   Over 9:  🟠57.0%   Over 10: 🔴47.0%   Over 11: 🔴38.0%
+
+
+Wrexham vs Southampton  (Referee: G Ward)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: G Ward  (bias x0.93)
+
+BOOKINGS & CARDS
+Home Avg: 1.39/game  |  Away Avg: 1.58/game  |  Combined: 2.97/game
+Total Match Cards:
+  Over 3: 🟡67.9%   Over 4: 🔴49.0%   Over 5: 🔴23.6%   Over 6: 🔴12.0%
+Wrexham Cards:
+  Over 1: 🟡70.3%   Over 2: 🔴42.3%   Over 3: 🔴23.6%
+Southampton Cards:
+  Over 1: 🟢81.8%   Over 2: 🟠50.8%   Over 3: 🔴24.2%
+
+CORNERS
+Home Avg: 4.48/game  |  Away Avg: 5.93/game  |  Combined: 10.41/game
+  Over 7:  🟢92.0%   Over 8:  🟢84.8%   Over 9:  🟡73.3%   Over 10: 🟠57.6%   Over 11: 🔴43.7%
+
+
+Queens Park Rangers vs Preston North End  (Referee: T Parsons)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 1.90/game  |  Combined: 3.80/game
+Total Match Cards:
+  Over 3: 🟢76.0%   Over 4: 🟠56.0%   Over 5: 🔴37.0%   Over 6: 🔴22.0%
+Queens Park Rangers Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+Preston North End Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.50/game  |  Combined: 9.00/game
+  Over 7:  🟢80.0%   Over 8:  🟡69.0%   Over 9:  🟠57.0%   Over 10: 🔴47.0%   Over 11: 🔴38.0%
+
+
+Portsmouth vs Blackburn Rovers  (Referee: J Busby)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: J Busby  (bias x0.95)
+
+BOOKINGS & CARDS
+Home Avg: 1.84/game  |  Away Avg: 1.80/game  |  Combined: 3.64/game
+Total Match Cards:
+  Over 3: 🟡71.8%   Over 4: 🟠52.1%   Over 5: 🔴35.9%   Over 6: 🔴21.3%
+Portsmouth Cards:
+  Over 1: 🟢91.3%   Over 2: 🟡66.1%   Over 3: 🔴20.1%
+Blackburn Rovers Cards:
+  Over 1: 🟢84.3%   Over 2: 🟠58.7%   Over 3: 🔴33.7%
+
+CORNERS
+Home Avg: 5.52/game  |  Away Avg: 4.50/game  |  Combined: 10.02/game
+  Over 7:  🟢82.2%   Over 8:  🟢80.5%   Over 9:  🟢77.9%   Over 10: 🟡66.5%   Over 11: 🟠51.6%
+
+
+Lincoln City vs Swansea City  (Referee: A Backhouse)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: A Backhouse  (bias x1.13)
+
+BOOKINGS & CARDS
+Home Avg: 2.15/game  |  Away Avg: 2.15/game  |  Combined: 4.30/game
+Total Match Cards:
+  Over 3: 🟢78.2%   Over 4: 🟠59.0%   Over 5: 🔴39.9%   Over 6: 🔴24.2%
+Lincoln City Cards:
+  Over 1: 🟢86.5%   Over 2: 🟠62.9%   Over 3: 🔴37.8%
+Swansea City Cards:
+  Over 1: 🟢86.5%   Over 2: 🟠62.9%   Over 3: 🔴37.8%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.50/game  |  Combined: 9.00/game
+  Over 7:  🟢80.0%   Over 8:  🟡69.0%   Over 9:  🟠57.0%   Over 10: 🔴47.0%   Over 11: 🔴38.0%
+
+
+Burnley vs Derby County  (Referee: S Martin)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: S Martin  (bias x1.11)
+
+BOOKINGS & CARDS
+Home Avg: 1.85/game  |  Away Avg: 2.11/game  |  Combined: 3.96/game
+Total Match Cards:
+  Over 3: 🟡69.9%   Over 4: 🟠56.9%   Over 5: 🔴35.8%   Over 6: 🔴31.5%
+Burnley Cards:
+  Over 1: 🟡72.7%   Over 2: 🟠52.9%   Over 3: 🔴34.6%
+Derby County Cards:
+  Over 1: 🟢86.3%   Over 2: 🟠62.5%   Over 3: 🔴37.4%
+
+CORNERS
+Home Avg: 5.10/game  |  Away Avg: 4.50/game  |  Combined: 9.60/game
+  Over 7:  🟢76.3%   Over 8:  🟡69.5%   Over 9:  🔴47.9%   Over 10: 🔴42.1%   Over 11: 🔴30.8%
+
+
+Birmingham City vs Middlesbrough  (Referee: D Webb)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: D Webb  (bias x0.70)
+
+BOOKINGS & CARDS
+Home Avg: 1.33/game  |  Away Avg: 1.05/game  |  Combined: 2.38/game
+Total Match Cards:
+  Over 3: 🟠58.3%   Over 4: 🔴45.4%   Over 5: 🔴27.4%   Over 6: 🔴15.2%
+Birmingham City Cards:
+  Over 1: 🟢79.9%   Over 2: 🟠51.3%   Over 3: 🔴27.4%
+Middlesbrough Cards:
+  Over 1: 🟡67.3%   Over 2: 🔴34.9%   Over 3: 🔴14.9%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 7.24/game  |  Combined: 11.74/game
+  Over 7:  🟢93.7%   Over 8:  🟢91.2%   Over 9:  🟢79.4%   Over 10: 🟠59.8%   Over 11: 🟠52.4%
+
+
+══════════ Bundesliga (5 fixture(s) on 2026-09-19) ══════════
+
+Werder Bremen vs Augsburg  (Referee: B Dankert)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: B Dankert  (bias x0.82)
+
+BOOKINGS & CARDS
+Home Avg: 1.78/game  |  Away Avg: 1.75/game  |  Combined: 3.52/game  |  H2H Avg: 2.72/game (6 matches)
+Total Match Cards:
+  Over 3: 🟡69.1%   Over 4: 🟠53.7%   Over 5: 🔴29.9%   Over 6: 🔴18.3%
+Werder Bremen Cards:
+  Over 1: 🟢78.4%   Over 2: 🟠55.9%   Over 3: 🔴41.0%
+Augsburg Cards:
+  Over 1: 🟢92.9%   Over 2: 🔴49.1%   Over 3: 🔴33.8%
+
+CORNERS
+Home Avg: 4.63/game  |  Away Avg: 4.68/game  |  Combined: 9.31/game  |  H2H Avg: 11.84/game (6 matches)
+  Over 7:  🟢76.8%   Over 8:  🟡72.3%   Over 9:  🟡66.4%   Over 10: 🟠59.2%   Over 11: 🔴46.4%
+
+
+Hamburg vs FC Koln  (Referee: M Jöllenbeck)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: M Jöllenbeck  (bias x1.06)
+
+BOOKINGS & CARDS
+Home Avg: 2.51/game  |  Away Avg: 2.20/game  |  Combined: 4.71/game
+Total Match Cards:
+  Over 3: 🟢86.8%   Over 4: 🟡66.1%   Over 5: 🟠53.3%   Over 6: 🔴32.5%
+Hamburg Cards:
+  Over 1: 🟢94.5%   Over 2: 🟡72.2%   Over 3: 🔴41.6%
+FC Koln Cards:
+  Over 1: 🟢94.1%   Over 2: 🟠53.2%   Over 3: 🔴29.6%
+
+CORNERS
+Home Avg: 3.61/game  |  Away Avg: 4.85/game  |  Combined: 8.46/game
+  Over 7:  🟢91.3%   Over 8:  🟢77.3%   Over 9:  🟡67.9%   Over 10: 🟠55.8%   Over 11: 🔴37.1%
+
+
+M'gladbach vs Mainz  (Referee: R Hartmann)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: R Hartmann  (bias x0.94)
+
+BOOKINGS & CARDS
+Home Avg: 2.07/game  |  Away Avg: 1.76/game  |  Combined: 3.83/game  |  H2H Avg: 5.60/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢80.7%   Over 4: 🟠56.6%   Over 5: 🔴32.7%   Over 6: 🔴14.9%
+M'gladbach Cards:
+  Over 1: 🟢90.0%   Over 2: 🟠59.4%   Over 3: 🔴34.1%
+Mainz Cards:
+  Over 1: 🟢93.3%   Over 2: 🟠54.6%   Over 3: 🔴22.7%
+
+CORNERS
+Home Avg: 3.14/game  |  Away Avg: 5.02/game  |  Combined: 8.16/game  |  H2H Avg: 8.11/game (8 matches)
+  Over 7:  🟡74.9%   Over 8:  🟡71.1%   Over 9:  🟠54.4%   Over 10: 🔴42.6%   Over 11: 🔴31.0%
+
+
+Ein Frankfurt vs Freiburg  (Referee: S Storks)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: S Storks  (bias x1.24)
+
+BOOKINGS & CARDS
+Home Avg: 2.50/game  |  Away Avg: 1.86/game  |  Combined: 4.35/game  |  H2H Avg: 4.38/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢77.9%   Over 4: 🟠52.2%   Over 5: 🔴35.4%   Over 6: 🔴20.2%
+Ein Frankfurt Cards:
+  Over 1: 🟢82.3%   Over 2: 🟠58.7%   Over 3: 🔴37.0%
+Freiburg Cards:
+  Over 1: 🟢83.4%   Over 2: 🔴46.9%   Over 3: 🔴28.3%
+
+CORNERS
+Home Avg: 4.84/game  |  Away Avg: 3.74/game  |  Combined: 8.58/game  |  H2H Avg: 9.15/game (8 matches)
+  Over 7:  🟢77.2%   Over 8:  🟡71.0%   Over 9:  🟠51.2%   Over 10: 🔴44.6%   Over 11: 🔴30.8%
+
+
+Stuttgart vs Dortmund  (Referee: T Stieler)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: T Stieler  (bias x0.89)
+
+BOOKINGS & CARDS
+Home Avg: 1.65/game  |  Away Avg: 1.69/game  |  Combined: 3.34/game  |  H2H Avg: 4.38/game (8 matches)
+Total Match Cards:
+  Over 3: 🟠63.1%   Over 4: 🔴41.5%   Over 5: 🔴27.8%   Over 6: 🔴11.5%
+Stuttgart Cards:
+  Over 1: 🟢84.4%   Over 2: 🟠64.9%   Over 3: 🔴23.0%
+Dortmund Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠50.4%   Over 3: 🔴37.3%
+
+CORNERS
+Home Avg: 5.86/game  |  Away Avg: 5.22/game  |  Combined: 11.08/game  |  H2H Avg: 6.75/game (8 matches)
+  Over 7:  🟢87.6%   Over 8:  🟡70.7%   Over 9:  🟠60.8%   Over 10: 🔴49.6%   Over 11: 🔴36.3%
+
+
+══════════ Ligue 1 (5 fixture(s) on 2026-09-19) ══════════
+
+Paris FC vs Strasbourg  (Referee: J Stinat)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: J Stinat  (bias x1.04)
+
+BOOKINGS & CARDS
+Home Avg: 2.47/game  |  Away Avg: 1.68/game  |  Combined: 4.15/game
+Total Match Cards:
+  Over 3: 🟡70.4%   Over 4: 🔴43.9%   Over 5: 🔴24.0%   Over 6: 🔴16.5%
+Paris FC Cards:
+  Over 1: 🟢87.8%   Over 2: 🟡68.8%   Over 3: 🔴27.3%
+Strasbourg Cards:
+  Over 1: 🟢88.4%   Over 2: 🟠52.8%   Over 3: 🔴13.5%
+
+CORNERS
+Home Avg: 4.34/game  |  Away Avg: 4.50/game  |  Combined: 8.84/game
+  Over 7:  🟢79.1%   Over 8:  🟢75.3%   Over 9:  🟡70.8%   Over 10: 🟠60.1%   Over 11: 🔴40.0%
+
+
+Toulouse vs Le Havre  (Referee: H Ben El Hadj)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: H Ben El Hadj  (bias x1.01)
+
+BOOKINGS & CARDS
+Home Avg: 2.50/game  |  Away Avg: 2.17/game  |  Combined: 4.67/game  |  H2H Avg: 5.10/game (4 matches)
+Total Match Cards:
+  Over 3: 🟢85.6%   Over 4: 🟠63.5%   Over 5: 🔴42.1%   Over 6: 🔴18.5%
+Toulouse Cards:
+  Over 1: 🟢92.4%   Over 2: 🟡70.2%   Over 3: 🔴49.4%
+Le Havre Cards:
+  Over 1: 🟢95.2%   Over 2: 🟠64.5%   Over 3: 🔴39.5%
+
+CORNERS
+Home Avg: 4.13/game  |  Away Avg: 4.04/game  |  Combined: 8.17/game  |  H2H Avg: 11.29/game (4 matches)
+  Over 7:  🟡68.1%   Over 8:  🟠53.9%   Over 9:  🔴48.6%   Over 10: 🔴44.5%   Over 11: 🔴34.6%
+
+
+Lyon vs Rennes  (Referee: M Vernice)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: M Vernice  (bias x1.12)
+
+BOOKINGS & CARDS
+Home Avg: 2.02/game  |  Away Avg: 1.90/game  |  Combined: 3.92/game  |  H2H Avg: 3.67/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢82.2%   Over 4: 🟠65.0%   Over 5: 🔴49.9%   Over 6: 🔴23.6%
+Lyon Cards:
+  Over 1: 🟢85.3%   Over 2: 🟠60.9%   Over 3: 🔴30.3%
+Rennes Cards:
+  Over 1: 🟢83.1%   Over 2: 🟠50.7%   Over 3: 🔴29.3%
+
+CORNERS
+Home Avg: 6.23/game  |  Away Avg: 6.57/game  |  Combined: 12.81/game  |  H2H Avg: 11.56/game (8 matches)
+  Over 7:  🟢92.6%   Over 8:  🟢84.3%   Over 9:  🟢75.6%   Over 10: 🟠61.8%   Over 11: 🔴42.4%
+
+
+Le Mans vs Lorient  (Referee: G Kubler)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.90/game  |  Away Avg: 1.41/game  |  Combined: 3.31/game
+Total Match Cards:
+  Over 3: 🟡74.0%   Over 4: 🔴46.7%   Over 5: 🔴33.4%   Over 6: 🔴8.0%
+Le Mans Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+Lorient Cards:
+  Over 1: 🟢76.0%   Over 2: 🔴40.2%   Over 3: 🔴16.2%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 3.78/game  |  Combined: 8.28/game
+  Over 7:  🟡73.5%   Over 8:  🟡68.1%   Over 9:  🟠55.7%   Over 10: 🟠54.8%   Over 11: 🔴37.9%
+
+
+Angers vs Troyes  (Referee: A Souifi)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 1.65/game  |  Away Avg: 1.90/game  |  Combined: 3.55/game  |  H2H Avg: 2.51/game (4 matches)
+Total Match Cards:
+  Over 3: 🟠60.5%   Over 4: 🔴40.7%   Over 5: 🔴17.8%   Over 6: 🔴6.1%
+Angers Cards:
+  Over 1: 🟢84.2%   Over 2: 🔴44.9%   Over 3: 🔴24.1%
+Troyes Cards:
+  Over 1: 🟢85.0%   Over 2: 🟠60.0%   Over 3: 🔴35.0%
+
+CORNERS
+Home Avg: 3.48/game  |  Away Avg: 4.50/game  |  Combined: 7.98/game  |  H2H Avg: 16.09/game (4 matches)
+  Over 7:  🟢82.3%   Over 8:  🟠62.5%   Over 9:  🟠52.1%   Over 10: 🔴37.5%   Over 11: 🔴19.4%
+
+
+══════════ Serie A (4 fixture(s) on 2026-09-19) ══════════
+
+Udinese vs Cagliari  (Referee: G Manganiello)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: G Manganiello  (bias x0.85)
+
+BOOKINGS & CARDS
+Home Avg: 1.64/game  |  Away Avg: 1.66/game  |  Combined: 3.31/game  |  H2H Avg: 1.85/game (6 matches)
+Total Match Cards:
+  Over 3: 🟠62.5%   Over 4: 🔴48.2%   Over 5: 🔴25.0%   Over 6: 🔴15.3%
+Udinese Cards:
+  Over 1: 🟢92.7%   Over 2: 🔴45.8%   Over 3: 🔴25.4%
+Cagliari Cards:
+  Over 1: 🟢77.3%   Over 2: 🟠51.6%   Over 3: 🔴27.5%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.20/game  |  Combined: 8.70/game  |  H2H Avg: 11.51/game (6 matches)
+  Over 7:  🟢79.4%   Over 8:  🟡68.6%   Over 9:  🟠57.0%   Over 10: 🔴39.4%   Over 11: 🔴28.4%
+
+
+Bologna vs Torino  (Referee: M Guida)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: M Guida  (bias x1.03)
+
+BOOKINGS & CARDS
+Home Avg: 1.78/game  |  Away Avg: 1.92/game  |  Combined: 3.69/game  |  H2H Avg: 4.42/game (8 matches)
+Total Match Cards:
+  Over 3: 🟡67.0%   Over 4: 🔴37.3%   Over 5: 🔴27.3%   Over 6: 🔴14.8%
+Bologna Cards:
+  Over 1: 🟢75.6%   Over 2: 🟠52.2%   Over 3: 🔴28.6%
+Torino Cards:
+  Over 1: 🟢92.7%   Over 2: 🟠50.5%   Over 3: 🔴30.8%
+
+CORNERS
+Home Avg: 4.16/game  |  Away Avg: 3.70/game  |  Combined: 7.86/game  |  H2H Avg: 6.00/game (8 matches)
+  Over 7:  🟡73.5%   Over 8:  🟠59.5%   Over 9:  🟠50.5%   Over 10: 🔴36.9%   Over 11: 🔴30.0%
+
+
+Roma vs Inter  (Referee: D Massa)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: D Massa  (bias x1.21)
+
+BOOKINGS & CARDS
+Home Avg: 2.19/game  |  Away Avg: 2.07/game  |  Combined: 4.26/game  |  H2H Avg: 2.77/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢77.9%   Over 4: 🟠55.1%   Over 5: 🔴32.3%   Over 6: 🔴20.4%
+Roma Cards:
+  Over 1: 🟢89.6%   Over 2: 🟠56.8%   Over 3: 🔴33.3%
+Inter Cards:
+  Over 1: 🟢82.6%   Over 2: 🟠55.4%   Over 3: 🔴22.9%
+
+CORNERS
+Home Avg: 5.26/game  |  Away Avg: 5.86/game  |  Combined: 11.11/game  |  H2H Avg: 10.57/game (8 matches)
+  Over 7:  🟡74.1%   Over 8:  🟡65.5%   Over 9:  🟠56.2%   Over 10: 🔴46.4%   Over 11: 🔴40.2%
+
+
+Venezia vs Lazio  (Referee: S Sozza)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: S Sozza  (bias x0.99)
+
+BOOKINGS & CARDS
+Home Avg: 1.89/game  |  Away Avg: 2.33/game  |  Combined: 4.22/game
+Total Match Cards:
+  Over 3: 🟢89.8%   Over 4: 🟡69.4%   Over 5: 🔴45.9%   Over 6: 🔴26.7%
+Venezia Cards:
+  Over 1: 🟢84.9%   Over 2: 🟠59.8%   Over 3: 🔴34.8%
+Lazio Cards:
+  Over 1: 🟢93.2%   Over 2: 🟡70.5%   Over 3: 🔴43.6%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 3.79/game  |  Combined: 8.29/game
+  Over 7:  🟠64.4%   Over 8:  🟠59.7%   Over 9:  🟠51.1%   Over 10: 🔴31.4%   Over 11: 🔴21.6%
+
+
+══════════ La Liga (4 fixture(s) on 2026-09-19) ══════════
+
+Osasuna vs Vallecano  (Referee: M Orellana Cid)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+
+BOOKINGS & CARDS
+Home Avg: 2.53/game  |  Away Avg: 2.93/game  |  Combined: 5.46/game  |  H2H Avg: 4.27/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢89.0%   Over 4: 🟡72.4%   Over 5: 🟠55.4%   Over 6: 🔴44.5%
+Osasuna Cards:
+  Over 1: 🟢96.5%   Over 2: 🟢80.9%   Over 3: 🔴38.2%
+Vallecano Cards:
+  Over 1: 🟢92.8%   Over 2: 🟡71.8%   Over 3: 🟠52.1%
+
+CORNERS
+Home Avg: 4.20/game  |  Away Avg: 5.35/game  |  Combined: 9.55/game  |  H2H Avg: 7.53/game (8 matches)
+  Over 7:  🟢85.3%   Over 8:  🟢82.4%   Over 9:  🟡65.8%   Over 10: 🟠54.2%   Over 11: 🔴41.0%
+
+
+Ath Bilbao vs Alaves  (Referee: V García Verdura)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: V García Verdura  (bias x0.89)
+
+BOOKINGS & CARDS
+Home Avg: 1.86/game  |  Away Avg: 2.43/game  |  Combined: 4.29/game  |  H2H Avg: 6.96/game (6 matches)
+Total Match Cards:
+  Over 3: 🟢75.0%   Over 4: 🟠63.6%   Over 5: 🔴45.2%   Over 6: 🔴28.7%
+Ath Bilbao Cards:
+  Over 1: 🟢76.9%   Over 2: 🟠63.5%   Over 3: 🔴32.8%
+Alaves Cards:
+  Over 1: 🟢95.3%   Over 2: 🟡68.3%   Over 3: 🔴41.8%
+
+CORNERS
+Home Avg: 5.98/game  |  Away Avg: 5.11/game  |  Combined: 11.08/game  |  H2H Avg: 11.14/game (6 matches)
+  Over 7:  🟢81.4%   Over 8:  🟡66.7%   Over 9:  🟠62.8%   Over 10: 🟠52.4%   Over 11: 🔴42.0%
+
+
+Celta vs Racing Santander  (Referee: R De Burgos Bengoetxea)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: R De Burgos Bengoetxea  (bias x0.82)
+
+BOOKINGS & CARDS
+Home Avg: 1.58/game  |  Away Avg: 1.56/game  |  Combined: 3.13/game
+Total Match Cards:
+  Over 3: 🟢75.6%   Over 4: 🔴45.8%   Over 5: 🔴23.9%   Over 6: 🔴17.6%
+Celta Cards:
+  Over 1: 🟢89.1%   Over 2: 🟠50.5%   Over 3: 🔴22.3%
+Racing Santander Cards:
+  Over 1: 🟢82.3%   Over 2: 🟠55.1%   Over 3: 🔴30.6%
+
+CORNERS
+Home Avg: 3.42/game  |  Away Avg: 4.50/game  |  Combined: 7.92/game
+  Over 7:  🟡67.9%   Over 8:  🔴47.3%   Over 9:  🔴32.0%   Over 10: 🔴25.3%   Over 11: 🔴17.2%
+
+
+Sevilla vs Barcelona  (Referee: J Martínez Munuera)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: J Martínez Munuera  (bias x1.06)
+
+BOOKINGS & CARDS
+Home Avg: 3.04/game  |  Away Avg: 1.77/game  |  Combined: 4.81/game  |  H2H Avg: 3.69/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢83.7%   Over 4: 🟠61.6%   Over 5: 🔴38.6%   Over 6: 🔴36.1%
+Sevilla Cards:
+  Over 1: 🟢99.9%   Over 2: 🟡72.1%   Over 3: 🟠54.9%
+Barcelona Cards:
+  Over 1: 🟢86.3%   Over 2: 🟠59.3%   Over 3: 🔴14.6%
+
+CORNERS
+Home Avg: 4.58/game  |  Away Avg: 6.58/game  |  Combined: 11.16/game  |  H2H Avg: 8.37/game (8 matches)
+  Over 7:  🟢85.8%   Over 8:  🟢77.5%   Over 9:  🟡66.1%   Over 10: 🟠58.1%   Over 11: 🔴36.5%
+
+

@@ -1,0 +1,48 @@
+══════════ Premier League (0 fixture(s) on 2026-09-17) ══════════
+
+══════════ Championship (0 fixture(s) on 2026-09-17) ══════════
+
+══════════ Bundesliga (0 fixture(s) on 2026-09-17) ══════════
+
+══════════ Ligue 1 (0 fixture(s) on 2026-09-17) ══════════
+
+══════════ Serie A (0 fixture(s) on 2026-09-17) ══════════
+
+══════════ La Liga (2 fixture(s) on 2026-09-17) ══════════
+
+Betis vs Getafe  (Referee: J Sánchez Martínez)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: J Sánchez Martínez  (bias x1.05)
+
+BOOKINGS & CARDS
+Home Avg: 2.01/game  |  Away Avg: 3.42/game  |  Combined: 5.43/game  |  H2H Avg: 3.76/game (8 matches)
+Total Match Cards:
+  Over 3: 🟢86.6%   Over 4: 🟡72.7%   Over 5: 🟠58.1%   Over 6: 🔴46.3%
+Betis Cards:
+  Over 1: 🟢83.3%   Over 2: 🟠51.0%   Over 3: 🔴39.9%
+Getafe Cards:
+  Over 1: 🟢99.3%   Over 2: 🟢88.2%   Over 3: 🟠59.3%
+
+CORNERS
+Home Avg: 4.39/game  |  Away Avg: 4.02/game  |  Combined: 8.41/game  |  H2H Avg: 11.35/game (8 matches)
+  Over 7:  🟢79.1%   Over 8:  🟠62.9%   Over 9:  🟠54.9%   Over 10: 🔴39.0%   Over 11: 🔴24.7%
+
+
+Málaga vs Villarreal  (Referee: M Ortiz Arias)
+🟢 STRONG(>=75%)  🟡 MODERATE(65-74%)  🟠 BORDERLINE(50-64%)  🔴 WEAK(<50%)
+Referee: M Ortiz Arias  (bias x0.89)
+
+BOOKINGS & CARDS
+Home Avg: 1.69/game  |  Away Avg: 1.67/game  |  Combined: 3.36/game
+Total Match Cards:
+  Over 3: 🟡70.4%   Over 4: 🔴49.7%   Over 5: 🔴33.7%   Over 6: 🔴22.7%
+Málaga Cards:
+  Over 1: 🟢83.5%   Over 2: 🟠57.2%   Over 3: 🔴32.4%
+Villarreal Cards:
+  Over 1: 🟢81.4%   Over 2: 🟠54.4%   Over 3: 🔴31.7%
+
+CORNERS
+Home Avg: 4.50/game  |  Away Avg: 4.36/game  |  Combined: 8.86/game
+  Over 7:  🟢86.3%   Over 8:  🟡72.3%   Over 9:  🟠64.9%   Over 10: 🟠52.1%   Over 11: 🔴31.0%
+
+
