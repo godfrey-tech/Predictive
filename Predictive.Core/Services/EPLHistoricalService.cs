@@ -178,7 +178,25 @@ namespace ConsoleApp1.Services
                     }
 
                     var headerRecord = csv.Context.Reader.HeaderRecord;
-                    if (headerRecord.Count() == 120 || headerRecord.Count() == 122 || headerRecord.Count() == 121 || headerRecord.Count() == 131 || headerRecord.Count() == 132)
+                    if (headerRecord.Count() == 114)
+                    {
+                        // 2026-27 season schema (English leagues, has Referee) — see
+                        // MatchMapCurrentSeasonEnglish for what football-data.co.uk
+                        // changed. Previously fell through to "Unrecognized CSV
+                        // format" entirely, silently excluding the current season
+                        // from every calculation (discovered 2026-09-19).
+                        csv.Context.RegisterClassMap<MatchMapCurrentSeasonEnglish>();
+                        var currentSeasonMatches = csv.GetRecords<HistoricalMatchFromCSVFile>().ToList();
+                        _historicalMatchFromCSVFile.AddRange(currentSeasonMatches);
+                    }
+                    else if (headerRecord.Count() == 113)
+                    {
+                        // Same 2026-27 schema change, continental leagues (no Referee).
+                        csv.Context.RegisterClassMap<MatchMapCurrentSeasonContinental>();
+                        var currentSeasonMatches = csv.GetRecords<HistoricalMatchFromCSVFile>().ToList();
+                        _historicalMatchFromCSVFile.AddRange(currentSeasonMatches);
+                    }
+                    else if (headerRecord.Count() == 120 || headerRecord.Count() == 122 || headerRecord.Count() == 121 || headerRecord.Count() == 131 || headerRecord.Count() == 132)
                     {
                         csv.Context.RegisterClassMap<MatchMapFiveth>();
                         var matsches = csv.GetRecords<HistoricalMatchFromCSVFileFiveth>().ToList();
@@ -330,7 +348,25 @@ namespace ConsoleApp1.Services
                     }
 
                     var headerRecord = csv.Context.Reader.HeaderRecord;
-                    if (headerRecord.Count() == 120 || headerRecord.Count() == 122 || headerRecord.Count() == 121 || headerRecord.Count() == 131 || headerRecord.Count() == 132)
+                    if (headerRecord.Count() == 114)
+                    {
+                        // 2026-27 season schema (English leagues, has Referee) — see
+                        // MatchMapCurrentSeasonEnglish for what football-data.co.uk
+                        // changed. Previously fell through to "Unrecognized CSV
+                        // format" entirely, silently excluding the current season
+                        // from every calculation (discovered 2026-09-19).
+                        csv.Context.RegisterClassMap<MatchMapCurrentSeasonEnglish>();
+                        var currentSeasonMatches = csv.GetRecords<HistoricalMatchFromCSVFile>().ToList();
+                        _historicalMatchFromCSVFile.AddRange(currentSeasonMatches);
+                    }
+                    else if (headerRecord.Count() == 113)
+                    {
+                        // Same 2026-27 schema change, continental leagues (no Referee).
+                        csv.Context.RegisterClassMap<MatchMapCurrentSeasonContinental>();
+                        var currentSeasonMatches = csv.GetRecords<HistoricalMatchFromCSVFile>().ToList();
+                        _historicalMatchFromCSVFile.AddRange(currentSeasonMatches);
+                    }
+                    else if (headerRecord.Count() == 120 || headerRecord.Count() == 122 || headerRecord.Count() == 121 || headerRecord.Count() == 131 || headerRecord.Count() == 132)
                     {
                         csv.Context.RegisterClassMap<MatchMapFiveth>();
                         var matsches = csv.GetRecords<HistoricalMatchFromCSVFileFiveth>().ToList();

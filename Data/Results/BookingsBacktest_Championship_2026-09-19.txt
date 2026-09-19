@@ -1,0 +1,54 @@
+══════════ Championship: FULL SEASON ══════════
+══════════════════════════════════════════════════════════════
+  BOOKINGS CONFIDENCE CALIBRATION REPORT
+══════════════════════════════════════════════════════════════
+  Period:    2022-08-01  →  2025-06-01
+  Matches:   2185
+
+  Market            |    n | RawPred% | Actual% | Miscalib | Calibrated%
+  ────────────────────────────────────────────────────────────────────
+  AwayCardsOver1     | 2185 |    87.6% |   90.3% |     0.03 |       90.3%
+  AwayCardsOver2     | 2185 |    60.6% |   65.4% |     0.05 |       65.4%
+  AwayCardsOver3     | 2185 |    32.3% |   36.7% |     0.04 |       36.7%
+  HomeCardsOver1     | 2185 |    87.9% |   83.9% |    -0.04 |       83.9%
+  HomeCardsOver2     | 2185 |    61.0% |   53.5% |    -0.08 |       53.5%
+  HomeCardsOver3     | 2185 |    32.9% |   26.1% |    -0.07 |       26.1%
+  TotalCardsOver3    | 2185 |    77.0% |   75.2% |    -0.02 |       75.3%
+  TotalCardsOver4    | 2185 |    57.4% |   55.9% |    -0.02 |       55.9%
+  TotalCardsOver5    | 2185 |    37.9% |   36.2% |    -0.02 |       36.2%
+  TotalCardsOver6    | 2185 |    20.9% |   20.0% |    -0.01 |       20.1%
+
+  NOTE: RawPred% is the engine's uncalibrated hit-rate average;
+        Actual% is what really happened; Miscalibration close to
+        0 means the raw rate is already trustworthy. Calibrated%
+        is what the fitted calibrator now outputs for that same
+        sample — it should track Actual% far more closely.
+══════════════════════════════════════════════════════════════
+
+══════════ Championship: FIRST 30 DAYS OF SEASON ONLY ══════════
+══════════════════════════════════════════════════════════════
+  BOOKINGS CONFIDENCE CALIBRATION REPORT
+══════════════════════════════════════════════════════════════
+  Period:    2022-08-01  →  2025-06-01
+  Filter:    only matches within 30 days of that season's Aug 1 start
+  Matches:   212
+
+  Market            |    n | RawPred% | Actual% | Miscalib | Calibrated%
+  ────────────────────────────────────────────────────────────────────
+  AwayCardsOver1     |  212 |    84.9% |   95.3% |     0.10 |       95.3%
+  AwayCardsOver2     |  212 |    58.1% |   70.8% |     0.13 |       70.7%
+  AwayCardsOver3     |  212 |    29.5% |   44.8% |     0.15 |       44.8%
+  HomeCardsOver1     |  212 |    86.0% |   87.7% |     0.02 |       87.6%
+  HomeCardsOver2     |  212 |    59.2% |   60.8% |     0.02 |       60.8%
+  HomeCardsOver3     |  212 |    33.0% |   27.4% |    -0.06 |       27.4%
+  TotalCardsOver3    |  212 |    75.1% |   85.8% |     0.11 |       85.8%
+  TotalCardsOver4    |  212 |    55.5% |   66.5% |     0.11 |       66.6%
+  TotalCardsOver5    |  212 |    36.8% |   44.8% |     0.08 |       44.9%
+  TotalCardsOver6    |  212 |    20.6% |   21.2% |     0.01 |       21.3%
+
+  NOTE: RawPred% is the engine's uncalibrated hit-rate average;
+        Actual% is what really happened; Miscalibration close to
+        0 means the raw rate is already trustworthy. Calibrated%
+        is what the fitted calibrator now outputs for that same
+        sample — it should track Actual% far more closely.
+══════════════════════════════════════════════════════════════
